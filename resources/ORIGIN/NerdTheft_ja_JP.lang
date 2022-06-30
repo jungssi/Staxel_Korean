@@ -1,0 +1,8 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+//[Reference] 'They're saying there's a thief in town!'
+staxel.village.dialogue.NerdTheft.line:10000100=町に泥棒が現れたらしいよ！
+//[Reference] 'If only superheroes were real...'
+staxel.village.dialogue.NerdTheft.line:10000200=スーパーヒーローが実在していたらなぁ…

@@ -1,0 +1,156 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Supposedly an achievement is meant to be its own reward, but I personally like it when there's a little something more to sweeten the deal.\nCome see me every now and again and I'll check on what you achieved to see if there's anything really special you deserve to be rewarded for!\n\n^c:1486b0;Farm Fan^c:pop;'
+staxel.mail.AchievementReward=実績はそれ自体が報酬だと思うんだけど、個人的にはもっと他にあま～いご褒美をあげたくなるのよね。\n時々私のところに会いに来てね。本当に特別な報酬を受けるに値するかどうか、あなたの功績をチェックしてあげる！\n\n^c:1486b0;ファームファン^c:pop;より
+//[Reference] 'Re:Achievements'
+staxel.mail.AchievementReward.subject=Re:実績
+//[Reference] 'Hello, ^c:1486b0;$playername;^c:pop;!\n\nIt sounds like you've been getting on very well with some of the people around here! Perhaps it's time for you to take things to the next level... By that, of course, I mean becoming roomies!\n\nI've included a small package with this mail. You'll find a ^c:d03e37;farmhouse signpost^c:pop; and a ^c:d03e37;friendship bracelet^c:pop; attached. The whole thing works quite simply: all you need to do is set up the ^c:d03e37;signpost^c:pop; in front of your home, like you would any other structure. Then, when you ^c:1486b0;gift^c:pop; the ^c:d03e37;friendship bracelet^c:pop; to your new best friend, they'll have somewhere to move in!\n\nBest of luck!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
+staxel.mail.BestFriendOptions=こんにちは、^c:1486b0;$playername;^c:pop;！\n\nここの人たちとは仲良くやれているみたいですね！そろそろ次の段階に進む時ではないでしょうか…それはつまり、ルームメイトになるということです！\n\nこの手紙に小包を同梱しました。^c:d03e37;農家の看板^c:pop;と^c:d03e37;友情のブレスレット^c:pop;が添付されていると思います。機能はとてもシンプルです：他の建物と同様に、^c:d03e37;看板^c:pop;をあなたの家の前に設置するだけです。それから、新しい親友に^c:d03e37;友情のブレスレット^c:pop;を^c:1486b0;プレゼント^c:pop;すれば、家に越してくるはずです！\n\n幸運を祈ります！\n\n^c:1486b0;マクシミリアン^c:pop;より\n町長のオフィスから
+//[Reference] 'You've got friends!'
+staxel.mail.BestFriendOptions.subject=友達ができましたね！
+//[Reference] 'Greetings!\n\nI wanted to extend my thanks to you, ^c:1486b0;$playername;^c:pop;, for erecting a suitable house for me in the village. It's been a few decades since my family left our ancestral home, but for various reasons, I have decided to move my lab back to somewhere more remote. Entirely normal reasons, I assure you.\n\nWould you be interested in a possible research position? I'm certain we could come to some sort of arrangement we would both find agreeable. I do imagine I will call upon you to help out with a few of my experiments—in a safe and controlled manner, of course.\n\nRegards,\n^c:1486b0;Cecile^c:pop;'
+staxel.mail.CecileArrival=前略！\n\nあなたに感謝を伝えたかったの、^c:1486b0;$playername;^c:pop;、この村に私にぴったりの家を建ててくれたことにね。私の家族が先祖代々の土地を離れてから何十年にもなるけど、いろんな事情があって、研究室をもっと遠くへ移すことに決めたの。全く普通の理由なんだけどね。\n\n研究の仕事に興味はある？お互いが合意できるように手配するからさ。あなたに研究を手伝ってもらうために呼び出したりなんてのを良く想像するよ──もちろん安全で管理された方法でね。\n\n草々\n^c:1486b0;セシル^c:pop;
+//[Reference] 'Specimen 002'
+staxel.mail.CecileArrival.subject=標本002
+//[Reference] '...\n\n...ice...cream...\n\n...mya...\n\nThe rest of the letter is formed of unintelligible scribbling.'
+staxel.mail.CirahnaArrival=…\n\n…アイス…クリーム…\n\n…ニャ…\n\n（手紙の残りは良く分からない殴り書きだ。）
+//[Reference] '???'
+staxel.mail.CirahnaArrival.subject=？？？
+//[Reference] 'Are your tools feeling a bit slow? Back aching in the hot sun? Have too much money floating around in your pocket?\n\nBrand new Magic Crafting Stations!\n\nBuy one today! Available now at a store near you!\n\n\n(Starbits not included)'
+staxel.mail.CirahnaMagic=道具の性能が少し落ちた？太陽ギラギラ背中はヒリヒリ？お金はたっぷり余ってる？\n\n最新の魔法のクラフトステーションをご紹介します！\n\nすぐにお買い求めください！お近くのお店で販売中！\n\n\n（別途スタービットがかかります）
+//[Reference] 'Meet your Magic needs!'
+staxel.mail.CirahnaMagic.subject=あなただけの魔法、ご用意します！
+//[Reference] 'Claim Items'
+staxel.mail.claimAll=受け取る
+//[Reference] 'Hello ^c:1486b0;$playername;^c:pop;!\n\nI heard about you from ^c:1486b0;Max^c:pop;! He told me you went through a lot of trouble building me a beautiful little house and I can't wait to see it! I hope we can become great friends and that I can manage to bring out the village's sweet tooth!\n\nSee you soon!\n^c:1486b0;Emilia^c:pop;'
+staxel.mail.EmiliaArrival=こんにちは^c:1486b0;$playername;^c:pop;！\n\nあなたの事を^c:1486b0;マックス^c:pop;さんから聞いたわ！私に小さくて可愛い家を建てるために色々がんばってくれたんだってね、早く見てみたいわ！村の甘いもの好きの人たちとも素敵なお友達になれるといいな！\n\nそれじゃあまたね！\n^c:1486b0;エミリア^c:pop;より
+//[Reference] 'Hello!'
+staxel.mail.EmiliaArrival.subject=こんにちは！
+//[Reference] 'Hey!\n\nCan't wait to see the house you built for me! I've heard it's really cool....thanks for that! Do you know if there's a skate park somewhere around? Or maybe a Caith? I'm sure there are plenty of bugs to hunt at least.\n\nI guess I'll see you when I see you!\n\n^c:1486b0;Eris^c:pop;'
+staxel.mail.ErisArrival=やあ！\n\nオレのために建ててくれた家を見るのが待ち遠しいよ！すごく格好良いんだってね…ありがとう！近くにスケート場ってあるかな？それかケイスはいる？とりあえず昆虫は沢山捕まえられそうだね。\n\nいつか会おうな！\n\n^c:1486b0;エリス^c:pop;より
+//[Reference] 'What's up?'
+staxel.mail.ErisArrival.subject=おいっす！
+//[Reference] 'These are the items I couldn't give to you during our previous conversation.\n\nMake sure to keep your pockets empty next time.\n\nenjoy your day!'
+staxel.mail.genericItemMail=これは前回の会話の時に渡せなかったものだよ。\n\n次はポケットを空にしておいてね。\n\nそれじゃあ、よい一日を！
+//[Reference] 'Your Items'
+staxel.mail.genericItemMail.subject=君のだよ
+//[Reference] 'So apparently ^c:1486b0;Max^c:pop; asked you to build me a house—I'm so sorry about that! I was sure I gave him enough money to hire a real contractor! Regardless, I'm sure you put in an effort worth of an MLG pro so I'll share some of my winnings with you!\n\nLet me know if you're ever LFG!\n^c:1486b0;Jamie^c:pop;'
+staxel.mail.JamieArrival=どうやら^c:1486b0;マックス^c:pop;が君に家の建築を依頼したみたいだね──ごめんよ！彼に資金を渡して工事の手配をさせるつもりだったんだ！それでも、君がMLGプロ並みの活躍をしたことに感謝するよ！\n\nゲームのパーティーメンバーを探しているなら知らせてくれ！\n^c:1486b0;ジェイミー^c:pop;より
+//[Reference] 'INC'
+staxel.mail.JamieArrival.subject=（株）
+//[Reference] 'So it seems you managed to solve all my riddles. Well done!\n\nYou may think it strange that I tested you this way, but I know the truth; I know who sent you.\n\nIf ^c:1486b0;Jamie^c:pop; really wants me to sign off on his idea, he's going to have to prove he has what it takes.\n\nI'm sure we'll be seeing each other again.\n\nRegards,\nY'
+staxel.mail.JamieExec=どうやら僕のなぞなぞを全部解き明かしたようだね。おめでとう！\n\n君を試すようなことをして不思議に思ったかもしれないけど、僕は知っているよ。君を送ったのが誰なのか。\n\n^c:1486b0;ジェイミー^c:pop;が自分のアイデアを受け取ってほしいなら、自分自身の腕を見せなくちゃね！\n\n君とはまたどこかで会うこともあるだろう。\n\nそれでは。\nY
+//[Reference] 'You won this round!'
+staxel.mail.JamieExec.subject=今回は君の勝ち！
+//[Reference] 'Please come see me asap.'
+staxel.mail.LeifBestFriend=私のところまですぐに来て。
+//[Reference] 'A small mistake...'
+staxel.mail.LeifBestFriend.subject=ちょっとやっちゃった…
+//[Reference] 'Thank you for the fuel'
+staxel.mail.LeifFriend=燃料をありがとう
+//[Reference] '...'
+staxel.mail.LeifFriend.subject=…
+//[Reference] 'Dear ^c:1486b0;$playername;^c:pop;,\n\nCongratulations!\n\nYour island has been randomly selected in our latest lottery to receive a total sum of 200,000 Petals, distributed at random amongst the village.\n\nMay your share bring you much joy!\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.Lottery10=親愛なる^c:1486b0;$playername;^c:pop;様、\n\nおめでとうございます！\n\nあなたの島が私たちの宝くじに抽選で選ばれ合計200000ペタルが村の住人に無作為に贈られました。\n\nあなたへの配当が十分満足できるものであれば幸いでございます。\n\n今後とも末永くご愛顧賜りますよう、お願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;より
+//[Reference] 'Congratulations!'
+staxel.mail.Lottery10.subject=おめでとうございます！
+//[Reference] '^c:1486b0;Cirahna^c:pop; greets you, ^c:1486b0;$playername;^c:pop;!\n\nSomething...unexpected has happened. ^c:1486b0;Morel^c:pop; is in dire need of aid!\n\nPlease come to ^c:1486b0;Cirahna^c:pop;'s location immediately!'
+staxel.mail.MorelFriendStart=こんにちは^c:1486b0;$playername;^c:pop;、^c:1486b0;シラーナ^c:pop;だよ！\n\nちょっと…予想外なことが起きたの。^c:1486b0;モレル^c:pop;を助けてあげて！\n\n^c:1486b0;シラーナ^c:pop;の所にすぐに来て！
+//[Reference] 'asdasd'
+staxel.mail.MorelFriendStart.subject=くぁwせdrftgyふじこlp
+//[Reference] '^c:1486b0;$playername;^c:pop;,\n\nIt has come to our attention that you've been making...certain inquiries about a rather rare product. You're barking up the wrong tree. Who in their right mind would travel to such a small island with a priceless artefact?\n\nIt may be of interest to you, however, that we can put your client in touch with one of ours—a rather wealthy individual who may or may not have recently purchased the artefact in question from one of our travelling merchants.\n\nCompensation will naturally be required. Please deliver the attached photograph to your client. He will know what to do.\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.MurmurConsortium.TooManyQuestions=^c:1486b0;$playername;^c:pop;様、\n\nとても希少な商品に関するお問い合わせを頂いたと…耳にいたしました。ですがそれは見当違いでございます。値段が付けられないほど価値のある美術品を持ったまま、誰が正気でこのような小さな島に向かうでしょうか？\n\nまた一方で、こういったものに興味はございませんか。あなたのお客様に私たちの1人──つまり私たちの旅商人から、件の美術品を最近購入したらしい随分と裕福な方を、あなたのお客様にご紹介すると言うのはどうでしょうか。\n\n当然ですが代価が必要になります。添付した写真をあなたのお客様にお送りください。それでお分かりいただけるはずです。\n\n今後とも末永くご愛顧賜りますよう、お願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;より
+//[Reference] 'Too many questions'
+staxel.mail.MurmurConsortium.TooManyQuestions.subject=非常に多くのご質問
+//[Reference] 'You don't have any mail yet...'
+staxel.mail.noMail=まだ郵便は届いていません…
+//[Reference] '^c:1486b0;Oscar^c:pop;\n12 Winton Road\nSometown\n\n^c:1486b0;$playername;^c:pop;\nThe farm\nStaxel\n\nDear ^c:1486b0;$playername;^c:pop;,\n\n I hope this letter finds you well. I am writing concerning your involvement in the construction of my new home in Staxel. I offer my sincerest thanks for your efforts.\n\nIt has been many a year since I left the village due to certain unfortunate circumstances. From what I have heard, it would appear you have performed an...adequate job of keeping the village clean since your arrival. Upon my arrival I shall endeavour to render the town ever more pristine.\n\nYours sincerely\n\n^c:1486b0;Oscar^c:pop;'
+staxel.mail.OscarArrival=^c:1486b0;オスカー^c:pop;\n12 ウィントン通り\nサムタウン\n\n^c:1486b0;$playername;^c:pop;\n牧場\nStaxel\n\n拝啓、親愛なる^c:1486b0;$playername;^c:pop;、\n\nこの手紙がきちんと届いたでしょうか。Staxelで私の家の建設に関わっていると聞き、筆をとりました。あなたの努力に感謝します。\n\n私が不幸な状況により村を離れてからもう何年にもなります。伝え聞いたところによると、到着してから村を綺麗にするための仕事をしてくれているそうですね。私の到着後は、町のさらなる美化活動に尽力いたします。\n\n敬具\n\n^c:1486b0;オスカー^c:pop;より
+//[Reference] '(no subject)'
+staxel.mail.OscarArrival.subject=件名なし
+//[Reference] 'Hey ^c:1486b0;$playername;^c:pop;,\n\nNot to worry you, but I believe there may be some disappearances around town. I will be around tomorrow to help.\n\n^c:1486b0;- Rem^c:pop;'
+staxel.mail.RemVisit=こんにちは、^c:1486b0;$playername;^c:pop;、\n\n心配しなくてもいいんだけど、町で何人か行方不明者が出ているかもしれないの。明日には手を貸せると思うわ。\n\n^c:1486b0;- レム^c:pop;
+//[Reference] 'I'm on my way'
+staxel.mail.RemVisit.subject=今、向かってるところよ
+//[Reference] 'Good day!\n\nHere are the items ^c:1486b0;Riah^c:pop; requested be sent to you. I hope nothing was damaged in transit!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
+staxel.mail.RiahAcquaintance=こんにちは！\n\nこちらはあなた宛てに^c:1486b0;リア^c:pop;に頼まれた注文の品です。輸送中に壊れていないといいですね！\n\n^c:1486b0;マクシミリアン^c:pop;より\n町長
+//[Reference] 'A little ship'
+staxel.mail.RiahAcquaintance.subject=小さな船
+//[Reference] 'Hey there!\n\nCongrats on your new postbox!\n\nThe name's ^c:1486b0;Robin^c:pop; and I'm one of the two designated postmen for your region, here to give you a few tips. I think ^c:1486b0;Wren^c:pop; was going to send you something too, but knowing her she probably got lost trying to deliver it! I'm joking, of course (send help, I think I made her angry)!\n\nYou'll probably get a few letters from time to time, mostly from other residents looking for help or sending you gifts, but sometimes you might get something from out of town! Doesn't matter which postbox you check either—we're pretty good at making sure your post is exactly where you need it, when you need it! It's probably a good idea to keep an eye on your mail to make sure you don't miss anything important.\n\nHope to catch you on my rounds someday,\n\n^c:1486b0;Robin^c:pop;'
+staxel.mail.RobinIntro=やあ！\n\n新しい郵便ポストの完成おめでとう！\n\n君の地区を担当する2人の配達人の1人、^c:1486b0;ロビン^c:pop;が、ヒントをお届けするよ。^c:1486b0;レン^c:pop;も何か送ろうとしていたみたいだけど、恐らく配達の途中で迷ってしまったんだろう！もちろん冗談だよ（助けを送ると彼女を怒らせてしまいそうだからね）！\n\n時々やってくる手紙のほとんどは、他の地域に住人が助けを求めているか君への贈り物なのだけど、町の外からやって来る物もあるんだ！どの郵便ポストをチェックしてもいいんだよ、私たちは君のポストが必要な時に必要な場所にあるのを確かめるのが得意だからね！大事なものを見逃さないように時々ポストを確認するといいよ。\n\n配達の時に会えるといいね、\n\n^c:1486b0;ロビン^c:pop;より
+//[Reference] 'Hey there!'
+staxel.mail.RobinIntro.subject=こんにちは！
+//[Reference] 'Hi there\n\nI heard you built me a nice little house in the village. I've wanted to get out of the city for a long time.\n\nIt's a bit difficult to know how to thank you properly, but thank you. I'll try to see if I can come up with something better when I see you in person.\n\nI look forward to seeing your farm and petting your animals,\n^c:1486b0;Rosemary^c:pop;'
+staxel.mail.RosemaryArrival=こんにちは\n\nあなたが私のために村に素敵な家を建ててくれたと聞きました。もう長いこと街から離れたかったんです。\n\nどうやって感謝を表していいか難しいけれど、ありがとう。あなたに会った時のために何かお礼を考えておこうと思います。\n\nあなたの牧場を見たり動物と触れ合えることを楽しみにしています。\n^c:1486b0;ローズマリー^c:pop;より
+//[Reference] 'Hi'
+staxel.mail.RosemaryArrival.subject=こんにちは
+//[Reference] 'What did we say, ^c:1486b0;$playername;^c:pop;?\n\nI was sure I made myself very clear about ensuring that nothing went wrong with ^c:1486b0;Cecile's lab^c:pop;! Please drop by my office at your earliest convenience. We have very important matters to discuss.\n\nRegards,\n^c:1486b0;Maximilian^c:pop;'
+staxel.mail.ScienceHazard=私たちが話したことを覚えていますか、^c:1486b0;$playername;^c:pop;？\n\n口を酸っぱくして^c:1486b0;セシルの研究室^c:pop;で何も問題が起きないようにと言ったはずです！なるべく早く私のオフィスに顔を出してください。非常に重要なお話があります。\n\nよろしくお願いします。\n^c:1486b0;マクシミリアン^c:pop;より
+//[Reference] 'What did I say?'
+staxel.mail.ScienceHazard.subject=言いましたよね？
+//[Reference] 'These items were found on the ground on another island.\n\nIt looks like these were teleported there, did you mean to go with them? Be sure to keep a hold of your items while teleporting!\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.teleportFailedMail=こちらのアイテムは他の島に落ちていました。\n\nどうやらテレポートされたようですが、一緒に持っていくつもりだったのでしょうか？テレポートの際はアイテムはしっかりと持っていてくださいね！\n\n今後とも末永くご愛顧賜りますよう、お願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;より
+//[Reference] 'Refunding your Items'
+staxel.mail.teleportFailedMail.subject=アイテムの返還
+//[Reference] 'Hey ^c:1486b0;$playername;^c:pop;,\n\n^c:1486b0;Tomti^c:pop; and I are going to be back soon. We have been talking with our family, and we have something to discuss with you. See you soon.\n\n^c:1486b0;- Rem^c:pop;'
+staxel.mail.TomtiVisit=こんにちは、^c:1486b0;$playername;^c:pop;、\n\n^c:1486b0;トムティ^c:pop;と私はもうすぐ帰るわ。家族で色々と相談して、あなたとも話したいことがあるの。また近いうちに会いましょうね。\n\n^c:1486b0;- レム^c:pop;
+//[Reference] 'Relocating'
+staxel.mail.TomtiVisit.subject=移住のこと
+//[Reference] 'Hey ^c:1486b0;$playername;^c:pop;,\n\n I’ve got something for you.\n Come by the town and see me!\n\n- Farm Fan'
+staxel.mail.tutorial.Day2=ねえ、^c:1486b0;$playername;^c:pop;、\n\n渡したいものがあるの。\n町にいるから会いに来て！\n\n- ファームファン
+//[Reference] 'Come see me.'
+staxel.mail.tutorial.Day2.subject=会いに来て。
+//[Reference] 'Hey ^c:1486b0;$playername;^c:pop;,\n\n You won’t believe what I found wandering the outskirts of the village… a stray ^c:1486b0;Cow^c:pop;!\nI think you’d be a perfect fit to take care of it, but you don’t have a ^c:1486b0;Barn^c:pop; yet…\nGo see ^c:1486b0;Aliza^c:pop; in the ^c:1486b0;Building Store^c:pop;, she can help you build one.\nCome see me when you’ve got a ^c:1486b0;Barn^c:pop;.\n\n- Farm Fan'
+staxel.mail.tutorial.Day3=ねえねえ、^c:1486b0;$playername;^c:pop;、\n\n村はずれを散策してたらすごいのを見つけちゃったの…迷子の^c:1486b0;牛^c:pop;よ！\nあなたならちゃんとお世話できそうだけど、まだ^c:1486b0;納屋^c:pop;がないのよね…\n^c:1486b0;建材店^c:pop;の^c:1486b0;アリザ^c:pop;に会いに行ってみて。彼女なら建築の手助けになるわ。\n^c:1486b0;納屋^c:pop;ができたら会いに来てね。\n\n- ファームファン
+//[Reference] 'One cow, free to good home.'
+staxel.mail.tutorial.Day3.subject=迷子の牛さん、この子のおうちを作ってあげて
+//[Reference] 'Hi ^c:1486b0;$playername;^c:pop;, I hope you are keeping well.\n\nThe strangest thing happened the other day… On my way to begin my day’s work at the Town Hall, I found a stray ^c:1486b0;Cat^c:pop; and ^c:1486b0;Dog^c:pop; hanging around the entrance.\nI have a friend who wants one of them... Would you consider taking the other?\nCome see me any time if you’d consider it.\n\nRegards,\nMax'
+staxel.mail.tutorial.Day4=どうも、^c:1486b0;$playername;^c:pop;さん、お元気ですか。\n\n先日とても奇妙なことがありまして…仕事のため役所に向かっていたところ、入口の辺りで^c:1486b0;野良猫^c:pop;と^c:1486b0;野良犬^c:pop;を見つけました。\n私の友人が一匹欲しがっていまして…もう一匹をあなたの方で引き取っていただけませんか？\n気が向いたらいつでも会いに来てください。\n\nよろしくお願いします。\nマックス
+//[Reference] 'A pet perhaps?'
+staxel.mail.tutorial.Day4.subject=ペットはいかがですか？
+//[Reference] 'Hi ^c:1486b0;$playername;^c:pop;,\n\n I need your help urgently!\n I left a bunch of old veggies laying out back the other day and… well... suffice to say, I now have a cricket problem.\n Could you drop by? I could really use your help catching the little blighters!\n\n- Rowan'
+staxel.mail.tutorial.Day5=やあ、^c:1486b0;$playername;^c:pop;、\n\n大至急、救援を頼む！\nこの間バックヤードに古い野菜をまとめて置いていたんだが…何と言ったらいいか…とにかくコオロギで大変なんだ。\n ちょっと来てくれないか？あいつらを捕まえるのを手伝ってくれ！\n\n- ローワン
+//[Reference] 'Cricket invasion!'
+staxel.mail.tutorial.Day5.subject=コオロギ襲来！
+//[Reference] 'Hi ^c:1486b0;$playername;^c:pop;,\n\nI heard that you were quite handy, mya. I'd really love it if a you built me a nice spot near the village to go fishing!\nThink you could come see me about it?\n\n- Riah'
+staxel.mail.tutorial.Day6=ねえ、^c:1486b0;$playername;^c:pop;、\n\nキミはとっても器用だって聞いたニャ。村の近くに釣りができる素敵な場所を作ってくれたら嬉しいな！\n詳しく相談したいから私のとこまで来てくれない？\n\n- リア
+//[Reference] 'Casting call'
+staxel.mail.tutorial.Day6.subject=キャスティングコール
+//[Reference] 'Hi ^c:1486b0;$playername;^c:pop;,\n\nI heard that you were quite handy, mya. I’m having some trouble catching fish lately...\nThink you could come see me about it?\n\n- Riah'
+staxel.mail.tutorial.Day6Alt=ねえ、^c:1486b0;$playername;^c:pop;、\n\nキミはとっても器用だって聞いたニャ。最近、魚を捕まえるのに苦労してて…\n詳しく相談したいから私のとこまで来てくれない？\n\n- リア
+//[Reference] 'Casting call'
+staxel.mail.tutorial.Day6Alt.subject=キャスティングコール
+//[Reference] '^c:1486b0;$playername;^c:pop;,\n\nNo time for formalities, I need your help!\nI have some guests coming to the ^c:1486b0;Tavern^c:pop; soon and they want some food on arrival.\nBut I don't have anything prepared!\nCould you drop by soon and help me out?\n\n- Rowan'
+staxel.mail.tutorial.Day7=^c:1486b0;$playername;^c:pop;、\n\nあれこれ言ってる暇はない、手伝ってくれ！\nもうすぐ^c:1486b0;酒場^c:pop;にお客さんが来るんだが、着いたらすぐに何か食べたいらしいんだ。\nだが、まだ何も準備できていないんだ！\nすぐに来て手伝ってくれないか？\n\n- ローワン
+//[Reference] 'Two Soups?'
+staxel.mail.tutorial.Day7.subject=2杯のスープ？
+//[Reference] 'Dear ^c:1486b0;$playername;^c:pop;.\n\n You've been making great strides in rejuvenating the farm lately. So much so that I think it’s time we properly acknowledge that.\nI’ve got your ^c:d03e37;Farm License^c:pop; all ready to go. Drop by when you’ve got a minute, and take the attached ^c:1486b0;Registration Letter^c:pop; with you.\n\nRegards,\nMax'
+staxel.mail.tutorial.Day8=^c:1486b0;$playername;^c:pop;さんへ。\n\n最近のあなたは牧場の復旧に尽力されているようですね。私はその成果を正式に承認する時ではないかと思っているほどです。\n^c:d03e37;牧場のライセンス^c:pop;を用意いたしました。時間のある時に顔を出してください。その際は添付した^c:1486b0;登録用紙^c:pop;を持ってきてくださいね！\n\nよろしくお願いします。\n- マックス
+//[Reference] 'License to Till'
+staxel.mail.tutorial.Day8.subject=耕作ライセンス
+//[Reference] 'Hi ^c:1486b0;$playername;^c:pop;,\n\n I’ve been hearing about all the wonderful things you’ve been doing lately, and could use someone as handy as you.\n Could you drop by later? I could really use your help on this.\n\n- Leif'
+staxel.mail.tutorial.Day9=やあ、^c:1486b0;$playername;^c:pop;、\n\n最近、君の仕事がとにかく素晴らしいと聞いてね、君みたいな戦力になりそうな人を探していたんだ。\n後で来てくれないかな？本当に君の助けが必要なんだ。\n\n- レイフ
+//[Reference] 'Better letters'
+staxel.mail.tutorial.Day9.subject=ステキな手紙
+//[Reference] 'Time to dress spooky!\n\n Remember to visit Brick at the merchant stalls in town for some more Halloween-themed items! \n\n ^c:1486b0;The Staxel devs^c:pop;'
+staxel.mail.update.Halloween1=さあ、おばけみたいに変装しちゃおう！\n\nハロウィンにちなんだアイテムが欲しい時は町の露天商人のブリックに会うのを忘れずに！\n\n^c:1486b0;Staxel開発チーム^c:pop;
+//[Reference] 'Halloween'
+staxel.mail.update.Halloween1.subject=ハロウィン
+//[Reference] 'It has come to our attention that your island is now sending letters and we would like to present to you an offer.\n\nIf you set up an ^c:1486b0;Airship Anchor^c:pop; the ^c:1486b0;Murmur Consortium^c:pop; will send one of its prestigious members to sell high quality items. All that they will require in the form of payment are ^c:d03e37;'Star Bits'^c:pop;.\n\nAs an added bonus, the ^c:1486b0;Murmur Consortium^c:pop; has already supplied your local shop with equipment designed for ordering directly from the ^c:1486b0;Murmur Consortium's warehouses^c:pop;.\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+staxel.mail.VIPMerchants=貴島から拝しましたお手紙に関し、1つご提案させていただきたく存じます。\n\n^c:1486b0;飛行船アンカー^c:pop;を設置していただければ、当^c:1486b0;マーマー組合^c:pop;から一流スタッフを派遣し、高品質なアイテムを販売いたします。お支払いは全て^c:d03e37;スタービット^c:pop;となります。\n\nまた、^c:1486b0;マーマー組合^c:pop;の現地店舗へ、追加の設備投資をいたしました。^c:1486b0;組合の倉庫^c:pop;に直接ご注文いただけます。\n\n今後ともよろしくお願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;
+//[Reference] 'Postage and Handling'
+staxel.mail.VIPMerchants.subject=配達および出荷のご案内
+//[Reference] 'Hello.\n\nI deliver letters; I don't write them.\n\nRegards,\n^c:1486b0;Wren^c:pop;'
+staxel.mail.WrenIntro=こんにちは。\n\n手紙を届けにきました、私が書いたものじゃないけど。\n\nそれじゃ、\n^c:1486b0;レン^c:pop;より
+//[Reference] 'Greetings.'
+staxel.mail.WrenIntro.subject=こんにちは。
+//[Reference] 'Murmur Consortium'
+staxel.sender.MurmurConsortium=マーマー組合
+//[Reference] 'Rem'
+staxel.sender.Rem=レム
+//[Reference] 'Robin'
+staxel.sender.Robin=ロビン
+//[Reference] '???'
+staxel.sender.Unknown=？？？
+//[Reference] 'Wren'
+staxel.sender.Wren=レン

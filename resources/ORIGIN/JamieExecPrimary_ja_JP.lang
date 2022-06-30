@@ -1,0 +1,82 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Ah, hello there.'
+staxel.village.dialogue.JamieExec.line:10000100=やあ、こんにちは。
+//[Reference] 'I suppose it was you who called me out here?'
+staxel.village.dialogue.JamieExec.line:10000200=ここに呼び出したのは君かい？
+//[Reference] 'No?'
+staxel.village.dialogue.JamieExec.line:10000300=おや違う？
+//[Reference] 'In that case, how can I help you?'
+staxel.village.dialogue.JamieExec.line:10000400=それなら、用件は何かな？
+//[Reference] 'Nothing really.'
+staxel.village.dialogue.JamieExec.line:10000500=特にないです。
+//[Reference] 'So we have this great game idea. You start off on an island after inheriting...'
+staxel.village.dialogue.JamieExec.line:10000600=すごいゲームのアイデアがあるんですけど、島を出る前に受け取ってください…
+//[Reference] 'I see. Do let me know if you find the person who called me over.'
+staxel.village.dialogue.JamieExec.line:10000700=そうかい。誰が僕を呼んだのか、分かったら教えてね。
+//[Reference] 'Wait. Let me stop you right there.'
+staxel.village.dialogue.JamieExec.line:10000800=待って待って。一旦ストップ。
+//[Reference] 'Your pitching technique is abysmal!'
+staxel.village.dialogue.JamieExec.line:10000900=売り込み方がなってない！
+//[Reference] 'But I'll give you a chance. Believe it or not, but I'm quite the gamer myself.'
+staxel.village.dialogue.JamieExec.line:10001000=でもチャンスをあげよう。実は僕、かなりのゲーマーなんだ。
+//[Reference] 'While I was waiting, I toured the island and thought up a few riddles.'
+staxel.village.dialogue.JamieExec.line:10001100=待ってる間に島を見学しててね、いくつかなぞなぞを思いついたよ。
+//[Reference] 'If you can solve them and find me, I'll consider listening to your pitch.'
+staxel.village.dialogue.JamieExec.line:10001200=全部解いて僕を見つけ出したら、君の提案を聞いてもいい。
+//[Reference] 'Ready?'
+staxel.village.dialogue.JamieExec.line:10001300=準備はいい？
+//[Reference] 'As sturdy as an oak, but not quite the same,'
+staxel.village.dialogue.JamieExec.line:10001400=オーク材と同じくらい「おカタい」けれど、共通点はそれくらいかな。
+//[Reference] 'Good for a drink, but never a game.'
+staxel.village.dialogue.JamieExec.line:10001500=飲み物には向いてるけど、ゲームには向いてない。
+//[Reference] 'Got it?'
+staxel.village.dialogue.JamieExec.line:10001600=分かった？
+//[Reference] 'Ah! So you solved my riddle?'
+staxel.village.dialogue.JamieExec.line:10001700=うそ！僕のなぞなぞを解いたの？
+//[Reference] 'Was it too easy?'
+staxel.village.dialogue.JamieExec.line:10001800=簡単すぎたかな？
+//[Reference] 'Very well. Try this one on for size:'
+staxel.village.dialogue.JamieExec.line:10001900=まあいいだろう。じゃあこれなんてどうかな。
+//[Reference] 'A certain fanatic gave this to you.'
+staxel.village.dialogue.JamieExec.line:10002000=とある熱狂的なファンから君に渡されたものだよ。
+//[Reference] 'At first it was small, but with your help it grew.'
+staxel.village.dialogue.JamieExec.line:10002100=最初は小さいけど、君の手を借りれば大きくなる。
+//[Reference] 'Do you know what I'm talking about?'
+staxel.village.dialogue.JamieExec.line:10002200=何のことか分かるかな？
+//[Reference] 'Well now. It would seem you're quite good at this.'
+staxel.village.dialogue.JamieExec.line:10002300=おやおや。どうやらなぞなぞは得意みたいだね。
+//[Reference] 'Then... I suppose I have one last riddle for you.'
+staxel.village.dialogue.JamieExec.line:10002400=それじゃあ…ついに最後のなぞなぞだ。
+//[Reference] 'What have I got in my pocket?'
+staxel.village.dialogue.JamieExec.line:10002500=僕のポケットの中身はなーんだ？
+//[Reference] '...handses?'
+staxel.village.dialogue.JamieExec.line:10002600=…ヒントちょうだい？
+//[Reference] 'That's not a riddle!'
+staxel.village.dialogue.JamieExec.line:10002700=こんなのなぞなぞじゃないよ！
+//[Reference] 'I apologise, that was unfair.'
+staxel.village.dialogue.JamieExec.line:10002800=ごめんごめん、イジワルだったね。
+//[Reference] 'Let's try this again.'
+staxel.village.dialogue.JamieExec.line:10002900=改めて、もう1問。
+//[Reference] 'The village, like a clockwork puzzle, ticks.'
+staxel.village.dialogue.JamieExec.line:10003000=時計仕掛けのパズルのように、村は時を刻む。
+//[Reference] 'At its core, a single cog clicks.'
+staxel.village.dialogue.JamieExec.line:10003100=その中心部では、1つの歯車がカチッと音を立てる。
+//[Reference] 'That's all I'll say for now.'
+staxel.village.dialogue.JamieExec.line:10003200=今言えるのはそれだけ。
+//[Reference] 'Hello again, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.JamieExec.line:10003300=また会ったね、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'My presence is merely a formality; it's ^c:1486b0;Damian^c:pop; you should be talking to.'
+staxel.village.dialogue.JamieExec.line:10003400=僕は単に手続きのためにいるだけさ。君が話すべきなのは^c:1486b0;ダミアン^c:pop;だよ。
+//[Reference] 'Hello there.'
+staxel.village.dialogue.JamieExec.line:10003500=やあ、こんにちは。
+//[Reference] 'Ah, thank you for taking ^c:1486b0;Damian^c:pop; off my hands for a bit.'
+staxel.village.dialogue.JamieExec.line:10003600=おっとそうだ、^c:1486b0;ダミアン^c:pop;の相手をしてくれてありがとう。
+//[Reference] 'I trust he wasn't too much of a pain?'
+staxel.village.dialogue.JamieExec.line:10003700=あまり迷惑をかけていなければ良いんだけど。
+//[Reference] 'He means well...he's just a little on the competitive side.'
+staxel.village.dialogue.JamieExec.line:10003800=彼はなんというか…ちょっとだけ負けず嫌いなところがあるからさ。
+//[Reference] 'Hello there.'
+staxel.village.dialogue.JamieExec.line:10004000=こんにちは。
+//[Reference] 'I'm here for some important business. So please, don't mind me.'
+staxel.village.dialogue.JamieExec.line:10004100=今は大事な用事があって来てるんだ。だから、気にしないでほしい。

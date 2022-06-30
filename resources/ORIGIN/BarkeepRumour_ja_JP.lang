@@ -1,0 +1,48 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+//[Reference] 'They say the old farmhouse has been on this island forever.'
+staxel.village.dialogue.job.BarkeepRumour.line:10000700=あの古い農舎はずっと昔からこの島にあるらしいんだ。
+//[Reference] 'Nobody quite knows who built it, or... what built it.'
+staxel.village.dialogue.job.BarkeepRumour.line:10000800=誰が建てたのかも分からない、というより…建てたのが人間かどうかさえ、な。
+//[Reference] 'Nah, I'm just messing with you!'
+staxel.village.dialogue.job.BarkeepRumour.line:10000900=なーんてな、少しからかっただけだよ！
+//[Reference] 'I've heard tell that there are fairies in the woodlands around here.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001000=この辺りの森に妖精がいるという話を聞いたことがあるんだ。
+//[Reference] 'Not sure how reliable those stories are though...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001100=その話がどれくらい信用できるかは分からないが…
+//[Reference] 'No one seems to have seen any...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001200=見たことがある人物は誰一人としていないようだ…
+//[Reference] 'The old farmer used to tell tales of growing giant crops.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001300=年老いた農家が昔、とてつもなく大きく育つ作物について話していた。
+//[Reference] 'Can't say I've seen anyone have that kind of success since...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001400=だがそれ以来、そんな話をする人物は一度も見たことがない…
+//[Reference] 'Watch out for that ^c:1486b0;Farm Fan^c:pop;...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001500=^c:1486b0;ファームファン^c:pop;には注意するんだぞ…
+//[Reference] 'She can be a bit... overbearing at times.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001600=彼女は時々…少し横柄になるんだ。
+//[Reference] 'I don't doubt she'll have plenty of useful tips for you though!'
+staxel.village.dialogue.job.BarkeepRumour.line:10001700=でもな、彼女が役立つ情報をたっぷり持っていることには違いないさ！
+//[Reference] 'No, I'm afraid I don't know her real name either.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001800=残念だが、彼女の本当の名前は俺も知らない。
+//[Reference] 'Our sap is the best you'll find anywhere in the region!'
+staxel.village.dialogue.job.BarkeepRumour.line:10001900=サップはこの辺りでは一番のおいしさなんだ！
+//[Reference] 'The recipe is a secret though, so don't ask.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002000=でも、レシピは秘密だから聞かないでくれ。
+//[Reference] 'Do we serve milk?'
+staxel.village.dialogue.job.BarkeepRumour.line:10002100=牛乳を扱ったりはしないのかって？
+//[Reference] 'No... why would you think that?'
+staxel.village.dialogue.job.BarkeepRumour.line:10002200=いいや…でもなんでそう思うんだい？
+//[Reference] 'Supposedly ^c:d03e37;baking^c:pop; can be quite profitable.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002300=パイやケーキを^c:d03e37;焼く^c:pop;のはとても儲かると聞いたんだ。
+//[Reference] 'It would be wonderful to have a ^c:1486b0;bakery^c:pop; around here.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002400=この辺りに^c:1486b0;ベーカリー^c:pop;を作るのは良い考えかもと思って。
+//[Reference] 'Perhaps someone will build one someday...'
+staxel.village.dialogue.job.BarkeepRumour.line:10002500=きっと、いつか誰かが作るだろう…
+//[Reference] 'That ^c:1486b0;{0-l_name}^c:pop; is a bit of a mystery...'
+staxel.village.dialogue.job.BarkeepRumour.line:10005000=あの^c:1486b0;{0-l_name}^c:pop;は少し謎めいているんだ…
+//[Reference] 'He was minding the store even back when I was a young lad.'
+staxel.village.dialogue.job.BarkeepRumour.line:10005100=彼は俺が小さいときにはもう店番をしていた。
+//[Reference] 'Hardly seems to have aged a day since...'
+staxel.village.dialogue.job.BarkeepRumour.line:10005200=その頃から見た目がほとんど変わっていないんだ…

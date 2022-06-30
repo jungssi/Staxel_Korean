@@ -1,0 +1,256 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'People always ask me to do things for them...'
+staxel.village.dialogue.Meek.line:10000100=いろんな人からよく物事を頼まれるんだ…
+//[Reference] 'I never turn them down.'
+staxel.village.dialogue.Meek.line:10000200=ガッカリさせたくないから受けるんだけど。
+//[Reference] 'Sometimes it's hard to get everything done on time...'
+staxel.village.dialogue.Meek.line:10000300=時々、時間内に全てこなすのが難しくて…
+//[Reference] 'I wish ^c:1486b0;{0-tomboy_name}^c:pop; would be a bit less rowdy...'
+staxel.village.dialogue.Meek.line:10000400=^c:1486b0;{0-tomboy_name}^c:pop;がもう少し落ち着いてくれたらいいんだけど…
+//[Reference] 'She makes such a racket whenever she's about the town.'
+staxel.village.dialogue.Meek.line:10000500=町のことになると、いつも彼女は騒ぎ出すから。
+//[Reference] 'It's a bit intimidating.'
+staxel.village.dialogue.Meek.line:10000600=ちょっと怖いと思うほどだよ。
+//[Reference] 'It's so nice not to have any rowdy people in town!'
+staxel.village.dialogue.Meek.line:10000700=町にうるさい人がいなくて、なんともいい気分だよ！
+//[Reference] 'I can lie in the grass and read a book without being disturbed.'
+staxel.village.dialogue.Meek.line:10000800=邪魔が入らないで、草の上に寝転がって本を読めるからね。
+//[Reference] 'If I say I'll do something, nothing will stop me from getting it done.'
+staxel.village.dialogue.Meek.line:10000900=一度やると言ったら、何があっても手を止めるつもりはないよ。
+//[Reference] 'There are few things worse than being unreliable.'
+staxel.village.dialogue.Meek.line:10001000=当てにならないと思われるのは本当にイヤだからな。
+//[Reference] 'I'd love to go out and see more of the world.'
+staxel.village.dialogue.Meek.line:10001100=外へ出て、世界のことを知りたいんだ。
+//[Reference] 'I don't really have the time for it though.'
+staxel.village.dialogue.Meek.line:10001200=そのための時間が作れないけどね。
+//[Reference] 'Even if I did, I'm not sure I'd be able to brave it alone!'
+staxel.village.dialogue.Meek.line:10001300=時間があったとしても、一人で旅立つ勇気もあるかどうか…
+//[Reference] 'It might not seem like it at first, but I actually really enjoy a good chat.'
+staxel.village.dialogue.Meek.line:10001400=見た目じゃそう思われないだろうけど、本当は雑談するのが好きなんだ。
+//[Reference] 'I think most of us here in the village do!'
+staxel.village.dialogue.Meek.line:10001500=村のみんなもそきっと同じさ！
+//[Reference] 'Get to know people a bit better and I'm sure they'll start to open up to you.'
+staxel.village.dialogue.Meek.line:10001600=彼らのことをもう少し知れば、きみに心を開けてくれるはず。
+//[Reference] 'It can be pretty hard to be spontaneous with people you've only just met.'
+staxel.village.dialogue.Meek.line:10001700=会っただけという関係じゃ、自分から声をかけるのは結構難しいと思う。
+//[Reference] 'I prefer to think carefully about what I want to say.'
+staxel.village.dialogue.Meek.line:10001800=自分が言いたいこと、慎重に考えるようにしてるんだ。
+//[Reference] 'Plan ahead so that I don't say anything stupid, you know?'
+staxel.village.dialogue.Meek.line:10001900=バカなことを言わないよう前もって計画を立てるもんだろう？
+//[Reference] 'Just the other day I was strolling through the forest...'
+staxel.village.dialogue.Meek.line:10002000=ついこの間、森をうろうろしていたんだけど…
+//[Reference] 'I like spending some time in the nature sometimes, see...'
+staxel.village.dialogue.Meek.line:10002100=たまに大自然の中で過ごすのが好きなんだ。分かるでしょ…
+//[Reference] 'But then there was this terrifying moaning.'
+staxel.village.dialogue.Meek.line:10002200=でもその時あの恐ろしいうなり声が聞こえたんだ。
+//[Reference] 'I haven't been able to work up the courage to go back since...'
+staxel.village.dialogue.Meek.line:10002300=その時から、もう一度行く勇気が出てこなくてね…
+//[Reference] 'Hmm, you want to know a bit more about the island's ^c:1486b0;butterflies^c:pop;?'
+staxel.village.dialogue.Meek.line:10002400=へえ、この島の^c:1486b0;蝶^c:pop;について詳しく知りたいのかい？
+//[Reference] 'Well I suppose there are a fair number of varieties. You've most likely seen the common ones already.'
+staxel.village.dialogue.Meek.line:10002500=まあかなり種類がいると思うよ。君はもう普通のなら見てきてるんじゃないかい。
+//[Reference] 'Amongst the rare we have ^c:1486b0;monarch butterflies^c:pop; and ^c:1486b0;zebra butterflies^c:pop;.'
+staxel.village.dialogue.Meek.line:10002600=珍しいものだと^c:1486b0;オオカバマダラ^c:pop;や^c:1486b0;トラフタイマイ^c:pop;がいるね。
+//[Reference] 'I think there were ^c:1486b0;emperor butterflies^c:pop; around here too.'
+staxel.village.dialogue.Meek.line:10002700=この辺なら^c:1486b0;エンペラーバタフライ^c:pop;もいたかな。
+//[Reference] 'There could be more, but I think those are the important ones.'
+staxel.village.dialogue.Meek.line:10002800=もっとあるかもしれないけど、重要なのはそのくらいだと思うよ。
+//[Reference] '...^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Meek.line:10002900=…^c:1486b0;{0-playername}^c:pop;？
+//[Reference] 'How can I help you today?'
+staxel.village.dialogue.Meek.line:10003000=今日はどんな用件だい？
+//[Reference] 'A ^c:d03e37;gift^c:pop; for me? From ^c:1486b0;Cecile^c:pop;?'
+staxel.village.dialogue.Meek.line:10003100=僕に^c:d03e37;プレゼント^c:pop;？^c:1486b0;セシル^c:pop;から？
+//[Reference] 'I'm not sure what I did to deserve this, but please convey my thanks!'
+staxel.village.dialogue.Meek.line:10003200=何でこんなことしてもらえるのか分からないけど、とにかくありがとうって伝えておいてよ！
+//[Reference] 'I wonder if she's been getting the wrong idea about something...'
+staxel.village.dialogue.Meek.line:10003300=彼女が何か思い違いをしていないと良いけど…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Meek.line:10003400=^c:1486b0;{0-playername}^c:pop;…
+//[Reference] 'D...did you see...'
+staxel.village.dialogue.Meek.line:10003500=き…君は見たかい…
+//[Reference] 'A monster...'
+staxel.village.dialogue.Meek.line:10003600=モンスターだよ…
+//[Reference] 'A real monster...'
+staxel.village.dialogue.Meek.line:10003700=本物のモンスターだ…
+//[Reference] 'A gift...? Now...?'
+staxel.village.dialogue.Meek.line:10003800=プレゼント…？今…？
+//[Reference] 'Thank you, but it's not really the best time...'
+staxel.village.dialogue.Meek.line:10003900=ありがとう、でもこんな時にもらってもなあ…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! You have no idea how glad I am to see you!'
+staxel.village.dialogue.Meek.line:10004000=^c:1486b0;{0-playername}^c:pop;！君に会えてこんなに嬉しいことはないよ！
+//[Reference] 'I was worried ^c:1486b0;Cecile^c:pop; would be the one to come by with her...^c:1486b0;monster^c:pop;...'
+staxel.village.dialogue.Meek.line:10004100=^c:1486b0;セシル^c:pop;がさ…^c:1486b0;モンスター^c:pop;を連れて来るんじゃないかって不安だったんだよ…
+//[Reference] 'Believe it or not, I do know someone who might be interested...'
+staxel.village.dialogue.Meek.line:10004200=意外だと思うけど、興味を持ちそうな人なら知ってるよ…
+//[Reference] '^c:1486b0;One of my sisters^c:pop; happens to have a soft spot for...unusual pets...'
+staxel.village.dialogue.Meek.line:10004300=^c:1486b0;僕の姉妹の一人^c:pop;がたまたま…珍しいペットに目が無くてね…
+//[Reference] 'If you could get this ^c:d03e37;letter^c:pop; to one of the ^c:1486b0;merchants^c:pop;, they can pass it on.'
+staxel.village.dialogue.Meek.line:10004400=この^c:d03e37;手紙^c:pop;を^c:1486b0;商人^c:pop;の誰かに渡してもらえれば、伝えられると思うよ。
+//[Reference] 'They travel around the world a lot after all.'
+staxel.village.dialogue.Meek.line:10004500=何しろみんな世界中をたくさん旅してるからね。
+//[Reference] '^c:1486b0;Max^c:pop; is asking if the store is ready to cope with the increase in demand?'
+staxel.village.dialogue.Meek.line:10004600=この店がお客が増えても対応できるか^c:1486b0;マックス^c:pop;が聞いてきたの？
+//[Reference] 'I think...he's probably overestimating how popular this event is going to be...'
+staxel.village.dialogue.Meek.line:10004700=多分…あの人はこのイベントを過大評価し過ぎてるんじゃないかな…
+//[Reference] 'But tell him I said yes. I don't see any problems.'
+staxel.village.dialogue.Meek.line:10004800=でも彼には大丈夫だと伝えておいてよ。こっちは何の問題もなさそうだよ。
+//[Reference] 'Ah ^c:1486b0;{0-playername}^c:pop;, you must have received my letter yes?'
+staxel.village.dialogue.Meek.line:10004810=あっ、^c:1486b0;{0-playername}^c:pop;、僕の手紙を受け取ったんだね？
+//[Reference] 'Oh, hello ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Meek.line:10004900=やあ、こんにちは、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'Things have been a bit blue around here lately...'
+staxel.village.dialogue.Meek.line:10005000=最近ちょっと憂鬱で…
+//[Reference] 'It's been a long time since I was last able to contact my family back in the ^c:1486b0;woodlands^c:pop;.'
+staxel.village.dialogue.Meek.line:10005100=^c:1486b0;森^c:pop;の家族と最後に連絡を取ってからずいぶん経つんだ。
+//[Reference] 'Even if ^c:1486b0;Maximilian^c:pop; managed to get us connected to the postal service...'
+staxel.village.dialogue.Meek.line:10005200=^c:1486b0;マクシミリアン^c:pop;も郵便の業務で何とか連絡を取れるようにしてくれたけど…
+//[Reference] 'There still isn't a good way to send post to other people...'
+staxel.village.dialogue.Meek.line:10005300=それでもまだこの郵送は安定してなくてね…
+//[Reference] 'I've been thinking for a while that I could open up a small ^c:1486b0;post office^c:pop; in this ^c:1486b0;shop^c:pop;...'
+staxel.village.dialogue.Meek.line:10005400=ちょっと前から、僕の^c:1486b0;店^c:pop;に小さな^c:1486b0;郵便局^c:pop;を開こうかなって考えてたんだ…
+//[Reference] 'But I'm not sure we'd be able to accommodate it right now.'
+staxel.village.dialogue.Meek.line:10005500=でも、だからって今すぐにできるかどうか分からない。
+//[Reference] 'Nor do I have agreement from the local ^c:1486b0;postmen^c:pop;...'
+staxel.village.dialogue.Meek.line:10005600=それにここに来る^c:1486b0;配達員^c:pop;の了承も得られてないし…
+//[Reference] 'I can help you out!'
+staxel.village.dialogue.Meek.line:10005700=手伝うよ！
+//[Reference] 'Good luck!'
+staxel.village.dialogue.Meek.line:10005800=がんばって！
+//[Reference] 'Yes... Thank you, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Meek.line:10005900=うん…ありがとう、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'Really? You'd be willing to do that for me?'
+staxel.village.dialogue.Meek.line:10006000=本当に？頼んでもいいの？
+//[Reference] 'Thank you!'
+staxel.village.dialogue.Meek.line:10006100=ありがとう！
+//[Reference] 'I suppose the first step would be to expand the ^c:1486b0;shop^c:pop; a bit...'
+staxel.village.dialogue.Meek.line:10006200=まずは^c:1486b0;お店^c:pop;を少し広げようと思うんだ…
+//[Reference] 'We need a ^c:d03e37;counter^c:pop; for handling post and a ^c:d03e37;postbox^c:pop; at least...'
+staxel.village.dialogue.Meek.line:10006300=せめて郵送業務用の^c:d03e37;カウンター^c:pop;と^c:d03e37;郵便ポスト^c:pop;は欲しいね…
+//[Reference] 'I think this should help you get started!'
+staxel.village.dialogue.Meek.line:10006400=君の作業にはこれが使えると思うよ！
+//[Reference] 'Really, thank you for agreeing to help me, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Meek.line:10006500=本当に手伝ってくれてありがとう、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'Normally I have to do everything myself around here...'
+staxel.village.dialogue.Meek.line:10006600=普段は身の回りのことは全部1人でやってたからさ…
+//[Reference] 'This is great, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Meek.line:10006700=すごいよ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'I'd say we're halfway there...'
+staxel.village.dialogue.Meek.line:10006800=これでやっと半分ってところかな…
+//[Reference] 'Now if we could just find a couple of ^c:1486b0;reliable postmen^c:pop;...'
+staxel.village.dialogue.Meek.line:10006900=あとは^c:1486b0;信頼できる配達員^c:pop;さえ見つかれば…
+//[Reference] 'I'd try asking some of the Murmur merchants by the town square.'
+staxel.village.dialogue.Meek.line:10006910=町の広場にいるマーマー商人に聞いてみてよ。
+//[Reference] 'The Murmurs tend to travel, so they know a lot of people!'
+staxel.village.dialogue.Meek.line:10007000=マーマーたちは旅をしてることが多いから、色んな人と知り合いなんだ！
+//[Reference] 'Have you heard anything about ^c:1486b0;reliable postmen^c:pop; yet?'
+staxel.village.dialogue.Meek.line:10007100=何か^c:1486b0;信頼できる配達員^c:pop;の情報は掴めた？
+//[Reference] 'We'll need a couple of them to agree to our proposal before we can actually start sending post...'
+staxel.village.dialogue.Meek.line:10007200=実際に郵便配達を始めるなら、まずは配達員を何人か確保しておかないとね…
+//[Reference] 'Hello, ^c:1486b0;{0-playername}^c:pop;. I had a couple of ^c:1486b0;postmen^c:pop; pass through!'
+staxel.village.dialogue.Meek.line:10007300=こんにちは、^c:1486b0;{0-playername}^c:pop;。^c:1486b0;配達員^c:pop;を確保できたよ！
+//[Reference] 'It looks like we're all set for post collection!'
+staxel.village.dialogue.Meek.line:10007400=これで郵便回収の準備はバッチリ！
+//[Reference] 'Now we just need someone to send the first letter!'
+staxel.village.dialogue.Meek.line:10007500=あとは誰かに最初の手紙を出してもらうだけだね！
+//[Reference] 'This isn't quite enough to compensate you for everything you've done...'
+staxel.village.dialogue.Meek.line:10007600=あれだけのことをしてもらって、これじゃお礼には足りないよね…
+//[Reference] 'So how about this: come by any time you like and you can send post completely free!'
+staxel.village.dialogue.Meek.line:10007700=だからこういうのはどうかな、君はいつでも好きな時に来て郵便サービスをタダで使えるんだ！
+//[Reference] 'You just need to use the ^c:d03e37;counter^c:pop; over there and it should be pretty simple!'
+staxel.village.dialogue.Meek.line:10007800=そこの^c:d03e37;カウンター^c:pop;を使うだけだから、すごく簡単だよ！
+//[Reference] 'And now that we’ve got expanded shipping capabilities, I bet we could start using that new service...'
+staxel.village.dialogue.Meek.line:10007810=これで配送機能を増やせたから、あの新しいサービスも使えると思うんだよね…
+//[Reference] '^c:1486b0;Honey.Comb^c:pop;, that’s it! It’s great for ordering products and selling items right from your farm!'
+staxel.village.dialogue.Meek.line:10007820=そう、^c:1486b0;Honey.Comb^c:pop;！君の牧場から直接アイテムを注文したり売ったりするのにぴったりなものだよ！
+//[Reference] 'I’ll get the ^c:1486b0;Catalogue^c:pop; and ^c:1486b0;Shipping Station^c:pop; in stock soon, keep an eye out for it.'
+staxel.village.dialogue.Meek.line:10007830=すぐに^c:1486b0;カタログ^c:pop;と^c:1486b0;配送ステーション^c:pop;を入荷するから、楽しみにしててよ。
+//[Reference] 'See you around ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Meek.line:10007840=それじゃまたね、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Hello, ^c:1486b0;{0-playername}^c:pop;. Here to post a letter?'
+staxel.village.dialogue.Meek.line:10007900=こんにちは、^c:1486b0;{0-playername}^c:pop;。手紙を出しに来たの？
+//[Reference] 'There's someone here to see you.'
+staxel.village.dialogue.Meek.line:10008000=君を訪ねて来た人がいたよ。
+//[Reference] 'Yep!'
+staxel.village.dialogue.Meek.line:10008100=うん！
+//[Reference] '...there is?'
+staxel.village.dialogue.Meek.line:10008200=…訪ねて？
+//[Reference] 'Who is it? You didn't get a name?'
+staxel.village.dialogue.Meek.line:10008300=誰？名前は聞いた？
+//[Reference] 'What did they look like? A bit robotic?'
+staxel.village.dialogue.Meek.line:10008400=見た目は？ちょっとロボットみたいだって？
+//[Reference] 'What did she want? She wanted me to come back, didn't she?'
+staxel.village.dialogue.Meek.line:10008500=何か言ってた？どうせ僕を連れ戻しに来たんでしょ？
+//[Reference] 'Who would watch the ^c:1486b0;store^c:pop; then?'
+staxel.village.dialogue.Meek.line:10008600=僕がいなかったら誰が^c:1486b0;お店^c:pop;を見るのさ？
+//[Reference] 'As much as I'd like to, I have other responsibilities now.'
+staxel.village.dialogue.Meek.line:10008700=帰りたくても、今は僕にだって責任ってものがあるんだ。
+//[Reference] 'I can't just forget about them and run off into the woodlands...'
+staxel.village.dialogue.Meek.line:10008800=全て放り投げて森に帰るなんてできないよ…
+//[Reference] 'Things are not so simple. Please let her know that.'
+staxel.village.dialogue.Meek.line:10008900=そんな単純でもないんだ。彼女にもそう伝えておいて。
+//[Reference] 'You know where the ^c:d03e37;counter^c:pop; is then!'
+staxel.village.dialogue.Meek.line:10009000=じゃあ^c:d03e37;カウンター^c:pop;を使ってね！
+//[Reference] 'I think you might be the only person actively sending anything these days...'
+staxel.village.dialogue.Meek.line:10009100=最近の郵便サービスのお得意様は君くらいだよ…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;? What are you doing here?'
+staxel.village.dialogue.Meek.line:10009200=^c:1486b0;{0-playername}^c:pop;？ここで何してるのさ？
+//[Reference] '^c:1486b0;Rem^c:pop; got you in?'
+staxel.village.dialogue.Meek.line:10009300=^c:1486b0;レム^c:pop;が君をここに？
+//[Reference] 'Well that's a relief...'
+staxel.village.dialogue.Meek.line:10009400=それならよかった…
+//[Reference] 'I was beginning to think no one was coming!'
+staxel.village.dialogue.Meek.line:10009500=もう誰も来ないんじゃないかと心配したよ！
+//[Reference] 'I shudder to think what might happen if no one is around to watch the store...'
+staxel.village.dialogue.Meek.line:10009600=お店を見る人が誰もいないんじゃないかと思うとゾッとするよ…
+//[Reference] 'What's with this place?'
+staxel.village.dialogue.Meek.line:10009700=この場所は何なの？
+//[Reference] 'Hmm?'
+staxel.village.dialogue.Meek.line:10009800=うん？
+//[Reference] 'This is just my home village. Maybe you ran into my sisters while you were here?'
+staxel.village.dialogue.Meek.line:10009900=僕の故郷の村だよ。もしかしてここで僕の姉妹に会ったんじゃない？
+//[Reference] 'So did you bring a way for us to escape?'
+staxel.village.dialogue.Meek.line:10010000=それで、君はここから脱出する方法とかあるの？
+//[Reference] '...no.'
+staxel.village.dialogue.Meek.line:10010100=…ない。
+//[Reference] 'You came in here with no way out? So we're both stuck now?'
+staxel.village.dialogue.Meek.line:10010200=手ぶらで来ちゃったの？ってことは僕ら2人とも閉じ込められたってこと？
+//[Reference] 'Well this is a bit unfortunate...'
+staxel.village.dialogue.Meek.line:10010300=いやあ、これはちょっと困ったなぁ…
+//[Reference] 'How was the store when you were last there?'
+staxel.village.dialogue.Meek.line:10010400=君がここに来る前、お店の様子はどうだった？
+//[Reference] 'It's still intact...right?'
+staxel.village.dialogue.Meek.line:10010500=なんともなってない…よね？
+//[Reference] 'I-'
+staxel.village.dialogue.Meek.line:10010510=それと…
+//[Reference] '...'
+staxel.village.dialogue.Meek.line:10010700=…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, perhaps you could give us a moment?'
+staxel.village.dialogue.Meek.line:10010800=^c:1486b0;{0-playername}^c:pop;、もう少しだけ時間をくれないかな？
+//[Reference] 'Thank you for coming all the way out here for me. I didn't expect anyone to go so far.'
+staxel.village.dialogue.Meek.line:10010900=僕のために駆けつけてくれてありがとう。ここまで来てくれる人がいるなんて思ってもみなかったよ。
+//[Reference] 'But it looks like I still have a few more things to deal with first.'
+staxel.village.dialogue.Meek.line:10011000=でも、まずはやらなきゃいけないことがあるみたいなんだ。
+//[Reference] 'I'll make my own way back once I'm done here.'
+staxel.village.dialogue.Meek.line:10011100=それが終わったら自力で帰ってくるよ。
+//[Reference] 'The ^c:1486b0;Tavern^c:pop; has been a bit lonely of late...'
+staxel.village.dialogue.Meek.line:10011200=最近は^c:1486b0;酒場^c:pop;にいてもちょっと寂しかったんだよね…
+//[Reference] 'So if you feel like you want a roomie, I probably wouldn't say no...'
+staxel.village.dialogue.Meek.line:10011300=だから、もし君がルームメイトを探してるなら、僕は喜んで受けるよ。
+//[Reference] 'But we can talk about that later. There will be plenty of time.'
+staxel.village.dialogue.Meek.line:10011400=まあ、このことはまた今度話そうよ。時間はたっぷりあるしね。
+//[Reference] '^c:1486b0;Rem^c:pop;, send ^c:1486b0;{0-playername}^c:pop; back.'
+staxel.village.dialogue.Meek.line:10011500=^c:1486b0;レム^c:pop;、^c:1486b0;{0-playername}^c:pop;を帰してあげて。
+//[Reference] '...'
+staxel.village.dialogue.Meek.line:10011600=…
+//[Reference] '...'
+staxel.village.dialogue.Meek.line:10011700=…
+//[Reference] 'I got a weird feeling this morning...'
+staxel.village.dialogue.Meek.line:10011800=今朝、ちょっと変な感じがしたんだ…
+//[Reference] 'Like most other mornings, I was just rearranging the store items...'
+staxel.village.dialogue.Meek.line:10011900=朝はいつものように、お店にアイテムを並べてたんだけど…
+//[Reference] 'But when I turned my back for a bit, some of the items went missing!'
+staxel.village.dialogue.Meek.line:10012000=ちょっと目を離した隙に、アイテムがいくつかなくなってたんだ！
+//[Reference] 'I might have been daydreaming... but that does make me anxious.'
+staxel.village.dialogue.Meek.line:10012100=僕がぼんやりしてただけかもしれないけど…ちょっと不安になるよね。

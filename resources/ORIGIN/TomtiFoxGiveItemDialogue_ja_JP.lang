@@ -1,0 +1,16 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Give it a gift'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000100=プレゼントをあげる
+//[Reference] '...'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000101=…
+//[Reference] '*ar* *rooff*'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000110=ウゥ、コンコン
+//[Reference] 'Don't give it a gift'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000200=プレゼントをあげない
+//[Reference] '*munch* *munch*'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000300=ムシャムシャ
+//[Reference] '*rooff*'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000400=コンコン
+//[Reference] '...'
+staxel.village.dialogue.TomtiFoxGiveItem.line:10000500=…

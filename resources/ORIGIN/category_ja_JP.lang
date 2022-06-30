@@ -1,0 +1,1355 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+
+//[Reference] 'Accessory'
+staxel.category.Accessory=アクセサリー
+//[Reference] 'Advertisement'
+staxel.category.advertisement=広告
+//[Reference] 'Algae'
+staxel.category.algae=藻
+//[Reference] 'All'
+staxel.category.all=すべて
+//[Reference] 'Allium'
+staxel.category.Allium=アリウム
+//[Reference] 'Animal'
+staxel.category.animal=動物
+//[Reference] 'Animalcrate'
+staxel.category.animalCrate=動物の木箱
+//[Reference] 'Antique'
+staxel.category.Antique=アンティーク
+//[Reference] 'Anything'
+staxel.category.any=どれでも
+//[Reference] 'Apiary'
+staxel.category.apiary=養蜂箱
+//[Reference] 'Apple'
+staxel.category.apple=リンゴ
+//[Reference] 'Arch'
+staxel.category.arch=アーチ
+//[Reference] 'Arched'
+staxel.category.arched=アーチ状のもの
+//[Reference] 'Archway'
+staxel.category.archway=アーチ道
+//[Reference] 'Area'
+staxel.category.area=エリア
+//[Reference] 'Armchair'
+staxel.category.armchair=アームチェア
+//[Reference] 'Artichoke'
+staxel.category.Artichoke=アーティチョーク
+//[Reference] 'Axe'
+staxel.category.axe=斧
+//[Reference] 'Aztec'
+staxel.category.aztec=アステカ
+//[Reference] 'Bakeable'
+staxel.category.bakeable=調理可能
+//[Reference] 'Baked'
+staxel.category.baked=調理済み
+//[Reference] 'Baking'
+staxel.category.baking=ベーキング
+//[Reference] 'Baking Station'
+staxel.category.bakingstation=ベーキングステーション
+//[Reference] 'Ball'
+staxel.category.ball=ボール
+//[Reference] 'banana'
+staxel.category.Banana=バナナ
+//[Reference] 'Banner'
+staxel.category.banner=旗
+//[Reference] 'barber'
+staxel.category.barber=床屋
+//[Reference] 'Bark'
+staxel.category.bark=樹皮
+//[Reference] 'Barrel'
+staxel.category.barrel=タル
+//[Reference] 'Basic'
+staxel.category.basic=ベーシック
+//[Reference] 'Basket'
+staxel.category.basket=バスケット
+//[Reference] 'Bat'
+staxel.category.bat=コウモリ
+//[Reference] 'Bathroom'
+staxel.category.bathroom=風呂
+//[Reference] 'Beach'
+staxel.category.beach=ビーチ
+//[Reference] 'Beam'
+staxel.category.beam=ビーム
+//[Reference] 'Beard'
+staxel.category.beard=ひげ
+//[Reference] 'Bed'
+staxel.category.bed=ベッド
+//[Reference] 'Bedside'
+staxel.category.bedside=枕もと
+//[Reference] 'Bee'
+staxel.category.bee=ハチ
+//[Reference] 'Beehive'
+staxel.category.beehive=ハチの巣
+//[Reference] 'Bees'
+staxel.category.bees=ハチ
+//[Reference] 'Beet'
+staxel.category.beet=ビーツ
+//[Reference] 'Beetle'
+staxel.category.beetle=甲虫
+//[Reference] 'Bench'
+staxel.category.bench=ベンチ
+//[Reference] 'Billboard'
+staxel.category.billboard=掲示板
+//[Reference] 'Bin'
+staxel.category.bin=ビン
+//[Reference] 'Birch'
+staxel.category.birch=白樺
+//[Reference] 'Birthday'
+staxel.category.birthday=誕生日
+//[Reference] 'Black'
+staxel.category.black=黒色
+//[Reference] 'Blackberries'
+staxel.category.blackberries=ブラックベリー
+//[Reference] 'Blackberry'
+staxel.category.blackberry=ブラックベリー
+//[Reference] 'Blanket'
+staxel.category.blanket=ブランケット
+//[Reference] 'Blinds'
+staxel.category.blinds=ブラインド
+//[Reference] 'Block'
+staxel.category.block=ブロック
+//[Reference] 'Blue'
+staxel.category.blue=青色
+//[Reference] 'Blueberries'
+staxel.category.blueberries=ブルーベリー
+//[Reference] 'Blueberry'
+staxel.category.blueberry=ブルーベリー
+//[Reference] 'Board'
+staxel.category.board=板
+//[Reference] 'Bobblehead'
+staxel.category.bobblehead=ボブルヘッド
+//[Reference] 'Boilable'
+staxel.category.boilable=茹でられるもの
+//[Reference] 'Boiling'
+staxel.category.boiling=ボイリング
+//[Reference] 'Book'
+staxel.category.book=本
+//[Reference] 'Bowl'
+staxel.category.bowl=ボウル
+//[Reference] 'Box'
+staxel.category.box=箱
+//[Reference] 'Bread'
+staxel.category.bread=パン
+//[Reference] 'Brick'
+staxel.category.brick=レンガ
+//[Reference] 'Bricks'
+staxel.category.bricks=レンガ
+//[Reference] 'Bridge'
+staxel.category.bridge=橋
+//[Reference] 'Broken'
+staxel.category.broken=壊れたもの
+//[Reference] 'broom'
+staxel.category.broom=ホウキ
+//[Reference] 'Brown'
+staxel.category.brown=茶色
+//[Reference] 'Bucket'
+staxel.category.bucket=バケツ
+//[Reference] 'Bug'
+staxel.category.bug=虫
+//[Reference] 'Building'
+staxel.category.building=建物
+//[Reference] 'Bunk'
+staxel.category.bunk=宿泊所
+//[Reference] 'Bureau'
+staxel.category.bureau=事務局
+//[Reference] 'Burnt'
+staxel.category.burnt=焼いたもの
+//[Reference] 'Bush'
+staxel.category.bush=低木
+//[Reference] 'Bushy'
+staxel.category.bushy=茂み
+//[Reference] 'Butter'
+staxel.category.butter=バター
+//[Reference] 'Cabbage'
+staxel.category.cabbage=キャベツ
+//[Reference] 'Cabinet'
+staxel.category.cabinet=キャビネット
+//[Reference] 'Cake'
+staxel.category.cake=ケーキ
+//[Reference] 'Camp'
+staxel.category.camp=キャンプ
+//[Reference] 'Campfire'
+staxel.category.campfire=キャンプファイア
+//[Reference] 'Camping'
+staxel.category.camping=キャンプ
+//[Reference] 'Can'
+staxel.category.can=缶
+//[Reference] 'Candle'
+staxel.category.candle=ロウソク
+//[Reference] 'Candles'
+staxel.category.candles=ロウソク
+//[Reference] 'Candy'
+staxel.category.candy=キャンディー
+//[Reference] 'Cane'
+staxel.category.cane=茎
+//[Reference] 'Cardboard'
+staxel.category.cardboard=ダンボール
+//[Reference] 'Carpet'
+staxel.category.carpet=カーペット
+//[Reference] 'Carrot'
+staxel.category.carrot=ニンジン
+//[Reference] 'Carrots'
+staxel.category.carrots=ニンジン
+//[Reference] 'cart'
+staxel.category.cart=カート
+//[Reference] 'Cash'
+staxel.category.cash=お金
+//[Reference] 'Cask'
+staxel.category.cask=タル
+//[Reference] 'Castle'
+staxel.category.castle=城
+//[Reference] 'Cat'
+staxel.category.cat=ネコ
+//[Reference] 'Catching'
+staxel.category.catching=捕獲
+//[Reference] 'Cave'
+staxel.category.cave=洞窟
+//[Reference] 'Ceiling'
+staxel.category.ceiling=天井
+//[Reference] 'Chair'
+staxel.category.chair=イス
+//[Reference] 'Chandelier'
+staxel.category.chandelier=シャンデリア
+//[Reference] 'checker'
+staxel.category.checker=チェッカー
+//[Reference] 'Checkers'
+staxel.category.checkers=チェッカー
+//[Reference] 'Cheese'
+staxel.category.cheese=チーズ
+//[Reference] 'Chef'
+staxel.category.chef=シェフ
+//[Reference] 'Cherries'
+staxel.category.cherries=サクランボ
+//[Reference] 'Cherry'
+staxel.category.cherry=サクランボ
+//[Reference] 'chess'
+staxel.category.chess=チェス
+//[Reference] 'Chest'
+staxel.category.chest=チェスト
+//[Reference] 'Chicken'
+staxel.category.chicken=ニワトリ
+//[Reference] 'chime'
+staxel.category.chime=チャイム
+//[Reference] 'Chimney'
+staxel.category.chimeny=煙突
+//[Reference] 'Chimney'
+staxel.category.chimney=煙突
+//[Reference] 'Chip'
+staxel.category.chip=チップ
+//[Reference] 'Chips'
+staxel.category.chips=チップス
+//[Reference] 'Chocolate'
+staxel.category.chocolate=チョコレート
+//[Reference] 'Choppable'
+staxel.category.choppable=カットできるもの
+//[Reference] 'Chopped'
+staxel.category.chopped=カットしたもの
+//[Reference] 'Chopping'
+staxel.category.chopping=チョッピング
+//[Reference] 'Christmas'
+staxel.category.christmas=クリスマス
+//[Reference] 'Circle'
+staxel.category.circle=サークル
+//[Reference] 'Clay'
+staxel.category.clay=粘土
+//[Reference] 'clock'
+staxel.category.clock=時計
+//[Reference] 'Closet'
+staxel.category.closet=クローゼット
+
+//[Reference] 'Clothing'
+staxel.category.clothing=服
+//[Reference] 'Coat'
+staxel.category.coat=コート
+//[Reference] 'Cobble'
+staxel.category.cobble=丸石
+//[Reference] 'Cobblestone'
+staxel.category.cobblestone=丸石
+//[Reference] 'Cobweb'
+staxel.category.cobweb=クモの巣
+//[Reference] 'Cocoa'
+staxel.category.Cocoa=ココア
+//[Reference] 'Coconut'
+staxel.category.coconut=ココナッツ
+//[Reference] 'Coffee'
+staxel.category.coffee=コーヒー
+//[Reference] 'computer'
+staxel.category.computer=コンピューター
+//[Reference] 'cone'
+staxel.category.cone=コーン
+//[Reference] 'Consumable'
+staxel.category.consumable=消費できるもの
+//[Reference] 'Container'
+staxel.category.container=コンテナ
+//[Reference] 'Contemporary'
+staxel.category.contemporary=現代風のもの
+//[Reference] 'Cookies'
+staxel.category.cookies=クッキー
+//[Reference] 'Cooking'
+staxel.category.cooking=クッキング
+//[Reference] 'cooler'
+staxel.category.cooler=クーラー
+//[Reference] 'Coop'
+staxel.category.coop=小屋
+//[Reference] 'corkboard'
+staxel.category.corkboard=コルク板
+//[Reference] 'Corn'
+staxel.category.corn=トウモロコシ
+//[Reference] 'Corner'
+staxel.category.corner=コーナー
+//[Reference] 'Couch'
+staxel.category.couch=カウチ
+//[Reference] 'Counter'
+staxel.category.counter=カウンター
+//[Reference] 'Countertop'
+staxel.category.countertop=カウンタートップ
+//[Reference] 'Couscous'
+staxel.category.couscous=クスクス
+//[Reference] 'Cow'
+staxel.category.cow=牛
+//[Reference] 'Cozy'
+staxel.category.cozy=快適
+//[Reference] 'Crab'
+staxel.category.Crab=カニ
+//[Reference] 'Crafting'
+staxel.category.crafting=クラフト
+//[Reference] 'Crafting Station'
+staxel.category.craftingStation=クラフトステーション
+//[Reference] 'Crate'
+staxel.category.crate=木箱
+//[Reference] 'Cream'
+staxel.category.cream=クリーム
+//[Reference] 'Credenza'
+staxel.category.credenza=サイドボード
+//[Reference] 'Creepy'
+staxel.category.creepy=コワいもの
+//[Reference] 'Crisps'
+staxel.category.crisps=パリパリしたもの
+//[Reference] 'Crop'
+staxel.category.crop=作物
+//[Reference] 'Cucumber'
+staxel.category.cucumber=キュウリ
+//[Reference] 'Cupboard'
+staxel.category.cupboard=食器棚
+//[Reference] 'Cut'
+staxel.category.cut=切ったもの
+//[Reference] 'Dark'
+staxel.category.dark=ダーク
+//[Reference] 'Dark Wood'
+staxel.category.darkwood=ダークウッド
+//[Reference] 'Davenport'
+staxel.category.davenport=長椅子
+//[Reference] 'Dead'
+staxel.category.dead=死んだもの
+//[Reference] 'Deck'
+staxel.category.deck=デッキ
+//[Reference] 'Decor'
+staxel.category.decor=飾り
+//[Reference] 'Decoration'
+staxel.category.decoration=装飾
+//[Reference] 'Delphinium'
+staxel.category.Delphinium=ヒエンソウ
+//[Reference] 'Desk'
+staxel.category.desk=机
+//[Reference] 'Dessert'
+staxel.category.dessert=デザート
+//[Reference] 'Diced'
+staxel.category.diced=みじん切りにしたもの
+//[Reference] 'Dining'
+staxel.category.dining=ダイニング
+//[Reference] 'Dinner'
+staxel.category.dinner=ディナー
+//[Reference] 'Dirt'
+staxel.category.dirt=汚いもの
+//[Reference] 'display'
+staxel.category.display=ディスプレイ
+//[Reference] 'Dog'
+staxel.category.dog=イヌ
+//[Reference] 'Dogs'
+staxel.category.dogs=イヌ
+//[Reference] 'Door'
+staxel.category.door=ドア
+//[Reference] 'Dot'
+staxel.category.Dot=ドット
+//[Reference] 'Double'
+staxel.category.double=ダブル
+//[Reference] 'Dragon Fruit'
+staxel.category.dragonfruit=ドラゴンフルーツ
+//[Reference] 'Drawers'
+staxel.category.drawers=引出し
+//[Reference] 'Dress'
+staxel.category.dress=ドレス
+//[Reference] 'Dresser'
+staxel.category.dresser=ドレッサー
+//[Reference] 'Dressing'
+staxel.category.dressing=ドレッシング
+//[Reference] 'Drink'
+staxel.category.drink=ドリンク
+//[Reference] 'Drum'
+staxel.category.drum=ドラム
+//[Reference] 'Dry'
+staxel.category.dry=ドライ
+//[Reference] 'Duck'
+staxel.category.duck=アヒル
+//[Reference] 'Dungeon'
+staxel.category.dungeon=地下
+//[Reference] 'Edge'
+staxel.category.Edge=エッジ
+//[Reference] 'Edible'
+staxel.category.edible=食べられるもの
+//[Reference] 'Egg'
+staxel.category.egg=卵
+//[Reference] 'Eggplant'
+staxel.category.eggplant=ナス
+//[Reference] 'Electronic'
+staxel.category.electronic=電子
+//[Reference] 'Emote'
+staxel.category.emote=動作
+//[Reference] 'Empty'
+staxel.category.empty=空っぽ
+//[Reference] 'End'
+staxel.category.end=終了
+//[Reference] 'Explorer'
+staxel.category.explorer=冒険家
+//[Reference] 'Facial Hair'
+staxel.category.facialhair=顔ひげ
+//[Reference] 'Fairy'
+staxel.category.fairy=フェアリー
+//[Reference] 'Fairy Flower'
+staxel.category.fairyflower=フェアリーフラワー
+//[Reference] 'Fairy Water'
+staxel.category.fairywater=フェアリーウォーター
+//[Reference] 'Fantasy'
+staxel.category.fantasy=ファンタジー
+//[Reference] 'Farm'
+staxel.category.farm=牧場
+//[Reference] 'Livestock'
+staxel.category.farmAnimals=家畜
+//[Reference] 'Feed'
+staxel.category.feed=エサやり
+//[Reference] 'Feeding'
+staxel.category.feeding=エサやり
+//[Reference] 'Fence'
+staxel.category.fence=フェンス
+//[Reference] 'Festival'
+staxel.category.festival=フェスティバル
+//[Reference] 'file'
+staxel.category.file=ファイル
+//[Reference] 'filing'
+staxel.category.filing=ファイリング
+//[Reference] 'Fire'
+staxel.category.fire=火
+//[Reference] 'Fish'
+staxel.category.fish=魚
+//[Reference] 'Fisher'
+staxel.category.fisher=漁師
+//[Reference] 'Fishing'
+staxel.category.fishing=魚釣り
+//[Reference] 'Flat'
+staxel.category.flat=フラット
+//[Reference] 'Floor'
+staxel.category.floor=床
+//[Reference] 'Flooring'
+staxel.category.flooring=フローリング
+//[Reference] 'Flour'
+staxel.category.flour=小麦粉
+//[Reference] 'Flower'
+staxel.category.flower=花
+//[Reference] 'Fluff'
+staxel.category.fluff=毛
+//[Reference] 'Fly'
+staxel.category.fly=ハエ
+//[Reference] 'Food'
+staxel.category.food=食料
+//[Reference] 'Foot'
+staxel.category.foot=足
+//[Reference] 'forest'
+staxel.category.forest=森
+//[Reference] 'Fountain'
+staxel.category.fountain=噴水
+//[Reference] 'Fox'
+staxel.category.fox=キツネ
+//[Reference] 'Frame'
+staxel.category.frame=フレーム
+//[Reference] 'Freezer'
+staxel.category.freezer=冷凍庫
+//[Reference] 'Fridge'
+staxel.category.fridge=冷蔵庫
+//[Reference] 'Frog'
+staxel.category.frog=カエル
+//[Reference] 'Fruit'
+staxel.category.fruit=果物
+//[Reference] 'Frying'
+staxel.category.frying=フライイング
+//[Reference] 'Full'
+staxel.category.full=フル
+//[Reference] 'Fungi'
+staxel.category.fungi=菌類
+//[Reference] 'Furniture'
+staxel.category.furniture=家具
+//[Reference] 'Futon'
+staxel.category.futon=布団
+//[Reference] 'Galaxy'
+staxel.category.galaxy=銀河
+//[Reference] 'Galaxyfragment'
+staxel.category.galaxyFragment=銀河の断片
+//[Reference] 'game'
+staxel.category.game=ゲーム
+//[Reference] 'Garbage'
+staxel.category.garbage=ゴミ
+//[Reference] 'garden'
+staxel.category.garden=庭
+//[Reference] 'Gate'
+staxel.category.gate=ゲート
+//[Reference] 'Gatherable'
+staxel.category.gatherable=収穫可能なもの
+//[Reference] 'Gift'
+staxel.category.gift=ギフト
+//[Reference] 'Gingerbread'
+staxel.category.gingerbread=ジンジャーブレッド
+//[Reference] 'glass'
+staxel.category.glass=眼鏡
+//[Reference] 'Glasses'
+staxel.category.glasses=眼鏡
+//[Reference] 'Glow'
+staxel.category.glow=明かり
+//[Reference] 'Glowing'
+staxel.category.glowing=明かり
+//[Reference] 'Goat'
+staxel.category.goat=ヤギ
+//[Reference] 'Gold'
+staxel.category.gold=金
+//[Reference] 'Goldenberries'
+staxel.category.goldenberries=ゴールデンベリー
+//[Reference] 'Goldenberry'
+staxel.category.goldenberry=ゴールデンベリー
+//[Reference] 'Golem'
+staxel.category.gollem=ゴーレム
+//[Reference] 'Grain'
+staxel.category.grain=穀物
+//[Reference] 'Grape'
+staxel.category.grape=ブドウ
+//[Reference] 'Grass'
+staxel.category.grass=草
+//[Reference] 'Grave'
+staxel.category.grave=墓
+//[Reference] 'Gravestone'
+staxel.category.gravestone=墓石
+//[Reference] 'gray'
+staxel.category.gray=灰色
+//[Reference] 'Green'
+staxel.category.green=緑色
+//[Reference] 'Grey'
+staxel.category.grey=灰色
+//[Reference] 'Grid'
+staxel.category.grid=グリッド
+//[Reference] 'Grilled'
+staxel.category.grilled=グリルで焼いたもの
+//[Reference] 'Groovy'
+staxel.category.groovy=イカしたもの
+//[Reference] 'Growable'
+staxel.category.growable=成長するもの
+//[Reference] 'Halfmoon'
+staxel.category.halfmoon=半月
+//[Reference] 'Hammer'
+staxel.category.hammer=ハンマー
+//[Reference] 'Hamper'
+staxel.category.hamper=障害物
+//[Reference] 'Handsaw'
+staxel.category.handsaw=ハンドソー
+//[Reference] 'Hanging'
+staxel.category.hanging=吊り下げ
+
+//[Reference] 'harvested'
+staxel.category.harvested=収穫されたもの
+
+//[Reference] 'Hat'
+staxel.category.Hat=帽子
+//[Reference] 'Hatch'
+staxel.category.hatch=ハッチ
+//[Reference] 'Head'
+staxel.category.head=頭
+//[Reference] 'Headstone'
+staxel.category.headstone=墓石
+//[Reference] 'Hedge'
+staxel.category.hedge=生垣
+//[Reference] 'Hedgehog'
+staxel.category.hedgehog=ハリネズミ
+//[Reference] 'Hen'
+staxel.category.hen=メンドリ
+//[Reference] 'Hermit'
+staxel.category.Hermit=ヤドカリ
+//[Reference] 'Heuchera'
+staxel.category.Heuchera=ホイチェラ
+//[Reference] 'High'
+staxel.category.high=高
+//[Reference] 'Hitops'
+staxel.category.hitops=ハイトップス
+//[Reference] 'Hive'
+staxel.category.hive=ハチの巣
+//[Reference] 'Hoe'
+staxel.category.hoe=クワ
+//[Reference] 'Home'
+staxel.category.home=ホーム
+//[Reference] 'Honey'
+staxel.category.honey=ハチミツ
+//[Reference] 'Hoodie'
+staxel.category.hoodie=パーカー
+//[Reference] 'Horizontal'
+staxel.category.horizontal=水平
+//[Reference] 'Horizontalred'
+staxel.category.HorizontalRed=水平の赤
+//[Reference] 'Hot'
+staxel.category.hot=ホット
+//[Reference] 'Hotdogs'
+staxel.category.hotdogs=ホットドッグ
+//[Reference] 'House'
+staxel.category.house=家
+//[Reference] 'Iced'
+staxel.category.iced=冷たいもの
+//[Reference] 'Icing'
+staxel.category.icing=アイシング
+//[Reference] 'Indoor'
+staxel.category.indoor=屋内
+//[Reference] 'Inn'
+staxel.category.inn=宿屋
+//[Reference] 'Inner Roof'
+staxel.category.innerroof=内側の屋根
+//[Reference] 'inspect'
+staxel.category.inspect=検査
+//[Reference] 'Item'
+staxel.category.item=アイテム
+//[Reference] 'Ivy'
+staxel.category.ivy=ツタ
+//[Reference] 'Jack'
+staxel.category.jack=ジャック
+//[Reference] 'jade'
+staxel.category.jade=ヒスイ
+//[Reference] 'Jam'
+staxel.category.jam=ジャム
+//[Reference] 'Jar'
+staxel.category.jar=ビン
+//[Reference] 'Jeans'
+staxel.category.jeans=ジーンズ
+//[Reference] 'Juice'
+staxel.category.juice=ジュース
+//[Reference] 'Keg'
+staxel.category.keg=ケグ
+//[Reference] 'kibble'
+staxel.category.kibble=キブル
+//[Reference] 'King'
+staxel.category.king=王様
+//[Reference] 'Kitchen'
+staxel.category.kitchen=キッチン
+//[Reference] 'Kiwi'
+staxel.category.kiwi=キウイ
+//[Reference] 'Knife'
+staxel.category.knife=ナイフ
+//[Reference] 'Lamp'
+staxel.category.lamp=ランプ
+//[Reference] 'Lantern'
+staxel.category.lantern=ランタン
+//[Reference] 'Large'
+staxel.category.large=大
+//[Reference] 'Largefishdisplay'
+staxel.category.largeFishDisplay=魚の大型ディスプレイ
+//[Reference] 'Lavender'
+staxel.category.lavender=ラベンダー
+//[Reference] 'leaf'
+staxel.category.leaf=葉
+//[Reference] 'Leaves'
+staxel.category.leaves=葉
+//[Reference] 'Lemon'
+staxel.category.lemon=レモン
+
+//[Reference] 'letter'
+staxel.category.letter=手紙
+//[Reference] 'Lettuce'
+staxel.category.lettuce=レタス
+//[Reference] 'license'
+staxel.category.license=ライセンス
+//[Reference] 'Light'
+staxel.category.light=ライト
+//[Reference] 'Lighthouse'
+staxel.category.lighthouse=灯台
+//[Reference] 'Lighting'
+staxel.category.lighting=照明
+//[Reference] 'Lightsource'
+staxel.category.lightsource=光源
+//[Reference] 'Lily'
+staxel.category.lily=ユリ
+//[Reference] 'Lime'
+staxel.category.lime=ライム
+//[Reference] 'Lion'
+staxel.category.Lion=ライオン
+//[Reference] 'Litter'
+staxel.category.litter=ガラクタ
+//[Reference] 'Livingroom'
+staxel.category.livingroom=リビング
+//[Reference] 'Lollipop'
+staxel.category.lollipop=ロリポップ
+//[Reference] 'Long'
+staxel.category.long=ロング
+//[Reference] 'Loose'
+staxel.category.loose=ルーズ
+//[Reference] 'Loot'
+staxel.category.loot=盗品
+//[Reference] 'Louse'
+staxel.category.louse=シラミ
+//[Reference] 'Love'
+staxel.category.love=愛
+//[Reference] 'Loveseat'
+staxel.category.loveseat=ロマンスシート
+//[Reference] 'Low'
+staxel.category.low=低
+//[Reference] 'Lucky'
+staxel.category.lucky=ラッキー
+//[Reference] 'Magenta'
+staxel.category.magenta=マゼンタ色
+//[Reference] 'Magic'
+staxel.category.magic=魔法
+
+//[Reference] 'magnifying'
+staxel.category.magnifying=拡大
+//[Reference] 'Mail'
+staxel.category.mail=郵便
+//[Reference] 'Mailbox'
+staxel.category.mailbox=郵便受け
+//[Reference] 'Maize'
+staxel.category.maize=トウモロコシ色
+//[Reference] 'Mango'
+staxel.category.mango=マンゴー
+//[Reference] 'marker'
+staxel.category.marker=マーカー
+//[Reference] 'Market'
+staxel.category.market=マーケット
+//[Reference] 'marmalade'
+staxel.category.marmalade=マーマレード
+//[Reference] 'Mask'
+staxel.category.mask=マスク
+//[Reference] 'Mast'
+staxel.category.mast=マスト
+//[Reference] 'Mecha'
+staxel.category.mecha=メカ
+//[Reference] 'Merchant'
+staxel.category.merchant=商人
+//[Reference] 'Metal'
+staxel.category.metal=金属
+//[Reference] 'Middle'
+staxel.category.middle=中
+//[Reference] 'Milk'
+staxel.category.milk=牛乳
+//[Reference] 'Milker'
+staxel.category.milker=搾乳機
+//[Reference] 'Milkyway'
+staxel.category.Milkyway=天の川
+//[Reference] 'Mini'
+staxel.category.mini=ミニ
+//[Reference] 'Minimalist'
+staxel.category.Minimalist=ミニマリスト
+//[Reference] 'Mirror'
+staxel.category.mirror=鏡
+//[Reference] 'Misc'
+staxel.category.misc=その他
+//[Reference] 'Mixable'
+staxel.category.mixable=混ぜ合わせられるもの
+//[Reference] 'mixedSeeds'
+staxel.category.mixedSeeds=シードミックス
+//[Reference] 'Mixing'
+staxel.category.mixing=ミキシング
+//[Reference] 'Money'
+staxel.category.money=お金
+//[Reference] 'Moon'
+staxel.category.moon=月
+//[Reference] 'Moonfish'
+staxel.category.MoonFish=マルコバン
+//[Reference] 'mosaic'
+staxel.category.mosaic=モザイク
+//[Reference] 'Moss'
+staxel.category.moss=コケ
+//[Reference] 'Mossy'
+staxel.category.mossy=コケむしたもの
+//[Reference] 'Moth'
+staxel.category.moth=蛾
+//[Reference] 'Moving'
+staxel.category.moving=移動
+//[Reference] 'Muffin'
+staxel.category.muffin=マフィン
+//[Reference] 'Muffins'
+staxel.category.muffins=マフィン
+//[Reference] 'Museum'
+staxel.category.museum=博物館
+//[Reference] 'Mushroom'
+staxel.category.mushroom=キノコ
+//[Reference] 'Mustache'
+staxel.category.mustache=口ひげ
+//[Reference] 'Natural'
+staxel.category.natural=自然
+//[Reference] 'Net'
+staxel.category.net=網
+//[Reference] 'Nettle'
+staxel.category.nettle=イラクサ
+//[Reference] 'Nightstand'
+staxel.category.nightstand=ナイトスタンド
+//[Reference] 'Nofetch'
+staxel.category.noFetch=取得なし
+//[Reference] 'Oat'
+staxel.category.oat=オート麦
+//[Reference] 'Oats'
+staxel.category.oats=オート麦
+//[Reference] 'office'
+staxel.category.office=オフィス
+//[Reference] 'Onion'
+staxel.category.onion=タマネギ
+//[Reference] 'Orange'
+staxel.category.orange=オレンジ
+//[Reference] 'Outer Roof'
+staxel.category.outerroof=外側の屋根
+//[Reference] 'Oven'
+staxel.category.oven=オーブン
+//[Reference] 'Packet'
+staxel.category.packet=小袋
+//[Reference] 'Packing'
+staxel.category.packing=パッキング
+//[Reference] 'Pad'
+staxel.category.pad=パッド
+//[Reference] 'Painted'
+staxel.category.painted=色が塗ってあるもの
+//[Reference] 'Painting'
+staxel.category.painting=絵画
+//[Reference] 'Pan'
+staxel.category.pan=フライパン
+//[Reference] 'Pantry'
+staxel.category.pantry=パントリー
+//[Reference] 'parasol'
+staxel.category.parasol=パラソル
+//[Reference] 'parcel'
+staxel.category.parcel=小包
+//[Reference] 'Parrot'
+staxel.category.Parrot=オウム
+//[Reference] 'Party'
+staxel.category.party=パーティ
+//[Reference] 'Pastel'
+staxel.category.pastel=パステル
+//[Reference] 'Path'
+staxel.category.path=小路
+//[Reference] 'pathing'
+staxel.category.pathing=小路
+//[Reference] 'Peach'
+staxel.category.peach=モモ
+//[Reference] 'Pear'
+staxel.category.pear=ナシ
+//[Reference] 'Penguin'
+staxel.category.Penguin=ペンギン
+//[Reference] 'Peppermint'
+staxel.category.peppermint=ペパーミント
+//[Reference] 'Pet'
+staxel.category.pet=ペット
+//[Reference] 'petFood'
+staxel.category.petFood=ペットフード
+//[Reference] 'Pheasant'
+staxel.category.Pheasant=キジ
+//[Reference] 'Pickaxe'
+staxel.category.pickaxe=つるはし
+//[Reference] 'Picket'
+staxel.category.picket=柵
+//[Reference] 'Picnic'
+staxel.category.picnic=ピクニック
+//[Reference] 'pictures'
+staxel.category.pictures=絵
+//[Reference] 'Pie'
+staxel.category.pie=パイ
+//[Reference] 'pig'
+staxel.category.pig=ブタ
+//[Reference] 'Pile'
+staxel.category.pile=積み重ね
+//[Reference] 'Pillar'
+staxel.category.pillar=柱
+//[Reference] 'Pink'
+staxel.category.pink=ピンク色
+//[Reference] 'Pink2'
+staxel.category.pink2=ピンク色2
+//[Reference] 'Pipe'
+staxel.category.pipe=パイプ
+//[Reference] 'Pirate'
+staxel.category.pirate=海賊
+//[Reference] 'Pitcher'
+staxel.category.pitcher=ピッチャー
+//[Reference] 'Plain'
+staxel.category.plain=プレーン
+//[Reference] 'Planks'
+staxel.category.planks=木の板
+//[Reference] 'Plant'
+staxel.category.plant=植物
+//[Reference] 'Plaster'
+staxel.category.plaster=しっくい
+//[Reference] 'Plate'
+staxel.category.plate=プレート
+//[Reference] 'Pointed'
+staxel.category.pointed=尖り
+//[Reference] 'Pole'
+staxel.category.pole=ポール
+//[Reference] 'Post'
+staxel.category.post=ポスト
+//[Reference] 'Poster'
+staxel.category.poster=ポスター
+//[Reference] 'Pot'
+staxel.category.pot=ポット
+//[Reference] 'Potato'
+staxel.category.potato=ジャガイモ
+//[Reference] 'Potted'
+staxel.category.potted=鉢植えに入ったもの
+//[Reference] 'Poultry'
+staxel.category.poultry=家禽
+//[Reference] 'Powder'
+staxel.category.powder=パウダー
+//[Reference] 'Present'
+staxel.category.present=プレゼント
+//[Reference] 'Princess'
+staxel.category.princess=お姫様
+//[Reference] 'Processed'
+staxel.category.processed=加工済み
+//[Reference] 'Produce'
+staxel.category.produce=生産
+//[Reference] 'Pumpkin'
+staxel.category.pumpkin=カボチャ
+//[Reference] 'Punch'
+staxel.category.punch=ポンチ
+//[Reference] 'Punk'
+staxel.category.punk=パンク
+//[Reference] 'Purple'
+staxel.category.purple=紫色
+//[Reference] 'Purplenettle'
+staxel.category.PurpleNettle=紫イラクサ
+//[Reference] 'Queen'
+staxel.category.queen=女王
+//[Reference] 'Quest'
+staxel.category.quest=クエスト
+//[Reference] 'Rail'
+staxel.category.rail=レール
+//[Reference] 'Railing'
+staxel.category.railing=手すり
+//[Reference] 'Rainbow'
+staxel.category.rainbow=虹
+//[Reference] 'Raisins'
+staxel.category.raisins=レーズン
+//[Reference] 'Ramp'
+staxel.category.ramp=傾斜面
+//[Reference] 'Ranch'
+staxel.category.ranch=牧場風
+//[Reference] 'Raspberries'
+staxel.category.raspberries=ラズベリー
+//[Reference] 'Raspberry'
+staxel.category.raspberry=ラズベリー
+//[Reference] 'Raw'
+staxel.category.raw=生
+//[Reference] 'Reapable'
+staxel.category.reapable=刈り取りできるもの
+//[Reference] 'Recipe'
+staxel.category.recipe=レシピ
+//[Reference] 'Red'
+staxel.category.red=赤色
+//[Reference] 'Refrigerator'
+staxel.category.refrigerator=冷蔵庫
+//[Reference] 'Register'
+staxel.category.register=登録
+//[Reference] 'Renamer'
+staxel.category.Renamer=リネーマー
+//[Reference] 'Resource'
+staxel.category.resource=資源
+//[Reference] 'Reward'
+staxel.category.reward=報酬
+//[Reference] 'Rhubarb'
+staxel.category.Rhubarb=ルバーブ
+//[Reference] 'Rice'
+staxel.category.rice=米
+//[Reference] 'Right'
+staxel.category.right=右
+//[Reference] 'road'
+staxel.category.road=道路
+//[Reference] 'Rock'
+staxel.category.rock=岩
+//[Reference] 'Rod'
+staxel.category.rod=釣り竿
+//[Reference] 'Roof'
+staxel.category.roof=屋根
+//[Reference] 'Roofing'
+staxel.category.roofing=屋根ふき
+//[Reference] 'Room'
+staxel.category.room=部屋
+//[Reference] 'rope'
+staxel.category.rope=ロープ
+//[Reference] 'Rose'
+staxel.category.rose=バラ
+//[Reference] 'Rough'
+staxel.category.rough=粗いもの
+//[Reference] 'Round'
+staxel.category.round=丸いもの
+//[Reference] 'Ruffle'
+staxel.category.ruffle=フリル
+//[Reference] 'Rune'
+staxel.category.rune=ルーン文字
+//[Reference] 'Sale'
+staxel.category.sale=セール
+//[Reference] 'Salt'
+staxel.category.salt=塩
+//[Reference] 'Sand'
+staxel.category.sand=砂
+//[Reference] 'Sandwich'
+staxel.category.sandwich=サンドイッチ
+
+//[Reference] 'Sap'
+staxel.category.sap=サップ
+//[Reference] 'sauce'
+staxel.category.sauce=ソース
+//[Reference] 'Sausages'
+staxel.category.sausages=ソーセージ
+//[Reference] 'Saw'
+staxel.category.saw=のこぎり
+//[Reference] 'Scarecrow'
+staxel.category.scarecrow=カカシ
+//[Reference] 'Sconce'
+staxel.category.sconce=スコーン
+//[Reference] 'Scythe'
+staxel.category.scythe=鎌
+//[Reference] 'Seat'
+staxel.category.seat=シート
+//[Reference] 'Seed'
+staxel.category.seed=種
+//[Reference] 'Seedling'
+staxel.category.seedling=苗木
+
+//[Reference] 'seedMaker'
+staxel.category.seedMaker=種生成機
+//[Reference] 'Seeds'
+staxel.category.seeds=種
+//[Reference] 'Set'
+staxel.category.set=セット
+//[Reference] 'Settee'
+staxel.category.settee=長椅子
+//[Reference] 'Shears'
+staxel.category.shears=はさみ
+//[Reference] 'Sheep'
+staxel.category.sheep=ヒツジ
+//[Reference] 'Shelf'
+staxel.category.shelf=棚
+//[Reference] 'Shell'
+staxel.category.shell=貝
+//[Reference] 'Shiny'
+staxel.category.shiny=キラキラしたもの
+//[Reference] 'Ship'
+staxel.category.ship=船
+//[Reference] 'Shipping'
+staxel.category.shipping=配送
+//[Reference] 'Shirt'
+staxel.category.Shirt=シャツ
+//[Reference] 'Shoddy'
+staxel.category.shoddy=粗末
+//[Reference] 'Shoes'
+staxel.category.Shoes=靴
+//[Reference] 'Shop'
+staxel.category.shop=ショップ
+//[Reference] 'Short'
+staxel.category.short=ショート
+//[Reference] 'Shorts'
+staxel.category.shorts=ショーツ
+//[Reference] 'Shrub'
+staxel.category.shrub=庭木
+//[Reference] 'Sickle'
+staxel.category.sickle=小鎌
+//[Reference] 'Side'
+staxel.category.side=側面
+//[Reference] 'Sign'
+staxel.category.sign=看板
+//[Reference] 'Signboard'
+staxel.category.signboard=広告板
+//[Reference] 'silver'
+staxel.category.silver=銀
+//[Reference] 'Single'
+staxel.category.single=シングル
+//[Reference] 'Sink'
+staxel.category.sink=洗面台
+//[Reference] 'Sit'
+staxel.category.sit=座るもの
+//[Reference] 'Skater'
+staxel.category.skater=スケーター
+//[Reference] 'Skirt'
+staxel.category.skirt=スカート
+//[Reference] 'Skull'
+staxel.category.skull=頭蓋骨
+//[Reference] 'Slab'
+staxel.category.slab=平板
+//[Reference] 'Slate'
+staxel.category.slate=板
+//[Reference] 'Sleep'
+staxel.category.sleep=睡眠
+//[Reference] 'Slice'
+staxel.category.slice=スライス
+//[Reference] 'Small'
+staxel.category.small=小
+//[Reference] 'Smoke'
+staxel.category.smoke=スモーク
+//[Reference] 'Smoker'
+staxel.category.smoker=燻煙器
+//[Reference] 'Snail'
+staxel.category.snail=カタツムリ
+//[Reference] 'snow'
+staxel.category.snow=雪
+//[Reference] 'Sofa'
+staxel.category.sofa=ソファ
+//[Reference] 'Solid'
+staxel.category.solid=固体
+//[Reference] 'Soup'
+staxel.category.soup=スープ
+//[Reference] 'Spider'
+staxel.category.spider=クモ
+//[Reference] 'Spoon'
+staxel.category.spoon=スプーン
+//[Reference] 'Square'
+staxel.category.square=広場
+//[Reference] 'Stairs'
+staxel.category.stairs=階段
+//[Reference] 'Stalactite'
+staxel.category.stalactite=鍾乳石
+//[Reference] 'Stalagmite'
+staxel.category.stalagmite=石じゅん
+//[Reference] 'Stall'
+staxel.category.stall=屋台
+//[Reference] 'Stand'
+staxel.category.stand=スタンド
+//[Reference] 'StarBit'
+staxel.category.starbit=スタービット
+//[Reference] 'Station'
+staxel.category.station=ステーション
+//[Reference] 'Statue'
+staxel.category.statue=石像
+//[Reference] 'Steps'
+staxel.category.steps=はしご
+//[Reference] 'Stone'
+staxel.category.stone=石
+//[Reference] 'Stonework'
+staxel.category.stonework=石造物
+//[Reference] 'Stool'
+staxel.category.stool=スツール
+//[Reference] 'Storage'
+staxel.category.storage=倉庫
+//[Reference] 'Store'
+staxel.category.store=店
+//[Reference] 'Stove'
+staxel.category.stove=ストーブ
+//[Reference] 'Straight'
+staxel.category.straight=ストレート
+//[Reference] 'Straight Roof'
+staxel.category.straightroof=真っすぐの屋根
+//[Reference] 'Straptop'
+staxel.category.straptop=ストラップトップ
+//[Reference] 'Strawberries'
+staxel.category.strawberries=イチゴ
+//[Reference] 'Strawberry'
+staxel.category.strawberry=イチゴ
+//[Reference] 'Street'
+staxel.category.street=街路
+//[Reference] 'Striped'
+staxel.category.striped=しま模様
+//[Reference] 'Structure'
+staxel.category.structure=建造物
+//[Reference] 'Stump'
+staxel.category.stump=切り株
+//[Reference] 'Sucker'
+staxel.category.sucker=棒付きキャンディー
+//[Reference] 'Sugar'
+staxel.category.sugar=砂糖
+//[Reference] 'Sugar Beet'
+staxel.category.sugarBeet=テンサイ
+//[Reference] 'Sun'
+staxel.category.sun=太陽
+//[Reference] 'Sunburst'
+staxel.category.Sunburst=サンバースト
+//[Reference] 'Sunfish'
+staxel.category.SunFish=マンボウ
+//[Reference] 'Sunglasses'
+staxel.category.sunglasses=サングラス
+//[Reference] 'Surface'
+staxel.category.surface=表面
+//[Reference] 'Sweet'
+staxel.category.sweet=甘いもの
+//[Reference] 'Swimsuit'
+staxel.category.swimsuit=水着
+//[Reference] 'Swinging'
+staxel.category.swinging=揺れ
+//[Reference] 'Swiss'
+staxel.category.swiss=スイス
+//[Reference] 'T.V.'
+staxel.category.t.v=テレビ
+//[Reference] 'Table'
+staxel.category.table=テーブル
+//[Reference] 'Tangerine'
+staxel.category.tangerine=タンジェリン
+//[Reference] 'Tap'
+staxel.category.tap=タップ
+//[Reference] 'Tavern'
+staxel.category.tavern=酒場
+//[Reference] 'Tea'
+staxel.category.tea=お茶
+//[Reference] 'Tech'
+staxel.category.tech=テック
+//[Reference] 'Television'
+staxel.category.television=テレビ
+//[Reference] 'Test'
+staxel.category.test=テスト
+//[Reference] 'Thatch'
+staxel.category.thatch=わら
+//[Reference] 'Thistle'
+staxel.category.thistle=アザミ
+//[Reference] 'Tile'
+staxel.category.tile=タイル
+//[Reference] 'Tiled'
+staxel.category.tiled=タイル張りされたもの
+//[Reference] 'Tiles'
+staxel.category.tiles=タイル
+//[Reference] 'Tiling'
+staxel.category.tiling=タイル張り
+//[Reference] 'Till'
+staxel.category.till=耕作
+//[Reference] 'Tin'
+staxel.category.tin=型
+//[Reference] 'Toaster'
+staxel.category.toaster=トースター
+//[Reference] 'Toastie'
+staxel.category.toastie=トースティ
+//[Reference] 'Tomato'
+staxel.category.tomato=トマト
+//[Reference] 'Tomb'
+staxel.category.tomb=墓
+//[Reference] 'Tombstone'
+staxel.category.tombstone=墓石
+//[Reference] 'Tool'
+staxel.category.tool=道具
+//[Reference] 'Top'
+staxel.category.top=トップ
+//[Reference] 'Topper'
+staxel.category.topper=トッパー
+//[Reference] 'Torch'
+staxel.category.torch=たいまつ
+//[Reference] 'Tortoise'
+staxel.category.tortoise=陸ガメ
+//[Reference] 'Totem'
+staxel.category.totem=トーテム
+//[Reference] 'Toy'
+staxel.category.toy=おもちゃ
+//[Reference] 'Trainers'
+staxel.category.trainers=トレーナー
+//[Reference] 'Transform'
+staxel.category.transform=変形
+//[Reference] 'Transformation'
+staxel.category.transformation=変身
+//[Reference] 'Trash'
+staxel.category.trash=ゴミ
+//[Reference] 'Tray'
+staxel.category.tray=トレイ
+//[Reference] 'Treasure'
+staxel.category.treasure=宝物
+//[Reference] 'Tree'
+staxel.category.tree=木
+//[Reference] 'Trim'
+staxel.category.trim=トリム
+//[Reference] 'Tropical'
+staxel.category.tropical=南国
+//[Reference] 'Trough'
+staxel.category.trough=飼い葉桶
+//[Reference] 'Trousers'
+staxel.category.Trousers=ズボン
+//[Reference] 'Trunk'
+staxel.category.trunk=トランク
+//[Reference] 'Tshirt'
+staxel.category.tshirt=Tシャツ
+//[Reference] 'Tulip'
+staxel.category.tulip=チューリップ
+//[Reference] 'Turnip'
+staxel.category.turnip=カブ
+//[Reference] 'Turtle'
+staxel.category.turtle=海ガメ
+//[Reference] 'TV'
+staxel.category.tv=テレビ
+//[Reference] 'Unbaked'
+staxel.category.unbaked=未調理
+//[Reference] 'Unicorn'
+staxel.category.unicorn=ユニコーン
+//[Reference] 'Unique'
+staxel.category.unique=ユニーク
+//[Reference] 'Vanity'
+staxel.category.vanity=化粧台
+//[Reference] 'Vegetable'
+staxel.category.vegetable=野菜
+//[Reference] 'Vest'
+staxel.category.vest=ベスト
+
+//[Reference] 'victorian'
+staxel.category.victorian=ヴィクトリア風
+//[Reference] 'Vine'
+staxel.category.vine=ツタ
+//[Reference] 'Vines'
+staxel.category.vines=ツタ
+//[Reference] 'Viola'
+staxel.category.Viola=ヴィオラ
+//[Reference] 'Wall'
+staxel.category.wall=壁
+//[Reference] 'Walls'
+staxel.category.walls=壁
+//[Reference] 'Wardrobe'
+staxel.category.wardrobe=衣装棚
+//[Reference] 'Water'
+staxel.category.water=水
+//[Reference] 'Watering'
+staxel.category.watering=水やり
+//[Reference] 'Watermelon'
+staxel.category.watermelon=スイカ
+//[Reference] 'Web'
+staxel.category.web=クモの巣
+//[Reference] 'weed'
+staxel.category.weed=雑草
+//[Reference] 'Welcome'
+staxel.category.welcome=歓迎
+//[Reference] 'Well'
+staxel.category.well=井戸
+//[Reference] 'Wheat'
+staxel.category.wheat=小麦
+//[Reference] 'Whisk'
+staxel.category.whisk=泡立て器
+//[Reference] 'whistle'
+staxel.category.whistle=ホイッスル
+//[Reference] 'White'
+staxel.category.white=白色
+//[Reference] 'Wicker'
+staxel.category.wicker=枝編み
+//[Reference] 'wind'
+staxel.category.wind=風
+//[Reference] 'Window'
+staxel.category.window=窓
+//[Reference] 'Winton'
+staxel.category.winton=ウィントン
+//[Reference] 'Wood'
+staxel.category.wood=木
+//[Reference] 'Wooden'
+staxel.category.wooden=木製
+//[Reference] 'Woodlouse'
+staxel.category.woodlouse=ワラジムシ
+//[Reference] 'Wool'
+staxel.category.wool=羊毛
+//[Reference] 'Work'
+staxel.category.work=仕事
+//[Reference] 'Workbench'
+staxel.category.workbench=作業台
+//[Reference] 'Worm'
+staxel.category.worm=虫
+//[Reference] 'Writing'
+staxel.category.writing=文書
+//[Reference] 'yeast'
+staxel.category.yeast=酵母
+//[Reference] 'Yellow'
+staxel.category.yellow=黄色
+//[Reference] 'Yorkshire'
+staxel.category.yorkshire=ヨークシャー

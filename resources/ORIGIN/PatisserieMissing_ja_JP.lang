@@ -1,0 +1,42 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Sadly, the ^c:1486b0;patisserie^c:pop; is currently closed for renovations.'
+staxel.village.dialogue.job.PatisserieMissing.line:10000100=残念だけど、^c:1486b0;パティスリー^c:pop;は改装のため閉店中なの。
+//[Reference] 'If only someone could finish the job I'd reopen...'
+staxel.village.dialogue.job.PatisserieMissing.line:10000200=誰かが改装作業を終わらせてくれたら、また店を開けられるけど…
+//[Reference] 'Why did someone vandalise the ^c:1486b0;patisserie^c:pop;?'
+staxel.village.dialogue.job.PatisserieMissing.line:10000300=どうして^c:1486b0;パティスリー^c:pop;を荒らすような人がいるの？
+//[Reference] 'I can already feel my icing skills begin to rust...'
+staxel.village.dialogue.job.PatisserieMissing.line:10000400=アイシングの腕が落ちはじめてる気がするわ…
+//[Reference] 'If this keeps up I'll end up icing the town instead!'
+staxel.village.dialogue.job.PatisserieMissing.line:10000500=このままじゃ、町を丸ごとアイシングしたくなっちゃう！
+//[Reference] 'A town with out a ^c:1486b0;patisserie^c:pop; is like a cake without icing.'
+staxel.village.dialogue.job.PatisserieMissing.line:10000600=^c:1486b0;パティスリー^c:pop;の無い町は、アイシングの無いケーキみたいなものね。
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, won't you consider building me a ^c:1486b0;patisserie^c:pop;?'
+staxel.village.dialogue.job.PatisserieMissing.line:10000700=^c:1486b0;{0-playername}^c:pop;さん、^c:1486b0;パティスリー^c:pop;の建設をしてくれない？
+//[Reference] 'I can give you this ^c:d03e37;signpost^c:pop; to get you started.'
+staxel.village.dialogue.job.PatisserieMissing.line:10000800=作業を始められるように、この^c:d03e37;看板^c:pop;をあげるわ。
+//[Reference] 'Place it at the front of the building for me!'
+staxel.village.dialogue.job.PatisserieMissing.line:10000900=私の家の前に看板を置いてちょうだい！
+//[Reference] 'That way everyone will know where to find us once it's built!'
+staxel.village.dialogue.job.PatisserieMissing.line:10001000=それで、パティスリーの場所をみんなに知ってもらえるはず！
+//[Reference] 'Oh, how I'd love to be able to bake again...'
+staxel.village.dialogue.job.PatisserieMissing.line:10001100=ああ、またケーキを作れるようになりたいわ…
+//[Reference] 'It sounds like the ^c:d03e37;patisserie signpost^c:pop; has gone missing...'
+staxel.village.dialogue.job.PatisserieMissing.line:10001200=^c:d03e37;パティスリーの看板^c:pop;を失くしちゃったの…？
+//[Reference] 'I can get you another, but it's going to cost you {0-currency}{1-sign}. How's that?'
+staxel.village.dialogue.job.PatisserieMissing.line:10001300=新しい看板は用意できるけど、{0-currency}{1-sign}かかるわよ？
+//[Reference] 'You're a lifesaver!'
+staxel.village.dialogue.job.PatisserieMissing.line:10001400=あなたは命の恩人だ！
+//[Reference] 'I think I know where it is...'
+staxel.village.dialogue.job.PatisserieMissing.line:10001500=看板がどこにあるか知ってる気がする…
+//[Reference] 'Oh, that's good to hear!'
+staxel.village.dialogue.job.PatisserieMissing.line:10001600=あら、そうだったのね！
+//[Reference] 'I hope to see a wonderful patisserie soon!'
+staxel.village.dialogue.job.PatisserieMissing.line:10001700=近いうちに素敵なパティスリーが見られるのを楽しみにしてるわ！
+//[Reference] 'Oh dear... It looks like you don't have enough petals...'
+staxel.village.dialogue.job.PatisserieMissing.line:10001800=あらまあ…ペタルが足りないみたいね…
+//[Reference] 'Don't worry! I'll hold on to it until you can afford it!'
+staxel.village.dialogue.job.PatisserieMissing.line:10001900=心配しないで！あなたが買えるようになるまで私が預かっておくから！
+//[Reference] 'Okay! Here it is!'
+staxel.village.dialogue.job.PatisserieMissing.line:10002000=おっけー！どうぞ！

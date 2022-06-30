@@ -1,0 +1,430 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] '^c:F2E200;activateMurmur ^c:FFFFFF;murmurCode'
+commands.activateMurmur.description=^c:F2E200;activateMurmur ^c:FFFFFF;マーマーコード
+//[Reference] 'Successfully activated {0-murmur}.'
+commands.activateMurmur.success={0-murmur}は正常に起動しました。
+
+//[Reference] '^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0) (optional)showCalendarTime(true/false)'
+commands.advanceTime.description=^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0) (optional)showCalendarTime(true/false)
+//[Reference] 'Enter a float by which to advance time. 1.0 is a full day'
+commands.advanceTime.enterFloat=進める時間をfloat型で入力してください。1.0は1日です
+//[Reference] 'failed: arg(1) must be a number. Floating points OK'
+commands.advanceTime.mustBeNumber=失敗：arg(1)は数値である必要があります。浮動小数点OK
+//[Reference] 'Advancing time by {0-time} ({1-dayphase1} -> {2-dayphase2})...'
+commands.advanceTime.success={0-time}、時間を進めます ({1-dayphase1} -> {2-dayphase2})...
+//[Reference] '^c:F2E200;ban ^c:FFFFFF;playerName (optional)reason'
+commands.ban.description=^c:F2E200;ban ^c:FFFFFF;プレイヤー名 (任意)理由
+//[Reference] 'Unable to ban {0-player}: player is an admin or already banned.'
+commands.ban.failure={0-player}をbanできません：プレイヤーが管理者であるか、すでにbanされています。
+//[Reference] '{0-player} has been banned from the server.'
+commands.ban.success={0-player}がサーバーからbanされました。
+//[Reference] '^c:F2E200;bla'
+commands.bla.description=^c:F2E200;bla
+//[Reference] 'Moved to a new location in debug region: {0-region}'
+commands.bla.success=デバッグ領域の新しい場所に移動しました：{0-region}
+//[Reference] '^c:F2E200;cameraCapture'
+commands.cameraCapture.description=^c:F2E200;cameraCapture
+//[Reference] 'Captured player camera'
+commands.cameraCapture.success=プレイヤーカメラをキャプチャしました
+//[Reference] '^c:F2E200;cameraCapture ^c:FFFFFF;savedCameraFilePath'
+commands.cameraLoad.description=^c:F2E200;cameraCapture ^c:FFFFFF;カメラファイルの保存先
+//[Reference] 'Loaded player camera from file: {0-filename}'
+commands.cameraLoad.success=ファイルからプレイヤーカメラをロードしました：{0-filename}
+//[Reference] '^c:F2E200;cameraPlay ^c:FFFFFF;(optional)duration(0.0-1.0) (optional)loop(true/false) (optional)savedCameraFilePath'
+commands.cameraPlay.description=^c:F2E200;cameraPlay ^c:FFFFFF;(任意)時間(0.0-1.0) (任意)ループ(true/false) (任意)カメラファイルの保存先
+//[Reference] 'Playing back player camera'
+commands.cameraPlay.success=プレイヤーカメラの再生中です
+//[Reference] '^c:F2E200;cameraReset'
+commands.cameraReset.description=^c:F2E200;cameraReset
+//[Reference] 'Reset player camera'
+commands.cameraReset.success=プレイヤーカメラをリセットしました
+//[Reference] '^c:F2E200;cameraSave ^c:FFFFFF;cameraSaveFilePath'
+commands.cameraSave.description=^c:F2E200;cameraSave ^c:FFFFFF;カメラファイルの保存先
+//[Reference] 'Saved player camera to file: {0-filename}'
+commands.cameraSave.success=プレイヤーカメラをファイルに保存しました：{0-filename}
+//[Reference] '^c:F2E200;cameraStop'
+commands.cameraStop.description=^c:F2E200;cameraStop
+//[Reference] 'Stopped camera mode'
+commands.cameraStop.success=カメラモードを停止しました
+//[Reference] '^c:F2E200;catchableDetails ^c:FFFFFF;(optional)location({0,0,0})'
+commands.catchableDetails.description=^c:F2E200;catchableDetails^c:FFFFFF;(任意)場所({0,0,0})
+//[Reference] 'Failed to parse location {0-location}'
+commands.catchableDetails.failParse=場所{0-location}の解析に失敗しました
+//[Reference] 'Tile not found'
+commands.catchableDetails.notFound=タイルが見つかりませんでした
+//[Reference] 'Catchable entity does not exist: {0-details}'
+commands.catchableDetails.success.false=目を引く存在はありません：{0-details}
+//[Reference] 'Catchable entity exists: {0-details}'
+commands.catchableDetails.success.true=目を引く存在があります：{0-details}
+//[Reference] 'Not looking at an animal'
+commands.changeMood.animalNotFound=動物を見ていません
+//[Reference] '^c:F2E200;changeMood ^c:FFFFFF;increase/decrease(true/false)'
+commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;上げる/下げる(true/false)
+//[Reference] 'Mood altered successfully'
+commands.changeMood.success=ムードの変更に成功しました
+//[Reference] '^c:F2E200;changeNickname ^c:FFFFFF;nickname'
+commands.changeNickname.description=^c:F2E200;changeNickname ^c:FFFFFF;nickname
+//[Reference] 'Nickname changed to {0-newNickname}'
+commands.changeNickname.success=ニックネームを{0-newNickname}へ変更しました
+//[Reference] '^c:F2E200;checkMail'
+commands.checkMail.description=^c:F2E200;checkMail
+//[Reference] '^c:F2E200;completeQuest ^c:FFFFFF;questCode villagerName/Code'
+commands.completeQuest.description=^c:F2E200;completeQuest ^c:FFFFFF;クエストコード 村人の名前/コード
+//[Reference] 'Quest does not exist'
+commands.completeQuest.noSuchQuest=クエストが存在しません
+//[Reference] 'Quest completed successfuly'
+commands.completeQuest.success=クエストが正常に完了
+//[Reference] '^c:F2E200;creative ^c:FFFFFF;(optional)playerName (optional)startCreativeMode(true/false)'
+commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(任意)プレイヤー名 (任意)クリエイティブモード開始(true/false)
+//[Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
+commands.creative.success={0-user}のクリエイティブモードを一時的に{1-creative}に変更しました
+//[Reference] '^c:F2E200;currentTime (optional)showCalendarTime(true/false)'
+commands.currentTime.description=^c:F2E200;currentTime (optional)showCalendarTime(true/false)
+//[Reference] 'The day is {0-day} and phase is {1:G2-phase} ({2-time}).'
+commands.currentTime.success=今日は{0-day}日目で、時刻は{1:G2-phase} ({2-time})です。
+//[Reference] '^c:F2E200;deactivateMurmur ^c:FFFFFF;'
+commands.deactivateMurmur.description=^c:F2E200;deactivateMurmur ^c:FFFFFF;
+//[Reference] 'Successfully deactivated {0-murmur} if it existed.'
+commands.deactivateMurmur.success={0-murmur}が存在した場合、正常に無効化されました。
+//[Reference] '^c:F2E200;demoMode ^c:FFFFFF;(optional)on(true/false)'
+commands.demoMode.description=^c:F2E200;demoMode ^c:FFFFFF;(任意)オン(true/false)
+//[Reference] 'Switched server demo mode to {0-demoMode}'
+commands.demoMode.success=サーバーデモモードを{0-demoMode}に切り替えました
+//[Reference] '^c:F2E200;describeitem ^c:FFFFFF;(optional)playerName'
+commands.describeItem.description=^c:F2E200;describeitem ^c:FFFFFF;(任意)プレイヤー名
+//[Reference] 'Item description: {0-itemDesc}'
+commands.describeItem.success=アイテムの説明：{0-itemDesc}
+//[Reference] '^c:F2E200;ditto ^c:FFFFFF;(optional)playerName villagernpcCode'
+commands.ditto.description=^c:F2E200;ditto ^c:FFFFFF;(任意)プレイヤー名 村人NPCコード
+//[Reference] 'Player {0-playerName} does not have enough inventory space for all npc clothing items'
+commands.ditto.notEnoughSpace={0-playerName}のインベントリにNPCの服を全て着せるための十分な空きがありません
+//[Reference] 'Player {0-playerName} disguised successfully'
+commands.ditto.success={0-playerName}の変装が成功しました
+//[Reference] '^c:F2E200;doemote ^c:FFFFFF;emoteName (optional)useLookatEntity(true/false)'
+commands.doemote.description=^c:F2E200;doemote ^c:FFFFFF;エモート名 (任意)useLookatEntity(true/false)
+//[Reference] '^c:F2E200;emote ^c:FFFFFF;emoteName'
+commands.emote.description=^c:F2E200;emote ^c:FFFFFF;エモート名
+//[Reference] 'No such emote {0-emote}'
+commands.emote.noSuchEmote={0-emote}というエモートはありません
+//[Reference] '^c:F2E200;enablecheats^c:FFFFFF;'
+commands.enablecheats.description=^c:F2E200;enablecheats^c:FFFFFF;
+//[Reference] 'Failed to enable cheats.'
+commands.enablecheats.failure=チートを有効にできませんでした
+//[Reference] 'Cheats have been enabled.'
+commands.enablecheats.success=チートを有効にしました
+//[Reference] '^c:F2E200;entityInfo ^c:FFFFFF;entityID'
+commands.entityInfo.description=^c:F2E200;entityInfo ^c:FFFFFF;エンティティID
+//[Reference] 'You need to include an EntityID!'
+commands.entityInfo.entityNumber=EntityIDを含める必要があります！
+//[Reference] 'Invalid EntityID!'
+commands.entityInfo.mustBeNumber=無効なEntityIDです！
+//[Reference] 'There is no such entity on the server'
+commands.entityInfo.noSuchEntity=サーバーにはそのようなエンティティはありません
+//[Reference] 'Entity data: {0-data}'
+commands.entityInfo.success=エンティティデータ：{0-data}
+//[Reference] 'Entity not found'
+commands.entityNotFound=エンティティが見つかりません
+//[Reference] '^c:F2E200;fly ^c:FFFFFF;(optional)playerName (optional)startFlying(true/false)'
+commands.flyMode.description=^c:F2E200;fly ^c:FFFFFF;(任意)プレイヤー名 (任意)飛行開始(true/false)
+//[Reference] 'Switched flying mode to: {0-flymode}'
+commands.flyMode.success=飛行モードを{0-flymode}に切り替えました
+//[Reference] '^c:F2E200;forceAchievement ^c:FFFFFF;achievementCode'
+commands.forceAchievement.description=^c:F2E200;forceAchievement ^c:FFFFFF;実績コード
+//[Reference] 'Missing achievement code.'
+commands.forceAchievement.missingParam=実績コードがありません。
+//[Reference] 'Achievement not found.'
+commands.forceAchievement.noSuchAchievement=実績が見つかりません。
+//[Reference] '^c:F2E200;getUsername ^c:FFFFFF;nickname'
+commands.getUsername.description=^c:F2E200;getUsername ^c:FFFFFF;nickname
+//[Reference] '{0-nickname}'s username is {1-username}.'
+commands.getUsername.success={0-nickname}のユーザーネームは{1-username}です。
+//[Reference] 'Multiple people found with the nickname: {0-nickname}. They are; {1-usernamelist}.'
+commands.getUsername.successes=ニックネーム「{0-nickname}」を使っているユーザーが複数います：{1-usernamelist}。
+//[Reference] '^c:F2E200;giveallrecipes ^c:FFFFFF;(optional)playerName'
+commands.giveallrecipes.description=^c:F2E200;giveallrecipes^c:FFFFFF;(任意)プレイヤー名
+//[Reference] 'Done!'
+commands.giveallrecipes.success=完了！
+//[Reference] '^c:F2E200;givepetals ^c:FFFFFF;playerName amount'
+commands.givePetals.description=^c:F2E200;givepetals ^c:FFFFFF;プレイヤー名 金額
+//[Reference] 'Petal amount needs to be a positive number'
+commands.givePetals.invalidNumber=ペタルの量は正数でなければなりません
+//[Reference] 'Gave {0-player} {1-amount} petals'
+commands.givePetals.success={0-player}に{1-amount}ペタル与えました
+//[Reference] 'viaReactions argument must be true or false'
+commands.giveRecipeItems.badArg=viaReactionsの引数はtrueかfalseにしてください
+//[Reference] '^c:F2E200;giveRecipeItems ^c:FFFFFF;recipeCode (optional)viaReactions(true/false)'
+commands.giveRecipeItems.description=^c:F2E200;giveRecipeItems ^c:FFFFFF;recipeCode (optional)viaReactions(true/false)
+//[Reference] 'Give recipe items successful'
+commands.giveRecipeItems.success=レシピアイテムを無事に渡しました
+//[Reference] '^c:F2E200;hasCheated'
+commands.hasCheated.description=^c:F2E200;hasCheated
+//[Reference] 'This world has not have any cheats activated. Outside achievement are enabled, if applicable.'
+commands.hasCheated.false=この世界ではチートがアクティブ化されていません。該当する場合は、外部実績がアクティブ化されます。
+//[Reference] 'This world has had cheats turned on or activated. Outside achievements are disabled.'
+commands.hasCheated.true=この世界ではチートがオンになっているか、アクティブ化されています。外部実績は無効化されています。
+//[Reference] '^c:F2E200;? ^c:FFFFFF;(optional)commandName'
+commands.help.altDescription=^c:F2E200;? ^c:FFFFFF;(任意)コマンド名
+//[Reference] 'Command not found: '{0-command}''
+commands.help.commandNotFound=コマンドが見つかりません：'{0-command}'
+//[Reference] '^c:F2E200;help ^c:FFFFFF;(optional)commandName'
+commands.help.description=^c:F2E200;help ^c:FFFFFF;(任意)コマンド名
+//[Reference] 'Command list (() brackets denote possible values):'
+commands.help.success=コマンドリスト（()括弧は使用可能な値を示します）：
+commands.inspect.description=
+//[Reference] 'Inspection success.'
+commands.inspect.success=検査に成功しました。
+//[Reference] 'invalid args'
+commands.invalidArgs=無効な引数
+//[Reference] '^c:F2E200;kick ^c:FFFFFF;playerName'
+commands.kick.description=^c:F2E200;kick ^c:FFFFFF;プレイヤー名
+//[Reference] 'Unable to kick {0-player}: player is an admin or not online.'
+commands.kick.failure={0-player}をキックできません：プレイヤーが管理者であるか、オフラインです。
+//[Reference] '{0-player} has been ejected from the server.'
+commands.kick.success={0-player}がサーバーから排除されました。
+commands.loadDesign.description=
+//[Reference] 'loadDesign requires a filename/design code'
+commands.loadDesign.needFileName=loadDesignはファイルネーム/デザインコードを必要とします。
+//[Reference] 'No such design {0-design}'
+commands.loadDesign.noSuchDesign={0-design}のようなデザインはありません
+//[Reference] 'No such file {0-file}'
+commands.loadDesign.noSuchFile={0-file}のようなファイルはありません
+//[Reference] 'Design loaded successfully'
+commands.loadDesign.success=デザインのロードに成功しました
+//[Reference] '^c:F2E200;magicTeleport ^c:FFFFFF;festivalCode'
+commands.magicTeleport.description=^c:F2E200;magicTeleport ^c:FFFFFF;festivalCode
+//[Reference] 'No such offmap template: {0-template}'
+commands.magicTeleport.template=オフマップテンプレート「{0-template}」が存在しません
+//[Reference] '^c:F2E200;magicTeleportReturn^c:FFFFFF;'
+commands.magicTeleportReturn.description=^c:F2E200;magicTeleportReturn^c:FFFFFF;
+//[Reference] '^c:F2E200;model ^c:FFFFFF;(optional)playerName (optional)modelFileName'
+commands.model.description=^c:F2E200;model ^c:FFFFFF;(任意)プレイヤー名 (任意)モデルファイル名
+//[Reference] 'Could not switch to character model '{0-model}' not found in assets.'
+commands.model.notFound=キャラクターモデルを切り替えられませんでした。アセット内に'{0-model}'が見つかりませんでした。
+//[Reference] 'Switched character model to: {0-model}'
+commands.model.success=キャラクターモデルを{0-model}に切り替えました
+//[Reference] '^c:F2E200;mute ^c:FFFFFF;playerName (optional[default 60])lengthInMinutes'
+commands.mute.description=^c:F2E200;mute ^c:FFFFFF;プレイヤー名 (任意[デフォルト 60])分単位
+//[Reference] 'Unable to mute {0-player}: player is an admin.'
+commands.mute.failure={0-player}をミュートできません：プレイヤーが管理者です。
+//[Reference] 'Invalid time (should be in whole minutes)'
+commands.mute.invalidTime=無効な時間 (分単位で指定する必要があります)
+//[Reference] '{0-player} has been silenced.'
+commands.mute.success={0-player}をミュートしました。
+//[Reference] '^c:F2E200;noclip ^c:FFFFFF;(optional)playerName (optional)startNoclip(true/false)'
+commands.noClip.description=^c:F2E200;noclip ^c:FFFFFF;(任意)プレイヤー名 (任意)Noclip開始(true/false)
+//[Reference] 'Switched noclip mode to: {0-noclip}'
+commands.noClip.success=透過モードを{0-noclip}に切り替えました。
+//[Reference] '{0-user} does not have the correct rights to use this command'
+commands.noRights={0-user}はこのコマンドを使う権限がありません
+//[Reference] 'No such player '{0-player}''
+commands.noSuchPlayer='{0-player}'というプレイヤーはいません
+//[Reference] 'No such player with nickname '{0-player}'.'
+commands.noSuchPlayerNickname=「{0-player}」というプレイヤーはいません。
+//[Reference] 'Not a player entity.'
+commands.notAPlayer=プレイヤーエンティティではありません。
+//[Reference] 'To demote a player type "op <playername> demote" without quotes.'
+commands.op.demote=プレイヤーをデモートするには、op <プレイヤー名> demoteと入力します。
+//[Reference] '^c:F2E200;op ^c:FFFFFF;playerName (optional)removePromotion("demote")'
+commands.op.description=^c:F2E200;op ^c:FFFFFF;プレイヤー名(オプショナル)removePromotion("demote")
+//[Reference] 'Unable to promote {0-player}.'
+commands.op.failure={0-player}を昇格できません。
+//[Reference] '{0-player} has been promoted.'
+commands.op.success={0-player}を昇格しました。
+//[Reference] '{0-player} has been demoted.'
+commands.op.success.demoted={0-player}をデモートしました。
+//[Reference] 'Player {0-player} not found.'
+commands.op.userNotFound={0-player}見つかりません
+//[Reference] '^c:F2E200;pe ^c:FFFFFF;expressionAlias (optional)displayTime'
+commands.pe.description=^c:F2E200;pe ^c:FFFFFF;expressionAlias (任意)表示時間
+//[Reference] '^c:F2E200;plantgrowth'
+commands.plantGrowth.description=^c:F2E200;plantgrowth
+//[Reference] 'Not a plant.'
+commands.plantGrowth.noPlant=植物ではありません。
+//[Reference] 'Plant {0-plant} at stage {1-stage}'
+commands.plantGrowth.success=植物{0-plant}はステージ{1-stage}です。
+//[Reference] 'Switched plant withering to {0-creative}'
+commands.plantWithering.success=植物の枯れを{0-creative}に切り替えました。
+//[Reference] 'Player {0-player} currently cannot be teleported.'
+commands.playerCantBeTeleported=プレイヤー「{0-player}」は、現在テレポートできません。
+//[Reference] 'Player Entity not found'
+commands.playerEntityNotFound=プレイヤーエンティティが見つかりませんでした
+//[Reference] '^c:F2E200;players'
+commands.players.description=^c:F2E200;players
+//[Reference] 'Players: {0-playerlist}'
+commands.players.success=プレイヤー：{0-playerlist}
+//[Reference] '^c:F2E200;playExpression ^c:FFFFFF;expressionCode (optional)displayTime'
+commands.playExpression.description=^c:F2E200;playExpression ^c:FFFFFF;expressionCode (任意)表示時間
+//[Reference] 'Aliases:'
+commands.playExpression.list=エイリアス：
+//[Reference] 'Expression not found {0-expression}'
+commands.playExpression.noExpression={0-expression}の表現が見つかりませんでした
+//[Reference] 'Expression played successfully'
+commands.playExpression.success=表現の再生に成功しました
+//[Reference] '^c:F2E200;position ^c:FFFFFF;(optional)playerName'
+commands.position.description=^c:F2E200;position ^c:FFFFFF;(任意)プレイヤー名
+//[Reference] 'Failed to find player'
+commands.position.failed=プレイヤーが見つかりませんでした
+//[Reference] 'Position: {0-position}, Heading: {1-heading}'
+commands.position.success=ポジション：{0-position}、方向：{1-heading}
+//[Reference] '^c:F2E200;qs ^c:FFFFFF;(optional)startFlying(true/false)'
+commands.quickStart.altDescription=^c:F2E200;qs ^c:FFFFFF;(任意)飛行開始(true/false)
+//[Reference] '^c:F2E200;quickStart ^c:FFFFFF;(optional)startFlying(true/false)'
+commands.quickStart.description=^c:F2E200;quickStart ^c:FFFFFF;(任意)飛行開始(true/false)
+//[Reference] 'Quick start success. Switched flying mode to: {0-flymode}'
+commands.quickStart.success=クイックスタートに成功しました。飛行モードを{0-flymode}に切り替えました
+commands.rain.description=
+//[Reference] 'Made it a rainy day.'
+commands.rain.success=雨の日になりました。
+//[Reference] '^c:F2E200;reload'
+commands.reload.description=^c:F2E200;reload
+//[Reference] 'Reload requested.'
+commands.reload.success=リロードをリクエストしました。
+//[Reference] '^c:F2E200;resetOffmap ^c:FFFFFF;offmapTemplateCode'
+commands.resetOffmap.description=^c:F2E200;resetOffmap ^c:FFFFFF;offmapTemplateCode
+//[Reference] 'Offmap reset complete.'
+commands.resetOffmap.success=オフマップをリセットしました。
+//[Reference] '^c:F2E200;resetplayer'
+commands.resetPlayer.description=^c:F2E200;resetplayer
+//[Reference] 'Reset successful.'
+commands.resetPlayer.success=リセットに成功しました。
+commands.returnhome.description=
+//[Reference] '^c:F2E200;saveDesign ^c:FFFFFF;fileName'
+commands.saveDesign.description=^c:F2E200;saveDesign ^c:FFFFFF;ファイル名
+//[Reference] 'A filename is required to save a design'
+commands.saveDesign.needFileName=デザインをセーブするにはファイル名が必要です
+//[Reference] 'Character design file saved at {0-path}'
+commands.saveDesign.success=キャラクターデザインファイルを{0-path}に保存しました
+//[Reference] '^c:F2E200;saveOutfit ^c:FFFFFF;fileName'
+commands.saveOutfit.description=^c:F2E200;saveOutfit ^c:FFFFFF;ファイル名
+//[Reference] 'Character outfit file saved at {0-path}'
+commands.saveOutfit.success=キャラクター衣装ファイルを{0-path}に保存しました
+//[Reference] '^c:F2E200;seed'
+commands.seed.description=^c:F2E200;seed
+//[Reference] 'Seed: {0-seed}, World Size: {1-worldSize}x'
+commands.seed.success=シード：{0-seed}, ワールドサイズ：{1-worldSize}倍
+//[Reference] '^c:F2E200;creativeMode ^c:FFFFFF;(optional)on(true/false)'
+commands.serverCreative.description=^c:F2E200;creativeMode ^c:FFFFFF;(任意)on(true/false)
+//[Reference] 'Switched server creative mode to {0-creative} (persistent)'
+commands.serverCreative.success=サーバーのクリエイティブモードを{0-creative}に切り替えました (持続)
+commands.snow.description=
+//[Reference] 'Made it a snowy day.'
+commands.snow.success=雪の日になりました。
+//[Reference] '^c:F2E200;spawncoins ^c:FFFFFF;(optional)playerName petalAmount'
+commands.spawnCoins.description=^c:F2E200;spawncoins^c:FFFFFF;(任意)プレイヤー名 合計ペタル
+//[Reference] 'Spawned {0-amount} petals in coins for {1-player}'
+commands.spawnCoins.success={1-player}のために{0-amount}ペタルのコインを生成しました
+//[Reference] '^c:F2E200;spawnitem ^c:FFFFFF;(optional)playerName item(kind/specification{})'
+commands.spawnItem.description=^c:F2E200;spawnitem^c:FFFFFF;(任意)プレイヤー名 アイテム(種類/属性{})
+//[Reference] 'Item not found.'
+commands.spawnItem.notFound=アイテムが見つかりませんでした。
+//[Reference] 'Spawn item successful.'
+commands.spawnItem.success=アイテムの生成に成功しました。
+//[Reference] '^c:F2E200;spawnmaterial ^c:FFFFFF;(optional)playerName materialCode'
+commands.spawnMaterial.description=^c:F2E200;spawnmaterial^c:FFFFFF;(任意)プレイヤー名 素材コード
+//[Reference] 'Material kind not found.'
+commands.spawnMaterial.notFound=材料が見つかりませんでした。
+//[Reference] 'Spawn material successful'
+commands.spawnMaterial.success=材料の生成に成功しました
+//[Reference] '^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount'
+commands.spawnStars.description=^c:F2E200;spawnStars ^c:FFFFFF;(optional)amount
+//[Reference] 'Failed to spawn star bits item.'
+commands.spawnStars.failed=スタービットアイテムの生成に失敗しました。
+//[Reference] 'Star amount is not a valid positive number.'
+commands.spawnStars.invalidNumber=スター数が有効な正数ではありません。
+//[Reference] 'Spawn star success.'
+commands.spawnStars.success=スターのスポーンに成功しました。
+//[Reference] '^c:F2E200;spawntile ^c:FFFFFF;(optional)playerName tileCode'
+commands.spawnTile.description=^c:F2E200;spawntile^c:FFFFFF;(任意)プレイヤー名 タイルコード
+//[Reference] 'Tile kind not found.'
+commands.spawnTile.notFound=タイルが見つかりません。
+//[Reference] 'Spawn tile successful.'
+commands.spawnTile.success=タイルの生成に成功しました。
+//[Reference] '^c:F2E200;stealpetals ^c:FFFFFF;amount (optional)remove(true/false)'
+commands.stealPetals.description=^c:F2E200;stealpetals ^c:FFFFFF;金額 (任意)返還(true/false)
+//[Reference] 'Reset must be true or false.'
+commands.stealPetals.invalidReset=リセットはtrueまたはfalseである必要があります。
+//[Reference] '{0-player} stole {1-amount} petals'
+commands.stealPetals.success={0-player}が{1-amount}ペタル盗みました
+//[Reference] '{0-player} is no longer a thief.'
+commands.stealPetals.success.reset={0-player}はもう泥棒ではありません。
+//[Reference] '{0-player} stole {1-amount} petals. Thief!'
+commands.stealPetals.success.thief={0-player}が{1-amount}ペタル盗みました。泥棒！
+//[Reference] '^c:F2E200;stopTime ^c:FFFFFF;Stops time'
+commands.stopTime.description=^c:F2E200;stopTime ^c:FFFFFF;時間を停止/再開
+//[Reference] 'Time Stopped'
+commands.stopTime.stop=時間が停止しました
+commands.sun.description=
+//[Reference] 'Made it a sunny day.'
+commands.sun.success=晴れの日になりました。
+//[Reference] '^c:F2E200;teleport ^c:FFFFFF;(optional)playerName location({0,0,0})'
+commands.teleport.description=^c:F2E200;teleport ^c:FFFFFF;(任意)プレイヤー名 位置({0,0,0})
+//[Reference] '{0-position} is too far to teleport'
+commands.teleport.distance={0-position}は遠すぎてテレポートできません
+//[Reference] 'Failed to parse position {0-position}'
+commands.teleport.fail=位置{0-position}の解析に失敗しました
+//[Reference] 'Teleport successful.'
+commands.teleport.success=テレポートに成功しました。
+//[Reference] '^c:F2E200;tp ^c:FFFFFF;movingPlayerName destinationPlayerName'
+commands.teleportPlayer.description=^c:F2E200;tp ^c:FFFFFF;移動させるプレイヤー名 移動先のプレイヤー名
+commands.textToSpeech.description=
+//[Reference] 'Saying text.'
+commands.textToSpeech.success=テキストを喋っています。
+commands.thunder.description=
+//[Reference] 'success'
+commands.thunder.success=成功
+//[Reference] '^c:F2E200;tileAt ^c:FFFFFF;(optional)location({0,0,0})'
+commands.tileAt.description=^c:F2E200;tileAt ^c:FFFFFF;(任意)位置({0,0,0})
+//[Reference] 'Failed to parse position {0-position}'
+commands.tileAt.failParse=位置{0-position}の解析に失敗しました
+//[Reference] 'Tile not found'
+commands.tileAt.notFound=タイルが見つかりませんでした
+//[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
+commands.tileAt.success.false=Tile code: {0-tilecode} at {1-position} (compoundFiller: false, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
+//[Reference] 'Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})'
+commands.tileAt.success.true=Tile code: {0-tilecode} at {1-position} (compoundFiller: true, rotation: {2-rotation}, alt: {3-alt}, chunk: {4-chunk})
+//[Reference] '^c:F2E200;toggleTimePassing ^c:FFFFFF;Toggles the passing of time'
+commands.toggleTimePassing.description=^c:F2E200;toggleTimePassing ^c:FFFFFF;時間の経過を切り替えます
+//[Reference] 'Time Resumed'
+commands.toggleTimePassing.resume=時間停止を解除しました
+//[Reference] 'Time Stopped'
+commands.toggleTimePassing.stop=時間を停止しました
+commands.traceStart.description=
+//[Reference] 'Started tracing.'
+commands.traceStart.success=トレースを開始しました。
+commands.traceStop.description=
+//[Reference] 'Stopped tracing.'
+commands.traceStop.success=トレースを停止しました。
+commands.tripod.description=
+//[Reference] '^c:F2E200;unban ^c:FFFFFF;playerName'
+commands.unban.description=^c:F2E200;unban ^c:FFFFFF;プレイヤー名
+//[Reference] 'Unable to unban {0-player}: player was not banned.'
+commands.unban.failure={0-player}のbanを解除できません：プレイヤーはbanされていません。
+//[Reference] '{0-player} has been unbanned from the server.'
+commands.unban.success={0-player}のサーバーからのbanを解除しました。
+//[Reference] 'Unknown command :'{0-command}''
+commands.unknown=不明なコマンド：'{0-command}'
+//[Reference] 'Unknown error.'
+commands.unknownError=不明なエラーです。
+//[Reference] '^c:F2E200;unmute ^c:FFFFFF;playerName'
+commands.unmute.description=^c:F2E200;unmute ^c:FFFFFF;プレイヤー名
+//[Reference] 'Unable to unmute {0-player}: player is not muted.'
+commands.unmute.failure={0-player}のミュートを解除できません：プレイヤーはミュートされていません。
+//[Reference] '{0-player} has regained the ability to speak.'
+commands.unmute.success={0-player}は再び話せるようになりました。
+//[Reference] 'Unrecognised command :'{0-command}''
+commands.unrecognised=コマンド'{0-command}'を認識できませんでした
+//[Reference] '^c:F2E200;updateReputation ^c:FFFFFF;villagerName/Code amount'
+commands.updateReputation.description=^c:F2E200;updateReputation ^c:FFFFFF;村人の名前/コード 値
+//[Reference] 'Reputation updated to {0-newAmount} for villager {1-villagerCode}'
+commands.updateReputation.success=村人{1-villagerCode}からの評判を{0-newAmount}に更新しました。
+//[Reference] 'Villager Entity not found'
+commands.villagerEntityNotFound=村人が見つかりません
+//[Reference] 'Villager not found'
+commands.villagerNotFound=村人が見つかりませんでした
+//[Reference] '^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm or weather code.)'
+commands.weather.description=^c:F2E200;weather ^c:FFFFFF;種類 (Sun, Rain, Snow, Storm または天気コード)
+//[Reference] 'Unable to set weather: {0-weather}. Does not exist.'
+commands.weather.noweather=天気をセットできません：{0-weather}。存在しません。
+//[Reference] 'Set weather to: {0-weather}.'
+commands.weather.success=天気をセットしました：{0-weather}。

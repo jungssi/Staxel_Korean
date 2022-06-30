@@ -1,0 +1,52 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+//[Reference] 'I really have a craving for ^c:d03e37;{0-fetchItem}^c:pop; right now...'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000100=今、とても^c:d03e37;{0-fetchItem}^c:pop;が食べたい気分なんだ…
+//[Reference] 'I wonder if I could get one somewhere?'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000200=どこかで手に入らないかな？
+//[Reference] 'Or perhaps a kind stranger might help out?'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000300=それとも誰か作ってくれないかな？
+//[Reference] 'I can prepare it!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000400=作ってあげるよ！
+//[Reference] 'Good luck!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000500=がんばってね！
+//[Reference] 'Oh really? Yay!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000600=ほんと？やった！
+//[Reference] 'Come find me when it's ready!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000700=出来たら戻ってきてよ！
+//[Reference] 'So... hungry...'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000800=あー…おなかすいたなぁ…
+//[Reference] 'I just want my ^c:d03e37;{0-fetchItem}^c:pop;.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10000900=^c:d03e37;{0-fetchItem}^c:pop;が食べたいよ。
+//[Reference] 'Coming right up!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001000=すぐ作ってあげる！
+//[Reference] 'Not today.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001100=もうちょっと待って。
+//[Reference] 'Oh.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001200=あー
+//[Reference] 'Maybe I was too subtle?'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001300=ちょっと控えめすぎたかな？
+//[Reference] 'Oh, you prepared ^c:d03e37;{0-fetchItem}^c:pop; for me!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001400=あっ、^c:d03e37;{0-fetchItem}^c:pop;を持ってきてくれたんだ！
+//[Reference] 'I'm drooling already!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001500=食べたくてもうヨダレが出てるよ！
+//[Reference] 'Here you go!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001600=はい、あげる！
+//[Reference] 'This isn't for you.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001700=あげられないよ。
+//[Reference] 'Thank you!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001800=ありがとう！
+//[Reference] 'It looks absolutely delicious.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10001900=メチャクチャおいしそう。
+//[Reference] 'This is probably not a fair trade, but take this!'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10002000=ちょっと釣り合わないかもしれないけど、これをあげる！
+//[Reference] 'Oh... I see.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10002100=えぇ…わかったよ。
+//[Reference] 'Please don't wave it around in front of me.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10002200=それなら見せないでほしいかな。
+//[Reference] 'Oh... okay. That's a pity.'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10002300=ああ…そう。残念だなあ。
+//[Reference] 'I was really looking forward too...'
+staxel.village.dialogue.quest.RecipeQuest.1.line:10002400=本当に食べたかったのに…

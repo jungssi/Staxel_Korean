@@ -1,0 +1,54 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Nice! That ^c:d03e37;{0-gift}^c:pop; for me?'
+staxel.village.dialogue.TomboyGiveItem.line:10000100=すげえ！^c:d03e37;{0-gift}^c:pop;をくれるって？
+//[Reference] 'Naturally!'
+staxel.village.dialogue.TomboyGiveItem.line:10000200=もちろん！
+//[Reference] 'Not today.'
+staxel.village.dialogue.TomboyGiveItem.line:10000300=今日はやめとこうかな。
+//[Reference] 'Err...'
+staxel.village.dialogue.TomboyGiveItem.line:10000400=うわぁ…
+//[Reference] 'Here!'
+staxel.village.dialogue.TomboyGiveItem.line:10000500=どうぞ！
+//[Reference] 'What's up?'
+staxel.village.dialogue.TomboyGiveItem.line:10000600=どうしたの？
+//[Reference] 'Oh... Okay then.'
+staxel.village.dialogue.TomboyGiveItem.line:10000700=なんだよ…じゃあいいよ。
+//[Reference] 'I love it!'
+staxel.village.dialogue.TomboyGiveItem.line:10000800=気に入ったよ！
+//[Reference] 'Nobody gives me things this cool!'
+staxel.village.dialogue.TomboyGiveItem.line:10000900=こんなイイ物もらうのは初めてだ！
+//[Reference] 'Thanks a lot, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.TomboyGiveItem.line:10001000=ありがとう、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Cool!'
+staxel.village.dialogue.TomboyGiveItem.line:10001100=かっけー！
+//[Reference] 'I can always use more of these!'
+staxel.village.dialogue.TomboyGiveItem.line:10001200=がんがん使わせてもらうよ！
+//[Reference] 'Oof.'
+staxel.village.dialogue.TomboyGiveItem.line:10001300=うっ…
+//[Reference] 'Thanks for the thought...?'
+staxel.village.dialogue.TomboyGiveItem.line:10001400=その気持ちには感謝しとくよ…
+//[Reference] 'There are things about me you don't know, ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.TomboyGiveItem.line:10001500=^c:1486b0;{0-playername}^c:pop;、オレのことそんなに知らないくせに…
+//[Reference] 'I don't think you should be asking me that yet...'
+staxel.village.dialogue.TomboyGiveItem.line:10001600=まあ、色々と聞かれても困るけどな…
+//[Reference] 'Roomies? You bet!'
+staxel.village.dialogue.TomboyGiveItem.line:10001700=ルームメイト？もちろんいいぜ！
+//[Reference] 'Just... I hope you'll forget what you saw before...'
+staxel.village.dialogue.TomboyGiveItem.line:10001800=ただ…前に見たことは忘れてくれ…
+//[Reference] 'I've already forgotten!'
+staxel.village.dialogue.TomboyGiveItem.line:10001810=もう忘れたよ！
+//[Reference] 'You mean the part where you're really–'
+staxel.village.dialogue.TomboyGiveItem.line:10001820=じゃあ、あれはやっぱり…
+//[Reference] 'Yes! I'll see you over there this evening then!'
+staxel.village.dialogue.TomboyGiveItem.line:10001900=よっしゃ！じゃあまた今晩な！
+//[Reference] 'We can play a game to decide who gets to sleep where!'
+staxel.village.dialogue.TomboyGiveItem.line:10002000=ベッドの取り合いになるかもな！
+//[Reference] 'Shhh!'
+staxel.village.dialogue.TomboyGiveItem.line:10002100=しーっ！
+//[Reference] 'I've changed my mind! You have to forget first!'
+staxel.village.dialogue.TomboyGiveItem.line:10002200=やっぱやめやめ！もう忘れてくれ！
+//[Reference] 'Oh, nothing really...'
+staxel.village.dialogue.TomboyGiveItem.line:10002300=いや、何でもない…
+//[Reference] 'Just had a strange thought for a moment.'
+staxel.village.dialogue.TomboyGiveItem.line:10002400=ちょっと変なこと考えちゃっただけだよ。

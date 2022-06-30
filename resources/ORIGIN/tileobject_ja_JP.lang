@@ -1,0 +1,3042 @@
+﻿language.code=ja-JP
+language=日本語
+staxel.collector.furniture.AntiqueCeilingLamp1.description=
+//[Reference] 'Yellow Antique Ceiling Lamp'
+staxel.collector.furniture.AntiqueCeilingLamp1.name=黄色のアンティークな天井ランプ
+staxel.collector.furniture.AntiqueCeilingLamp2.description=
+//[Reference] 'Purple Antique Ceiling Lamp'
+staxel.collector.furniture.AntiqueCeilingLamp2.name=紫色のアンティークな天井ランプ
+staxel.collector.furniture.AntiqueCeilingLamp3.description=
+//[Reference] 'Pink Antique Ceiling Lamp'
+staxel.collector.furniture.AntiqueCeilingLamp3.name=ピンク色のアンティークな天井ランプ
+staxel.collector.tileObject.animalFurniture.GoatSign.description=
+//[Reference] 'Goat Sign'
+staxel.collector.tileObject.animalFurniture.GoatSign.name=ヤギの看板
+staxel.collector.tileObject.bobbleheads.DuckBobbleHead.description=
+//[Reference] 'Duck Bobble Head'
+staxel.collector.tileObject.bobbleheads.DuckBobbleHead.name=アヒルのボブルヘッド
+staxel.collector.tileObject.bobbleheads.FoxBobbleHead.description=
+//[Reference] 'Fox Bobble Head'
+staxel.collector.tileObject.bobbleheads.FoxBobbleHead.name=キツネのボブルヘッド
+staxel.collector.tileObject.bobbleheads.GoatBobbleHead.description=
+//[Reference] 'Goat Bobble Head'
+staxel.collector.tileObject.bobbleheads.GoatBobbleHead.name=ヤギのボブルヘッド
+staxel.collector.tileObject.bobbleheads.HedgehogBobbleHead.description=
+//[Reference] 'Hedgehog Bobble Head'
+staxel.collector.tileObject.bobbleheads.HedgehogBobbleHead.name=ハリネズミのボブルヘッド
+staxel.collector.tileObject.bobbleheads.ParrotBobbleHead.description=
+//[Reference] 'Parrot Bobble Head'
+staxel.collector.tileObject.bobbleheads.ParrotBobbleHead.name=オウムのボブルヘッド
+staxel.collector.tileObject.bobbleheads.PenguinBobbleHead.description=
+//[Reference] 'Penguin Bobble Head'
+staxel.collector.tileObject.bobbleheads.PenguinBobbleHead.name=ペンギンのボブルヘッド
+staxel.collector.tileObject.bobbleheads.PheasantBobbleHead.description=
+//[Reference] 'Pheasant Bobble Head'
+staxel.collector.tileObject.bobbleheads.PheasantBobbleHead.name=キジのボブルヘッド
+staxel.collector.tileObject.bobbleheads.TomtiBobbleHead.description=
+//[Reference] 'Tomti Bobble Head'
+staxel.collector.tileObject.bobbleheads.TomtiBobbleHead.name=トムティのボブルヘッド
+staxel.collector.tileObject.bobbleheads.TortoiseBobbleHead.description=
+//[Reference] 'Tortoise Bobble Head'
+staxel.collector.tileObject.bobbleheads.TortoiseBobbleHead.name=陸ガメのボブルヘッド
+staxel.collector.tileObject.bobbleheads.UnicornKittyBobbleHead.description=
+//[Reference] 'Unicorn Kitty Bobble Head'
+staxel.collector.tileObject.bobbleheads.UnicornKittyBobbleHead.name=ユニコーンネコのボブルヘッド
+staxel.collector.tileObject.cave.CaveAlgaeBottom.description=
+//[Reference] 'Cave Algae Bottom'
+staxel.collector.tileObject.cave.CaveAlgaeBottom.name=洞窟の藻（底）
+staxel.collector.tileObject.cave.CaveAlgaeMiddle.description=
+//[Reference] 'Cave Algae Middle'
+staxel.collector.tileObject.cave.CaveAlgaeMiddle.name=洞窟の藻（中）
+staxel.collector.tileObject.cave.CaveAlgaeRoof.description=
+//[Reference] 'Cave Algae Roof'
+staxel.collector.tileObject.cave.CaveAlgaeRoof.name=洞窟の藻（屋根）
+staxel.collector.tileObject.cave.CaveAlgaeTop.description=
+//[Reference] 'Cave Algae Top'
+staxel.collector.tileObject.cave.CaveAlgaeTop.name=洞窟の藻（上）
+staxel.collector.tileObject.cave.CaveHangingMossLarge1.description=
+//[Reference] 'Large Cave Hanging Moss'
+staxel.collector.tileObject.cave.CaveHangingMossLarge1.name=大きな洞窟の吊り下げゴケ
+staxel.collector.tileObject.cave.CaveHangingMossSmall1.description=
+//[Reference] 'Small Cave Hanging Moss'
+staxel.collector.tileObject.cave.CaveHangingMossSmall1.name=小さな洞窟の吊り下げゴケ
+staxel.collector.tileObject.cave.CaveHangingMossSmall2.description=
+//[Reference] 'Thin Cave Hanging Moss'
+staxel.collector.tileObject.cave.CaveHangingMossSmall2.name=薄い洞窟の吊り下げゴケ
+staxel.collector.tileObject.cave.CaveStalactiteLarge1.description=
+//[Reference] 'Large Cave Stalactite'
+staxel.collector.tileObject.cave.CaveStalactiteLarge1.name=大きな洞窟の鍾乳石
+staxel.collector.tileObject.cave.CaveStalactiteSmall1.description=
+//[Reference] 'Medium Cave Stalactite'
+staxel.collector.tileObject.cave.CaveStalactiteSmall1.name=中くらいの洞窟の鍾乳石
+staxel.collector.tileObject.cave.CaveStalactiteSmall2.description=
+//[Reference] 'Small Cave Stalactite'
+staxel.collector.tileObject.cave.CaveStalactiteSmall2.name=小さな洞窟の鍾乳石
+staxel.collector.tileObject.Cave.CaveStalagmiteLarge1.description=
+//[Reference] 'Large Cave Stalagmite'
+staxel.collector.tileObject.Cave.CaveStalagmiteLarge1.name=大きな洞窟の石じゅん
+staxel.collector.tileObject.Cave.CaveStalagmiteSmall1.description=
+//[Reference] 'Medium Cave Stalagmite'
+staxel.collector.tileObject.Cave.CaveStalagmiteSmall1.name=中くらいの洞窟の石じゅん
+staxel.collector.tileObject.Cave.CaveStalagmiteSmall2.description=
+//[Reference] 'Small Cave Stalagmite'
+staxel.collector.tileObject.Cave.CaveStalagmiteSmall2.name=小さな洞窟の石じゅん
+staxel.collector.tileObject.decor.GamingComputer.description=
+//[Reference] 'Gaming Computer'
+staxel.collector.tileObject.decor.GamingComputer.name=ゲーミングコンピューター
+staxel.collector.tileObject.decor.GamingDesktop.description=
+//[Reference] 'Gaming Desktop'
+staxel.collector.tileObject.decor.GamingDesktop.name=ゲーミングデスクトップ
+staxel.collector.tileObject.decor.Laptop.description=
+//[Reference] 'Laptop'
+staxel.collector.tileObject.decor.Laptop.name=ノートパソコン
+staxel.collector.tileObject.exterior.AntiqueBridgeMain.description=
+//[Reference] 'Antique Bridge'
+staxel.collector.tileObject.exterior.AntiqueBridgeMain.name=アンティークな橋
+staxel.collector.tileObject.exterior.AntiqueBridgePillarLeft.description=
+//[Reference] 'Left Antique Bridge Pillar'
+staxel.collector.tileObject.exterior.AntiqueBridgePillarLeft.name=アンティークな橋の柱（左）
+staxel.collector.tileObject.exterior.AntiqueBridgePillarRight.description=
+//[Reference] 'Right Antique Bridge Pillar'
+staxel.collector.tileObject.exterior.AntiqueBridgePillarRight.name=アンティークな橋の柱（右）
+staxel.collector.tileObject.exterior.AntiqueBridgeRail.description=
+//[Reference] 'Antique Bridge Rail'
+staxel.collector.tileObject.exterior.AntiqueBridgeRail.name=アンティークな橋の手すり
+staxel.collector.tileObject.exterior.AntiqueBridgeRamp.description=
+//[Reference] 'Antique Bridge Ramp'
+staxel.collector.tileObject.exterior.AntiqueBridgeRamp.name=アンティークな橋の傾斜面
+staxel.collector.tileObject.furniture.AntiqueArmChair.description=
+//[Reference] 'Antique Arm Chair'
+staxel.collector.tileObject.furniture.AntiqueArmChair.name=アンティークなアームチェア
+staxel.collector.tileObject.furniture.AntiqueBookshelf.description=
+//[Reference] 'Antique Bookshelf'
+staxel.collector.tileObject.furniture.AntiqueBookshelf.name=アンティークな本棚
+staxel.collector.tileObject.furniture.AntiqueChair.description=
+//[Reference] 'Antique Chair'
+staxel.collector.tileObject.furniture.AntiqueChair.name=アンティークなイス
+staxel.collector.tileObject.furniture.AntiqueCoffeeTable.description=
+//[Reference] 'Antique Coffee Table'
+staxel.collector.tileObject.furniture.AntiqueCoffeeTable.name=アンティークなコーヒーテーブル
+staxel.collector.tileObject.furniture.AntiqueCoffeeTableNoDock.description=
+//[Reference] '(No Docks) Antique Coffee Table'
+staxel.collector.tileObject.furniture.AntiqueCoffeeTableNoDock.name=アンティークなコーヒーテーブル（収納不可）
+staxel.collector.tileObject.furniture.AntiqueDesk.description=
+//[Reference] 'Antique Desk'
+staxel.collector.tileObject.furniture.AntiqueDesk.name=アンティークな机
+staxel.collector.tileObject.furniture.AntiqueDeskLamp.description=
+//[Reference] 'Antique Desk Lamp'
+staxel.collector.tileObject.furniture.AntiqueDeskLamp.name=アンティークな机のランプ
+staxel.collector.tileObject.furniture.AntiqueDeskNoDock.description=
+//[Reference] '(No Docks) Antique Desk'
+staxel.collector.tileObject.furniture.AntiqueDeskNoDock.name=アンティークな机（収納不可）
+staxel.collector.tileObject.furniture.AntiqueDoor.description=
+//[Reference] 'Antique Door'
+staxel.collector.tileObject.furniture.AntiqueDoor.name=アンティークなドア
+staxel.collector.tileObject.furniture.AntiqueDoubleBed.description=
+//[Reference] 'Antique Double Bed'
+staxel.collector.tileObject.furniture.AntiqueDoubleBed.name=アンティークなダブルベッド
+staxel.collector.tileObject.furniture.AntiqueDresser.description=
+//[Reference] 'Antique Dresser'
+staxel.collector.tileObject.furniture.AntiqueDresser.name=アンティークなドレッサー
+staxel.collector.tileObject.furniture.AntiqueFenceIn.description=
+//[Reference] 'Antique Fence In'
+staxel.collector.tileObject.furniture.AntiqueFenceIn.name=アンティークなフェンス（中）
+staxel.collector.tileObject.furniture.AntiqueFenceOut.description=
+//[Reference] 'Antique Fence Out'
+staxel.collector.tileObject.furniture.AntiqueFenceOut.name=アンティークなフェンス（外）
+staxel.collector.tileObject.furniture.AntiqueFenceStraight.description=
+//[Reference] 'Antique Fence'
+staxel.collector.tileObject.furniture.AntiqueFenceStraight.name=アンティークなフェンス
+staxel.collector.tileObject.furniture.AntiqueFootLamp.description=
+//[Reference] 'Antique Foot Lamp'
+staxel.collector.tileObject.furniture.AntiqueFootLamp.name=アンティークなフットランプ
+staxel.collector.tileObject.furniture.AntiqueSideTable.description=
+//[Reference] 'Antique Side Table'
+staxel.collector.tileObject.furniture.AntiqueSideTable.name=アンティークなサイドテーブル
+staxel.collector.tileObject.furniture.AntiqueSideTableNoDock.description=
+//[Reference] '(No Docks) Antique Side Table'
+staxel.collector.tileObject.furniture.AntiqueSideTableNoDock.name=アンティークなサイドテーブル（収納不可）
+staxel.collector.tileObject.furniture.AntiqueSingleBed.description=
+//[Reference] 'Antique Single Bed'
+staxel.collector.tileObject.furniture.AntiqueSingleBed.name=アンティークなシングルベッド
+staxel.collector.tileObject.furniture.AntiqueSofa.description=
+//[Reference] 'Antique Sofa'
+staxel.collector.tileObject.furniture.AntiqueSofa.name=アンティークなソファ
+staxel.collector.tileObject.furniture.AntiqueStool.description=
+//[Reference] 'Antique Stool'
+staxel.collector.tileObject.furniture.AntiqueStool.name=アンティークなスツール
+staxel.collector.tileObject.furniture.AntiqueTable.description=
+//[Reference] 'Antique Table'
+staxel.collector.tileObject.furniture.AntiqueTable.name=アンティークなテーブル
+staxel.collector.tileObject.furniture.AntiqueTableLarge.description=
+//[Reference] 'Large Antique Table'
+staxel.collector.tileObject.furniture.AntiqueTableLarge.name=アンティークなテーブル（大）
+staxel.collector.tileObject.furniture.AntiqueTableLargeNoDock.description=
+//[Reference] '(No Docks) Large Antique Table'
+staxel.collector.tileObject.furniture.AntiqueTableLargeNoDock.name=アンティークなテーブル（大）（収納不可）
+staxel.collector.tileObject.furniture.AntiqueTableNoDock.description=
+//[Reference] '(No Docks) Antique Table'
+staxel.collector.tileObject.furniture.AntiqueTableNoDock.name=アンティークなテーブル（収納不可）
+staxel.collector.tileObject.furniture.AntiqueWallShelf.description=
+//[Reference] 'Antique Wall Shelf'
+staxel.collector.tileObject.furniture.AntiqueWallShelf.name=アンティークな壁掛け棚
+staxel.collector.tileObject.furniture.AntiqueWindow.description=
+//[Reference] 'Antique Window'
+staxel.collector.tileObject.furniture.AntiqueWindow.name=アンティークな窓
+staxel.collector.tileObject.furniture.AntiqueWindowSeat.description=
+//[Reference] 'Antique Window Seat'
+staxel.collector.tileObject.furniture.AntiqueWindowSeat.name=アンティークなウィンドウシート
+staxel.collector.tileObject.furniture.AntiqueWindowSeethrough.description=
+//[Reference] 'Seethrough Antique Window'
+staxel.collector.tileObject.furniture.AntiqueWindowSeethrough.name=シースルーのアンティークな窓
+staxel.collector.tileObject.furniture.bathroom.AntiqueBathtub.description=
+//[Reference] 'Antique Bathtub'
+staxel.collector.tileObject.furniture.bathroom.AntiqueBathtub.name=アンティークなバスタブ
+staxel.collector.tileObject.furniture.bathroom.AntiqueShower.description=
+//[Reference] 'Antique Shower'
+staxel.collector.tileObject.furniture.bathroom.AntiqueShower.name=アンティークなシャワー
+staxel.collector.tileObject.furniture.bathroom.AntiqueSink.description=
+//[Reference] 'Antique Sink'
+staxel.collector.tileObject.furniture.bathroom.AntiqueSink.name=アンティークな洗面台
+staxel.collector.tileObject.furniture.bathroom.AntiqueToilet.description=
+//[Reference] 'Antique Toilet'
+staxel.collector.tileObject.furniture.bathroom.AntiqueToilet.name=アンティークな便器
+staxel.collector.tileObject.furniture.bathroom.Towel1.description=
+//[Reference] 'Pink Towel'
+staxel.collector.tileObject.furniture.bathroom.Towel1.name=ピンク色のタオル
+staxel.collector.tileObject.furniture.bathroom.Towel2.description=
+//[Reference] 'Purple Towel'
+staxel.collector.tileObject.furniture.bathroom.Towel2.name=紫色のタオル
+staxel.collector.tileObject.furniture.decor.CollectorBooks1.description=
+//[Reference] 'Collector Books'
+staxel.collector.tileObject.furniture.decor.CollectorBooks1.name=コレクター本
+staxel.collector.tileObject.furniture.decor.CozyCandles1.description=
+//[Reference] 'Purple Cozy Candles'
+staxel.collector.tileObject.furniture.decor.CozyCandles1.name=紫色の快適ロウソク
+staxel.collector.tileObject.furniture.decor.CozyCandles2.description=
+//[Reference] 'Pink Cozy Candles'
+staxel.collector.tileObject.furniture.decor.CozyCandles2.name=ピンク色の快適ロウソク
+staxel.collector.tileObject.furniture.decor.Cutlery1.description=
+//[Reference] 'Plate with Cutlery'
+staxel.collector.tileObject.furniture.decor.Cutlery1.name=カトラリー付きのプレート
+staxel.collector.tileObject.furniture.decor.Pictureframe1.description=
+//[Reference] 'Antique Picture Frame'
+staxel.collector.tileObject.furniture.decor.Pictureframe1.name=アンティークな額縁
+staxel.collector.tileObject.furniture.decor.Pictureframe2.description=
+//[Reference] 'Modern Picture Frame'
+staxel.collector.tileObject.furniture.decor.Pictureframe2.name=モダンな額縁
+staxel.collector.tileObject.furniture.decor.Pot1.description=
+//[Reference] 'Stock Pot'
+staxel.collector.tileObject.furniture.decor.Pot1.name=ずんどう鍋
+staxel.collector.tileObject.furniture.decor.Pot2.description=
+//[Reference] 'Saucepan'
+staxel.collector.tileObject.furniture.decor.Pot2.name=シチュー鍋
+staxel.collector.tileObject.furniture.decor.SpiceRack.description=
+//[Reference] 'Spice Rack'
+staxel.collector.tileObject.furniture.decor.SpiceRack.name=スパイス棚
+staxel.collector.tileObject.furniture.decor.TrayEmpty.description=
+//[Reference] 'Tray'
+staxel.collector.tileObject.furniture.decor.TrayEmpty.name=トレイ
+staxel.collector.tileObject.furniture.Sconce.description=
+//[Reference] 'Sconce'
+staxel.collector.tileObject.furniture.Sconce.name=スコンス
+staxel.collector.tileObject.furniture.SwingingLoveseat.description=
+//[Reference] 'Swinging Loveseat'
+staxel.collector.tileObject.furniture.SwingingLoveseat.name=ぶらんこロマンスシート
+staxel.collector.tileObject.galaxyIsland.GalaxyChest.description=
+//[Reference] 'Galaxy Chest'
+staxel.collector.tileObject.galaxyIsland.GalaxyChest.name=銀河チェスト
+staxel.collector.tileObject.galaxyIsland.GalaxyChestLarge.description=
+//[Reference] 'Large Galaxy Chest'
+staxel.collector.tileObject.galaxyIsland.GalaxyChestLarge.name=銀河チェスト（大）
+staxel.collector.tileObject.galaxyIsland.GalaxyChestUsed.description=
+//[Reference] 'Large Galaxy Chest Used'
+staxel.collector.tileObject.galaxyIsland.GalaxyChestUsed.name=使用済み銀河チェスト（大）
+staxel.collector.tileObject.galaxyIsland.GalaxyChestUsedLarge.description=
+//[Reference] 'Large Galaxy Chest Used'
+staxel.collector.tileObject.galaxyIsland.GalaxyChestUsedLarge.name=使用済み銀河チェスト（大）
+staxel.collector.tileObject.GalaxyPortal.Farm.description=
+//[Reference] 'Portal Farm'
+staxel.collector.tileObject.GalaxyPortal.Farm.name=ポータル牧場
+staxel.collector.tileObject.GalaxyPortal.Hideout.description=
+//[Reference] 'Portal Hideout'
+staxel.collector.tileObject.GalaxyPortal.Hideout.name=ポータル隠れ場所
+staxel.collector.tileObject.GalaxyPortal.MoonEntrance.description=
+//[Reference] 'Portal Moon Entrance'
+staxel.collector.tileObject.GalaxyPortal.MoonEntrance.name=ポータル月の入り口
+staxel.collector.tileObject.GalaxyPortal.MoonExit.description=
+//[Reference] 'Portal Moon Exit'
+staxel.collector.tileObject.GalaxyPortal.MoonExit.name=ポータル月の出口
+staxel.collector.tileObject.GalaxyPortal.SunEntrance.description=
+//[Reference] 'Portal Sun Entrance'
+staxel.collector.tileObject.GalaxyPortal.SunEntrance.name=ポータル太陽の入り口
+staxel.collector.tileObject.GalaxyPortal.SunExit.description=
+//[Reference] 'Portal Sun Exit'
+staxel.collector.tileObject.GalaxyPortal.SunExit.name=ポータル太陽の出口
+staxel.collector.tileObject.HideoutPortal.Closet1.description=
+//[Reference] 'Portal Closet'
+staxel.collector.tileObject.HideoutPortal.Closet1.name=ポータルクローゼット
+staxel.collector.tileObject.HideoutPortal.Closet2.description=
+//[Reference] 'Portal Closet'
+staxel.collector.tileObject.HideoutPortal.Closet2.name=ポータルクローゼット
+staxel.collector.tileObject.HideoutPortal.Complete.description=
+//[Reference] 'Portal Complete'
+staxel.collector.tileObject.HideoutPortal.Complete.name=ポータルコンプリート
+staxel.collector.tileObject.HideoutPortal.Galaxy.description=
+//[Reference] 'Portal Galaxy'
+staxel.collector.tileObject.HideoutPortal.Galaxy.name=ポータル銀河
+staxel.collector.tileObject.museum.displays.AntiquePedestal.description=
+//[Reference] 'Antique Pedestal'
+staxel.collector.tileObject.museum.displays.AntiquePedestal.name=アンティークな台
+staxel.collector.tileObject.museum.displays.AntiquePedestalLarge.description=
+//[Reference] 'Large Antique Pedestal'
+staxel.collector.tileObject.museum.displays.AntiquePedestalLarge.name=アンティークな台（大）
+staxel.collector.tileObject.museum.fossils.AncientCrown.description=
+//[Reference] 'Ancient Crown'
+staxel.collector.tileObject.museum.fossils.AncientCrown.name=アンティークなかんむり
+staxel.collector.tileObject.museum.fossils.CrashedStar.description=
+//[Reference] 'Crashed Star'
+staxel.collector.tileObject.museum.fossils.CrashedStar.name=墜落した星
+staxel.collector.tileObject.museum.painting.CozyWall.description=
+//[Reference] 'Cozy Wall'
+staxel.collector.tileObject.museum.painting.CozyWall.name=快適な壁
+staxel.collector.tileObject.museum.painting.FishersHut.description=
+//[Reference] 'Fishers Hut'
+staxel.collector.tileObject.museum.painting.FishersHut.name=漁師の小屋
+staxel.collector.tileObject.museum.painting.MilkyWay.description=
+//[Reference] 'Milky Way'
+staxel.collector.tileObject.museum.painting.MilkyWay.name=天の川
+staxel.collector.tileObject.museum.painting.Pictures.description=
+//[Reference] 'Pictures'
+staxel.collector.tileObject.museum.painting.Pictures.name=絵
+staxel.collector.tileObject.pets.FoodBowlLargeEmpty.description=
+//[Reference] 'Large Food Bowl'
+staxel.collector.tileObject.pets.FoodBowlLargeEmpty.name=エサ皿（大）
+staxel.collector.tileObject.pets.FoodBowlLargeFull.description=
+//[Reference] 'Large Food Bowl Full'
+staxel.collector.tileObject.pets.FoodBowlLargeFull.name=エサの入ったエサ皿（大）
+staxel.collector.tileObject.pets.FoxHouse.description=
+//[Reference] 'Fox House'
+staxel.collector.tileObject.pets.FoxHouse.name=キツネ小屋
+staxel.collector.tileObject.pets.HedgehogHouse.description=
+//[Reference] 'Hedgehog House'
+staxel.collector.tileObject.pets.HedgehogHouse.name=ハリネズミ小屋
+staxel.collector.tileObject.pets.Igloo.description=
+//[Reference] 'Igloo'
+staxel.collector.tileObject.pets.Igloo.name=イグルー
+staxel.collector.tileObject.pets.ParrotCage.description=
+//[Reference] 'Parrot Cage'
+staxel.collector.tileObject.pets.ParrotCage.name=オウムの籠
+staxel.collector.tileObject.pets.TortoiseHouse.description=
+//[Reference] 'Tortoise House'
+staxel.collector.tileObject.pets.TortoiseHouse.name=陸ガメ小屋
+staxel.collector.tileObject.pets.UnicornKittyHouse.description=
+//[Reference] 'Unicorn Kitty House'
+staxel.collector.tileObject.pets.UnicornKittyHouse.name=ユニコーンネコの小屋
+staxel.collector.tileObject.quest.GalaxyPortalFragment.description=
+//[Reference] 'Galaxy Portal Fragment'
+staxel.collector.tileObject.quest.GalaxyPortalFragment.name=銀河ポータルの欠片
+staxel.collector.tileObject.quest.MuseumGate.description=
+//[Reference] 'Museum Gate'
+staxel.collector.tileObject.quest.MuseumGate.name=博物館のゲート
+staxel.collector.tileObject.quest.MuseumGate_Locked.description=
+//[Reference] 'Museum Gate Locked'
+staxel.collector.tileObject.quest.MuseumGate_Locked.name=博物館のゲート（施錠中）
+staxel.collector.tileObject.roofing.slate.SlateRoofFlat.description=
+//[Reference] 'Slate Roof Flat'
+staxel.collector.tileObject.roofing.slate.SlateRoofFlat.name=板屋根（水平）
+staxel.collector.tileObject.roofing.slate.SlateRoofFull.description=
+//[Reference] 'Slate Roof Full'
+staxel.collector.tileObject.roofing.slate.SlateRoofFull.name=板屋根（フル）
+staxel.collector.tileObject.roofing.slate.SlateRoofInnerCorner.description=
+//[Reference] 'Slate Roof Inner Corner'
+staxel.collector.tileObject.roofing.slate.SlateRoofInnerCorner.name=板屋根（内側の角）
+staxel.collector.tileObject.roofing.slate.SlateRoofInnerCornerUpsidedown.description=
+//[Reference] 'Slate Roof Inner Corner Upsidedown'
+staxel.collector.tileObject.roofing.slate.SlateRoofInnerCornerUpsidedown.name=板屋根（内側の角）（逆さま）
+staxel.collector.tileObject.roofing.slate.SlateRoofOuterCorner.description=
+//[Reference] 'Slate Roof Outer Corner'
+staxel.collector.tileObject.roofing.slate.SlateRoofOuterCorner.name=板屋根（外側の角）
+staxel.collector.tileObject.roofing.slate.SlateRoofOuterCornerUpsidedown.description=
+//[Reference] 'Slate Roof Outer Corner Upsidedown'
+staxel.collector.tileObject.roofing.slate.SlateRoofOuterCornerUpsidedown.name=板屋根（外側の角）（逆さま）
+staxel.collector.tileObject.roofing.slate.SlateRoofStraight.description=
+//[Reference] 'Slate Roof'
+staxel.collector.tileObject.roofing.slate.SlateRoofStraight.name=板屋根
+staxel.collector.tileObject.roofing.slate.SlateRoofStraightUpsidedown.description=
+//[Reference] 'Slate Roof Straight Upsidedown'
+staxel.collector.tileObject.roofing.slate.SlateRoofStraightUpsidedown.name=板屋根（ストレート）（逆さま）
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.SailsEnd.description=オーイ！
+//[Reference] 'Ship Sails End'
+staxel.collector.tileObject.ship.SailsEnd.name=船の帆（末端）
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.SailsMidLoose.description=オーイ！
+//[Reference] 'Ship Sails Middle'
+staxel.collector.tileObject.ship.SailsMidLoose.name=船の帆（中）
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.SailsMidTied.description=オーイ！
+//[Reference] 'Tied Ship Sails Mid dle'
+staxel.collector.tileObject.ship.SailsMidTied.name=結ばれた船の帆（中）
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.ShipAnchor.description=オーイ！
+//[Reference] 'Ship Anchor'
+staxel.collector.tileObject.ship.ShipAnchor.name=船の碇
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.ShipHelm.description=オーイ！
+//[Reference] 'Ship Helm'
+staxel.collector.tileObject.ship.ShipHelm.name=船のかじ
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.ShipMast1.description=オーイ！
+//[Reference] 'Ship Mast'
+staxel.collector.tileObject.ship.ShipMast1.name=船のマスト
+//[Reference] 'Ahoy!'
+staxel.collector.tileObject.ship.ShipMast2.description=オーイ！
+//[Reference] 'Strapped Ship Mast'
+staxel.collector.tileObject.ship.ShipMast2.name=縛られた船のマスト
+staxel.collector.tileObject.TomtiHousePortal.AfterKey.description=
+//[Reference] 'After Key'
+staxel.collector.tileObject.TomtiHousePortal.AfterKey.name=アフターキー
+staxel.collector.tileObject.TomtiHousePortal.Back.description=
+//[Reference] 'Back'
+staxel.collector.tileObject.TomtiHousePortal.Back.name=戻る
+staxel.collector.tileObject.TomtiHousePortal.BackToBath.description=
+//[Reference] 'Back To Bath'
+staxel.collector.tileObject.TomtiHousePortal.BackToBath.name=浴室に戻る
+staxel.collector.tileObject.TomtiHousePortal.BackToFood.description=
+//[Reference] 'Back To Food'
+staxel.collector.tileObject.TomtiHousePortal.BackToFood.name=食糧庫に戻る
+staxel.collector.tileObject.TomtiHousePortal.BackToKey.description=
+//[Reference] 'Back To Key'
+staxel.collector.tileObject.TomtiHousePortal.BackToKey.name=カギ部屋に戻る
+staxel.collector.tileObject.TomtiHousePortal.BackToToy.description=
+//[Reference] 'Back To Toy'
+staxel.collector.tileObject.TomtiHousePortal.BackToToy.name=おもちゃ部屋に戻る
+staxel.collector.tileObject.TomtiHousePortal.Bath.description=
+//[Reference] 'Bath'
+staxel.collector.tileObject.TomtiHousePortal.Bath.name=浴室
+staxel.collector.tileObject.TomtiHousePortal.BathWrong.description=
+//[Reference] 'Bath Wrong'
+staxel.collector.tileObject.TomtiHousePortal.BathWrong.name=浴室（誤）
+staxel.collector.tileObject.TomtiHousePortal.Food.description=
+//[Reference] 'Food'
+staxel.collector.tileObject.TomtiHousePortal.Food.name=食べ物
+staxel.collector.tileObject.TomtiHousePortal.FoodWrong.description=
+//[Reference] 'Food Wrong'
+staxel.collector.tileObject.TomtiHousePortal.FoodWrong.name=食べ物（誤）
+staxel.collector.tileObject.TomtiHousePortal.Toy.description=
+//[Reference] 'Toy'
+staxel.collector.tileObject.TomtiHousePortal.Toy.name=おもちゃ
+staxel.collector.tileObject.TomtiHousePortal.ToyWrong.description=
+//[Reference] 'Toy Wrong'
+staxel.collector.tileObject.TomtiHousePortal.ToyWrong.name=おもちゃ（誤）
+staxel.collector.tileObject.totems.TomtiMailbox.description=
+//[Reference] 'Tomti Mailbox'
+staxel.collector.tileObject.totems.TomtiMailbox.name=トムティの郵便ポスト
+staxel.collector.tileObject.toys.FrogPlushie.description=
+//[Reference] 'Frog Plushie'
+staxel.collector.tileObject.toys.FrogPlushie.name=カエルのぬいぐるみ
+staxel.collector.tileObject.toys.GoatPlushie.description=
+//[Reference] 'Goat Plushie'
+staxel.collector.tileObject.toys.GoatPlushie.name=ヤギのぬいぐるみ
+staxel.collector.tileObject.toys.HedgehogPlushie.description=
+//[Reference] 'Hedgehog Plushie'
+staxel.collector.tileObject.toys.HedgehogPlushie.name=ハリネズミのぬいぐるみ
+staxel.collector.tileObject.toys.ParrotPlushie.description=
+//[Reference] 'Parrot Plushie'
+staxel.collector.tileObject.toys.ParrotPlushie.name=オウムのぬいぐるみ
+staxel.collector.tileObject.toys.PuzzleToy.description=
+//[Reference] 'Puzzle Toy'
+staxel.collector.tileObject.toys.PuzzleToy.name=パズルのおもちゃ
+staxel.collector.tileObject.toys.RocketToy.description=
+//[Reference] 'Rocket Toy'
+staxel.collector.tileObject.toys.RocketToy.name=ロケットのおもちゃ
+staxel.collector.tileObject.toys.TortoisePlushie.description=
+//[Reference] 'Tortoise Plushie'
+staxel.collector.tileObject.toys.TortoisePlushie.name=陸ガメのぬいぐるみ
+staxel.collector.tileObject.toys.TractorToy.description=
+//[Reference] 'Tractor Toy'
+staxel.collector.tileObject.toys.TractorToy.name=トラクターのおもちゃ
+staxel.collector.tileObject.villagers.TomtiSpawner.description=
+//[Reference] 'Tomti Spawner'
+staxel.collector.tileObject.villagers.TomtiSpawner.name=トムティのスポナー
+staxel.collector.totem.TomtiHome.description=
+//[Reference] 'Tomti Home'
+staxel.collector.totem.TomtiHome.name=トムティの家
+staxel.collector.village.character.Tomti.description=
+//[Reference] 'Tomti'
+staxel.collector.village.character.Tomti.name=トムティ
+staxel.plant.quest.GaintTurnip.tile.description=
+//[Reference] 'Giant Turnip'
+staxel.plant.quest.GaintTurnip.tile.name=巨大なカブ
+
+staxel.tileObject.airship.RopeFenceCorner.description=
+//[Reference] 'Rope Fence'
+staxel.tileObject.airship.RopeFenceCorner.name=ロープフェンス
+staxel.tileObject.airship.RopeFenceStraight.description=
+//[Reference] 'Rope Fence'
+staxel.tileObject.airship.RopeFenceStraight.name=ロープフェンス
+
+//[Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
+staxel.tileObject.animalFurniture.Apiary.description=これはハチの飼育場所。ハチがこの中に巣を作ると、時間をかけてハチミツが作られるようになり、後で採取できるようになる。
+//[Reference] 'Apiary'
+staxel.tileObject.animalFurniture.Apiary.name=養蜂箱
+//[Reference] 'A little structure for chickens so they have a place to sleep at night. Very homely!'
+staxel.tileObject.animalFurniture.ChickenCoop.description=ニワトリ向けの小さな建物で、夜になればこの中で眠れるようになる。とても家庭的な感じ！
+//[Reference] 'Chicken Coop'
+staxel.tileObject.animalFurniture.ChickenCoop.name=ニワトリ小屋
+//[Reference] 'A large area where chicken feed can be placed.'
+staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.description=ニワトリのエサを置くことができる大きな場所。
+//[Reference] 'Chicken Feeding Area'
+staxel.tileObject.animalFurniture.ChickenFeedAreaEmpty.name=ニワトリのエサ場
+//[Reference] 'A large area where chicken feed can be placed.'
+staxel.tileObject.animalFurniture.ChickenFeedAreaFull.description=ニワトリのエサを置くことができる大きな場所。
+//[Reference] 'Chicken Feeding Area'
+staxel.tileObject.animalFurniture.ChickenFeedAreaFull.name=ニワトリのエサ場
+staxel.tileObject.animalFurniture.ChickenSign.description=
+//[Reference] 'Chicken Sign'
+staxel.tileObject.animalFurniture.ChickenSign.name=ニワトリの看板
+staxel.tileObject.animalFurniture.CowSign.description=
+//[Reference] 'Cow Sign'
+staxel.tileObject.animalFurniture.CowSign.name=牛の看板
+staxel.tileObject.animalFurniture.PigSign.description=
+//[Reference] 'Pig Sign'
+staxel.tileObject.animalFurniture.PigSign.name=ブタの看板
+staxel.tileObject.animalFurniture.SheepSign.description=
+//[Reference] 'Sheep Sign'
+staxel.tileObject.animalFurniture.SheepSign.name=ヒツジの看板
+//[Reference] 'Fill with slop to feed your pigs.'
+staxel.tileObject.animalFurniture.SlopTroughEmpty.description=ブタのために残飯を入れてあげよう。
+//[Reference] 'Empty Slop Trough'
+staxel.tileObject.animalFurniture.SlopTroughEmpty.name=空の残飯用の飼い葉桶
+//[Reference] 'Pigs love slop!'
+staxel.tileObject.animalFurniture.SlopTroughFeed.description=ブタはどんな残飯でも食べるよ！
+//[Reference] 'Slop Trough'
+staxel.tileObject.animalFurniture.SlopTroughFeed.name=残飯入り飼い葉桶
+//[Reference] 'A trough can be used to fill with either water or animal feed. Very important for animal care.'
+staxel.tileObject.animalFurniture.TroughEmpty.description=水や動物のエサを入れることができる飼い葉桶。動物の世話に欠かせないもの。
+//[Reference] 'Empty Trough'
+staxel.tileObject.animalFurniture.TroughEmpty.name=空の飼い葉桶
+//[Reference] 'A trough can be used to fill with either water or animal feed. Very important for animal care.'
+staxel.tileObject.animalFurniture.TroughFeed.description=水や動物のエサを入れることができる飼い葉桶。動物の世話に欠かせないもの。
+//[Reference] 'Trough'
+staxel.tileObject.animalFurniture.TroughFeed.name=飼い葉桶
+//[Reference] 'A trough can be used to fill with either water or animal feed. Very important for animal care.'
+staxel.tileObject.animalFurniture.TroughWater.description=水や動物のエサを入れることができる飼い葉桶。動物の世話に欠かせないもの。
+//[Reference] 'Water Trough'
+staxel.tileObject.animalFurniture.TroughWater.name=水入りの飼い葉桶
+staxel.tileObject.balloon.BlueBalloon.description=
+//[Reference] 'Blue Balloon'
+staxel.tileObject.balloon.BlueBalloon.name=青色の風船
+staxel.tileObject.balloon.GreenBalloon.description=
+//[Reference] 'Green Balloon'
+staxel.tileObject.balloon.GreenBalloon.name=緑色の風船
+staxel.tileObject.balloon.OrangeBalloon.description=
+//[Reference] 'Orange Balloon'
+staxel.tileObject.balloon.OrangeBalloon.name=オレンジ色の風船
+staxel.tileObject.balloon.PinkBalloon.description=
+//[Reference] 'Pink Balloon'
+staxel.tileObject.balloon.PinkBalloon.name=ピンク色の風船
+staxel.tileObject.balloon.PurpleBalloon.description=
+//[Reference] 'Purple Balloon'
+staxel.tileObject.balloon.PurpleBalloon.name=紫色の風船
+staxel.tileObject.balloon.RedBalloon.description=
+//[Reference] 'Red Balloon'
+staxel.tileObject.balloon.RedBalloon.name=赤色の風船
+staxel.tileObject.balloon.YellowBalloon.description=
+//[Reference] 'Yellow Balloon'
+staxel.tileObject.balloon.YellowBalloon.name=黄色の風船
+staxel.tileObject.beachset.BeachBall.description=
+//[Reference] 'Beach Ball'
+staxel.tileObject.beachset.BeachBall.name=ビーチボール
+staxel.tileObject.beachset.BeachChair.description=
+//[Reference] 'Beach Chair'
+staxel.tileObject.beachset.BeachChair.name=ビーチチェア
+staxel.tileObject.beachset.Cooler.description=
+//[Reference] 'Cooler'
+staxel.tileObject.beachset.Cooler.name=クーラーボックス
+staxel.tileObject.beachset.Parasol.description=
+//[Reference] 'Parasol'
+staxel.tileObject.beachset.Parasol.name=パラソル
+staxel.tileObject.biomeDebris.LongMeadowGrass.1.description=
+//[Reference] 'Long Meadow Grass'
+staxel.tileObject.biomeDebris.LongMeadowGrass.1.name=草原の長い草
+staxel.tileObject.biomeDebris.LongMeadowGrass.2.description=
+//[Reference] 'Long Meadow Grass'
+staxel.tileObject.biomeDebris.LongMeadowGrass.2.name=草原の長い草
+staxel.tileObject.biomeDebris.LongMeadowGrass.3.description=
+//[Reference] 'Long Meadow Grass'
+staxel.tileObject.biomeDebris.LongMeadowGrass.3.name=草原の長い草
+staxel.tileObject.biomeDebris.LongMeadowGrass.4.description=
+//[Reference] 'Long Meadow Grass'
+staxel.tileObject.biomeDebris.LongMeadowGrass.4.name=草原の長い草
+
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_FlatEdge.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Flat Edged Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_FlatEdge.name=平たい縁つきの青い瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_FlatStraight.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Flat Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_FlatStraight.name=平たい青色の瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_InnerCorner.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Inner Corner Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_InnerCorner.name=内側コーナー用の青い瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_LeftEdge.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Left Edged Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_LeftEdge.name=左側の縁つき青色の瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_LeftEdgeCut.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Cut Left Edged Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_LeftEdgeCut.name=カットされた左側の縁つき青色の瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_LeftStraight.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Left Side Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_LeftStraight.name=左側の青い瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_OuterCorner.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Outer Corner Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_OuterCorner.name=外側コーナー用の青い瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_RightEdge.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Right Edged Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_RightEdge.name=右側の縁つき青色の瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_RightEdgeCut.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Cut Right Edged Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_RightEdgeCut.name=カットされた右側の縁つき青色の瓦屋根
+//[Reference] 'A roof made from dark blue shingles.'
+staxel.tileObject.blueroof.BlueRoof_RightStraight.description=紺色のこけら板で作られた屋根。
+//[Reference] 'Right Side Blue Tiled Roof'
+staxel.tileObject.blueroof.BlueRoof_RightStraight.name=右側の青い瓦屋根
+
+staxel.tileObject.bobbleheads.BartweBobbleHead.description=
+//[Reference] 'Bartwe Bobblehead'
+staxel.tileObject.bobbleheads.BartweBobbleHead.name=バートウィのボブルヘッド
+staxel.tileObject.bobbleheads.CallumBobbleHead.description=
+//[Reference] 'Callum Bobblehead'
+staxel.tileObject.bobbleheads.CallumBobbleHead.name=カラムのボブルヘッド
+staxel.tileObject.bobbleheads.CatBobbleHead.description=
+//[Reference] 'Cat Bobblehead'
+staxel.tileObject.bobbleheads.CatBobbleHead.name=猫のボブルヘッド
+staxel.tileObject.bobbleheads.ChickenBobbleHead.description=
+//[Reference] 'Chicken Bobblehead'
+staxel.tileObject.bobbleheads.ChickenBobbleHead.name=ニワトリのボブルヘッド
+staxel.tileObject.bobbleheads.CowBobbleHead.description=
+//[Reference] 'Cow Bobblehead'
+staxel.tileObject.bobbleheads.CowBobbleHead.name=牛のボブルヘッド
+staxel.tileObject.bobbleheads.EgaddBobbleHead.description=
+//[Reference] 'Egadd Bobblehead'
+staxel.tileObject.bobbleheads.EgaddBobbleHead.name=エガッドのボブルヘッド
+staxel.tileObject.bobbleheads.GolemBobbleHead.description=
+//[Reference] 'Golem Bobblehead'
+staxel.tileObject.bobbleheads.GolemBobbleHead.name=ゴーレムのボブルヘッド
+staxel.tileObject.bobbleheads.HarryBobbleHead.description=
+//[Reference] 'Harry Bobblehead'
+staxel.tileObject.bobbleheads.HarryBobbleHead.name=ハリーのボブルヘッド
+staxel.tileObject.bobbleheads.JenBobbleHead.description=
+//[Reference] 'Jen Bobblehead'
+staxel.tileObject.bobbleheads.JenBobbleHead.name=ジェンのボブルヘッド
+staxel.tileObject.bobbleheads.JoeBobbleHead.description=
+//[Reference] 'Joe Bobblehead'
+staxel.tileObject.bobbleheads.JoeBobbleHead.name=ジョーのボブルヘッド
+staxel.tileObject.bobbleheads.MayorBobbleHead.description=
+//[Reference] 'Mayor Bobblehead'
+staxel.tileObject.bobbleheads.MayorBobbleHead.name=町長のボブルヘッド
+staxel.tileObject.bobbleheads.MeekBobbleHead.description=
+//[Reference] 'Leif Bobblehead'
+staxel.tileObject.bobbleheads.MeekBobbleHead.name=レイフのボブルヘッド
+staxel.tileObject.bobbleheads.MoocowBobbleHead.description=
+//[Reference] 'Moocow Bobblehead'
+staxel.tileObject.bobbleheads.MoocowBobbleHead.name=モーカウのボブルヘッド
+staxel.tileObject.bobbleheads.PigBobbleHead.description=
+//[Reference] 'Pig Bobblehead'
+staxel.tileObject.bobbleheads.PigBobbleHead.name=ブタのボブルヘッド
+staxel.tileObject.bobbleheads.RazzBobbleHead.description=
+//[Reference] 'Razzleberry Bobblehead'
+staxel.tileObject.bobbleheads.RazzBobbleHead.name=ラズルベリーのボブルヘッド
+staxel.tileObject.bobbleheads.SheepBobbleHead.description=
+//[Reference] 'Sheep Bobblehead'
+staxel.tileObject.bobbleheads.SheepBobbleHead.name=ヒツジのボブルヘッド
+staxel.tileObject.bobbleheads.SteinBobbleHead.description=
+//[Reference] 'SteampunkStein Bobblehead'
+staxel.tileObject.bobbleheads.SteinBobbleHead.name=スティームパンクステインのボブルヘッド
+
+staxel.tileObject.campingset.Campfire.description=
+//[Reference] 'Campfire'
+staxel.tileObject.campingset.Campfire.name=キャンプファイア
+staxel.tileObject.chess.DarkBishop.description=
+//[Reference] 'Dark Bishop'
+staxel.tileObject.chess.DarkBishop.name=黒のビショップ
+staxel.tileObject.chess.DarkKing.description=
+//[Reference] 'Dark King'
+staxel.tileObject.chess.DarkKing.name=黒のキング
+staxel.tileObject.chess.DarkKnight.description=
+//[Reference] 'Dark Knight'
+staxel.tileObject.chess.DarkKnight.name=黒のナイト
+staxel.tileObject.chess.DarkPawn.description=
+//[Reference] 'Dark Pawn'
+staxel.tileObject.chess.DarkPawn.name=黒のポーン
+staxel.tileObject.chess.DarkQueen.description=
+//[Reference] 'Dark Queen'
+staxel.tileObject.chess.DarkQueen.name=黒のクイーン
+staxel.tileObject.chess.DarkRook.description=
+//[Reference] 'Dark Rook'
+staxel.tileObject.chess.DarkRook.name=黒のルーク
+staxel.tileObject.chess.LightBishop.description=
+//[Reference] 'Light Bishop'
+staxel.tileObject.chess.LightBishop.name=白のビショップ
+staxel.tileObject.chess.LightKing.description=
+//[Reference] 'Light King'
+staxel.tileObject.chess.LightKing.name=白のキング
+staxel.tileObject.chess.LightKnight.description=
+//[Reference] 'Light Knight'
+staxel.tileObject.chess.LightKnight.name=白のナイト
+staxel.tileObject.chess.LightPawn.description=
+//[Reference] 'Light Pawn'
+staxel.tileObject.chess.LightPawn.name=白のポーン
+staxel.tileObject.chess.LightQueen.description=
+//[Reference] 'Light Queen'
+staxel.tileObject.chess.LightQueen.name=白のクイーン
+staxel.tileObject.chess.LightRook.description=
+//[Reference] 'Light Rook'
+staxel.tileObject.chess.LightRook.name=白のルーク
+//[Reference] 'A gift in a blue box and topped with a pretty yellow bow.'
+staxel.tileObject.christmas.BluePresent.description=かわいい黄色のラッピングが施された、青色のプレゼントボックス。
+//[Reference] 'Blue Gift'
+staxel.tileObject.christmas.BluePresent.name=青色のプレゼント
+//[Reference] 'A traditional Christmas tree decorated with lots of little lights and topped with a bright star!'
+staxel.tileObject.christmas.ChristmasTree.description=一般的なクリスマスツリー。無数の小さなイルミネーションと、てっぺんのキラキラ輝く星で飾られている！
+//[Reference] 'Christmas Tree'
+staxel.tileObject.christmas.ChristmasTree.name=クリスマスツリー
+//[Reference] 'A gingerbread fence with yummy icing!'
+staxel.tileObject.christmas.GingerbreadFence.description=おいしそうなアイシングつきのジンジャーブレッドのフェンス！
+//[Reference] 'Gingerbread Fence'
+staxel.tileObject.christmas.GingerbreadFence.name=ジンジャーブレッドのフェンス
+//[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
+staxel.tileObject.christmas.GreenCandyCane.description=飾りか、それともおいしいお菓子か。それは本人次第！
+//[Reference] 'Green Candy Cane'
+staxel.tileObject.christmas.GreenCandyCane.name=緑色のキャンディーケイン
+//[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
+staxel.tileObject.christmas.GreenCandyCaneSmall.description=飾りか、それともおいしいお菓子か。それは本人次第！
+//[Reference] 'Small Green Candy Cane'
+staxel.tileObject.christmas.GreenCandyCaneSmall.name=小さな緑色のキャンディーケイン
+//[Reference] 'A gift in a green box and topped with a subtle white bow.'
+staxel.tileObject.christmas.GreenPresent.description=シンプルな白いラッピングが施された、緑色のプレゼントボックス。
+//[Reference] 'Green Gift'
+staxel.tileObject.christmas.GreenPresent.name=緑色のプレゼント
+//[Reference] 'What's better than a peppermint Lollipop? A giant peppermint lollipop!'
+staxel.tileObject.christmas.PeppermintLollipop.description=ペパーミントのロリポップよりいいものは？巨大ペパーミント・ロリポップ！
+//[Reference] 'Giant Peppermint Lollipop'
+staxel.tileObject.christmas.PeppermintLollipop.name=巨大ペパーミントのロリポップ
+//[Reference] 'A gift in a hot pink box and topped with a lovely black bow.'
+staxel.tileObject.christmas.PinkPresent.description=愛らしい黒色のラッピングが施された、ホットピンク色のプレゼントボックス。
+//[Reference] 'Pink Gift'
+staxel.tileObject.christmas.PinkPresent.name=ピンク色のプレゼント
+//[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
+staxel.tileObject.christmas.RedCandyCane.description=飾りか、それともおいしいお菓子か。それは本人次第！
+//[Reference] 'Red Candy Cane'
+staxel.tileObject.christmas.RedCandyCane.name=赤色のキャンディーケイン
+//[Reference] 'Is it a decoration or a delicious treat? That's up to you!'
+staxel.tileObject.christmas.RedCandyCaneSmall.description=飾りか、それともおいしいお菓子か。それは本人次第！
+//[Reference] 'Small Red Candy Cane'
+staxel.tileObject.christmas.RedCandyCaneSmall.name=小さな赤色のキャンディーケイン
+//[Reference] 'Yummm, I think it's strawberry!'
+staxel.tileObject.christmas.RedLollipop.description=この味は…イチゴかな！
+//[Reference] 'Red Lollipop'
+staxel.tileObject.christmas.RedLollipop.name=赤いロリポップ
+//[Reference] 'A gift in a yellow box and topped with a traditional red bow.'
+staxel.tileObject.christmas.YellowPresent.description=伝統的な赤いラッピングが施された、黄色のプレゼントボックス。
+//[Reference] 'Yellow Gift'
+staxel.tileObject.christmas.YellowPresent.name=黄色のプレゼント
+//[Reference] 'Perfect for roasting marshmallows under the stars.'
+staxel.tileObject.creepyBiome.Campfire.description=星空の下でマシュマロを焼くのに最適。
+//[Reference] 'Campfire'
+staxel.tileObject.creepyBiome.Campfire.name=キャンプファイア
+//[Reference] 'This tree is twisted and scary!'
+staxel.tileObject.creepyBiome.Creepytree.description=グネグネ曲がった不気味な木！
+//[Reference] 'Creepy Tree'
+staxel.tileObject.creepyBiome.Creepytree.name=コワい木
+//[Reference] 'I wonder who put that lamp there?'
+staxel.tileObject.creepyBiome.Creepytreelight.description=誰がランプを置いたのかな？
+//[Reference] 'Creepy Tree Light'
+staxel.tileObject.creepyBiome.Creepytreelight.name=ランプつきコワい木
+//[Reference] 'A classic candle which emits a comfortable orange light.'
+staxel.tileObject.creepyBiome.OrangeCandle.description=心地よいオレンジ色の光を放つ、典型的なロウソク。
+//[Reference] 'Orange Candle'
+staxel.tileObject.creepyBiome.OrangeCandle.name=オレンジ色のロウソク
+//[Reference] 'What a scary, yet well carved face.'
+staxel.tileObject.creepyBiome.PumpkinLight.description=顔の彫りがコワいほどよくできてる。
+//[Reference] 'Jack O' Lantern'
+staxel.tileObject.creepyBiome.PumpkinLight.name=ジャックオランタン
+//[Reference] 'This came from a freshly harvested pumpkin.'
+staxel.tileObject.creepyBiome.PumpkinVine.description=取れたてのカボチャから収穫できた。
+//[Reference] 'Pumpkin Vine'
+staxel.tileObject.creepyBiome.PumpkinVine.name=カボチャのつる
+//[Reference] 'This candle emits a scary purple light! What's making it purple? Spooky!'
+staxel.tileObject.creepyBiome.PurpleCandle.description=紫色のホラーな光を放つロウソク！どうやってこんな色になったのかな？コワーイ！
+//[Reference] 'Purple Candle'
+staxel.tileObject.creepyBiome.PurpleCandle.name=紫色のロウソク
+//[Reference] 'A grand tombstone.'
+staxel.tileObject.creepyBiome.TombstoneBig.description=りっぱな墓石。
+//[Reference] 'Big Tombstone'
+staxel.tileObject.creepyBiome.TombstoneBig.name=大きな墓石
+//[Reference] 'A standard tombstone with a touching and respectful epitaph engraved on it.'
+staxel.tileObject.creepyBiome.TombstoneSmall.description=感動的で丁寧な碑文が彫られた、ごく普通の墓石。
+//[Reference] 'Small Tombstone'
+staxel.tileObject.creepyBiome.TombstoneSmall.name=小さな墓石
+//[Reference] 'This tombstone seems to have been damaged from the elements.'
+staxel.tileObject.creepyBiome.TombstoneSmallBroken.description=この墓石は雨嵐や自然によってボロボロになってしまったみたい。
+//[Reference] 'Small Broken Tombstone'
+staxel.tileObject.creepyBiome.TombstoneSmallBroken.name=壊れた小さな墓石
+//[Reference] 'Similar to those used for the town square and the festival.'
+staxel.tileObject.decoration.TownArch.description=町の広場やお祭りに使われているものに似ている。
+//[Reference] 'Town Archway'
+staxel.tileObject.decoration.TownArch.name=町のアーチ道
+staxel.tileObject.decorations.BarberPole.description=
+//[Reference] 'Barber Pole'
+staxel.tileObject.decorations.BarberPole.name=理容室のサインポール
+staxel.tileObject.decorations.Corkboard.description=
+//[Reference] 'Cork board'
+staxel.tileObject.decorations.Corkboard.name=コルクボード
+staxel.tileObject.decorations.GardenArch.description=
+//[Reference] 'Garden Arch'
+staxel.tileObject.decorations.GardenArch.name=庭園のアーチ
+staxel.tileObject.decorations.RoadCone.description=
+//[Reference] 'Road Cone'
+staxel.tileObject.decorations.RoadCone.name=三角コーン
+staxel.tileObject.decorations.WindChime.description=
+//[Reference] 'Wind Chime'
+staxel.tileObject.decorations.WindChime.name=風鈴
+staxel.tileObject.DeskCalendar.description=
+//[Reference] 'Desk Calendar'
+staxel.tileObject.DeskCalendar.name=卓上カレンダー
+//[Reference] 'Too much to fit in a coin purse, but not enough to swim in.'
+staxel.tileObject.dungeon.MoneyPile.description=財布に入れるには多すぎて、飛び込んで泳ぐには少なすぎる。
+//[Reference] 'Pile of Gold'
+staxel.tileObject.dungeon.MoneyPile.name=金貨の山
+//[Reference] 'That's a lot of gold, I wonder how much that is in petals?'
+staxel.tileObject.dungeon.MoneyPileLarge.description=大金の山だけど、ペタルにしたらいくらになるだろう？
+//[Reference] 'Large Pile of Gold'
+staxel.tileObject.dungeon.MoneyPileLarge.name=大きな金貨の山
+//[Reference] 'It's heavy! I wonder what's inside?'
+staxel.tileObject.dungeon.TreasureChest.description=すごく重い！中に何が入ってるのかな？
+//[Reference] 'Treasure Chest'
+staxel.tileObject.dungeon.TreasureChest.name=宝箱
+//[Reference] 'Emits a good amount of light and creates quite an atmosphere!'
+staxel.tileObject.dungeon.WallTorch.description=それなりに明るく、いい感じに雰囲気を出してくれる！
+//[Reference] 'Wall Torch'
+staxel.tileObject.dungeon.WallTorch.name=壁のたいまつ
+//[Reference] 'A pretty, towering, round flower.'
+staxel.tileObject.fairyVillage.DelphiniumAllium.description=可憐で背の高い、丸い花。
+//[Reference] 'Pink Delphinium Allium'
+staxel.tileObject.fairyVillage.DelphiniumAllium.name=ピンク色のデルフィニウム・アリウム
+//[Reference] 'This house is tiny, be very careful with it!'
+staxel.tileObject.fairyVillage.FairyHouse1.description=この家はとても小さいので気をつけよう！
+//[Reference] 'Fairy Home'
+staxel.tileObject.fairyVillage.FairyHouse1.name=フェアリーの家
+//[Reference] 'This house is tiny, be very careful with it!'
+staxel.tileObject.fairyVillage.FairyHouse2.description=この家はとても小さいので気をつけよう！
+//[Reference] 'Fairy Home'
+staxel.tileObject.fairyVillage.FairyHouse2.name=フェアリーの家
+//[Reference] 'This house is tiny, be very careful with it!'
+staxel.tileObject.fairyVillage.FairyHouse3.description=この家はとても小さいので気をつけよう！
+//[Reference] 'Fairy Home'
+staxel.tileObject.fairyVillage.FairyHouse3.name=フェアリーの家
+//[Reference] 'This house is tiny, be very careful with it!'
+staxel.tileObject.fairyVillage.FairyHouse4.description=この家はとても小さいので気をつけよう！
+//[Reference] 'Fairy Home'
+staxel.tileObject.fairyVillage.FairyHouse4.name=フェアリーの家
+//[Reference] 'This house is tiny, be very careful with it!'
+staxel.tileObject.fairyVillage.FairyHouse5.description=この家はとても小さいので気をつけよう！
+//[Reference] 'Fairy Home'
+staxel.tileObject.fairyVillage.FairyHouse5.name=フェアリーの家
+//[Reference] 'This unusual rune statue is emitting a blue light.'
+staxel.tileObject.fairyVillage.FairyRuneStatue.description=この不思議なルーンの碑石は青い光を放っている。
+//[Reference] 'Blue Rune Statue'
+staxel.tileObject.fairyVillage.FairyRuneStatue.name=青いルーンの碑石
+//[Reference] 'This unusual rune statue is emitting a pink light.'
+staxel.tileObject.fairyVillage.FairyRuneStatuePink.description=この不思議なルーンの碑石はピンクの光を放っている。
+//[Reference] 'Pink Rune Statue'
+staxel.tileObject.fairyVillage.FairyRuneStatuePink.name=ピンクのルーンの碑石
+//[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
+staxel.tileObject.fairyVillage.Fairytree1.description=すごく小さい！フェアリーの木の盆栽があったら、どんな感じなんだろう…
+//[Reference] 'Fairy Tree'
+staxel.tileObject.fairyVillage.Fairytree1.name=フェアリーの木
+//[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
+staxel.tileObject.fairyVillage.Fairytree2.description=すごく小さい！フェアリーの木の盆栽があったら、どんな感じなんだろう…
+//[Reference] 'Fairy Tree'
+staxel.tileObject.fairyVillage.Fairytree2.name=フェアリーの木
+//[Reference] 'How tiny! I wonder what a fairy tree bonsai would look like...'
+staxel.tileObject.fairyVillage.Fairytree3.description=すごく小さい！フェアリーの木の盆栽があったら、どんな感じなんだろう…
+//[Reference] 'Fairy Tree'
+staxel.tileObject.fairyVillage.Fairytree3.name=フェアリーの木
+//[Reference] 'It seems well made to me!'
+staxel.tileObject.fairyVillage.Fairywell.description=よくできた井戸みたい！
+//[Reference] 'Fairy Well'
+staxel.tileObject.fairyVillage.Fairywell.name=フェアリーの井戸
+//[Reference] 'Probably not safe to eat, but it's very cool looking!'
+staxel.tileObject.fairyVillage.GlowingMushroom1.description=食べないほうがよさそうだけど、すごくカッコいい！
+//[Reference] 'Glowing Mushroom'
+staxel.tileObject.fairyVillage.GlowingMushroom1.name=光るキノコ
+//[Reference] 'Probably not safe to eat, but it's very cool looking!'
+staxel.tileObject.fairyVillage.GlowingMushroom2.description=食べないほうがよさそうだけど、すごくカッコいい！
+//[Reference] 'Glowing Mushroom'
+staxel.tileObject.fairyVillage.GlowingMushroom2.name=光るキノコ
+//[Reference] 'Probably not safe to eat, but it's very cool looking!'
+staxel.tileObject.fairyVillage.GlowingMushroom3.description=食べないほうがよさそうだけど、すごくカッコいい！
+//[Reference] 'Glowing Mushroom'
+staxel.tileObject.fairyVillage.GlowingMushroom3.name=光るキノコ
+//[Reference] 'A stunning, yet unusual flower!'
+staxel.tileObject.fairyVillage.TulipRose.description=珍しくてすごくきれいな花！
+//[Reference] 'Red Tulip Rose'
+staxel.tileObject.fairyVillage.TulipRose.name=赤色のチューリップローズ
+//[Reference] 'A sprinkler that covers 3 tiles away from the center!'
+staxel.tileObject.farm.LargeSprinkler.description=中心から3マスの範囲をカバーするスプリンクラー！
+//[Reference] 'Large Sprinkler'
+staxel.tileObject.farm.LargeSprinkler.name=大きいスプリンクラー
+//[Reference] 'A sprinkler that covers 1 tiles away from the center!'
+staxel.tileObject.farm.SmallSprinkler.description=中心から1マスの範囲をカバーするスプリンクラー！
+//[Reference] 'Small Sprinkler'
+staxel.tileObject.farm.SmallSprinkler.name=小さいスプリンクラー
+//[Reference] 'A sprinkler that covers 2 tiles away from the center!'
+staxel.tileObject.farm.Sprinkler.description=中心から2マスの範囲をカバーするスプリンクラー！
+//[Reference] 'Sprinkler'
+staxel.tileObject.farm.Sprinkler.name=スプリンクラー
+//[Reference] 'An adorable little creature that lays delicious eggs.'
+staxel.tileObject.farmAnimals.Chicken.description=おいしい卵を産んでくれる、かわいい小動物。
+//[Reference] 'Chicken in a Crate'
+staxel.tileObject.farmAnimals.Chicken.name=ニワトリの入った箱
+//[Reference] 'A large, affectionate creature which produces tasty milk!'
+staxel.tileObject.farmAnimals.Cow.description=おいしい牛乳を採ることができる、大きくてやさしい動物！
+//[Reference] 'Cow in a Crate'
+staxel.tileObject.farmAnimals.Cow.name=牛の入った箱
+//[Reference] 'A cute and happy creature that makes delightful oinking noises.'
+staxel.tileObject.farmAnimals.Pig.description=ブーブー鳴き声をあげる、キュートで楽しげな動物。
+//[Reference] 'Pig in a Crate'
+staxel.tileObject.farmAnimals.Pig.name=ブタの入った箱
+//[Reference] '{0-nameOfAnimal} has been boxed up! Don't worry; there are air holes.'
+staxel.tileObject.farmAnimals.RecapturedAnimal.description={0-nameOfAnimal}を箱詰めにしました！心配しないでください。空気穴が開いています。
+//[Reference] '{0-nameOfAnimal} in a Crate!'
+staxel.tileObject.farmAnimals.RecapturedAnimal.name={0-nameOfAnimal}の入った箱！
+staxel.tileObject.farmAnimals.Rooster.description=
+
+//[Reference] 'Rooster in a Crate'
+staxel.tileObject.farmAnimals.Rooster.name=オンドリの入った箱
+//[Reference] 'A cheerful, fluffy creature that grows incredibly soft wool.'
+staxel.tileObject.farmAnimals.Sheep.description=ものすごくやわらかい羊毛で身を包む、元気でモコモコな動物。
+//[Reference] 'Sheep in a Crate'
+staxel.tileObject.farmAnimals.Sheep.name=ヒツジの入った箱
+staxel.tileObject.gamePieces.BlackChecker.description=
+
+//[Reference] 'Black Checker Piece'
+staxel.tileObject.gamePieces.BlackChecker.name=黒のチェッカーピース
+staxel.tileObject.gamePieces.BlackCheckerQueen.description=
+//[Reference] 'Black Checker Queen'
+staxel.tileObject.gamePieces.BlackCheckerQueen.name=黒のチェッカークイーン
+staxel.tileObject.gamePieces.BluePiece.description=
+//[Reference] 'Blue Piece'
+staxel.tileObject.gamePieces.BluePiece.name=青色のコマ
+staxel.tileObject.gamePieces.Dice.description=
+//[Reference] 'Dice'
+staxel.tileObject.gamePieces.Dice.name=ダイス
+staxel.tileObject.gamePieces.GreenPiece.description=
+//[Reference] 'Green Piece'
+staxel.tileObject.gamePieces.GreenPiece.name=緑色のコマ
+staxel.tileObject.gamePieces.RedChecker.description=
+//[Reference] 'Red Checker Piece'
+staxel.tileObject.gamePieces.RedChecker.name=赤のチェッカーピース
+staxel.tileObject.gamePieces.RedCheckerQueen.description=
+//[Reference] 'Red Checker Queen'
+staxel.tileObject.gamePieces.RedCheckerQueen.name=赤のチェッカークイーン
+staxel.tileObject.gamePieces.RedPiece.description=
+//[Reference] 'Red Piece'
+staxel.tileObject.gamePieces.RedPiece.name=赤色のコマ
+staxel.tileObject.gamePieces.YellowPiece.description=
+//[Reference] 'Yellow Piece'
+staxel.tileObject.gamePieces.YellowPiece.name=黄色のコマ
+//[Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
+staxel.tileObject.gatherable.Apiary.description=これはハチの飼育場所。ハチがこの中に巣を作ると、時間をかけてハチミツが作られるようになり、後で採取できるようになる。
+//[Reference] 'Apiary'
+staxel.tileObject.gatherable.Apiary.name=養蜂箱
+//[Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
+staxel.tileObject.gatherable.Bee.description=花からミツを集めて巣へと持ち帰り、そこで更なるハチミツを生産できるようにする働きバチ。
+//[Reference] 'Worker Bee'
+staxel.tileObject.gatherable.Bee.name=働きバチ
+//[Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
+staxel.tileObject.gatherable.BeeQueen.description=ハチの集団のトップに立つ女王バチ。群れでの重大な決断は全て彼女に任せられている。
+//[Reference] 'Queen Bee'
+staxel.tileObject.gatherable.BeeQueen.name=女王バチ
+staxel.tileObject.gatherable.event.AprilEgg.description=
+//[Reference] 'April Egg'
+staxel.tileObject.gatherable.event.AprilEgg.name=エイプリルエッグ
+//[Reference] 'And they said it wasn't possible.'
+staxel.tileObject.gatherable.RhinoBeetle.description=出来なさそうなこともやれるすごい虫。
+//[Reference] 'Rhino Beetle'
+staxel.tileObject.gatherable.RhinoBeetle.name=カブトムシ
+//[Reference] 'Used in fishing. It serves several purposes including being a visual indicator of your where your line is.'
+staxel.tileObject.gatherable.RodBobber.description=釣りで使われるもの。自分が投げた釣り針がどこにあるかを示すだけでなく、様々な用途を持っている。
+//[Reference] 'Fishing Bobber'
+staxel.tileObject.gatherable.RodBobber.name=ウキ
+//[Reference] 'In-game Staxel Logo'
+staxel.tileObject.logo.StaxelLogo.description=ゲーム内で使えるStaxelロゴ
+//[Reference] 'Staxel Logo'
+staxel.tileObject.logo.StaxelLogo.name=Staxelロゴ
+//[Reference] 'In-game Staxel Logo Text'
+staxel.tileObject.logo.StaxelLogoText.description=ゲーム内で使えるStaxelロゴのテキスト
+//[Reference] 'Staxel Logo Text'
+staxel.tileObject.logo.StaxelLogoText.name=Staxelロゴのテキスト
+staxel.tileObject.magic.MagicLight.description=
+//[Reference] 'Magic Light'
+staxel.tileObject.magic.MagicLight.name=魔法のライト
+staxel.tileObject.magic.TorchBox.description=
+//[Reference] 'Magic Torch Box'
+staxel.tileObject.magic.TorchBox.name=魔法のたいまつボックス
+staxel.tileObject.magic.TorchBoxUsed.description=
+//[Reference] 'Empty Magic Torch Box'
+staxel.tileObject.magic.TorchBoxUsed.name=空っぽの魔法のたいまつボックス
+staxel.tileObject.merchantTotem.BuildingMerchant.description=
+//[Reference] 'Building Merchant Totem'
+staxel.tileObject.merchantTotem.BuildingMerchant.name=建材商人のトーテム
+staxel.tileObject.merchantTotem.ClothingMerchant.description=
+//[Reference] 'Clothing Merchant Totem'
+staxel.tileObject.merchantTotem.ClothingMerchant.name=衣服商人のトーテム
+staxel.tileObject.merchantTotem.FlowerMerchant.description=
+//[Reference] 'Flower Merchant Totem'
+staxel.tileObject.merchantTotem.FlowerMerchant.name=花商人のトーテム
+staxel.tileObject.merchantTotem.FunStuffVendor.description=
+//[Reference] 'Fun Stuff Merchant Totem'
+staxel.tileObject.merchantTotem.FunStuffVendor.name=遊具商人のトーテム
+staxel.tileObject.merchantTotem.FurnitureMerchant.description=
+//[Reference] 'Furniture Merchant Totem'
+staxel.tileObject.merchantTotem.FurnitureMerchant.name=家具商人のトーテム
+
+staxel.tileObject.merchantTotem.FurnitureVendor.description=
+//[Reference] 'Furniture Vendor'
+staxel.tileObject.merchantTotem.FurnitureVendor.name=家具販売機
+staxel.tileObject.merchantTotem.PetMerchant.description=
+//[Reference] 'Pet Merchant Totem'
+staxel.tileObject.merchantTotem.PetMerchant.name=ペット商人のトーテム
+staxel.tileObject.merchantTotem.SeedVendor.description=
+//[Reference] 'Seed Merchant Totem'
+staxel.tileObject.merchantTotem.SeedVendor.name=種商人のトーテム
+staxel.tileObject.merchantTotem.ToolVendor.description=
+//[Reference] 'Tool Merchant Totem'
+staxel.tileObject.merchantTotem.ToolVendor.name=ツール商人のトーテム
+//[Reference] 'Opening this will get you a random item, that you have not found yet!'
+staxel.tileObject.misc.LuckyBox.description=このボックスを開けると、まだ手に入れていないアイテムがランダムで手に入ります。
+//[Reference] 'Lucky Box'
+staxel.tileObject.misc.LuckyBox.name=ラッキーボックス
+//[Reference] 'This crate will accept blue bordered items given by NPC's.'
+staxel.tileObject.misc.QuestCrate.description=この木箱にはNPCからもらった青枠のアイテムが入ります。
+//[Reference] 'Special Item Crate'
+staxel.tileObject.misc.QuestCrate.name=スペシャルアイテム木箱
+//[Reference] 'Place a seed packet inside to mark your crops! Remember, you can rotate items before you dock them.'
+staxel.tileObject.misc.SeedpacketSign.description=中に種袋を入れて、何を植えているかを分かるようにしよう！アイテムは配置する際に、向きを変えることができるよ。
+//[Reference] 'Seed Sign'
+staxel.tileObject.misc.SeedpacketSign.name=種の看板
+//[Reference] 'To be removed'
+staxel.tileObject.modded.minecart_coal-tipped.description=削除予定
+//[Reference] 'Minecart'
+staxel.tileObject.modded.minecart_coal-tipped.name=マインカート
+//[Reference] 'To be removed'
+staxel.tileObject.modded.minecart_empty.description=削除予定
+//[Reference] 'Minecart'
+staxel.tileObject.modded.minecart_empty.name=マインカート
+staxel.tileObject.museum.painting.RainbowButterfly.description=
+//[Reference] 'Rainbow Butterfly Painting'
+staxel.tileObject.museum.painting.RainbowButterfly.name=虹色の蝶の絵画
+staxel.tileObject.mushroomIsland.CloudChallengeEntranceLadder.description=
+//[Reference] 'Cloud Challenge Entrance Ladder'
+staxel.tileObject.mushroomIsland.CloudChallengeEntranceLadder.name=雲チャレンジ入口用はしご
+staxel.tileObject.mushroomIsland.CloudExitDoor.description=
+//[Reference] 'Cloud Exit Door'
+staxel.tileObject.mushroomIsland.CloudExitDoor.name=雲の出口扉
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.description=
+//[Reference] 'Gatherable Mystical Bright Mushroom'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomA.name=収穫できる不思議な明るいキノコ
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.description=
+//[Reference] 'Gatherable Mystical Bright Mushroom Picked'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomAPicked.name=収穫できる不思議な明るいキノコ（収穫済み）
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.description=
+//[Reference] 'Gatherable Mystical Dark Mushroom'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomB.name=収穫できる不思議な暗いキノコ
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.description=
+//[Reference] 'Gatherable Mystical Dark Mushroom Picked'
+staxel.tileObject.mushroomIsland.GatherableMorelBestieMushroomBPicked.name=収穫できる不思議な暗いキノコ（収穫済み）
+staxel.tileObject.mushroomIsland.MazeExitLadder.description=
+//[Reference] 'Maze Exit Ladder'
+staxel.tileObject.mushroomIsland.MazeExitLadder.name=迷宮の出口用はしご
+staxel.tileObject.mushroomIsland.MazeHatch.description=
+//[Reference] 'Maze Hatch'
+staxel.tileObject.mushroomIsland.MazeHatch.name=迷宮のハッチ
+staxel.tileObject.mushroomIsland.MazeWallCorner.description=
+//[Reference] 'Maze Wall Corner'
+staxel.tileObject.mushroomIsland.MazeWallCorner.name=迷宮の壁（角）
+staxel.tileObject.mushroomIsland.MazeWallCross.description=
+//[Reference] 'Maze Wall Cross'
+staxel.tileObject.mushroomIsland.MazeWallCross.name=迷宮の壁（交差）
+staxel.tileObject.mushroomIsland.MazeWallStraight.description=
+//[Reference] 'Maze Wall Straight'
+staxel.tileObject.mushroomIsland.MazeWallStraight.name=迷宮の壁（直線）
+staxel.tileObject.mushroomIsland.MazeWallTSection.description=
+//[Reference] 'Maze Wall TSection'
+staxel.tileObject.mushroomIsland.MazeWallTSection.name=迷宮の壁（T字）
+staxel.tileObject.office.Computer.description=
+//[Reference] 'Computer'
+staxel.tileObject.office.Computer.name=コンピュータ
+staxel.tileObject.office.DeskClock.description=
+//[Reference] 'Desk Clock'
+staxel.tileObject.office.DeskClock.name=卓上時計
+staxel.tileObject.office.OfficeChair.description=
+//[Reference] 'Office Chair'
+staxel.tileObject.office.OfficeChair.name=オフィスチェア
+staxel.tileObject.office.OfficeCounter.description=
+//[Reference] 'Office Counter'
+staxel.tileObject.office.OfficeCounter.name=オフィスコンピュータ
+staxel.tileObject.office.OfficeDesk.description=
+//[Reference] 'Office Desk'
+staxel.tileObject.office.OfficeDesk.name=オフィスデスク
+staxel.tileObject.office.OfficeFilingCabinet.description=
+//[Reference] 'Filing Cabinet'
+staxel.tileObject.office.OfficeFilingCabinet.name=ファイルキャビネット
+staxel.tileObject.Ore1.description=
+//[Reference] 'Blue Crystal Ore Block'
+staxel.tileObject.Ore1.name=青水晶の鉱石ブロック
+staxel.tileObject.Ore2.description=
+//[Reference] 'Pink Crystal Ore Block'
+staxel.tileObject.Ore2.name=ピンク水晶の鉱石ブロック
+staxel.tileObject.Ore3.description=
+//[Reference] 'Yellow Crystal Ore Block'
+staxel.tileObject.Ore3.name=黄水晶の鉱石ブロック
+staxel.tileObject.pets.CatHouse.description=
+//[Reference] 'Cat House'
+staxel.tileObject.pets.CatHouse.name=猫小屋
+staxel.tileObject.pets.DogHouse.description=
+//[Reference] 'Dog House'
+staxel.tileObject.pets.DogHouse.name=犬小屋
+staxel.tileObject.pets.FoodBowlEmpty.description=
+//[Reference] 'Food Bowl'
+staxel.tileObject.pets.FoodBowlEmpty.name=エサ皿
+staxel.tileObject.pets.FoodBowlFull.description=
+//[Reference] 'Filled Food Bowl'
+staxel.tileObject.pets.FoodBowlFull.name=エサの入ったエサ皿
+staxel.tileObject.pets.FoodBowlFullWater.description=
+//[Reference] 'Water-filled Food Bowl'
+staxel.tileObject.pets.FoodBowlFullWater.name=水の入ったエサ皿
+staxel.tileObject.pets.PetHouse.description=
+//[Reference] 'Pet House'
+staxel.tileObject.pets.PetHouse.name=ペット小屋
+staxel.tileObject.postbox.HandlingPost.description=
+//[Reference] 'Handling Post'
+staxel.tileObject.postbox.HandlingPost.name=出荷ポスト
+staxel.tileObject.postbox.PostCounter.description=
+//[Reference] 'Post Counter'
+staxel.tileObject.postbox.PostCounter.name=ポストのカウンター
+staxel.tileObject.postbox.PostOfficePostbox.description=
+//[Reference] 'Post Office Postbox'
+staxel.tileObject.postbox.PostOfficePostbox.name=郵便局の郵便ポスト
+staxel.tileObject.presents.TradeCrate.description=
+//[Reference] 'Trading Crate'
+staxel.tileObject.presents.TradeCrate.name=交易用の箱
+staxel.tileObject.quest.Leif.Thingamabob1.description=
+//[Reference] 'Thingamabob No. 1'
+staxel.tileObject.quest.Leif.Thingamabob1.name=例のあれ1
+staxel.tileObject.quest.Leif.Thingamabob2.description=
+//[Reference] 'Thingamabob No. 2'
+staxel.tileObject.quest.Leif.Thingamabob2.name=例のあれ2
+staxel.tileObject.quest.Leif.Thingamabob3.description=
+//[Reference] 'Thingamabob No. 3'
+staxel.tileObject.quest.Leif.Thingamabob3.name=例のあれ3
+staxel.tileObject.quest.Leif.Thingamabob4.description=
+//[Reference] 'Thingamabob No. 4'
+staxel.tileObject.quest.Leif.Thingamabob4.name=例のあれ4
+staxel.tileObject.quest.Leif.Thingamabob5.description=
+//[Reference] 'Thingamabob No. 5'
+staxel.tileObject.quest.Leif.Thingamabob5.name=例のあれ5
+staxel.tileObject.quest.Max.abstract.statue.description=
+//[Reference] 'Abstract Statue'
+staxel.tileObject.quest.Max.abstract.statue.name=抽象的な像
+staxel.tileObject.quest.Max.cubic.statue.description=
+//[Reference] 'Cubic Statue'
+staxel.tileObject.quest.Max.cubic.statue.name=カクカクの像
+staxel.tileObject.quest.Max.farmer.statue.description=
+//[Reference] 'Farmer Statue'
+staxel.tileObject.quest.Max.farmer.statue.name=農家の像
+staxel.tileObject.quest.Max.MaxFestivalFlyer.description=
+//[Reference] 'Max Festival Flyer'
+staxel.tileObject.quest.Max.MaxFestivalFlyer.name=マックスのお祭りのチラシ
+staxel.tileObject.quest.Max.slimy.statue.description=
+//[Reference] 'Slimy Statue'
+staxel.tileObject.quest.Max.slimy.statue.name=ぬるぬるの像
+//[Reference] 'Morel is up to some shenanigans.'
+staxel.tileObject.quest.Morel.BigMushroom.description=モレルが何かよからぬことを企んでいる。
+//[Reference] 'Big Mushroom'
+staxel.tileObject.quest.Morel.BigMushroom.name=大きなキノコ
+staxel.tileObject.quest.Morel.MushroomIslandReturn.description=
+//[Reference] 'Return Home Block'
+staxel.tileObject.quest.Morel.MushroomIslandReturn.name=ホームブロック
+staxel.tileObject.quest.Morel.MushroomIslandReturn.NoBridge.description=
+//[Reference] 'Return Home Block'
+staxel.tileObject.quest.Morel.MushroomIslandReturn.NoBridge.name=ホームブロック
+//[Reference] 'Morel is up to some shenanigans.'
+staxel.tileObject.quest.Morel.SmallMushroom.description=モレルが何かよからぬことを企んでいる。
+//[Reference] 'Small Mushroom'
+staxel.tileObject.quest.Morel.SmallMushroom.name=小さなキノコ
+//[Reference] 'It feels like something is different about this mushroom.'
+staxel.tileObject.quest.Morel.SpecialMushroom.description=このキノコは何かが他とは違う。
+//[Reference] 'Special Mushroom'
+staxel.tileObject.quest.Morel.SpecialMushroom.name=特別なキノコ
+//[Reference] 'These mushrooms are too tough to pull...'
+staxel.tileObject.quest.Morel.ToughMushrooms.description=引き抜こうとすると、ものすごく抵抗してくるキノコ...
+//[Reference] 'Tough Mushrooms'
+staxel.tileObject.quest.Morel.ToughMushrooms.name=じょうぶなキノコ
+//[Reference] 'Thick, sturdy railing with an old feel to it.'
+staxel.tileObject.retrotest.dungeon_railing.description=古い感じのある、分厚くて強固な手すり。
+//[Reference] 'Straight Dungeon Railing'
+staxel.tileObject.retrotest.dungeon_railing.name=ダンジョンの手すり（直線）
+//[Reference] 'Thick, sturdy railing with an old feel to it.'
+staxel.tileObject.retrotest.dungeon_railing_corner.description=古い感じのある、分厚くて強固な手すり。
+//[Reference] 'Cornered Dungeon Railing'
+staxel.tileObject.retrotest.dungeon_railing_corner.name=ダンジョンの手すり（角）
+staxel.tileObject.roof.JadeRoof_FlatEdge.description=
+//[Reference] 'JadeRoof_FlatEdge'
+staxel.tileObject.roof.JadeRoof_FlatEdge.name=JadeRoof_FlatEdge
+staxel.tileObject.roof.JadeRoof_FlatEdge2.description=
+//[Reference] 'JadeRoof_FlatEdge2'
+staxel.tileObject.roof.JadeRoof_FlatEdge2.name=JadeRoof_FlatEdge2
+staxel.tileObject.roof.JadeRoof_FlatEdgeShort.description=
+//[Reference] 'JadeRoof_FlatEdgeShort'
+staxel.tileObject.roof.JadeRoof_FlatEdgeShort.name=JadeRoof_FlatEdgeShort
+staxel.tileObject.roof.JadeRoof_FlatStraight.description=
+//[Reference] 'JadeRoof_FlatStraight'
+staxel.tileObject.roof.JadeRoof_FlatStraight.name=JadeRoof_FlatStraight
+staxel.tileObject.roof.JadeRoof_InnerCorner.description=
+//[Reference] 'JadeRoof_InnerCorner'
+staxel.tileObject.roof.JadeRoof_InnerCorner.name=JadeRoof_InnerCorner
+staxel.tileObject.roof.JadeRoof_LeftEdge.description=
+//[Reference] 'JadeRoof_LeftEdge'
+staxel.tileObject.roof.JadeRoof_LeftEdge.name=JadeRoof_LeftEdge
+staxel.tileObject.roof.JadeRoof_LeftEdgeCut.description=
+//[Reference] 'JadeRoof_LeftEdgeCut'
+staxel.tileObject.roof.JadeRoof_LeftEdgeCut.name=JadeRoof_LeftEdgeCut
+staxel.tileObject.roof.JadeRoof_LeftEdgeCutLong.description=
+//[Reference] 'JadeRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.JadeRoof_LeftEdgeCutLong.name=JadeRoof_LeftEdgeCutLong
+staxel.tileObject.roof.JadeRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'JadeRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.JadeRoof_LeftEdgeCutLongFinal.name=JadeRoof_LeftEdgeCutLongFinal
+staxel.tileObject.roof.JadeRoof_OuterCorner.description=
+//[Reference] 'JadeRoof_OuterCorner'
+staxel.tileObject.roof.JadeRoof_OuterCorner.name=JadeRoof_OuterCorner
+staxel.tileObject.roof.JadeRoof_RightEdge.description=
+//[Reference] 'JadeRoof_RightEdge'
+staxel.tileObject.roof.JadeRoof_RightEdge.name=JadeRoof_RightEdge
+staxel.tileObject.roof.JadeRoof_RightEdgeCut.description=
+//[Reference] 'JadeRoof_RightEdgeCut'
+staxel.tileObject.roof.JadeRoof_RightEdgeCut.name=JadeRoof_RightEdgeCut
+staxel.tileObject.roof.JadeRoof_RightEdgeCutLong.description=
+//[Reference] 'JadeRoof_RightEdgeCutLong'
+staxel.tileObject.roof.JadeRoof_RightEdgeCutLong.name=JadeRoof_RightEdgeCutLong
+staxel.tileObject.roof.JadeRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'JadeRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.JadeRoof_RightEdgeCutLongFinal.name=JadeRoof_RightEdgeCutLongFinal
+staxel.tileObject.roof.JadeRoof_RightStraight.description=
+//[Reference] 'JadeRoof_RightStraight'
+staxel.tileObject.roof.JadeRoof_RightStraight.name=JadeRoof_RightStraight
+staxel.tileObject.roof.LightBlueRoof_FlatEdge.description=
+//[Reference] 'LightBlueRoof_FlatEdge'
+staxel.tileObject.roof.LightBlueRoof_FlatEdge.name=LightBlueRoof_FlatEdge
+staxel.tileObject.roof.LightBlueRoof_FlatEdge2.description=
+//[Reference] 'LightBlueRoof_FlatEdge2'
+staxel.tileObject.roof.LightBlueRoof_FlatEdge2.name=LightBlueRoof_FlatEdge2
+staxel.tileObject.roof.LightBlueRoof_FlatEdgeShort.description=
+//[Reference] 'LightBlueRoof_FlatEdgeShort'
+staxel.tileObject.roof.LightBlueRoof_FlatEdgeShort.name=LightBlueRoof_FlatEdgeShort
+staxel.tileObject.roof.LightBlueRoof_FlatStraight.description=
+//[Reference] 'LightBlueRoof_FlatStraight'
+staxel.tileObject.roof.LightBlueRoof_FlatStraight.name=LightBlueRoof_FlatStraight
+staxel.tileObject.roof.LightBlueRoof_InnerCorner.description=
+//[Reference] 'LightBlueRoof_InnerCorner'
+staxel.tileObject.roof.LightBlueRoof_InnerCorner.name=LightBlueRoof_InnerCorner
+staxel.tileObject.roof.LightBlueRoof_LeftEdge.description=
+//[Reference] 'LightBlueRoof_LeftEdge'
+staxel.tileObject.roof.LightBlueRoof_LeftEdge.name=LightBlueRoof_LeftEdge
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCut.description=
+//[Reference] 'LightBlueRoof_LeftEdgeCut'
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCut.name=LightBlueRoof_LeftEdgeCut
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCutLong.description=
+//[Reference] 'LightBlueRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCutLong.name=LightBlueRoof_LeftEdgeCutLong
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'LightBlueRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.LightBlueRoof_LeftEdgeCutLongFinal.name=LightBlueRoof_LeftEdgeCutLongFinal
+staxel.tileObject.roof.LightBlueRoof_OuterCorner.description=
+//[Reference] 'LightBlueRoof_OuterCorner'
+staxel.tileObject.roof.LightBlueRoof_OuterCorner.name=LightBlueRoof_OuterCorner
+staxel.tileObject.roof.LightBlueRoof_RightEdge.description=
+//[Reference] 'LightBlueRoof_RightEdge'
+staxel.tileObject.roof.LightBlueRoof_RightEdge.name=LightBlueRoof_RightEdge
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCut.description=
+//[Reference] 'LightBlueRoof_RightEdgeCut'
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCut.name=LightBlueRoof_RightEdgeCut
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLong.description=
+//[Reference] 'LightBlueRoof_RightEdgeCutLong'
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLong.name=LightBlueRoof_RightEdgeCutLong
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'LightBlueRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.LightBlueRoof_RightEdgeCutLongFinal.name=LightBlueRoof_RightEdgeCutLongFinal
+staxel.tileObject.roof.LightBlueRoof_RightStraight.description=
+//[Reference] 'LightBlueRoof_RightStraight'
+staxel.tileObject.roof.LightBlueRoof_RightStraight.name=LightBlueRoof_RightStraight
+staxel.tileObject.roof.LightGreenRoof_FlatEdge.description=
+//[Reference] 'LightGreenRoof_FlatEdge'
+staxel.tileObject.roof.LightGreenRoof_FlatEdge.name=LightGreenRoof_FlatEdge
+staxel.tileObject.roof.LightGreenRoof_FlatEdge2.description=
+//[Reference] 'LightGreenRoof_FlatEdge2'
+staxel.tileObject.roof.LightGreenRoof_FlatEdge2.name=LightGreenRoof_FlatEdge2
+staxel.tileObject.roof.LightGreenRoof_FlatEdgeShort.description=
+//[Reference] 'LightGreenRoof_FlatEdgeShort'
+staxel.tileObject.roof.LightGreenRoof_FlatEdgeShort.name=LightGreenRoof_FlatEdgeShort
+staxel.tileObject.roof.LightGreenRoof_FlatStraight.description=
+//[Reference] 'LightGreenRoof_FlatStraight'
+staxel.tileObject.roof.LightGreenRoof_FlatStraight.name=LightGreenRoof_FlatStraight
+staxel.tileObject.roof.LightGreenRoof_InnerCorner.description=
+//[Reference] 'LightGreenRoof_InnerCorner'
+staxel.tileObject.roof.LightGreenRoof_InnerCorner.name=LightGreenRoof_InnerCorner
+staxel.tileObject.roof.LightGreenRoof_LeftEdge.description=
+//[Reference] 'LightGreenRoof_LeftEdge'
+staxel.tileObject.roof.LightGreenRoof_LeftEdge.name=LightGreenRoof_LeftEdge
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCut.description=
+//[Reference] 'LightGreenRoof_LeftEdgeCut'
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCut.name=LightGreenRoof_LeftEdgeCut
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCutLong.description=
+//[Reference] 'LightGreenRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCutLong.name=LightGreenRoof_LeftEdgeCutLong
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'LightGreenRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.LightGreenRoof_LeftEdgeCutLongFinal.name=LightGreenRoof_LeftEdgeCutLongFinal
+staxel.tileObject.roof.LightGreenRoof_OuterCorner.description=
+//[Reference] 'LightGreenRoof_OuterCorner'
+staxel.tileObject.roof.LightGreenRoof_OuterCorner.name=LightGreenRoof_OuterCorner
+staxel.tileObject.roof.LightGreenRoof_RightEdge.description=
+//[Reference] 'LightGreenRoof_RightEdge'
+staxel.tileObject.roof.LightGreenRoof_RightEdge.name=LightGreenRoof_RightEdge
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCut.description=
+//[Reference] 'LightGreenRoof_RightEdgeCut'
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCut.name=LightGreenRoof_RightEdgeCut
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLong.description=
+//[Reference] 'LightGreenRoof_RightEdgeCutLong'
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLong.name=LightGreenRoof_RightEdgeCutLong
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'LightGreenRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.LightGreenRoof_RightEdgeCutLongFinal.name=LightGreenRoof_RightEdgeCutLongFinal
+staxel.tileObject.roof.LightGreenRoof_RightStraight.description=
+//[Reference] 'LightGreenRoof_RightStraight'
+staxel.tileObject.roof.LightGreenRoof_RightStraight.name=LightGreenRoof_RightStraight
+staxel.tileObject.roof.OrangeRoof_FlatEdge.description=
+//[Reference] 'OrangeRoof_FlatEdge'
+staxel.tileObject.roof.OrangeRoof_FlatEdge.name=OrangeRoof_FlatEdge
+staxel.tileObject.roof.OrangeRoof_FlatEdge2.description=
+//[Reference] 'OrangeRoof_FlatEdge2'
+staxel.tileObject.roof.OrangeRoof_FlatEdge2.name=OrangeRoof_FlatEdge2
+staxel.tileObject.roof.OrangeRoof_FlatEdgeShort.description=
+//[Reference] 'OrangeRoof_FlatEdgeShort'
+staxel.tileObject.roof.OrangeRoof_FlatEdgeShort.name=OrangeRoof_FlatEdgeShort
+staxel.tileObject.roof.OrangeRoof_FlatStraight.description=
+//[Reference] 'OrangeRoof_FlatStraight'
+staxel.tileObject.roof.OrangeRoof_FlatStraight.name=OrangeRoof_FlatStraight
+staxel.tileObject.roof.OrangeRoof_InnerCorner.description=
+//[Reference] 'OrangeRoof_InnerCorner'
+staxel.tileObject.roof.OrangeRoof_InnerCorner.name=OrangeRoof_InnerCorner
+staxel.tileObject.roof.OrangeRoof_LeftEdge.description=
+//[Reference] 'OrangeRoof_LeftEdge'
+staxel.tileObject.roof.OrangeRoof_LeftEdge.name=OrangeRoof_LeftEdge
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCut.description=
+//[Reference] 'OrangeRoof_LeftEdgeCut'
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCut.name=OrangeRoof_LeftEdgeCut
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCutLong.description=
+//[Reference] 'OrangeRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCutLong.name=OrangeRoof_LeftEdgeCutLong
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'OrangeRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.OrangeRoof_LeftEdgeCutLongFinal.name=OrangeRoof_LeftEdgeCutLongFinal
+staxel.tileObject.roof.OrangeRoof_OuterCorner.description=
+//[Reference] 'OrangeRoof_OuterCorner'
+staxel.tileObject.roof.OrangeRoof_OuterCorner.name=OrangeRoof_OuterCorner
+staxel.tileObject.roof.OrangeRoof_RightEdge.description=
+//[Reference] 'OrangeRoof_RightEdge'
+staxel.tileObject.roof.OrangeRoof_RightEdge.name=OrangeRoof_RightEdge
+staxel.tileObject.roof.OrangeRoof_RightEdgeCut.description=
+//[Reference] 'OrangeRoof_RightEdgeCut'
+staxel.tileObject.roof.OrangeRoof_RightEdgeCut.name=OrangeRoof_RightEdgeCut
+staxel.tileObject.roof.OrangeRoof_RightEdgeCutLong.description=
+//[Reference] 'OrangeRoof_RightEdgeCutLong'
+staxel.tileObject.roof.OrangeRoof_RightEdgeCutLong.name=OrangeRoof_RightEdgeCutLong
+staxel.tileObject.roof.OrangeRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'OrangeRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.OrangeRoof_RightEdgeCutLongFinal.name=OrangeRoof_RightEdgeCutLongFinal
+staxel.tileObject.roof.OrangeRoof_RightStraight.description=
+//[Reference] 'OrangeRoof_RightStraight'
+staxel.tileObject.roof.OrangeRoof_RightStraight.name=OrangeRoof_RightStraight
+staxel.tileObject.roof.PinkRoof_FlatEdge.description=
+//[Reference] 'PinkRoof_FlatEdge'
+staxel.tileObject.roof.PinkRoof_FlatEdge.name=PinkRoof_FlatEdge
+staxel.tileObject.roof.PinkRoof_FlatEdge2.description=
+//[Reference] 'PinkRoof_FlatEdge2'
+staxel.tileObject.roof.PinkRoof_FlatEdge2.name=PinkRoof_FlatEdge2
+staxel.tileObject.roof.PinkRoof_FlatEdgeShort.description=
+//[Reference] 'PinkRoof_FlatEdgeShort'
+staxel.tileObject.roof.PinkRoof_FlatEdgeShort.name=PinkRoof_FlatEdgeShort
+staxel.tileObject.roof.PinkRoof_FlatStraight.description=
+//[Reference] 'PinkRoof_FlatStraight'
+staxel.tileObject.roof.PinkRoof_FlatStraight.name=PinkRoof_FlatStraight
+staxel.tileObject.roof.PinkRoof_InnerCorner.description=
+//[Reference] 'PinkRoof_InnerCorner'
+staxel.tileObject.roof.PinkRoof_InnerCorner.name=PinkRoof_InnerCorner
+staxel.tileObject.roof.PinkRoof_LeftEdge.description=
+//[Reference] 'PinkRoof_LeftEdge'
+staxel.tileObject.roof.PinkRoof_LeftEdge.name=PinkRoof_LeftEdge
+staxel.tileObject.roof.PinkRoof_LeftEdgeCut.description=
+//[Reference] 'PinkRoof_LeftEdgeCut'
+staxel.tileObject.roof.PinkRoof_LeftEdgeCut.name=PinkRoof_LeftEdgeCut
+staxel.tileObject.roof.PinkRoof_LeftEdgeCutLong.description=
+//[Reference] 'PinkRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.PinkRoof_LeftEdgeCutLong.name=PinkRoof_LeftEdgeCutLong
+staxel.tileObject.roof.PinkRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'PinkRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.PinkRoof_LeftEdgeCutLongFinal.name=PinkRoof_LeftEdgeCutLongFinal
+staxel.tileObject.roof.PinkRoof_OuterCorner.description=
+//[Reference] 'PinkRoof_OuterCorner'
+staxel.tileObject.roof.PinkRoof_OuterCorner.name=PinkRoof_OuterCorner
+staxel.tileObject.roof.PinkRoof_RightEdge.description=
+//[Reference] 'PinkRoof_RightEdge'
+staxel.tileObject.roof.PinkRoof_RightEdge.name=PinkRoof_RightEdge
+staxel.tileObject.roof.PinkRoof_RightEdgeCut.description=
+//[Reference] 'PinkRoof_RightEdgeCut'
+staxel.tileObject.roof.PinkRoof_RightEdgeCut.name=PinkRoof_RightEdgeCut
+staxel.tileObject.roof.PinkRoof_RightEdgeCutLong.description=
+//[Reference] 'PinkRoof_RightEdgeCutLong'
+staxel.tileObject.roof.PinkRoof_RightEdgeCutLong.name=PinkRoof_RightEdgeCutLong
+staxel.tileObject.roof.PinkRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'PinkRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.PinkRoof_RightEdgeCutLongFinal.name=PinkRoof_RightEdgeCutLongFinal
+staxel.tileObject.roof.PinkRoof_RightStraight.description=
+//[Reference] 'PinkRoof_RightStraight'
+staxel.tileObject.roof.PinkRoof_RightStraight.name=PinkRoof_RightStraight
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_FlatEdge.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Edged Flat Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_FlatEdge.name=縁つきの平たい赤色の瓦屋根
+staxel.tileObject.roof.RedRoof_FlatEdge2.description=
+//[Reference] 'RedRoof_FlatEdge2'
+staxel.tileObject.roof.RedRoof_FlatEdge2.name=RedRoof_FlatEdge2
+staxel.tileObject.roof.RedRoof_FlatEdgeShort.description=
+//[Reference] 'RedRoof_FlatEdgeShort'
+staxel.tileObject.roof.RedRoof_FlatEdgeShort.name=RedRoof_FlatEdgeShort
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_FlatStraight.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Flat Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_FlatStraight.name=平たい赤色の瓦屋根
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_InnerCorner.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Inner Corner Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_InnerCorner.name=内側コーナー用の赤い瓦屋根
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_LeftEdge.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Left Edged Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_LeftEdge.name=左側の縁つき赤色の瓦屋根
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_LeftEdgeCut.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Cut Left Edged Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_LeftEdgeCut.name=カットされた左側の縁つき赤色の瓦屋根
+staxel.tileObject.roof.RedRoof_LeftEdgeCutLong.description=
+//[Reference] 'RedRoof_LeftEdgeCutLong'
+staxel.tileObject.roof.RedRoof_LeftEdgeCutLong.name=RedRoof_LeftEdgeCutLong
+staxel.tileObject.roof.RedRoof_LeftEdgeCutLongFinal.description=
+//[Reference] 'RedRoof_LeftEdgeCutLongFinal'
+staxel.tileObject.roof.RedRoof_LeftEdgeCutLongFinal.name=RedRoof_LeftEdgeCutLongFinal
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_OuterCorner.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Outer Corner Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_OuterCorner.name=外側コーナー用の赤い瓦屋根
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_RightEdge.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Right Edged Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_RightEdge.name=右側の縁つき赤色の瓦屋根
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_RightEdgeCut.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Cut Right Edged Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_RightEdgeCut.name=カットされた右側の縁つき赤色の瓦屋根
+staxel.tileObject.roof.RedRoof_RightEdgeCutLong.description=
+//[Reference] 'RedRoof_RightEdgeCutLong'
+staxel.tileObject.roof.RedRoof_RightEdgeCutLong.name=RedRoof_RightEdgeCutLong
+staxel.tileObject.roof.RedRoof_RightEdgeCutLongFinal.description=
+//[Reference] 'RedRoof_RightEdgeCutLongFinal'
+staxel.tileObject.roof.RedRoof_RightEdgeCutLongFinal.name=RedRoof_RightEdgeCutLongFinal
+//[Reference] 'A roof made from deep red shingles.'
+staxel.tileObject.roof.RedRoof_RightStraight.description=紅色のこけら板で作られた屋根。
+//[Reference] 'Right Red Tiled Roof'
+staxel.tileObject.roof.RedRoof_RightStraight.name=右側の赤い瓦屋根
+//[Reference] 'A comfortable, square armchair.'
+staxel.tileObject.serverVillage.Armchair.square.description=すわり心地のいい、四角いアームチェア。
+//[Reference] 'Basic Armchair'
+staxel.tileObject.serverVillage.Armchair.square.name=普通のアームチェア
+//[Reference] 'Unbaked things go in, baked things come out!'
+staxel.tileObject.serverVillage.BakingStation.description=焼けてないものを入れれば、焼けたものになる！
+//[Reference] 'Baking Station'
+staxel.tileObject.serverVillage.BakingStation.name=ベーキングステーション
+//[Reference] 'A comfortable, well made, double bed.'
+staxel.tileObject.serverVillage.Bed.double.red.description=寝心地抜群の良質なダブルベッド。
+//[Reference] 'Simply Red Double Bed'
+staxel.tileObject.serverVillage.Bed.double.red.name=シンプルな赤色のダブルベッド
+//[Reference] 'A comfortable, well made, single bed.'
+staxel.tileObject.serverVillage.Bed.single.black.description=寝心地抜群の良質なシングルベッド。
+//[Reference] 'Simply Black Single Bed'
+staxel.tileObject.serverVillage.Bed.single.black.name=シンプルな黒のシングルベッド
+//[Reference] 'A comfortable, well made, single bed.'
+staxel.tileObject.serverVillage.Bed.single.blue.description=寝心地抜群の良質なシングルベッド。
+//[Reference] 'Simply Blue Single Bed'
+staxel.tileObject.serverVillage.Bed.single.blue.name=シンプルな青色のシングルベッド
+//[Reference] 'A comfortable, well made, single bed.'
+staxel.tileObject.serverVillage.Bed.single.purple.description=寝心地抜群の良質なシングルベッド。
+//[Reference] 'Simply Purple Single Bed'
+staxel.tileObject.serverVillage.Bed.single.purple.name=シンプルな紫色のシングルベッド
+//[Reference] 'A comfortable, well made, single bed.'
+staxel.tileObject.serverVillage.Bed.single.red.description=寝心地抜群の良質なシングルベッド。
+//[Reference] 'Simply Red Single Bed'
+staxel.tileObject.serverVillage.Bed.single.red.name=シンプルな赤色のシングルベッド
+//[Reference] 'A simple lamp, perfect for reading in bed.'
+staxel.tileObject.serverVillage.BedsideLamp.description=ベッドで読書するのにうってつけの、シンプルなランプ。
+//[Reference] 'Simply White Bedside Lamp'
+staxel.tileObject.serverVillage.BedsideLamp.name=シンプルな白色のベッドサイドランプ
+//[Reference] 'What a festive banner. Great for decorating an outdoor event.'
+staxel.tileObject.serverVillage.BlueFestivalBanner.description=すごく派手な横断幕。野外イベントの装飾にうってつけ。
+//[Reference] 'Blue Festival Banner'
+staxel.tileObject.serverVillage.BlueFestivalBanner.name=青色の横断幕
+//[Reference] 'Used for boiling food and liquids.'
+staxel.tileObject.serverVillage.BoilingStation.description=食べ物や液体を煮ることができる。
+//[Reference] 'Boiling Station'
+staxel.tileObject.serverVillage.BoilingStation.name=ボイリングステーション
+//[Reference] 'Place things on it!'
+staxel.tileObject.serverVillage.Bookshelf.description=中に何かおいてみよう！
+//[Reference] 'Storage BookShelf'
+staxel.tileObject.serverVillage.Bookshelf.name=収納用の本棚
+//[Reference] 'Simple white brick. Its simplicity is its selling point. Less is more!'
+staxel.tileObject.serverVillage.BrickBlock.description=シンプルな白色のブロック。そのシンプルさがウリ。飾り気の無いほうが良い！
+//[Reference] 'White Brick'
+staxel.tileObject.serverVillage.BrickBlock.name=白色のレンガ
+//[Reference] 'Healthy looking carrots.'
+staxel.tileObject.serverVillage.Carrots.description=おいしそうな見た目のニンジン。
+//[Reference] 'Carrots'
+staxel.tileObject.serverVillage.Carrots.name=ニンジン
+//[Reference] 'Ceiling beams are great for support, but better for adding a touch of style to any room!'
+staxel.tileObject.serverVillage.CeilingBeam.description=天井用の梁は屋根を支えるのに便利だが、部屋のディテール作りにも一役買える！
+//[Reference] 'Ceiling Beam'
+staxel.tileObject.serverVillage.CeilingBeam.name=天井用の梁
+//[Reference] 'A lamp you can put on a ceiling.'
+staxel.tileObject.serverVillage.CeilingLamp.description=天井につるすことができるランプ。
+//[Reference] 'Ceiling Lamp'
+staxel.tileObject.serverVillage.CeilingLamp.name=天井ランプ
+//[Reference] 'Simple design, but useful.'
+staxel.tileObject.serverVillage.ChestOfDrawers.description=シンプルなデザインだけど便利。
+//[Reference] 'Basic Chest of Drawers'
+staxel.tileObject.serverVillage.ChestOfDrawers.name=普通の引き出し
+//[Reference] 'Used for chopping, slicing & dicing ingredients.'
+staxel.tileObject.serverVillage.ChoppingStation.description=素材をいろんな形に切ることができる。
+//[Reference] 'Chopping Station'
+staxel.tileObject.serverVillage.ChoppingStation.name=チョッピングステーション
+//[Reference] 'A trap built by spiders to catch insects.'
+staxel.tileObject.serverVillage.Cobweb.description=虫を捕らえるためにクモが作った罠。
+//[Reference] 'Cobweb'
+staxel.tileObject.serverVillage.Cobweb.name=クモの巣
+//[Reference] 'Simple and well made.'
+staxel.tileObject.serverVillage.CoffeeTable.description=シンプルで出来のいいテーブル。
+//[Reference] 'Simply Wooden Coffee Table'
+staxel.tileObject.serverVillage.CoffeeTable.name=シンプルな木製コーヒーテーブル
+//[Reference] 'Delicious yellow corn.'
+staxel.tileObject.serverVillage.Corn.description=おいしそうなトウモロコシ。
+//[Reference] 'Corn'
+staxel.tileObject.serverVillage.Corn.name=トウモロコシ
+//[Reference] 'A plate of crunchy crisps.'
+staxel.tileObject.serverVillage.CrispPlate.description=サクサクしたチップスが乗った皿。
+//[Reference] 'Plate of Chips'
+staxel.tileObject.serverVillage.CrispPlate.name=チップスの皿
+//[Reference] 'A simple doorframe with no door.'
+staxel.tileObject.serverVillage.DoorFrame.description=ドアの取り付けられていない、シンプルなドア枠。
+//[Reference] 'Basic Door Frame'
+staxel.tileObject.serverVillage.DoorFrame.name=普通のドア枠
+//[Reference] 'It has a fairly regal design.'
+staxel.tileObject.serverVillage.exterior.ArchedWindow.description=結構豪華なデザイン。
+//[Reference] 'Arched Window'
+staxel.tileObject.serverVillage.exterior.ArchedWindow.name=アーチつき窓
+//[Reference] 'Great for storing a whole load of anything!'
+staxel.tileObject.serverVillage.exterior.Barrel.description=どんなものでもたくさん保存できる容器！
+//[Reference] 'Barrel'
+staxel.tileObject.serverVillage.exterior.Barrel.name=タル
+//[Reference] 'This basket is completely empty.'
+staxel.tileObject.serverVillage.exterior.BasketEmpty.description=このバスケットには何も入っていない。
+//[Reference] 'Basket - empty'
+staxel.tileObject.serverVillage.exterior.BasketEmpty.name=バスケット（カラ）
+//[Reference] 'This basket contains assorted green fruits.'
+staxel.tileObject.serverVillage.exterior.BasketGreenFruit.description=さまざまな緑色の果物が入ったバスケット。
+//[Reference] 'Green Fruit Basket'
+staxel.tileObject.serverVillage.exterior.BasketGreenFruit.name=フルーツバスケット（緑色）
+//[Reference] 'This basket contains assorted red fruits.'
+staxel.tileObject.serverVillage.exterior.BasketRedFruit.description=さまざまな赤色の果物が入ったバスケット。
+//[Reference] 'Red Fruit Basket'
+staxel.tileObject.serverVillage.exterior.BasketRedFruit.name=フルーツバスケット（赤色）
+//[Reference] 'This basket contains assorted yellow fruits.'
+staxel.tileObject.serverVillage.exterior.BasketYellowFruit.description=さまざまな黄色の果物が入ったバスケット。
+//[Reference] 'Yellow Fruit Basket'
+staxel.tileObject.serverVillage.exterior.BasketYellowFruit.name=フルーツバスケット（黄色）
+//[Reference] 'A lovely outdoor bench. Place it strategically so anyone sitting on it has a nice view.'
+staxel.tileObject.serverVillage.exterior.Bench.description=愛らしい屋外用ベンチ。座った人がいい景色を見れる、場所を考えて置こう。
+//[Reference] 'White Bench'
+staxel.tileObject.serverVillage.exterior.Bench.name=白色のベンチ
+//[Reference] 'This billboard has an assortment of fliers, advertisements and notices.'
+staxel.tileObject.serverVillage.exterior.Billboard.description=チラシ、広告やお知らせなどが張られた掲示板。
+//[Reference] 'Billboard'
+staxel.tileObject.serverVillage.exterior.Billboard.name=掲示板
+//[Reference] 'A solid, elegant fence made out of metal.'
+staxel.tileObject.serverVillage.exterior.BlackFenceCorner.description=金属製の硬くてエレガントなフェンス。
+//[Reference] 'Cornered Black Fence'
+staxel.tileObject.serverVillage.exterior.BlackFenceCorner.name=黒いフェンス（角）
+//[Reference] 'A solid, elegant fence made out of metal.'
+staxel.tileObject.serverVillage.exterior.BlackFenceStraight.description=金属製の硬くてエレガントなフェンス。
+//[Reference] 'Straight Black Fence'
+staxel.tileObject.serverVillage.exterior.BlackFenceStraight.name=黒いフェンス（直線）
+//[Reference] 'Simple white brick. Its simplicity is its selling point. Less is more!'
+staxel.tileObject.serverVillage.exterior.BrickBlockWhite.description=シンプルな白色のブロック。そのシンプルさがウリ。飾り気の無いほうが良い！
+//[Reference] 'White Brick Block'
+staxel.tileObject.serverVillage.exterior.BrickBlockWhite.name=白色のレンガブロック
+//[Reference] 'Blue brick topped with a white trim.'
+staxel.tileObject.serverVillage.exterior.BrickSide1.description=白い飾りつきの青いレンガ。
+//[Reference] 'Blue Brick Block'
+staxel.tileObject.serverVillage.exterior.BrickSide1.name=青色のレンガブロック
+//[Reference] 'Made from blue bricks, this block has a nice design and varying shades of blues and greys.'
+staxel.tileObject.serverVillage.exterior.BrickSide2.description=青色と灰色の多種多様なコントラストがいい味を出している、青レンガのブロック。
+//[Reference] 'Blue Brick Block'
+staxel.tileObject.serverVillage.exterior.BrickSide2.name=青色のレンガブロック
+//[Reference] 'A standard brick block. Can be used for all kinds of construction projects.'
+staxel.tileObject.serverVillage.exterior.Brickwork.houseTile.description=普通のレンガブロック。あらゆる建築プロジェクトに使うことができる。
+//[Reference] 'Large Brick Block'
+staxel.tileObject.serverVillage.exterior.Brickwork.houseTile.name=大きなレンガブロック
+//[Reference] 'One piece of many used to build a bridge.'
+staxel.tileObject.serverVillage.exterior.BridgeMain.description=橋の建造に使う1ピース。
+//[Reference] 'Bridge Floor'
+staxel.tileObject.serverVillage.exterior.BridgeMain.name=橋の床板
+//[Reference] 'One piece of many used to build a bridge.'
+staxel.tileObject.serverVillage.exterior.BridgePillarLeft.description=橋の建造に使う1ピース。
+//[Reference] 'Left Bridge Pillar'
+staxel.tileObject.serverVillage.exterior.BridgePillarLeft.name=橋の柱（左）
+//[Reference] 'One piece of many used to build a bridge.'
+staxel.tileObject.serverVillage.exterior.BridgePillarRight.description=橋の建造に使う1ピース。
+//[Reference] 'Right Bridge Pillar'
+staxel.tileObject.serverVillage.exterior.BridgePillarRight.name=橋の柱（右）
+//[Reference] 'One piece of many used to build a bridge.'
+staxel.tileObject.serverVillage.exterior.BridgeRail.description=橋の建造に使う1ピース。
+//[Reference] 'Bridge Rail'
+staxel.tileObject.serverVillage.exterior.BridgeRail.name=橋の手すり
+//[Reference] 'One piece of many used to build a bridge.'
+staxel.tileObject.serverVillage.exterior.BridgeRamp.description=橋の建造に使う1ピース。
+//[Reference] 'Bridge Floor Ramp'
+staxel.tileObject.serverVillage.exterior.BridgeRamp.name=橋のスロープ
+//[Reference] 'This brick looks like it's been damaged in a fire.'
+staxel.tileObject.serverVillage.exterior.BurntBrick.description=火で焦げついたかのように見えるレンガ。
+//[Reference] 'Burnt Brown Brick'
+staxel.tileObject.serverVillage.exterior.BurntBrick.name=焦げた茶色レンガ
+//[Reference] 'A bundle of yellow flowers. They smell lovely!'
+staxel.tileObject.serverVillage.exterior.BushyFlower.description=黄色の花がたくさん集まっている。いいにおい！
+//[Reference] 'Yellow Bushy Flower'
+staxel.tileObject.serverVillage.exterior.BushyFlower.name=黄色の花の茂み
+//[Reference] 'A bundle of yellow flowers. They smell lovely!'
+staxel.tileObject.serverVillage.exterior.BushyFlowerSmall.description=黄色の花がたくさん集まっている。いいにおい！
+//[Reference] 'Small Bushy Flower'
+staxel.tileObject.serverVillage.exterior.BushyFlowerSmall.name=小さな花の茂み
+//[Reference] 'This small tree is still growing, but it looks healthy.'
+staxel.tileObject.serverVillage.exterior.BushyTree.description=まだまだ育ち盛りで元気な小さな木。
+//[Reference] 'Bushy Tree'
+staxel.tileObject.serverVillage.exterior.BushyTree.name=低木
+//[Reference] 'You can't have a fireplace without a chimney!'
+staxel.tileObject.serverVillage.exterior.ChimneyPipeSmall.description=煙突のない暖炉なんてありえない！
+//[Reference] 'Small Chimney Pipe'
+staxel.tileObject.serverVillage.exterior.ChimneyPipeSmall.name=小さな煙突
+//[Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.tileObject.serverVillage.exterior.ChocolateCake.description=チョコレートケーキはケーキ作りにおける定番のチョイス。
+//[Reference] 'Chocolate Cake'
+staxel.tileObject.serverVillage.exterior.ChocolateCake.name=チョコレートケーキ
+//[Reference] 'They look like they'd be easy to smash. Tempting...'
+staxel.tileObject.serverVillage.exterior.ClayJar1.description=簡単に割れそうな見た目。割ってみたいな…
+//[Reference] 'Clay Jar'
+staxel.tileObject.serverVillage.exterior.ClayJar1.name=粘土のツボ
+//[Reference] 'They look like they'd be easy to smash. Tempting...'
+staxel.tileObject.serverVillage.exterior.ClayJar2.description=簡単に割れそうな見た目。割ってみたいな…
+//[Reference] 'Clay Jar'
+staxel.tileObject.serverVillage.exterior.ClayJar2.name=粘土のツボ
+//[Reference] 'Placed on top of walls to add a bit of extra detail.'
+staxel.tileObject.serverVillage.exterior.CornerDecoration.description=壁の上に置いて、ディテールを足してみよう。
+//[Reference] 'Corner Decoration'
+staxel.tileObject.serverVillage.exterior.CornerDecoration.name=コーナー用の飾り
+//[Reference] 'A standard wooden crate. It's heavy. What could be inside?'
+staxel.tileObject.serverVillage.exterior.Crate.description=普通の木箱。結構重い。何が入ってるのかな？
+//[Reference] 'Crate'
+staxel.tileObject.serverVillage.exterior.Crate.name=木箱
+//[Reference] 'A small, empty, wooden crate. Probably useful for something.'
+staxel.tileObject.serverVillage.exterior.CrateEmpty.description=中に何も入ってない、小さな木箱。何かに使えそう。
+//[Reference] 'Empty Crate'
+staxel.tileObject.serverVillage.exterior.CrateEmpty.name=カラの木箱
+//[Reference] 'A crate filled with assorted green fruit.'
+staxel.tileObject.serverVillage.exterior.CrateGreenFruit.description=さまざまな緑色の果物が入った木箱。
+//[Reference] 'Crate Full of Green Fruit'
+staxel.tileObject.serverVillage.exterior.CrateGreenFruit.name=満杯の木箱（緑色の果物）
+//[Reference] 'A crate filled with assorted red fruit.'
+staxel.tileObject.serverVillage.exterior.CrateRedFruit.description=さまざまな赤色の果物が入った木箱。
+//[Reference] 'Crate Full of Red Fruit'
+staxel.tileObject.serverVillage.exterior.CrateRedFruit.name=満杯の木箱（赤色の果物）
+//[Reference] 'A crate filled with assorted yellow fruit.'
+staxel.tileObject.serverVillage.exterior.CrateYellowFruit.description=さまざまな黄色の果物が入った木箱。
+//[Reference] 'Crate Full of Yellow Fruit'
+staxel.tileObject.serverVillage.exterior.CrateYellowFruit.name=満杯の木箱（黄色の果物）
+//[Reference] 'This flower bed has some pink flowers growing inside.'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotPink.description=ピンク色の花がこのプランターの中で育っている。
+//[Reference] 'White Clay Bed With Pink Flowers'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotPink.name=白色の陶器プランター（ピンクの花）
+//[Reference] 'This flower bed has some seedlings growing inside.'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotSeedling.description=苗木がこのプランターの中で育っている。
+//[Reference] 'White Clay Bed With Seedlings'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotSeedling.name=白色の陶器プランター（苗木）
+//[Reference] 'This flower bed has some white flowers growing inside.'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotWhite.description=白色の花がこのプランターの中で育っている。
+//[Reference] 'White Clay Bed with White Flowers'
+staxel.tileObject.serverVillage.exterior.CreamClayPlantPotWhite.name=白色の陶器プランター（白い花）
+//[Reference] 'Great for paths, walls, floors and more.'
+staxel.tileObject.serverVillage.exterior.DarkCobblestone.description=道や壁などにお似合いの建材。
+//[Reference] 'Dark Cobblestone'
+staxel.tileObject.serverVillage.exterior.DarkCobblestone.name=暗色の丸石
+//[Reference] 'This dog statue has strange writing on it. I wonder where it came from?'
+staxel.tileObject.serverVillage.exterior.DogStatue.description=この犬の石像には奇妙な文字が彫られている。どこの文明のものだろう。
+//[Reference] 'Dog Statue'
+staxel.tileObject.serverVillage.exterior.DogStatue.name=犬の石造
+//[Reference] 'A traditional window with yellow glass panes.'
+staxel.tileObject.serverVillage.exterior.FantasyWindow.description=黄色のガラス板がついた普通の窓。
+//[Reference] 'Fantasy Window'
+staxel.tileObject.serverVillage.exterior.FantasyWindow.name=ファンタジー風の窓
+//[Reference] 'A traditional window with a circular design.'
+staxel.tileObject.serverVillage.exterior.FantasyWindowCircle.description=丸い形をした、普通の窓。
+//[Reference] 'Circular Fantasy Window'
+staxel.tileObject.serverVillage.exterior.FantasyWindowCircle.name=円形ファンタジー風窓
+//[Reference] 'Launches fireworks of all kinds!'
+staxel.tileObject.serverVillage.exterior.FireworksLauncher.description=色とりどりな花火が入った打ち上げ台！
+//[Reference] 'Fireworks Launcher'
+staxel.tileObject.serverVillage.exterior.FireworksLauncher.name=花火ランチャー
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.tileObject.serverVillage.exterior.FishTray1.description=取れたてピチピチの魚で詰まった箱！
+//[Reference] 'Crate Full of Fish'
+staxel.tileObject.serverVillage.exterior.FishTray1.name=満杯の木箱（魚）
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.tileObject.serverVillage.exterior.FishTray2.description=取れたてピチピチの魚で詰まった箱！
+//[Reference] 'Crate Full of Fish'
+staxel.tileObject.serverVillage.exterior.FishTray2.name=満杯の木箱（魚）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.FlatRoofPiece.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Flat Roof'
+staxel.tileObject.serverVillage.exterior.FlatRoofPiece.name=平たい屋根
+//[Reference] 'Used to indicate to the world that something's 'For Sale'.'
+staxel.tileObject.serverVillage.exterior.ForSaleSign.description=何かを売り物に出したい時に使う看板。
+//[Reference] 'For Sale Sign'
+staxel.tileObject.serverVillage.exterior.ForSaleSign.name=売り物用の看板
+//[Reference] 'For scoring goals and taking names.'
+staxel.tileObject.serverVillage.exterior.Goals.description=ゴールを決めて有名になろう！
+//[Reference] 'Goals'
+staxel.tileObject.serverVillage.exterior.Goals.name=ゴール
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass1.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass1.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass2.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass2.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass3.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass3.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass4.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass4.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass5.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass5.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass6.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass6.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass7.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass7.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tileObject.serverVillage.exterior.Grass8.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tileObject.serverVillage.exterior.Grass8.name=長い草
+//[Reference] 'A hedge piece. A more natural alternative to a fence or a wall.'
+staxel.tileObject.serverVillage.exterior.HedgeCorner.description=生垣の一部。自然のフェンスや壁として使うことができる。
+//[Reference] 'Hedge Corner'
+staxel.tileObject.serverVillage.exterior.HedgeCorner.name=生垣（角）
+//[Reference] 'A hedge piece. A more natural alternative to a fence or a wall.'
+staxel.tileObject.serverVillage.exterior.HedgeSingle.description=生垣の一部。自然のフェンスや壁として使うことができる。
+//[Reference] 'Hedge Single'
+staxel.tileObject.serverVillage.exterior.HedgeSingle.name=生垣（柱）
+//[Reference] 'A hedge piece. A more natural alternative to a fence or a wall.'
+staxel.tileObject.serverVillage.exterior.HedgeStraight.description=生垣の一部。自然のフェンスや壁として使うことができる。
+//[Reference] 'Hedge Wall'
+staxel.tileObject.serverVillage.exterior.HedgeStraight.name=生垣（壁）
+//[Reference] 'This bush has been neatly trimmed and well taken care of. Some white flowers are growing on it!'
+staxel.tileObject.serverVillage.exterior.HomeBushWhite.description=いい感じのカットと手入れが行われた庭木。白い花も咲いている！
+//[Reference] 'White Flowering Shrub'
+staxel.tileObject.serverVillage.exterior.HomeBushWhite.name=白い花の庭木
+//[Reference] 'This bush has been neatly trimmed and well taken care of.'
+staxel.tileObject.serverVillage.exterior.HomelyBush.description=いい感じのカットと手入れが行われた庭木。
+//[Reference] 'Shrub'
+staxel.tileObject.serverVillage.exterior.HomelyBush.name=庭木
+//[Reference] 'Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.'
+staxel.tileObject.serverVillage.exterior.IcedCake.description=アイシングがすごくおいしそう！ケーキ自体もすごくいいけど、アイシングが一番肝心だね。
+//[Reference] 'Iced Cake'
+staxel.tileObject.serverVillage.exterior.IcedCake.name=アイシングケーキ
+//[Reference] 'Ivy grows up walls and can add a little bit of nature to a building.'
+staxel.tileObject.serverVillage.exterior.Ivy.description=壁に沿って伸びるツタは、建造物の自然っぽさを出してくれる。
+//[Reference] 'Ivy'
+staxel.tileObject.serverVillage.exterior.Ivy.name=ツタ
+//[Reference] 'It's very fragile and smells lovely.'
+staxel.tileObject.serverVillage.exterior.Lavender.description=折れやすく、いいにおいのする花。
+//[Reference] 'Lavander'
+staxel.tileObject.serverVillage.exterior.Lavender.name=ラベンダー
+//[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
+staxel.tileObject.serverVillage.exterior.Lilypad1.description=池の上に浮かぶスイレンの葉は、カエルの居場所にもなる。
+//[Reference] 'Lily Pad'
+staxel.tileObject.serverVillage.exterior.Lilypad1.name=スイレンの葉
+//[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
+staxel.tileObject.serverVillage.exterior.Lilypad2.description=池の上に浮かぶスイレンの葉は、カエルの居場所にもなる。
+//[Reference] 'Lily Pad'
+staxel.tileObject.serverVillage.exterior.Lilypad2.name=スイレンの葉
+//[Reference] 'Found in ponds, lily pads serve as a frog's walkway.'
+staxel.tileObject.serverVillage.exterior.Lilypad3.description=池の上に浮かぶスイレンの葉は、カエルの居場所にもなる。
+//[Reference] 'Lily Pad'
+staxel.tileObject.serverVillage.exterior.Lilypad3.name=スイレンの葉
+//[Reference] 'Left over from some build project it seems.'
+staxel.tileObject.serverVillage.exterior.LooseBricks.description=とある建設プロジェクトの忘れ物みたい。
+//[Reference] 'Loose Bricks'
+staxel.tileObject.serverVillage.exterior.LooseBricks.name=ボロボロのレンガ
+//[Reference] 'Market stalls are a great way to set up a store quickly.'
+staxel.tileObject.serverVillage.exterior.MarketStallBlue.description=屋台なら手軽に店を開けることができる。
+//[Reference] 'Blue Market Stall'
+staxel.tileObject.serverVillage.exterior.MarketStallBlue.name=青色の屋台
+//[Reference] 'Market stalls are a great way to set up a store quickly.'
+staxel.tileObject.serverVillage.exterior.MarketStallGreen.description=屋台なら手軽に店を開けることができる。
+//[Reference] 'Green Market Stall'
+staxel.tileObject.serverVillage.exterior.MarketStallGreen.name=緑色の屋台
+//[Reference] 'Market stalls are a great way to set up a store quickly.'
+staxel.tileObject.serverVillage.exterior.MarketStallPink.description=屋台なら手軽に店を開けることができる。
+//[Reference] 'Pink Market Stall'
+staxel.tileObject.serverVillage.exterior.MarketStallPink.name=ピンク色の屋台
+//[Reference] 'Market stalls are a great way to set up a store quickly.'
+staxel.tileObject.serverVillage.exterior.MarketStallRed.description=屋台なら手軽に店を開けることができる。
+//[Reference] 'Red Market Stall'
+staxel.tileObject.serverVillage.exterior.MarketStallRed.name=赤色の屋台
+//[Reference] 'Mail is delivered here, every house should have one!'
+staxel.tileObject.serverVillage.exterior.Postbox.description=配達された手紙が入れられる、一家に1つは必ずあるもの！
+//[Reference] 'Mailbox'
+staxel.tileObject.serverVillage.exterior.Postbox.name=郵便ボックス
+//[Reference] 'The spookiest vegetable!'
+staxel.tileObject.serverVillage.exterior.Pumpkin.description=コワい野菜といえばこれ！
+//[Reference] 'Pumpkin'
+staxel.tileObject.serverVillage.exterior.Pumpkin.name=カボチャ
+//[Reference] 'This flower bed has some pink flowers growing inside.'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.description=ピンク色の花がこのプランターの中で育っている。
+//[Reference] 'Red Clay Bed With Pink Flowers'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotPink.name=赤色の陶器プランター（ピンクの花）
+//[Reference] 'This flower bed has some seedlings growing inside.'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.description=苗木がこのプランターの中で育っている。
+//[Reference] 'Red Clay Bed With Seedlings'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotSeedling.name=赤色の陶器プランター（苗木）
+//[Reference] 'This flower bed has some white flowers growing inside.'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.description=白色の花がこのプランターの中で育っている。
+//[Reference] 'Red Clay Bed With White Flowers'
+staxel.tileObject.serverVillage.exterior.RedClayPlantPotWhite.name=赤色の陶器プランター（白い花）
+staxel.tileObject.serverVillage.exterior.Reeds.description=
+//[Reference] 'Reeds'
+staxel.tileObject.serverVillage.exterior.Reeds.name=アシの草むら
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofCornerHigh.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Upper Corner Basic Roof'
+staxel.tileObject.serverVillage.exterior.RoofCornerHigh.name=ベーシックな屋根（高い角）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofCornerLow.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Lower Corner Basic Roof'
+staxel.tileObject.serverVillage.exterior.RoofCornerLow.name=ベーシックな屋根（低い角）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofRail.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Roof Rail'
+staxel.tileObject.serverVillage.exterior.RoofRail.name=ベーシックな屋根（横木）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSide1.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Black Roof Upper Side'
+staxel.tileObject.serverVillage.exterior.RoofSide1.name=ベーシックな黒い屋根（高い側面）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSide2.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Black Roof Lower Side'
+staxel.tileObject.serverVillage.exterior.RoofSide2.name=ベーシックな黒い屋根（低い側面）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSideHigh.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Roof Upper Edge'
+staxel.tileObject.serverVillage.exterior.RoofSideHigh.name=ベーシックな赤い屋根（高い端）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSideLow.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Roof Lower Edge'
+staxel.tileObject.serverVillage.exterior.RoofSideLow.name=ベーシックな赤い屋根（低い端）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSideRail.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Roof Lower Side Rail'
+staxel.tileObject.serverVillage.exterior.RoofSideRail.name=ベーシックな赤い屋根（低い横木）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofSideTop.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Roof Upper Side Rail'
+staxel.tileObject.serverVillage.exterior.RoofSideTop.name=ベーシックな赤い屋根（高い横木）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofTileHigh.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Upper Roof'
+staxel.tileObject.serverVillage.exterior.RoofTileHigh.name=ベーシックな赤い屋根（高）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofTileLow.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Lower Roof'
+staxel.tileObject.serverVillage.exterior.RoofTileLow.name=ベーシックな赤い屋根（低）
+//[Reference] 'A roofing piece with a simple design.'
+staxel.tileObject.serverVillage.exterior.RoofTop.description=シンプルなデザインの屋根ピース。
+//[Reference] 'Basic Red Roof Top.'
+staxel.tileObject.serverVillage.exterior.RoofTop.name=ベーシックな赤い屋根（天面）
+//[Reference] 'A tall, solid, wooden fence.'
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.description=高くて硬い木製のフェンス。
+//[Reference] 'Rough Wooden Fence Corner'
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceCorner.name=粗造りの木製フェンス（角）
+//[Reference] 'A tall, solid, wooden fence.'
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.description=高くて硬い木製のフェンス。
+//[Reference] 'Rough Wooden Fence'
+staxel.tileObject.serverVillage.exterior.RoughWoodenFenceStraight.name=粗造りの木製フェンス
+//[Reference] 'Keeps all those pesky crows away from your crops. He's great at his job!'
+staxel.tileObject.serverVillage.exterior.Scarecrow.description=やっかいなカラスが作物に近づかないようにしてくれる。それが彼の特技！
+//[Reference] 'Scarecrow'
+staxel.tileObject.serverVillage.exterior.Scarecrow.name=カカシ
+//[Reference] 'A beautiful blue mushroom. It looks like it came from an alien planet!'
+staxel.tileObject.serverVillage.exterior.ShinyMushroom.description=美しい青色のキノコ。この星のものではないような感じ！
+//[Reference] 'Shiny Mushroom'
+staxel.tileObject.serverVillage.exterior.ShinyMushroom.name=輝くキノコ
+//[Reference] 'A wooden counter, usually used for retail stores.'
+staxel.tileObject.serverVillage.exterior.ShopCounter.description=小売店でよく使われる、木製のカウンター。
+//[Reference] 'Shop Counter'
+staxel.tileObject.serverVillage.exterior.ShopCounter.name=ショップカウンター
+//[Reference] 'Place it on a building to indicate to passersby that it's an inn.'
+staxel.tileObject.serverVillage.exterior.SignInn.description=建物にとりつけて、周りの人にその建物が宿屋であることを知らせよう。
+//[Reference] 'Inn Sign'
+staxel.tileObject.serverVillage.exterior.SignInn.name=宿屋の看板
+//[Reference] 'Place it on a building to indicate to passersby that it's a post office.'
+staxel.tileObject.serverVillage.exterior.SignPost.description=建物にとりつけて、周りの人にその建物が郵便局であることを知らせよう。
+//[Reference] 'Sign Post'
+staxel.tileObject.serverVillage.exterior.SignPost.name=標柱
+//[Reference] 'Place it on a building to indicate to passersby that it's a store.'
+staxel.tileObject.serverVillage.exterior.SignStore.description=建物にとりつけて、周りの人にその建物が店であることを知らせよう。
+//[Reference] 'Store Sign'
+staxel.tileObject.serverVillage.exterior.SignStore.name=店の看板
+//[Reference] 'This small tree is still growing, but it looks healthy.'
+staxel.tileObject.serverVillage.exterior.SmallBushyTree.description=まだまだ育ち盛りで元気な小さな木。
+//[Reference] 'Small Bushy Tree'
+staxel.tileObject.serverVillage.exterior.SmallBushyTree.name=小さな低木の茂み
+//[Reference] 'A good way to divide up land without being too obtrusive.'
+staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.description=視界をあまりさえぎらないように場所を分断する際に便利。
+//[Reference] 'Low Hedge Corner'
+staxel.tileObject.serverVillage.exterior.SmallHedgeCorner.name=低い生垣（角）
+//[Reference] 'A good way to divide up land without being too obtrusive.'
+staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.description=視界をあまりさえぎらないように場所を分断する際に便利。
+//[Reference] 'Low Hedge End'
+staxel.tileObject.serverVillage.exterior.SmallHedgeEnd.name=低い生垣（端）
+//[Reference] 'A good way to divide up land without being too obtrusive.'
+staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.description=視界をあまりさえぎらないように場所を分断する際に便利。
+//[Reference] 'Low Hedge'
+staxel.tileObject.serverVillage.exterior.SmallHedgeStraight.name=低い生垣
+//[Reference] 'A good way to divide up land without being too obtrusive.'
+staxel.tileObject.serverVillage.exterior.SmallHomelyBush.description=視界をあまりさえぎらないように場所を分断する際に便利。
+//[Reference] 'Small Shrub'
+staxel.tileObject.serverVillage.exterior.SmallHomelyBush.name=低い茂み
+
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceCorner.description=
+//[Reference] 'Low Wooden Fence'
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceCorner.name=低い木製フェンス
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceMiddle.description=
+//[Reference] 'Low Wooden Fence'
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceMiddle.name=低い木製フェンス
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceTSection.description=
+//[Reference] 'Low Wooden Fence'
+staxel.tileObject.serverVillage.exterior.SmallWoodenPoleFenceTSection.name=低い木製フェンス
+//[Reference] 'Flooring which is great for both indoors and outdoors.'
+staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.description=屋内外どちらでも使えるフローリング。
+//[Reference] 'Solid Slab Flooring'
+staxel.tileObject.serverVillage.exterior.SolidSlabFlooring.name=硬い石のフローリング
+//[Reference] 'The fence is quite low and has a nice, simple design.'
+staxel.tileObject.serverVillage.exterior.StoneFence.description=背が低く、シンプルなデザインのフェンス。
+//[Reference] 'Stone Fence'
+staxel.tileObject.serverVillage.exterior.StoneFence.name=石のフェンス
+//[Reference] 'The fence is quite low and has a nice, simple design.'
+staxel.tileObject.serverVillage.exterior.StoneFencePillar.description=背が低く、シンプルなデザインのフェンス。
+//[Reference] 'Stone Fence Pillar'
+staxel.tileObject.serverVillage.exterior.StoneFencePillar.name=石のフェンス（柱）
+//[Reference] 'The fence is quite low and has a nice, simple design.'
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight.description=背が低く、シンプルなデザインのフェンス。
+//[Reference] 'Stone Fence Straight'
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight.name=石のフェンス（直線）
+//[Reference] 'The fence is quite low and has a nice, simple design.'
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.description=背が低く、シンプルなデザインのフェンス。
+//[Reference] 'Stone Fence Straight'
+staxel.tileObject.serverVillage.exterior.StoneFenceStraight2.name=石のフェンス（直線）
+//[Reference] 'Very well crafted. Made from raw stone.'
+staxel.tileObject.serverVillage.exterior.Stonework.houseTile.description=とても精巧なタイル。原石から作られた。
+//[Reference] 'Stonework House Tile'
+staxel.tileObject.serverVillage.exterior.Stonework.houseTile.name=石製の家用タイル
+//[Reference] 'All that's left from an ancient tree...'
+staxel.tileObject.serverVillage.exterior.TreeStump.description=古い木がそこにあった跡だ…
+//[Reference] 'Tree Stump'
+staxel.tileObject.serverVillage.exterior.TreeStump.name=切り株
+//[Reference] 'A great finishing touch to any building.'
+staxel.tileObject.serverVillage.exterior.Vines.1.description=建物の仕上げにうってつけのツタ。
+//[Reference] 'Vines'
+staxel.tileObject.serverVillage.exterior.Vines.1.name=ツタ
+//[Reference] 'A great finishing touch to any building.'
+staxel.tileObject.serverVillage.exterior.Vines.2.description=建物の仕上げにうってつけのツタ。
+//[Reference] 'Vines'
+staxel.tileObject.serverVillage.exterior.Vines.2.name=ツタ
+//[Reference] 'A great finishing touch to any building.'
+staxel.tileObject.serverVillage.exterior.Vines.3.description=建物の仕上げにうってつけのツタ。
+//[Reference] 'Vines'
+staxel.tileObject.serverVillage.exterior.Vines.3.name=ツタ
+//[Reference] 'A convenient way to brighten up any space.'
+staxel.tileObject.serverVillage.exterior.WallLamp.description=どんな場所でも簡単に明るくすることができる。
+//[Reference] 'Wall Lamp'
+staxel.tileObject.serverVillage.exterior.WallLamp.name=壁灯
+//[Reference] 'A solid block of liquid.'
+staxel.tileObject.serverVillage.exterior.WaterBlock.description=液体のブロック。
+//[Reference] 'Water Block'
+staxel.tileObject.serverVillage.exterior.WaterBlock.name=水ブロック
+//[Reference] 'A large well... it must be a hundred years old, at least!'
+staxel.tileObject.serverVillage.exterior.Well.description=大きな井戸…少なくとも数百年前に作られたものに違いない！
+//[Reference] 'Well'
+staxel.tileObject.serverVillage.exterior.Well.name=井戸
+//[Reference] 'A grain with a lot of different purposes.'
+staxel.tileObject.serverVillage.exterior.Wheat.description=様々な用途に使える穀物。
+//[Reference] 'Wheat'
+staxel.tileObject.serverVillage.exterior.Wheat.name=小麦
+//[Reference] 'Welcome to Winton!'
+staxel.tileObject.serverVillage.exterior.WintonSign.description=ウィントンへようこそ！
+//[Reference] 'Winton Sign'
+staxel.tileObject.serverVillage.exterior.WintonSign.name=ウィントンの看板
+//[Reference] 'Good to use on decking or at the top of stair cases.'
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.description=バルコニーや階段のてっぺんなどで使えそう。
+//[Reference] 'Wooden Deck Railing'
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailing.name=木の手すり
+//[Reference] 'Good to use on decking or at the top of stair cases.'
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.description=バルコニーや階段のてっぺんなどで使えそう。
+//[Reference] 'Cornered Wooden Deck Railing'
+staxel.tileObject.serverVillage.exterior.WoodenDeckingRailingCorner.name=木の手すり（角）
+//[Reference] 'A block crafted from wooden planks.'
+staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.description=材木から作られたブロック。
+//[Reference] 'Wooden House Block'
+staxel.tileObject.serverVillage.exterior.WoodenHouseBlock.name=木材の家用ブロック
+//[Reference] 'A new, sturdy looking fence.'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.description=硬そうな新品のフェンス。
+//[Reference] 'Wooden Pole Fence Corner'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceCorner.name=木のポールフェンス（角）
+//[Reference] 'A new, sturdy looking fence.'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.description=硬そうな新品のフェンス。
+//[Reference] 'Wooden Pole Fence Middle'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceMiddle.name=木のポールフェンス（中間）
+//[Reference] 'A new, sturdy looking fence.'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.description=硬そうな新品のフェンス。
+//[Reference] 'Wooden Pole Fence'
+staxel.tileObject.serverVillage.exterior.WoodenPoleFenceStraight.name=木のポールフェンス
+//[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
+staxel.tileObject.serverVillage.FenceCorner.description=クリーム色に塗装されたこのピケットフェンスは、どこにおいても似合いそう。
+//[Reference] 'Inner Corner White Picket Fence'
+staxel.tileObject.serverVillage.FenceCorner.name=白色のピケットフェンス（内側の角）
+//[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
+staxel.tileObject.serverVillage.FenceCornerOuter.description=クリーム色に塗装されたこのピケットフェンスは、どこにおいても似合いそう。
+//[Reference] 'Outer Corner White Picket Fence'
+staxel.tileObject.serverVillage.FenceCornerOuter.name=白色のピケットフェンス（外側の角）
+//[Reference] 'Finished with a cream-coloured paint, this picket fence would look good anywhere.'
+staxel.tileObject.serverVillage.FenceStraight.description=クリーム色に塗装されたこのピケットフェンスは、どこにおいても似合いそう。
+//[Reference] 'White Picket Fence'
+staxel.tileObject.serverVillage.FenceStraight.name=白色のピケットフェンス
+//[Reference] 'A stunning fountain with fresh water inside. Perhaps it's time to make a wish!'
+staxel.tileObject.serverVillage.FilledFountain.description=新鮮な水の出る、ステキな噴水。願掛けでもしてみよう！
+//[Reference] 'Fountain'
+staxel.tileObject.serverVillage.FilledFountain.name=噴水
+staxel.tileObject.serverVillage.FilledFountainLarge.description=
+//[Reference] 'Large Fountain'
+staxel.tileObject.serverVillage.FilledFountainLarge.name=大きな噴水
+//[Reference] 'Used for storing your food and keeping it fresh.'
+staxel.tileObject.serverVillage.Fridge.description=食べ物を新鮮なまま保管することができる。
+//[Reference] 'Simply Freezing Fridge'
+staxel.tileObject.serverVillage.Fridge.name=シンプルな冷蔵庫
+//[Reference] 'This station is for frying anything a recipe calls for.'
+staxel.tileObject.serverVillage.FryingStation.description=料理で何かを揚げたい時はこのステーションに使える。
+//[Reference] 'Frying Station'
+staxel.tileObject.serverVillage.FryingStation.name=フライステーション
+//[Reference] 'Don't just leave your garbage lying around, there's a special place for that.'
+staxel.tileObject.serverVillage.GarbageBin.description=ゴミをポイ捨てしないように。捨てる場所はあるんだから。
+//[Reference] 'Blue Trash Can'
+staxel.tileObject.serverVillage.GarbageBin.name=青色のゴミ箱
+//[Reference] 'Hotdogs, a must have for any party!'
+staxel.tileObject.serverVillage.Hotdogs.description=ホットドッグはパーティに欠かせない！
+//[Reference] 'Plate of Hotdogs'
+staxel.tileObject.serverVillage.Hotdogs.name=ホットドッグの皿
+//[Reference] 'An indoor lamp with a a sleek, modern design.'
+staxel.tileObject.serverVillage.IndoorLamp.description=スマートでモダンなデザインの屋内用ランプ。
+//[Reference] 'Black Floor Lamp'
+staxel.tileObject.serverVillage.IndoorLamp.name=黒いフロアランプ
+//[Reference] 'A standard, kitchen chair. Would go well with a standard kitchen table.'
+staxel.tileObject.serverVillage.KitchenChair.description=普通のキッチンチェア。普通のキッチンテーブルにうってつけ。
+//[Reference] 'Simply Comfy Chair'
+staxel.tileObject.serverVillage.KitchenChair.name=シンプルなイス
+//[Reference] 'Sure this kitchen counter was designed in the '50s, but it's design is still going strong today!'
+staxel.tileObject.serverVillage.KitchenCounter.description=このキッチンカウンターのデザインは50年代に考案されたものだけど、今でもまだまだ現役！
+//[Reference] 'Simply Stylish Kitchen Counter'
+staxel.tileObject.serverVillage.KitchenCounter.name=シンプルでスタイリッシュなキッチンカウンター
+//[Reference] 'A sink with a large basin, and a water proof area to leave your freshly washed dishes to dry off.'
+staxel.tileObject.serverVillage.KitchenSink.description=大きな槽のついたシンクと、洗った食材を乾燥させられる防水式のカウンターがついた流し台。
+//[Reference] 'Simply Stylish Kitchen Sink'
+staxel.tileObject.serverVillage.KitchenSink.name=シンプルでスタイリッシュな流し台
+//[Reference] 'It says 'kitchen' table, but you can use it in a dining room too!'
+staxel.tileObject.serverVillage.KitchenTable.description=キッチンテーブルだけど、ダイニングルームでも使える！
+//[Reference] 'Simply Wooden Kitchen Table'
+staxel.tileObject.serverVillage.KitchenTable.name=シンプルな木製キッチンテーブル
+//[Reference] 'Perfect for eating outdoors, and it seems like it was recently repainted.'
+staxel.tileObject.serverVillage.LargePicnicTable.description=屋外で食事するのにカンペキ。最近ペンキを塗りなおしたように見える。
+//[Reference] 'Picnic Table'
+staxel.tileObject.serverVillage.LargePicnicTable.name=ピクニックテーブル
+//[Reference] 'A crafting station used to mix up ingredients.'
+staxel.tileObject.serverVillage.MixingStation.description=素材を混ぜるのに使うクラフトステーション。
+//[Reference] 'Mixing Station'
+staxel.tileObject.serverVillage.MixingStation.name=ミキシングステーション
+//[Reference] 'Delicious orange juice, what a fine way to start the day.'
+staxel.tileObject.serverVillage.OrangeJuice.description=一日の始まりに最適なおいしいオレンジジュース。
+//[Reference] 'Orange Juice'
+staxel.tileObject.serverVillage.OrangeJuice.name=オレンジジュース
+//[Reference] 'The oven is used to cook your delicious hot dishes!'
+staxel.tileObject.serverVillage.Oven.description=おいしい食事に焼きあげてくれるオーブン！
+//[Reference] 'Basic Oven'
+staxel.tileObject.serverVillage.Oven.name=ベーシックオーブン
+//[Reference] 'Packing boxes are essential for moving.'
+staxel.tileObject.serverVillage.PackingBox1.description=引越しの際に欠かせない、梱包用の箱。
+//[Reference] 'Cardboard Box'
+staxel.tileObject.serverVillage.PackingBox1.name=ダンボール箱
+//[Reference] 'Packing boxes are essential for moving.'
+staxel.tileObject.serverVillage.PackingBox2.description=引越しの際に欠かせない、梱包用の箱。
+//[Reference] 'Cardboard Box'
+staxel.tileObject.serverVillage.PackingBox2.name=ダンボール箱
+//[Reference] 'Made from thick material, this blanket is perfect to sit on for a nice picnic under the sun.'
+staxel.tileObject.serverVillage.PicnicBlanket.description=厚手の素材でできたこのブランケットは、完璧なピクニックシートとして便利。
+//[Reference] 'Picnic Blanket'
+staxel.tileObject.serverVillage.PicnicBlanket.name=ピクニックシート
+//[Reference] 'Ancient pillars, with very odd writing craved into the top.'
+staxel.tileObject.serverVillage.Pillars.description=てっぺんに不思議な文字が彫られた古代の柱。
+//[Reference] 'Pillared Archway'
+staxel.tileObject.serverVillage.Pillars.name=柱のアーチ
+//[Reference] 'Two loose slabs of wood.'
+staxel.tileObject.serverVillage.Planks.description=2枚の木の板が、少し間を空けて置かれている。
+//[Reference] 'Planks'
+staxel.tileObject.serverVillage.Planks.name=木の板
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.leafy.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Bush'
+staxel.tileObject.serverVillage.PottedPlant.leafy.name=プランター（茂み）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.long.orange.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Long Flower Bed With Orange Flowers'
+staxel.tileObject.serverVillage.PottedPlant.long.orange.name=長いプランター（オレンジの花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.long.pink.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Long Flower Bed With Pink Flowers'
+staxel.tileObject.serverVillage.PottedPlant.long.pink.name=長いプランター（ピンクの花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.long.purple.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Long Flower Bed With Purple Flowers'
+staxel.tileObject.serverVillage.PottedPlant.long.purple.name=長いプランター（紫の花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.orange.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Orange Flowers'
+staxel.tileObject.serverVillage.PottedPlant.orange.name=長いプランター（オレンジの花）
+//[Reference] 'Potted, healthy looking, orange roses.'
+staxel.tileObject.serverVillage.PottedPlant.orangeRose.description=鉢植えに入った、元気そうなオレンジ色のバラ。
+//[Reference] 'Potted Plant With Orange Roses'
+staxel.tileObject.serverVillage.PottedPlant.orangeRose.name=鉢植えに入ったオレンジ色のバラ
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.pink.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Pink Flowers'
+staxel.tileObject.serverVillage.PottedPlant.pink.name=プランター（ピンクの花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.purple.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Purple Flowers'
+staxel.tileObject.serverVillage.PottedPlant.purple.name=プランター（紫の花）
+//[Reference] 'Potted, healthy looking, red roses.'
+staxel.tileObject.serverVillage.PottedPlant.redRose.description=鉢植えに入った、元気そうな赤色のバラ。
+//[Reference] 'Potted Plant With Red Roses'
+staxel.tileObject.serverVillage.PottedPlant.redRose.name=鉢植えに入った赤色のバラ
+//[Reference] 'A miniature tree, perfectly trimmed for a round shape.'
+staxel.tileObject.serverVillage.PottedPlant.roundTree.description=まん丸にトリムされた、とても小さな木。
+//[Reference] 'Potted Plant With A Rounded Tree'
+staxel.tileObject.serverVillage.PottedPlant.roundTree.name=鉢植えに入った丸い木
+//[Reference] 'A miniature tree, perfectly trimmed for a square shape.'
+staxel.tileObject.serverVillage.PottedPlant.squareTree.description=四角にトリムされた、とても小さな木。
+//[Reference] 'Potted Plant With A Square Tree'
+staxel.tileObject.serverVillage.PottedPlant.squareTree.name=鉢植えに入った四角い木
+//[Reference] 'Potted, healthy looking, white roses.'
+staxel.tileObject.serverVillage.PottedPlant.whiteRose.description=鉢植えに入った、元気そうな白色のバラ。
+//[Reference] 'Potted Plant With White Roses'
+staxel.tileObject.serverVillage.PottedPlant.whiteRose.name=鉢植えに入った白色のバラ
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.PottedPlant.yellow.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Yellow Flowers'
+staxel.tileObject.serverVillage.PottedPlant.yellow.name=プランター（黄色の花）
+//[Reference] 'Fresh punch, get some before it runs out!'
+staxel.tileObject.serverVillage.PunchBowl.description=新鮮なポンチの皿。飲むなら今のうち！
+//[Reference] 'Punch Bowl'
+staxel.tileObject.serverVillage.PunchBowl.name=ポンチボウル
+staxel.tileObject.serverVillage.RanchBlindLeft.description=
+//[Reference] 'Ranch Blind Left'
+staxel.tileObject.serverVillage.RanchBlindLeft.name=牧場風ブラインド（左）
+staxel.tileObject.serverVillage.RanchBlindRight.description=
+//[Reference] 'Ranch Blind Right'
+staxel.tileObject.serverVillage.RanchBlindRight.name=牧場風ブラインド（右）
+staxel.tileObject.serverVillage.RanchDoor.description=
+//[Reference] 'Ranch Door'
+staxel.tileObject.serverVillage.RanchDoor.name=牧場風ドア
+staxel.tileObject.serverVillage.RanchStairs.description=
+//[Reference] 'Ranch Stairs'
+staxel.tileObject.serverVillage.RanchStairs.name=牧場風階段
+staxel.tileObject.serverVillage.RanchWindow.description=
+//[Reference] 'Ranch Window'
+staxel.tileObject.serverVillage.RanchWindow.name=牧場風窓
+staxel.tileObject.serverVillage.RanchWindowBroken.description=
+//[Reference] 'Broken Ranch Window'
+staxel.tileObject.serverVillage.RanchWindowBroken.name=壊れた牧場風窓
+staxel.tileObject.serverVillage.RanchWindowLarge.description=
+//[Reference] 'Large Ranch Window'
+staxel.tileObject.serverVillage.RanchWindowLarge.name=大きな牧場風窓
+//[Reference] 'A freshly baked pie with a delicious, raspberry filling.'
+staxel.tileObject.serverVillage.RaspberryPie.description=おいしそうなラズベリーが入った焼きたてのパイ。
+//[Reference] 'Raspberry Pie'
+staxel.tileObject.serverVillage.RaspberryPie.name=ラズベリーパイ
+//[Reference] 'What a festive banner. Great for decorating an outdoor event.'
+staxel.tileObject.serverVillage.RedFestivalBanner.description=すごく派手な横断幕。野外イベントの装飾にうってつけ。
+//[Reference] 'Red Festival Banner'
+staxel.tileObject.serverVillage.RedFestivalBanner.name=赤色の横断幕
+//[Reference] 'This juice has a vague, red flavour.'
+staxel.tileObject.serverVillage.RedJuice.description=かすかに赤みがかったジュース。
+//[Reference] 'Red Juice'
+staxel.tileObject.serverVillage.RedJuice.name=赤色のジュース
+//[Reference] 'Collects seeds from crops'
+staxel.tileObject.serverVillage.SeedMaker.description=作物から種を得る装置。
+//[Reference] 'Seed Maker'
+staxel.tileObject.serverVillage.SeedMaker.name=種生成機
+//[Reference] 'Some generic, unidentifiable seeds.'
+staxel.tileObject.serverVillage.Seeds.description=種類が特定できない、見た目は普通の種。
+//[Reference] 'Seeds'
+staxel.tileObject.serverVillage.Seeds.name=種
+//[Reference] 'Use this catalogue to place orders from a wide range of goods. After placing an order, a crate will be delivered to your shipping station the next day.'
+staxel.tileObject.serverVillage.ShippingCatalogue.description=このカタログを使って、幅広い分野のアイテムを注文しよう。注文したアイテムは箱に入れられ、翌日配送ステーションへ送られる。
+//[Reference] 'Shipping Catalogue'
+staxel.tileObject.serverVillage.ShippingCatalogue.name=配送カタログ
+//[Reference] 'This shipping station has two sections. One side has spaces for placing items to sell. The other side is a space for a crate to be delivered. Items are picked up and delivered at midnight.'
+staxel.tileObject.serverVillage.ShippingStation.description=この配送ステーションは2つのセクションがある。ひとつは売りたいアイテムを置くスペース。もう一つは送られてきた箱を置くスペース。アイテムの回収と配送は深夜に行われる。
+//[Reference] 'Shipping Station'
+staxel.tileObject.serverVillage.ShippingStation.name=配送ステーション
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.SimplePottedPlant.orange.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Orange Flowers'
+staxel.tileObject.serverVillage.SimplePottedPlant.orange.name=プランター（オレンジの花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.SimplePottedPlant.pink.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Pink Flowers'
+staxel.tileObject.serverVillage.SimplePottedPlant.pink.name=プランター（ピンクの花）
+//[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
+staxel.tileObject.serverVillage.SimplePottedPlant.purple.description=レンガでできた大きなプランター。これなら誰かに倒されるようなことはないはず！
+//[Reference] 'Flower Bed With Purple Flowers'
+staxel.tileObject.serverVillage.SimplePottedPlant.purple.name=プランター（紫の花）
+//[Reference] 'A classic sofa, with a twist!'
+staxel.tileObject.serverVillage.Sofa.round.description=ちょっと工夫をこらした、上品なソファ！
+//[Reference] 'Simply Comfy Round Sofa'
+staxel.tileObject.serverVillage.Sofa.round.name=シンプルな丸ソファ
+//[Reference] 'To the untrained eye this looks like it's just a plain old sofa. It also looks like that to a trained eye...'
+staxel.tileObject.serverVillage.Sofa.square.description=何も知らない人からすれば、ただの古ぼけたソファに見えるだろう。違いのわかる人なら…たいしてかわらない。
+//[Reference] 'Simply Comfy Square Sofa'
+staxel.tileObject.serverVillage.Sofa.square.name=シンプルなスクエアソファ
+//[Reference] 'These steps are made from brick and are painted white.'
+staxel.tileObject.serverVillage.Stairs.back.description=白塗りのレンガでできた階段。
+//[Reference] 'White Brick Stairs Back'
+staxel.tileObject.serverVillage.Stairs.back.name=白レンガの階段（背面）
+//[Reference] 'These steps are made from brick and are painted white.'
+staxel.tileObject.serverVillage.Stairs.front.description=白塗りのレンガでできた階段。
+//[Reference] 'White Brick Stairs'
+staxel.tileObject.serverVillage.Stairs.front.name=白レンガの階段
+//[Reference] 'These steps are made from brick and are painted white.'
+staxel.tileObject.serverVillage.Stairs.left.description=白塗りのレンガでできた階段。
+//[Reference] 'White Brick Stairs Left'
+staxel.tileObject.serverVillage.Stairs.left.name=白レンガの階段（左）
+//[Reference] 'These steps are made from brick and are painted white.'
+staxel.tileObject.serverVillage.Stairs.right.description=白塗りのレンガでできた階段。
+//[Reference] 'White Brick Stairs Right'
+staxel.tileObject.serverVillage.Stairs.right.name=白レンガの階段（右）
+//[Reference] 'Be careful when walking under these! They're a beautiful natural formation that hang from the top of caves.'
+staxel.tileObject.serverVillage.stalactite.description=この下を歩きときは気をつけよう！洞窟の天井に生えた、自然が作り出した美しい鍾乳石。
+//[Reference] 'Stalactite'
+staxel.tileObject.serverVillage.stalactite.name=鍾乳石
+//[Reference] 'Stalagmites rise from the floor of some caves, a stunning natural formation.'
+staxel.tileObject.serverVillage.stalagmite.description=「石じゅん」とは洞窟の地面から盛り上がった、美しい形の円柱。
+//[Reference] 'Stalagmite'
+staxel.tileObject.serverVillage.stalagmite.name=石じゅん
+//[Reference] 'Lighting up your streets by lining them with street lamps.'
+staxel.tileObject.serverVillage.Streetlamp.description=街灯を並べて、道を明るくしよう。
+//[Reference] 'Street Lamp'
+staxel.tileObject.serverVillage.Streetlamp.name=街灯
+//[Reference] 'Produces fine lumber at the expense of mother nature.'
+staxel.tileObject.serverVillage.TableSaw.description=自然を犠牲にして、良質な材木を作り出す。
+//[Reference] 'Table Saw'
+staxel.tileObject.serverVillage.TableSaw.name=テーブルソー
+//[Reference] 'Bread goes in, toast comes out! But where does the bread go?'
+staxel.tileObject.serverVillage.Toaster.description=パンを入れると、トースターが出てくる！入れたパンはどこへ行ったのかな？
+//[Reference] 'Toaster'
+staxel.tileObject.serverVillage.Toaster.name=トースター
+//[Reference] 'Grows plump, delicious tomatoes.'
+staxel.tileObject.serverVillage.TomatoPlant.description=ふっくらとしたおいしいトマトに育つ。
+//[Reference] 'Tomato Plant'
+staxel.tileObject.serverVillage.TomatoPlant.name=トマトの苗
+//[Reference] 'The most popular crop for farming.'
+staxel.tileObject.serverVillage.Turnip.description=農作業でもっともよく育てられる作物。
+//[Reference] 'Turnip'
+staxel.tileObject.serverVillage.Turnip.name=カブ
+//[Reference] 'The current channel is showing some programmer as he develops something.'
+staxel.tileObject.serverVillage.Tv.description=今のチャンネルでは、プログラマーたちの開発風景が映し出されている。
+//[Reference] 'Television'
+staxel.tileObject.serverVillage.Tv.name=テレビ
+//[Reference] 'What's a T.V. without a T.V. stand?'
+staxel.tileObject.serverVillage.TvStand.description=テレビは台に置かないと見づらいかも。
+//[Reference] 'Television Stand'
+staxel.tileObject.serverVillage.TvStand.name=テレビ台
+//[Reference] 'A flat platform that can be used as the floor for multi-storied buildings.'
+staxel.tileObject.serverVillage.UpperWoodenFloor.description=2階以上ある建物の床板に使える、平たい木製の足場。
+//[Reference] 'Upper Wooden Floor'
+staxel.tileObject.serverVillage.UpperWoodenFloor.name=木のフローリング（上階用）
+//[Reference] 'A basic wall-mounted shelf. The cornerstone of any rustic kitchen!'
+staxel.tileObject.serverVillage.WallShelf.description=ベーシックな壁がけの棚。質素なキッチンには欠かせない！
+//[Reference] 'Wooden Shelf'
+staxel.tileObject.serverVillage.WallShelf.name=木の棚
+//[Reference] 'What a large wardrobe, I can fit all sorts in here!'
+staxel.tileObject.serverVillage.Wardrobe.double.description=どんなものでも入りそうな、すごく大きな衣装棚！
+//[Reference] 'Simply Wooden Double Wardrobe'
+staxel.tileObject.serverVillage.Wardrobe.double.name=シンプルな木製の両開き式衣装棚
+//[Reference] 'A small wardrobe, but has a surprising amount of storage space.'
+staxel.tileObject.serverVillage.Wardrobe.single.description=小さな衣装棚だけど、収納スペースは驚くほど広い。
+//[Reference] 'Simply Wooden Single Wardrobe'
+staxel.tileObject.serverVillage.Wardrobe.single.name=シンプルな木製の片開き式衣装棚
+//[Reference] 'The front gate for a white fence. It has a cute little flower pot hanging from the front, how nice.'
+staxel.tileObject.serverVillage.WhiteFarmFence.description=白色のフェンスゲート。前面にキュートな花の植木鉢がつるされていて良い感じ。
+//[Reference] 'White Farm Fence Gate'
+staxel.tileObject.serverVillage.WhiteFarmFence.name=白色のフェンスゲート
+//[Reference] 'A very sturdy window frame.'
+staxel.tileObject.serverVillage.WindowFrame.description=とても強固な窓枠。
+//[Reference] 'Basic Window Frame'
+staxel.tileObject.serverVillage.WindowFrame.name=ベーシックな窓枠
+staxel.tileObject.serverVillage.WoodBeamHorizontal.description=
+//[Reference] 'Horizontal Wooden Beam'
+staxel.tileObject.serverVillage.WoodBeamHorizontal.name=木製の梁（横）
+//[Reference] 'A useful place to do a bunch of different tasks.'
+staxel.tileObject.serverVillage.WorkBench.description=様々なタスクをこなす際に使う作業場。
+//[Reference] 'Work Bench'
+staxel.tileObject.serverVillage.WorkBench.name=ワークベンチ
+//[Reference] 'This juice looks zingy!'
+staxel.tileObject.serverVillage.YellowJuice.description=おいしそうなジュース！
+//[Reference] 'Lemon Juice'
+staxel.tileObject.serverVillage.YellowJuice.name=レモンジュース
+staxel.tileObject.shop.CashRegister.description=
+//[Reference] 'Cash Register'
+staxel.tileObject.shop.CashRegister.name=レジ
+staxel.tileObject.shop.DisplayCaseLeft.description=
+//[Reference] 'Left Display Case'
+staxel.tileObject.shop.DisplayCaseLeft.name=ディスプレイケース（左）
+staxel.tileObject.shop.DisplayCaseMiddlePlain.description=
+//[Reference] 'Middle Display Case'
+staxel.tileObject.shop.DisplayCaseMiddlePlain.name=ディスプレイケース（中）
+staxel.tileObject.shop.DisplayCaseMiddleSun.description=
+//[Reference] 'Middle Display Case with Sun'
+staxel.tileObject.shop.DisplayCaseMiddleSun.name=太陽印のディスプレイケース（中）
+staxel.tileObject.shop.DisplayCaseRight.description=
+//[Reference] 'Right Display Case'
+staxel.tileObject.shop.DisplayCaseRight.name=ディスプレイケース（右）
+staxel.tileObject.shop.DisplayCaseStandalone.description=
+//[Reference] 'Standalone Display Case'
+staxel.tileObject.shop.DisplayCaseStandalone.name=ディスプレイケース（単体）
+staxel.tileObject.shop.FurnitureDock.description=
+//[Reference] 'Furniture Case'
+staxel.tileObject.shop.FurnitureDock.name=家具ケース
+staxel.tileObject.shop.Mannequin.description=
+//[Reference] 'Mannequin'
+staxel.tileObject.shop.Mannequin.name=マネキン
+staxel.tileObject.shop.PedestalDock.description=
+//[Reference] 'Pedestal Dock'
+staxel.tileObject.shop.PedestalDock.name=ペデスタルドック
+staxel.tileObject.shop.ShopCounter.description=
+//[Reference] 'Shop Counter'
+staxel.tileObject.shop.ShopCounter.name=ショップカウンター
+staxel.tileObject.shop.ShopShelf.description=
+//[Reference] 'Shop Shelf'
+staxel.tileObject.shop.ShopShelf.name=陳列棚
+staxel.tileObject.shop.ShopShelfMerchant.description=
+//[Reference] 'Shop Shelf'
+staxel.tileObject.shop.ShopShelfMerchant.name=陳列棚
+//[Reference] 'Shop Shelf'
+staxel.tileObject.shop.ShopShelfPlayer.name=陳列棚
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.1.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.1.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.2.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.2.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.3.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.3.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.4.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.4.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.5.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.5.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.6.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.6.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.7.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.7.name=沼地の赤い花
+//[Reference] 'A strange red flower found growing on swampy grounds.'
+staxel.tileObject.swampRuins.Flower.red.8.description=沼地に生えている奇妙な赤い花。
+//[Reference] 'Red Swamp Flower'
+staxel.tileObject.swampRuins.Flower.red.8.name=沼地の赤い花
+//[Reference] 'An absolutely massive golem statue, who could have made this? It looks incredibly old.'
+staxel.tileObject.swampRuins.Gollem.description=ものすごく巨大なゴーレムの石像。誰が作ったのかな？ものすごく古そう。
+//[Reference] 'Golem Statue'
+staxel.tileObject.swampRuins.Gollem.name=ゴーレムの石像
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.1.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.1.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.2.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.2.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.3.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.3.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.4.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.4.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.5.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.5.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.6.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.6.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.7.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.7.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.8.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.8.name=沼のコケ
+//[Reference] 'Some damp, swampy moss.'
+staxel.tileObject.swampRuins.Moss.9.description=湿った沼地のコケ。
+//[Reference] 'Swamp Moss'
+staxel.tileObject.swampRuins.Moss.9.name=沼のコケ
+//[Reference] 'A slimy, swampy rock.'
+staxel.tileObject.swampRuins.Rock.1.description=ヌメヌメした沼の石。
+//[Reference] 'Swamp Rock'
+staxel.tileObject.swampRuins.Rock.1.name=沼の石
+//[Reference] 'A slimy, swampy rock.'
+staxel.tileObject.swampRuins.Rock.2.description=ヌメヌメした沼の石。
+//[Reference] 'Swamp Rock'
+staxel.tileObject.swampRuins.Rock.2.name=沼の石
+//[Reference] 'A slimy, swampy rock.'
+staxel.tileObject.swampRuins.Rock.3.description=ヌメヌメした沼の石。
+//[Reference] 'Swamp Rock'
+staxel.tileObject.swampRuins.Rock.3.name=沼の石
+//[Reference] 'A slimy, swampy rock.'
+staxel.tileObject.swampRuins.Rock.4.description=ヌメヌメした沼の石。
+//[Reference] 'Swamp Rock'
+staxel.tileObject.swampRuins.Rock.4.name=沼の石
+//[Reference] 'A slimy, swampy rock.'
+staxel.tileObject.swampRuins.Rock.5.description=ヌメヌメした沼の石。
+//[Reference] 'Swamp Rock'
+staxel.tileObject.swampRuins.Rock.5.name=沼の石
+staxel.tileObject.tavern.TavernStool.description=
+//[Reference] 'Tavern Stool'
+staxel.tileObject.tavern.TavernStool.name=宿屋のスツール
+staxel.tileObject.tavern.TavernTable.description=
+//[Reference] 'Tavern Table'
+staxel.tileObject.tavern.TavernTable.name=宿屋のテーブル
+staxel.tileObject.themedfurniture.bathroom.ClawfootBathtub.description=
+//[Reference] 'Clawfoot Bathtub'
+staxel.tileObject.themedfurniture.bathroom.ClawfootBathtub.name=クローフットバスタブ
+staxel.tileObject.themedfurniture.bathroom.Sink.description=
+//[Reference] 'Bathroom Sink'
+staxel.tileObject.themedfurniture.bathroom.Sink.name=洗面台
+staxel.tileObject.themedfurniture.bathroom.Toilet.description=
+//[Reference] 'Toilet'
+staxel.tileObject.themedfurniture.bathroom.Toilet.name=便器
+staxel.tileObject.themedfurniture.bathroom.ToiletPaper.description=
+//[Reference] 'Toilet Paper'
+staxel.tileObject.themedfurniture.bathroom.ToiletPaper.name=トイレットペーパー
+//[Reference] 'From the 'Checkers Furniture Set' - A comfortable armchair with a checkered design.'
+staxel.tileObject.themedfurniture.checkered.CheckersArmChair.description=「チェック柄家具セット」にある、チェック模様のデザインが施された座り心地の良いアームチェア。
+//[Reference] 'Checkers Armchair'
+staxel.tileObject.themedfurniture.checkered.CheckersArmChair.name=チェック柄のアームチェア
+//[Reference] 'From the 'Checkers Furniture Set' - A dining chair with the iconic checkers pattern on the seat.'
+staxel.tileObject.themedfurniture.checkered.CheckersChair.description=「チェック柄家具セット」にある、特徴的なチェック柄のシートがついたダイニングチェア。
+//[Reference] 'Checkers Chair'
+staxel.tileObject.themedfurniture.checkered.CheckersChair.name=チェック柄のイス
+//[Reference] 'From the 'Checkers Furniture Set' - A low coffe table with checkers.'
+staxel.tileObject.themedfurniture.checkered.CheckersCoffeeTable.description=「チェック柄家具セット」にある、、背が低いチェック柄のコーヒーテーブル。
+//[Reference] 'Checkers Coffee Table'
+staxel.tileObject.themedfurniture.checkered.CheckersCoffeeTable.name=チェック柄のコーヒーテーブル
+//[Reference] 'From the 'Checkers Furniture Set' - With the classic checkered design on the doors and the top.'
+staxel.tileObject.themedfurniture.checkered.CheckersCredenza.description=「チェック柄家具セット」にある、上品なチェック柄の戸板と天板が特徴のサイドボード。
+//[Reference] 'Checkers Credenza'
+staxel.tileObject.themedfurniture.checkered.CheckersCredenza.name=チェック柄のサイドボード
+//[Reference] 'From the 'Checkers Furniture Set' - With two handy drawers for all your little knick knacks.'
+staxel.tileObject.themedfurniture.checkered.CheckersDesk.description=「チェック柄家具セット」にある、あらゆる小物を収納する、便利な引き出しが2つついたデスク。
+//[Reference] 'Checkers Desk'
+staxel.tileObject.themedfurniture.checkered.CheckersDesk.name=チェック柄のデスク
+//[Reference] 'From the 'Checkers Furniture Set' - A large double bed with a high quality mattress.'
+staxel.tileObject.themedfurniture.checkered.CheckersDoubleBed.description=「チェック柄家具セット」にある、高品質のマットレスが乗せられた大きなダブルベッド。
+//[Reference] 'Checkers Double Bed'
+staxel.tileObject.themedfurniture.checkered.CheckersDoubleBed.name=チェック柄のダブルベッド
+//[Reference] 'From the 'Checkers Furniture Set' - With three large drawers, this dresser has plenty of space for your clothes.'
+staxel.tileObject.themedfurniture.checkered.CheckersDresser.description=「チェック柄家具セット」にある、3つの引き出しがついたこのドレッサーは、衣装を収納するスペースに困らない。
+//[Reference] 'Checkers Dresser'
+staxel.tileObject.themedfurniture.checkered.CheckersDresser.name=チェックの柄ドレッサー
+//[Reference] 'From the 'Checkers Furniture Set' - A tall lamp with the checkered design on both the stand and the lamp shade.'
+staxel.tileObject.themedfurniture.checkered.CheckersFootLamp.description=「チェック柄家具セット」にある、この背の高いランプは、スタンドとランプシェードの両方がチェック柄となっている。
+//[Reference] 'Checkers Foot Lamp'
+staxel.tileObject.themedfurniture.checkered.CheckersFootLamp.name=チェック柄のフットランプ
+//[Reference] 'From the 'Checkers Furniture Set' - A small lamp, perfect to place upon a 'Checkers Side Table'.'
+staxel.tileObject.themedfurniture.checkered.CheckersLamp.description=「チェック柄家具セット」にある、小さなランプで、「チェック柄サイドテーブル」の上に置くと似合う。
+//[Reference] 'Checkers Lamp'
+staxel.tileObject.themedfurniture.checkered.CheckersLamp.name=チェック柄のランプ
+//[Reference] 'From the 'Checkers Furniture Set' - This loveseat has upholstery with the classic checkered design.'
+staxel.tileObject.themedfurniture.checkered.CheckersLoveseat.description=「チェック柄家具セット」にある、上品なチェック柄デザインのシートが張られたロマンスシート。
+//[Reference] 'Checkers Loveseat'
+staxel.tileObject.themedfurniture.checkered.CheckersLoveseat.name=チェック柄のロマンスシート
+//[Reference] 'From the 'Checkers Furniture Set' - A side table, perfect furniture item to place at the side of your bed.'
+staxel.tileObject.themedfurniture.checkered.CheckersSideTable.description=「チェック柄家具セット」にある、ベッドのそばに置くのが一番なサイドテーブル。
+//[Reference] 'Checkers Side Table'
+staxel.tileObject.themedfurniture.checkered.CheckersSideTable.name=チェック柄のサイドテーブル
+//[Reference] 'From the 'Checkers Furniture Set' - A single bed with a very comfortable mattress and the checkered design on the sheets and headboard.'
+staxel.tileObject.themedfurniture.checkered.CheckersSingleBed.description=「チェック柄家具セット」にある、寝心地抜群のマットレスつきのシングルベッドで、シーツと頭板はチェック柄デザインになっている。
+//[Reference] 'Checkers Bed'
+staxel.tileObject.themedfurniture.checkered.CheckersSingleBed.name=チェック柄のベッド
+//[Reference] 'From the 'Checkers Furniture Set' - A three seater sofa with a checkered design on the upholstery.'
+staxel.tileObject.themedfurniture.checkered.CheckersSofa.description=「チェック柄家具セット」にある、チェック柄のシートが張られた三人がけのソファ。
+//[Reference] 'Checkers Sofa'
+staxel.tileObject.themedfurniture.checkered.CheckersSofa.name=チェック柄のソファ
+//[Reference] 'From the 'Checkers Furniture Set' - A small wooden stool with a checkered design.'
+staxel.tileObject.themedfurniture.checkered.CheckersStool.description=「チェック柄家具セット」にある、チェック柄デザインの小さな木製スツール。
+//[Reference] 'Checkers Stool'
+staxel.tileObject.themedfurniture.checkered.CheckersStool.name=チェック柄のスツール
+//[Reference] 'From the 'Checkers Furniture Set' - A large table with a checkered design on the surface.'
+staxel.tileObject.themedfurniture.checkered.CheckersTable.description=「チェック柄家具セット」にある、チェック柄の天板がつけられた大きなテーブル。
+//[Reference] 'Checkers Table'
+staxel.tileObject.themedfurniture.checkered.CheckersTable.name=チェック柄のテーブル
+//[Reference] 'From the 'Checkers Furniture Set' - A stunning vanity with two small drawers, a spotless mirror and a checkered design on the wood.'
+staxel.tileObject.themedfurniture.checkered.CheckersVanity.description=「チェック柄家具セット」にある、2つの引き出しと汚れ一つない鏡、チェック柄デザインが特徴のステキな化粧台。
+//[Reference] 'Checkers Vanity'
+staxel.tileObject.themedfurniture.checkered.CheckersVanity.name=チェック柄の化粧台
+//[Reference] 'From the 'Checkers Furniture Set' - A large checkered wardrobe with two doors and two large drawers below.'
+staxel.tileObject.themedfurniture.checkered.CheckersWardrobe.description=「チェック柄家具セット」にある、両面開きで下側に2つの大きな引き出しがある、チェック柄の大型衣装棚。
+//[Reference] 'Checkers Wardrobe'
+staxel.tileObject.themedfurniture.checkered.CheckersWardrobe.name=チェック柄の衣装棚
+//[Reference] 'From the 'Contemporary Furniture Set' - A stylish armchair with a mix of green and purple cushioning.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryArmChair.description=「モダン家具セット」にある、緑色と紫色のクッションを組み合わせたスタイリッシュなアームチェア。
+//[Reference] 'Contemporary Armchair'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryArmChair.name=モダンアームチェア
+//[Reference] 'From the 'Contemporary Furniture Set' - A dining chair with a purple backing cusion and a green seat cusion.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryChair.description=「モダン家具セット」にある、紫色の背面クッションと緑色の座面クッションを組み合わせたダイニングチェア。
+//[Reference] 'Contemporary Chair'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryChair.name=モダンチェア
+//[Reference] 'From the 'Contemporary Furniture Set' - A low, round coffee table boasting a modern style.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCoffeeTable.description=「モダン家具セット」にある、モダンスタイルを強調した、背の低くて丸いコーヒーテーブル。
+//[Reference] 'Contemporary Coffee Table'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCoffeeTable.name=モダンコーヒーテーブル
+//[Reference] 'From the 'Contemporary Furniture Set' - A black credenza with two large cabinet doors.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCredenza.description=「モダン家具セット」にある、大きなドレッサーが2つついた黒いサイドボード。
+//[Reference] 'Contemporary Credenza'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryCredenza.name=モダンサイドボード
+//[Reference] 'From the 'Contemporary Furniture Set' - A sleek, modern desk with plenty of work space.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDesk.description=「モダン家具セット」にある、作業スペースの広い、スマートでモダンなデスク。
+//[Reference] 'Contemporary Desk'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDesk.name=モダンデスク
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern double bed with a snazzy design and mix of colours.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDoubleBed.description=「モダン家具セット」にある、オシャレなデザインとカラーチョイスが特徴のモダンなダブルベッド。
+//[Reference] 'Contemporary Double Bed'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDoubleBed.name=モダンダブルベッド
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern dresser with two small drawers and three large ones. Plenty of storage space for your slick outfits.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDresser.description=「モダン家具セット」にある、小さな引き出しが2つ、大きな引き出しが3つあるモダンなドレッサー。スマートな衣装をたくさん入れられる。
+//[Reference] 'Contemporary Dresser'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryDresser.name=モダンドレッサー
+//[Reference] 'From the 'Contemporary Furniture Set' - A simple, yet complex footlamp.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryFootLamp.description=「モダン家具セット」にある、シンプルながら複雑なフットランプ。
+//[Reference] 'Contemporary Foot Lamp'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryFootLamp.name=モダンフットランプ
+//[Reference] 'From the 'Contemporary Furniture Set' - A futon with a contemporary twist.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryFuton.description=「モダン家具セット」にある、モダン風に仕立てた布団。
+//[Reference] 'Contemporary Futon'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryFuton.name=モダン布団
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern lamp with a pink lamp shade.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp1.description=「モダン家具セット」にある、ピンク色のランプシェードがつけられたモダンなランプ。
+//[Reference] 'Pink Contemporary Lamp'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp1.name=モダンランプ（ピンク）
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern lamp with a green lamp shade.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp2.description=「モダン家具セット」にある、緑色のランプシェードがつけられたモダンなランプ。
+//[Reference] 'Green Contemporary Lamp'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLamp2.name=モダンランプ（緑）
+//[Reference] 'From the 'Contemporary Furniture Set' - A long stool with a modern twist.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLongStool.description=「モダン家具セット」にある、モダン風に仕立てた足の長いスツール。
+//[Reference] 'Contemporary Long Stool'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLongStool.name=モダンロングスツール
+//[Reference] 'From the 'Contemporary Furniture Set' - A loveseat with pink and green upholstery. Very 'now'.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLoveseat.description=「モダン家具セット」にある、ピンクと緑のシートを組み合わせたロマンスシート。とてもナウい。
+//[Reference] 'Contemporary Loveseat'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryLoveseat.name=モダンロマンスシート
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern side table. It may seem simple, but read between the lines.'
+staxel.tileObject.themedfurniture.contemporary.contemporarySideTable.description=「モダン家具セット」にある、モダンなサイドテーブル。シンプルに見えるかもしれないけど、空気を読んでほしい。
+//[Reference] 'Contemporary Side Table'
+staxel.tileObject.themedfurniture.contemporary.contemporarySideTable.name=モダンサイドテーブル
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern single bed with a mixed design.'
+staxel.tileObject.themedfurniture.contemporary.ContemporarySingleBed.description=「モダン家具セット」にある、様々な模様が組み合わさったモダンなシングルベッド。
+//[Reference] 'Contemporary Single Bed'
+staxel.tileObject.themedfurniture.contemporary.ContemporarySingleBed.name=モダンシングルベッド
+//[Reference] 'From the 'Contemporary Furniture Set' - A comfy modern sofa for the studio apartment.'
+staxel.tileObject.themedfurniture.contemporary.contemporarySofa.description=「モダン家具セット」にある、スタジオアパートにうってつけの快適なモダンソファ。
+//[Reference] 'Contemporary Sofa'
+staxel.tileObject.themedfurniture.contemporary.contemporarySofa.name=モダンソファ
+//[Reference] 'From the 'Contemporary Furniture Set' - A small, pink stool that just screams character.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryStool.description=「モダン家具セット」にある、個性を高らかに主張する、小さなピンク色のスツール。
+//[Reference] 'Contemporary Stool'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryStool.name=モダンスツール
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern, round table with a black surface and white frame.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryTable.description=「モダン家具セット」にある、黒い天板と白い枠を組み合わせた、モダンな丸型テーブル。
+//[Reference] 'Contemporary Table'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryTable.name=モダンテーブル
+//[Reference] 'From the 'Contemporary Furniture Set' - A large round table. It just flows better than a square design would.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryTableLarge.description=「モダン家具セット」にある、大きな丸型のテーブル。四角よりもスムーズさがある。
+//[Reference] 'Large Contemporary Table'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryTableLarge.name=モダンテーブル（大）
+//[Reference] 'From the 'Contemporary Furniture Set' - A modern vanity with two small drawers.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryVanity.description=「モダン家具セット」にある、小さな引き出しが2つついた、モダンな化粧台。
+//[Reference] 'Contemporary Vanity'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryVanity.name=モダン化粧台
+//[Reference] 'From the 'Contemporary Furniture Set' - A large black wardrobe with two doors and two large drawers.'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryWardrobe.description=「モダン家具セット」にある、両面開きで下側に2つの大きな引き出しがある、黒くて大きな衣装棚。
+//[Reference] 'Contemporary Wardrobe'
+staxel.tileObject.themedfurniture.contemporary.ContemporaryWardrobe.name=モダン衣装棚
+//[Reference] 'From the 'Groovy Furniture Set' - This armchair is the perfect place to just sit down and chill out.'
+staxel.tileObject.themedfurniture.groovy.GroovyArmChair.description=「イカした家具セット」にある、座ってクールにキメるのにパーペキなアームチェア。
+//[Reference] 'Groovy Armchair'
+staxel.tileObject.themedfurniture.groovy.GroovyArmChair.name=イカしたアームチェア
+//[Reference] 'From the 'Groovy Furniture Set' - A simple dining chair with a lot of history.'
+staxel.tileObject.themedfurniture.groovy.GroovyChair.description=「イカした家具セット」にある、過去に色々あった、シンプルなダイニングチェア。
+//[Reference] 'Groovy Chair'
+staxel.tileObject.themedfurniture.groovy.GroovyChair.name=イカしたイス
+//[Reference] 'From the 'Groovy Furniture Set' - A quirky, low coffee table with an extra quirky table cloth.'
+staxel.tileObject.themedfurniture.groovy.GroovyCoffeeTable.description=「イカした家具セット」にある、ユニークなテーブルクロスが乗った、ユニークな背の低いコーヒーテーブル。
+//[Reference] 'Groovy Coffee Table'
+staxel.tileObject.themedfurniture.groovy.GroovyCoffeeTable.name=イカしたコーヒーテーブル
+//[Reference] 'From the 'Groovy Furniture Set' - It has two doors. Totally choice!'
+staxel.tileObject.themedfurniture.groovy.GroovyCredenza.description=「イカした家具セット」にある、両開きのドアつき。マジでオススメ！
+//[Reference] 'Groovy Credenza'
+staxel.tileObject.themedfurniture.groovy.GroovyCredenza.name=イカしたサイドボード
+//[Reference] 'From the 'Groovy Furniture Set' - A rad double bed for double the space, and double the price.'
+staxel.tileObject.themedfurniture.groovy.GroovyDoubleBed.description=「イカした家具セット」にある、スペースも値段もダブルな、メチャクチャイケてるダブルベッド。
+//[Reference] 'Groovy Double Bed'
+staxel.tileObject.themedfurniture.groovy.GroovyDoubleBed.name=イカしたダブルベッド
+//[Reference] 'From the 'Groovy Furniture Set' - A fresh dresser with two small drawers and 3 large drawers.'
+staxel.tileObject.themedfurniture.groovy.GroovyDresser.description=「イカした家具セット」にある、小さな引き出しが2つ、大きな引き出しが3つあるフレッシュなドレッサー。
+//[Reference] 'Groovy Dresser'
+staxel.tileObject.themedfurniture.groovy.GroovyDresser.name=イカしたドレッサー
+//[Reference] 'From the 'Groovy Furniture Set' - A footlamp with a rad lamp shade.'
+staxel.tileObject.themedfurniture.groovy.GroovyFootlamp.description=「イカした家具セット」にある、赤いランプシェードつきのフットランプ。
+//[Reference] 'Groovy Foot Lamp'
+staxel.tileObject.themedfurniture.groovy.GroovyFootlamp.name=イカしたふっとランプ
+//[Reference] 'From the 'Groovy Furniture Set' - A gnarly lamp for a gnarly bedside table.'
+staxel.tileObject.themedfurniture.groovy.Groovylamp.description=「イカした家具セット」にある、カッコいいベッドサイドテーブルにお似合いのランプ。
+//[Reference] 'Groovy Lamp'
+staxel.tileObject.themedfurniture.groovy.Groovylamp.name=イカしたランプ
+//[Reference] 'From the 'Groovy Furniture Set' - A fresh loveseat with double the seat, and double the love.'
+staxel.tileObject.themedfurniture.groovy.GroovyLoveseat.description=「イカした家具セット」にある、座れる人数もラブラブ度も2人前なロマンスシート。
+//[Reference] 'Groovy Loveseat'
+staxel.tileObject.themedfurniture.groovy.GroovyLoveseat.name=イカしたロマンスシート
+//[Reference] 'From the 'Groovy Furniture Set' - A bedside table with a groovy table cloth.'
+staxel.tileObject.themedfurniture.groovy.GroovySideTable.description=「イカした家具セット」にある、カッコいいテーブルクロスが乗ったベッドサイドテーブル。
+//[Reference] 'Groovy Side Table'
+staxel.tileObject.themedfurniture.groovy.GroovySideTable.name=イカしたサイドテーブル
+//[Reference] 'From the 'Groovy Furniture Set' - A rad single bed, with the classic 'Groovy' design.'
+staxel.tileObject.themedfurniture.groovy.GroovySingleBed.description=「イカした家具セット」にある、カッコいい定番デザインが特徴のイケてるシングルベッド。
+//[Reference] 'Groovy Single Bed'
+staxel.tileObject.themedfurniture.groovy.GroovySingleBed.name=イカしたシングルベッド
+//[Reference] 'From the 'Groovy Furniture Set' - Nothing screams groovy more than an orange footstool.'
+staxel.tileObject.themedfurniture.groovy.GroovyStool.description=「イカした家具セット」にある、オレンジ色のスツールよりもカッコよさを主張するものはない。
+//[Reference] 'Groovy Stool'
+staxel.tileObject.themedfurniture.groovy.GroovyStool.name=イカしたスツール
+//[Reference] 'From the 'Groovy Furniture Set' - A square table with, like, a colourful table cloth.'
+staxel.tileObject.themedfurniture.groovy.GroovyTable.description=「イカした家具セット」にある、超カラフルなテーブルクロスが乗った四角いテーブル。
+//[Reference] 'Groovy Table'
+staxel.tileObject.themedfurniture.groovy.GroovyTable.name=イカしたテーブル
+//[Reference] 'From the 'Groovy Furniture Set' - A wardrobe with two doors, no drawers and no limits.'
+staxel.tileObject.themedfurniture.groovy.GroovyWardrobe.description=「イカした家具セット」にある、両開きのドアはあるが、引き出しと端がない衣装棚。
+//[Reference] 'Groovy Wardrobe'
+staxel.tileObject.themedfurniture.groovy.GroovyWardrobe.name=イカした衣装棚
+staxel.tileObject.themedfurniture.minimalist.MinimalistArmChair.description=
+//[Reference] 'Minimalist Arm Chair'
+staxel.tileObject.themedfurniture.minimalist.MinimalistArmChair.name=ミニマリスト風アームチェア
+staxel.tileObject.themedfurniture.minimalist.MinimalistChair.description=
+//[Reference] 'Minimalist Chair'
+staxel.tileObject.themedfurniture.minimalist.MinimalistChair.name=ミニマリスト風イス
+staxel.tileObject.themedfurniture.minimalist.MinimalistCoffeeTable.description=
+//[Reference] 'Minimalist Coffee Table'
+staxel.tileObject.themedfurniture.minimalist.MinimalistCoffeeTable.name=ミニマリスト風コーヒーテーブル
+staxel.tileObject.themedfurniture.minimalist.MinimalistCredenza.description=
+//[Reference] 'Minimalist Credenza'
+staxel.tileObject.themedfurniture.minimalist.MinimalistCredenza.name=ミニマリスト風サイドボード
+staxel.tileObject.themedfurniture.minimalist.MinimalistDesk.description=
+//[Reference] 'Minimalist Desk'
+staxel.tileObject.themedfurniture.minimalist.MinimalistDesk.name=ミニマリスト風デスク
+staxel.tileObject.themedfurniture.minimalist.MinimalistDoubleBed.description=
+//[Reference] 'Minimalist Double Bed'
+staxel.tileObject.themedfurniture.minimalist.MinimalistDoubleBed.name=ミニマリスト風ダブルベッド
+staxel.tileObject.themedfurniture.minimalist.MinimalistDresser.description=
+//[Reference] 'Minimalist Dresser'
+staxel.tileObject.themedfurniture.minimalist.MinimalistDresser.name=ミニマリスト風ドレッサー
+staxel.tileObject.themedfurniture.minimalist.MinimalistLamp.description=
+//[Reference] 'Minimalist Lamp'
+staxel.tileObject.themedfurniture.minimalist.MinimalistLamp.name=ミニマリスト風ランプ
+staxel.tileObject.themedfurniture.minimalist.MinimalistLoveseat.description=
+//[Reference] 'Minimalist Loveseat'
+staxel.tileObject.themedfurniture.minimalist.MinimalistLoveseat.name=ミニマリスト風ロマンスシート
+staxel.tileObject.themedfurniture.minimalist.MinimalistSideTable.description=
+//[Reference] 'Minimalist Side Table'
+staxel.tileObject.themedfurniture.minimalist.MinimalistSideTable.name=ミニマリスト風サイドテーブル
+staxel.tileObject.themedfurniture.minimalist.MinimalistSingleBed.description=
+//[Reference] 'Minimalist Single Bed'
+staxel.tileObject.themedfurniture.minimalist.MinimalistSingleBed.name=ミニマリスト風シングルベッド
+staxel.tileObject.themedfurniture.minimalist.MinimalistSofa.description=
+//[Reference] 'Minimalist Sofa'
+staxel.tileObject.themedfurniture.minimalist.MinimalistSofa.name=ミニマリスト風ソファ
+staxel.tileObject.themedfurniture.minimalist.MinimalistTable.description=
+//[Reference] 'Minimalist Table'
+staxel.tileObject.themedfurniture.minimalist.MinimalistTable.name=ミニマリスト風テーブル
+staxel.tileObject.themedfurniture.minimalist.MinimalistTableLarge.description=
+//[Reference] 'Large Minimalist Table'
+staxel.tileObject.themedfurniture.minimalist.MinimalistTableLarge.name=ミニマリスト風テーブル（大）
+staxel.tileObject.themedfurniture.minimalist.MinimalistWardrobe.description=
+//[Reference] 'Minimalist Wardrobe'
+staxel.tileObject.themedfurniture.minimalist.MinimalistWardrobe.name=ミニマリスト風衣装棚
+//[Reference] 'From the 'Pastel Furniture Set' - A comfortable armchair, with a floral design on the upholstery.'
+staxel.tileObject.themedfurniture.pastel.PastelArmChair.description=「パステル調家具セット」にある、花柄模様のシートがついたすわり心地のいいアームチェア。
+//[Reference] 'Pastel Armchair'
+staxel.tileObject.themedfurniture.pastel.PastelArmChair.name=パステル調アームチェア
+//[Reference] 'From the 'Pastel Furniture Set' - A dining chair with a floral design on the seat.'
+staxel.tileObject.themedfurniture.pastel.PastelChair.description=「パステル調家具セット」にある、花柄模様のシートがついたダイニングチェア。
+//[Reference] 'Pastel Chair'
+staxel.tileObject.themedfurniture.pastel.PastelChair.name=パステル調チェア
+//[Reference] 'From the 'Pastel Furniture Set' - A low, white coffee table. Perfect for sitting around with friends and catching up!'
+staxel.tileObject.themedfurniture.pastel.PastelCoffeeTable.description=「パステル調家具セット」にある、背が低い白色のコーヒーテーブル。友達と一緒に囲って雑談するのにうってつけ！
+//[Reference] 'Pastel Coffee Table'
+staxel.tileObject.themedfurniture.pastel.PastelCoffeeTable.name=パステル調コーヒーテーブル
+//[Reference] 'From the 'Pastel Furniture Set' - A white credenza with a lot of storage space.'
+staxel.tileObject.themedfurniture.pastel.PastelCredenza.description=「パステル調家具セット」にある、収納スペースが多い白色のサイドボード。
+//[Reference] 'Pastel Credenza'
+staxel.tileObject.themedfurniture.pastel.PastelCredenza.name=パステル調サイドボード
+//[Reference] 'From the 'Pastel Furniture Set' - A white desk with three drawers and a lot of surface space for you to work at.'
+staxel.tileObject.themedfurniture.pastel.PastelDesk.description=「パステル調家具セット」にある、3つの引き出しと広い作業スペースがある真っ白いデスク。
+//[Reference] 'Pastel Desk'
+staxel.tileObject.themedfurniture.pastel.PastelDesk.name=パステル調デスク
+//[Reference] 'From the 'Pastel Furniture Set' - A large double bed with very soft pillows and thick blankets that have a floral design on them.'
+staxel.tileObject.themedfurniture.pastel.PastelDoubleBed.description=「パステル調家具セット」にある、花柄デザインのとてもやわらかい枕と厚いブランケットが付属した大型のダブルベッド。
+//[Reference] 'Pastel Double Bed'
+staxel.tileObject.themedfurniture.pastel.PastelDoubleBed.name=パステル調ダブルベッド
+//[Reference] 'From the 'Pastel Furniture Set' - A large dresser with two small drawers and three large drawers.'
+staxel.tileObject.themedfurniture.pastel.PastelDresser.description=「パステル調家具セット」にある、小さな引き出しが2つ、大きな引き出しが3つあるドレッサー。
+//[Reference] 'Pastel Dresser'
+staxel.tileObject.themedfurniture.pastel.PastelDresser.name=パステル調ドレッサー
+//[Reference] 'From the 'Pastel Furniture Set' - A stylish footlamp with a twisting stand and a floral lamp shade.'
+staxel.tileObject.themedfurniture.pastel.PastelFootLamp.description=「パステル調家具セット」にある、ねじれたスタンドと、花柄のランプシェードが特徴のスタイリッシュなフットランプ。
+//[Reference] 'Pastel Foot Lamp'
+staxel.tileObject.themedfurniture.pastel.PastelFootLamp.name=パステル調フットランプ
+//[Reference] 'From the 'Pastel Furniture Set' - A small bedside lamp with a floral design on the lamp shade.'
+staxel.tileObject.themedfurniture.pastel.PastelLamp.description=「パステル調家具セット」にある、花柄のランプシェードがつけられた、小さなベッドサイドランプ。
+//[Reference] 'Pastel Lamp'
+staxel.tileObject.themedfurniture.pastel.PastelLamp.name=パステル調ランプ
+//[Reference] 'From the 'Pastel Furniture Set' - A two seater loveseat with a floral design on the upholstery.'
+staxel.tileObject.themedfurniture.pastel.PastelLoveseat.description=「パステル調家具セット」にある、花柄模様のシートがついた二人がけのロマンスシート。
+//[Reference] 'Pastel Loveseat'
+staxel.tileObject.themedfurniture.pastel.PastelLoveseat.name=パステル調ロマンスシート
+//[Reference] 'From the 'Pastel Furniture Set' - A small, white side table with a drawer. A perfect place to put your current book!'
+staxel.tileObject.themedfurniture.pastel.PastelSideTable.description=「パステル調家具セット」にある、引き出しつきの白くて小さなサイドテーブル。読みかけの本を置くのにカンペキ！
+//[Reference] 'Pastel Side Table'
+staxel.tileObject.themedfurniture.pastel.PastelSideTable.name=パステル調サイドテーブル
+//[Reference] 'From the 'Pastel Furniture Set' - A delightful single bed with a floral design.'
+staxel.tileObject.themedfurniture.pastel.PastelSingleBed.description=「パステル調家具セット」にある、花柄デザインの快適なシングルベッド。
+//[Reference] 'Pastel Single Bed'
+staxel.tileObject.themedfurniture.pastel.PastelSingleBed.name=パステル調シングルベッド
+//[Reference] 'From the 'Pastel Furniture Set' - A large three seater sofa with a cute floral design on the upholstery.'
+staxel.tileObject.themedfurniture.pastel.PastelSofa.description=「パステル調家具セット」にある、花柄模様のシートがついた三人がけの大きなソファ。
+//[Reference] 'Pastel Sofa'
+staxel.tileObject.themedfurniture.pastel.PastelSofa.name=パステル調ソファ
+//[Reference] 'From the 'Pastel Furniture Set' - A small stool with a floral design.'
+staxel.tileObject.themedfurniture.pastel.PastelStool.description=「パステル調家具セット」にある、花柄デザインの小さなスツール。
+//[Reference] 'Pastel Stool'
+staxel.tileObject.themedfurniture.pastel.PastelStool.name=パステル調スツール
+//[Reference] 'From the 'Pastel Furniture Set' - A white, round, kitchen table.'
+staxel.tileObject.themedfurniture.pastel.PastelTable.description=「パステル調家具セット」にある、白くて丸いキッチンテーブル。
+//[Reference] 'Pastel Table'
+staxel.tileObject.themedfurniture.pastel.PastelTable.name=パステル調テーブル
+//[Reference] 'From the 'Pastel Furniture Set' - A large white, round table.'
+staxel.tileObject.themedfurniture.pastel.PastelTableLarge.description=「パステル調家具セット」にある、白くて丸い、大きなテーブル。
+//[Reference] 'Pastel Table - Large'
+staxel.tileObject.themedfurniture.pastel.PastelTableLarge.name=パステル調テーブル（大）
+//[Reference] 'From the 'Pastel Furniture Set' - A stunning white vanity with two large drawers and a large mirror.'
+staxel.tileObject.themedfurniture.pastel.PastelVanity.description=「パステル調家具セット」にある、大きな引き出しが2つと、大きな鏡のついた魅力的な白い化粧台。
+//[Reference] 'Pastel Vanity'
+staxel.tileObject.themedfurniture.pastel.PastelVanity.name=パステル調化粧台
+//[Reference] 'From the 'Pastel Furniture Set' - A large white wardrobe with a cheerful design, two doors and two large drawers. Plenty of storage space!'
+staxel.tileObject.themedfurniture.pastel.PastelWardrobe.description=「パステル調家具セット」にある、観音開きで、大きな引き出しが2つある、明るいデザインをした大きな白い衣装棚。いろんなものがはいりそう！
+//[Reference] 'Pastel Wardrobe'
+staxel.tileObject.themedfurniture.pastel.PastelWardrobe.name=パステル調衣装棚
+staxel.tileObject.themedfurniture.ranch.RanchArmChair.description=
+//[Reference] 'Ranch Armchair'
+staxel.tileObject.themedfurniture.ranch.RanchArmChair.name=牧場風アームチェア
+staxel.tileObject.themedfurniture.ranch.RanchChair.description=
+//[Reference] 'Ranch Chair'
+staxel.tileObject.themedfurniture.ranch.RanchChair.name=牧場風イス
+staxel.tileObject.themedfurniture.ranch.RanchCoffeeTable.description=
+//[Reference] 'Ranch Coffee Table'
+staxel.tileObject.themedfurniture.ranch.RanchCoffeeTable.name=牧場風コーヒーテーブル
+staxel.tileObject.themedfurniture.ranch.RanchDoubleBed.description=
+//[Reference] 'Ranch Double Bed'
+staxel.tileObject.themedfurniture.ranch.RanchDoubleBed.name=牧場風ダブルベッド
+staxel.tileObject.themedfurniture.ranch.RanchDresser.description=
+//[Reference] 'Ranch Dresser'
+staxel.tileObject.themedfurniture.ranch.RanchDresser.name=牧場風ドレッサー
+staxel.tileObject.themedfurniture.ranch.RanchLamp.description=
+//[Reference] 'Ranch Lamp'
+staxel.tileObject.themedfurniture.ranch.RanchLamp.name=牧場風ランプ
+staxel.tileObject.themedfurniture.ranch.RanchLoveseat.description=
+//[Reference] 'Ranch Loveseat'
+staxel.tileObject.themedfurniture.ranch.RanchLoveseat.name=牧場風ロマンスシート
+staxel.tileObject.themedfurniture.ranch.RanchSideTable.description=
+//[Reference] 'Ranch Side Table'
+staxel.tileObject.themedfurniture.ranch.RanchSideTable.name=牧場風サイドテーブル
+staxel.tileObject.themedfurniture.ranch.RanchSingleBed.description=
+//[Reference] 'Ranch Single Bed'
+staxel.tileObject.themedfurniture.ranch.RanchSingleBed.name=牧場風シングルベッド
+staxel.tileObject.themedfurniture.ranch.RanchTable.description=
+//[Reference] 'Ranch Table'
+staxel.tileObject.themedfurniture.ranch.RanchTable.name=牧場風テーブル
+staxel.tileObject.themedfurniture.ranch.RanchWardrobe.description=
+//[Reference] 'Ranch Wardrobe'
+staxel.tileObject.themedfurniture.ranch.RanchWardrobe.name=牧場風衣装棚
+staxel.tileObject.themedfurniture.victorian.VictorianArmChair.description=
+//[Reference] 'Victorian Arm Chair'
+staxel.tileObject.themedfurniture.victorian.VictorianArmChair.name=ヴィクトリア風アームチェア
+staxel.tileObject.themedfurniture.victorian.VictorianChair.description=
+//[Reference] 'Victorian Chair'
+staxel.tileObject.themedfurniture.victorian.VictorianChair.name=ヴィクトリア風イス
+staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.description=
+//[Reference] 'Victorian Coffee Table'
+staxel.tileObject.themedfurniture.victorian.VictorianCoffeeTable.name=ヴィクトリア風コーヒーテーブル
+staxel.tileObject.themedfurniture.victorian.VictorianCredenza.description=
+//[Reference] 'Victorian Credenza'
+staxel.tileObject.themedfurniture.victorian.VictorianCredenza.name=ヴィクトリア調サイドボード
+staxel.tileObject.themedfurniture.victorian.VictorianDesk.description=
+//[Reference] 'Victorian Desk'
+staxel.tileObject.themedfurniture.victorian.VictorianDesk.name=ヴィクトリア風デスク
+staxel.tileObject.themedfurniture.victorian.VictorianDoubleBed.description=
+//[Reference] 'Victorian Double Bed'
+staxel.tileObject.themedfurniture.victorian.VictorianDoubleBed.name=ヴィクトリア調ダブルベッド
+staxel.tileObject.themedfurniture.victorian.VictorianDresser.description=
+//[Reference] 'Victorian Dresser'
+staxel.tileObject.themedfurniture.victorian.VictorianDresser.name=ヴィクトリア風ドレッサー
+staxel.tileObject.themedfurniture.victorian.VictorianLamp.description=
+//[Reference] 'Victorian Lamp'
+staxel.tileObject.themedfurniture.victorian.VictorianLamp.name=ヴィクトリア風ランプ
+staxel.tileObject.themedfurniture.victorian.VictorianLoveseat.description=
+//[Reference] 'Victorian Loveseat'
+staxel.tileObject.themedfurniture.victorian.VictorianLoveseat.name=ヴィクトリア風ロマンスシート
+staxel.tileObject.themedfurniture.victorian.VictorianSideTable.description=
+//[Reference] 'Victorian Side Table'
+staxel.tileObject.themedfurniture.victorian.VictorianSideTable.name=ヴィクトリア風サイドテーブル
+staxel.tileObject.themedfurniture.victorian.VictorianSingleBed.description=
+//[Reference] 'Victorian Single Bed'
+staxel.tileObject.themedfurniture.victorian.VictorianSingleBed.name=ヴィクトリア風シングルベッド
+staxel.tileObject.themedfurniture.victorian.VictorianSofa.description=
+//[Reference] 'Victorian Sofa'
+staxel.tileObject.themedfurniture.victorian.VictorianSofa.name=ヴィクトリア風ソファ
+staxel.tileObject.themedfurniture.victorian.VictorianStool.description=
+//[Reference] 'Victorian Stool'
+staxel.tileObject.themedfurniture.victorian.VictorianStool.name=ヴィクトリア風スツール
+staxel.tileObject.themedfurniture.victorian.VictorianTable.description=
+//[Reference] 'Victorian Table'
+staxel.tileObject.themedfurniture.victorian.VictorianTable.name=ヴィクトリア風テーブル
+staxel.tileObject.themedfurniture.victorian.VictorianTableLarge.description=
+//[Reference] 'Large Victorian Table'
+staxel.tileObject.themedfurniture.victorian.VictorianTableLarge.name=ヴィクトリア風テーブル（大）
+staxel.tileObject.themedfurniture.victorian.VictorianVanity.description=
+//[Reference] 'Victorian Vanity'
+staxel.tileObject.themedfurniture.victorian.VictorianVanity.name=ヴィクトリア風化粧台
+staxel.tileObject.themedfurniture.victorian.VictorianWardrobe.description=
+//[Reference] 'Victorian Wardrobe'
+staxel.tileObject.themedfurniture.victorian.VictorianWardrobe.name=ヴィクトリア風衣装棚
+staxel.tileObject.totems.AirshipLandingTotem.description=
+//[Reference] 'Airship Landing Sign'
+staxel.tileObject.totems.AirshipLandingTotem.name=飛行船発着場の看板
+staxel.tileObject.totems.BarnSign.description=
+
+//[Reference] 'Barn Sign'
+staxel.tileObject.totems.BarnSign.name=納屋の看板
+staxel.tileObject.totems.CecileMailbox.description=
+//[Reference] 'Cecile's Postbox'
+staxel.tileObject.totems.CecileMailbox.name=セシルの郵便ポスト
+staxel.tileObject.totems.EmiliaMailbox.description=
+//[Reference] 'Emilia's Postbox'
+staxel.tileObject.totems.EmiliaMailbox.name=エミリアの郵便ポスト
+staxel.tileObject.totems.ErisMailbox.description=
+//[Reference] 'Eris' Postbox'
+staxel.tileObject.totems.ErisMailbox.name=エリスの郵便ポスト
+staxel.tileObject.totems.JamieMailbox.description=
+//[Reference] 'Jamie's Postbox'
+staxel.tileObject.totems.JamieMailbox.name=ジェイミーの郵便ポスト
+staxel.tileObject.totems.MayorMaxMailbox.description=
+//[Reference] 'Maximilian's Postbox'
+staxel.tileObject.totems.MayorMaxMailbox.name=マクシミリアンの郵便ポスト
+staxel.tileObject.totems.OscarMailbox.description=
+//[Reference] 'Oscar's Postbox'
+staxel.tileObject.totems.OscarMailbox.name=オスカーの郵便ポスト
+staxel.tileObject.totems.PatisserieSign.description=
+//[Reference] 'Patisserie Sign'
+staxel.tileObject.totems.PatisserieSign.name=パティスリーの看板
+staxel.tileObject.totems.quest.MaxStatuePlaqueA.description=
+//[Reference] 'Abstract Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueA.name=抽象的な像の銘板
+staxel.tileObject.totems.quest.MaxStatuePlaqueB.description=
+//[Reference] 'Cubic Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueB.name=カクカクの像の銘板
+staxel.tileObject.totems.quest.MaxStatuePlaqueC.description=
+//[Reference] 'Slimy Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueC.name=ぬるぬるの像の銘板
+staxel.tileObject.totems.quest.MaxStatuePlaqueD.description=
+//[Reference] 'Farmer Statue Plaque'
+staxel.tileObject.totems.quest.MaxStatuePlaqueD.name=農家の像の銘板
+staxel.tileObject.totems.quest.SmallFestivalGroundsSign.description=
+//[Reference] 'Small Festival Grounds Sign'
+staxel.tileObject.totems.quest.SmallFestivalGroundsSign.name=小さいお祭り会場の看板
+staxel.tileObject.totems.RosemaryMailbox.description=
+//[Reference] 'Rosemary's Postbox'
+staxel.tileObject.totems.RosemaryMailbox.name=ローズマリーの郵便ポスト
+staxel.tileObject.totems.Test.description=
+//[Reference] 'Test'
+staxel.tileObject.totems.Test.name=テスト
+staxel.tileObject.totems.TownHall.description=
+
+//[Reference] 'Town Hall Sign'
+staxel.tileObject.totems.TownHall.name=役所の看板
+staxel.tileObject.totems.workplace.GroceryStoreSign.description=
+//[Reference] 'Grocery Store Sign'
+staxel.tileObject.totems.workplace.GroceryStoreSign.name=雑貨店の看板
+staxel.tileObject.totems.workplace.TavernSign.description=
+//[Reference] 'Tavern Sign'
+staxel.tileObject.totems.workplace.TavernSign.name=宿屋の看板
+staxel.tileObject.totems.workplace.TownHall.description=
+//[Reference] 'Town Hall Sign'
+staxel.tileObject.totems.workplace.TownHall.name=役所の看板
+staxel.tileObject.villagers.CecileSpawner.description=
+//[Reference] 'Cecile Spawner'
+staxel.tileObject.villagers.CecileSpawner.name=セシルのスポナー
+staxel.tileObject.villagers.EmiliaSpawner.description=
+//[Reference] 'Emilia Spawner'
+staxel.tileObject.villagers.EmiliaSpawner.name=エミリアのスポナー
+staxel.tileObject.villagers.ErisSpawner.description=
+//[Reference] 'Eris Spawner'
+staxel.tileObject.villagers.ErisSpawner.name=エリスのスポナー
+staxel.tileObject.villagers.JamieSpawner.description=
+//[Reference] 'Jamie Spawner'
+staxel.tileObject.villagers.JamieSpawner.name=ジェイミーのスポナー
+staxel.tileObject.villagers.LeifSpawner.description=
+//[Reference] 'Leif Spawner'
+staxel.tileObject.villagers.LeifSpawner.name=レイフのスポナー
+staxel.tileObject.villagers.MayorMaxSpawner.description=
+//[Reference] 'Mayor Max Spawner'
+staxel.tileObject.villagers.MayorMaxSpawner.name=マクシミリアンのスポナー
+staxel.tileObject.villagers.OscarSpawner.description=
+//[Reference] 'Oscar Spawner'
+staxel.tileObject.villagers.OscarSpawner.name=オスカーのスポナー
+staxel.tileObject.villagers.RosemarySpawner.description=
+//[Reference] 'Rosemary Spawner'
+staxel.tileObject.villagers.RosemarySpawner.name=ローズマリーのスポナー
+staxel.tileObject.villagers.RowanSpawner.description=
+//[Reference] 'Rowan Spawner'
+staxel.tileObject.villagers.RowanSpawner.name=ローワンのスポナー
+staxel.tileObject.villagers.TutorialNpcSpawner.description=
+//[Reference] 'Tutorial NPC Spawner'
+staxel.tileObject.villagers.TutorialNpcSpawner.name=チュートリアルNPCのスポナー
+staxel.tileObject.WallCalendar.description=
+//[Reference] 'Wall Calendar'
+staxel.tileObject.WallCalendar.name=壁掛けカレンダー
+//[Reference] 'From the 'Wicker Furniture Set' - A single bed with a wicker base and a soft mattress.'
+staxel.tileObject.wicker.WickerBed.description=「枝編み家具セット」にある、枝編みのフレームにやわらかいマットレスを乗せたシングルベッド。
+//[Reference] 'Wicker Bed'
+staxel.tileObject.wicker.WickerBed.name=枝編みのベッド
+//[Reference] 'From the 'Wicker Furniture Set' - A small side table made from wicker.'
+staxel.tileObject.wicker.WickerSideTable.description=「枝編み家具セット」にある、枝を編んで作られた小さなサイドテーブル。
+//[Reference] 'Wicker Side Table'
+staxel.tileObject.wicker.WickerSideTable.name=枝編みのサイドテーブル
+//[Reference] 'From the 'Wicker Furniture Set' - A small stool made out of wicker.'
+staxel.tileObject.wicker.WickerStool.description=「枝編み家具セット」にある、枝を編んで作られた小さなスツール。
+//[Reference] 'Wicker Stool'
+staxel.tileObject.wicker.WickerStool.name=枝編みのスツール
+//[Reference] 'From the 'Wicker Furniture Set' - A large wicker table.'
+staxel.tileObject.wicker.WickerTable.description=「枝編み家具セット」にある、枝編みの大きなテーブル。
+//[Reference] 'Wicker Table'
+staxel.tileObject.wicker.WickerTable.name=枝編みのテーブル
+//[Reference] 'From the 'Wicker Furniture Set' - A small wardrobe, made from wicker.'
+staxel.tileObject.wicker.WickerWardrobe.description=「枝編み家具セット」にある、枝を編んで作られた小さな衣装棚。
+//[Reference] 'Wicker Wardrobe'
+staxel.tileObject.wicker.WickerWardrobe.name=枝編みの衣装棚

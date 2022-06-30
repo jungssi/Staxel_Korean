@@ -1,0 +1,548 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Oh, don't think I've seen you around here before!'
+staxel.village.dialogue.Barkeep.line:10000100=おや、見ない顔だな！
+//[Reference] 'New in town eh?'
+staxel.village.dialogue.Barkeep.line:10000200=この町は初めてかい？
+//[Reference] '^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10000210=^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Good to see you ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10000211=やあ、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'What can I do for you today?'
+staxel.village.dialogue.Barkeep.line:10000220=今日はどうしたんだい？
+//[Reference] 'Let's chat!'
+staxel.village.dialogue.Barkeep.line:10000250=話をしよう！
+//[Reference] 'Any rumours?'
+staxel.village.dialogue.Barkeep.line:10000255=なにか噂話はないかい？
+//[Reference] 'I'm thirsty.'
+staxel.village.dialogue.Barkeep.line:10000260=飲み物が欲しい。
+//[Reference] 'Nothing really.'
+staxel.village.dialogue.Barkeep.line:10000265=特に無い。
+//[Reference] 'I'd like to buy some of your secret ingredient.'
+staxel.village.dialogue.Barkeep.line:10000266=隠し味を買いたい。
+//[Reference] 'I'm hungry.'
+staxel.village.dialogue.Barkeep.line:10000267=お腹が空いた。
+//[Reference] 'I'm sure you'll fit right in.'
+staxel.village.dialogue.Barkeep.line:10000300=この町はキミにピッタリのはずさ。
+//[Reference] 'Here, this is on the house!'
+staxel.village.dialogue.Barkeep.line:10000400=ほら、これは店のおごりだ！
+//[Reference] 'Could we have a chat, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10000410=ちょっと世間話でもどうだ、^c:1486b0;{0-playername}^c:pop;？
+//[Reference] 'Think of it as our welcome to the town.'
+staxel.village.dialogue.Barkeep.line:10000500=町に来てくれたことへの歓迎のしるしとして受け取ってくれ。
+//[Reference] 'I hope to see you around here every now and again.'
+staxel.village.dialogue.Barkeep.line:10000600=時々顔を見せてくれよ。
+//[Reference] 'By the way... and perhaps this might seem like an odd question but...'
+staxel.village.dialogue.Barkeep.line:10000610=ところで…こんな質問をするのは唐突かもしれないが…
+//[Reference] 'Is there a particular type of animal you like?'
+staxel.village.dialogue.Barkeep.line:10000620=好きな動物はいるかい？
+//[Reference] 'Cats are super cute!'
+staxel.village.dialogue.Barkeep.line:10000630=ネコは最高にかわいい！
+//[Reference] 'Dogs are the coolest!'
+staxel.village.dialogue.Barkeep.line:10000640=イヌが一番かっこいい！
+//[Reference] 'Oh! How lucky for you!'
+staxel.village.dialogue.Barkeep.line:10000650=おお！君は運がいい！
+//[Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
+staxel.village.dialogue.Barkeep.line:10000660=この前、商人が来てな、その叔母の友達の妹の息子のところで生まれたペットがいるそうだ！
+//[Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
+staxel.village.dialogue.Barkeep.line:10000670=^c:1486b0;{0-tut_name}^c:pop;との作業が終わったら来てくれ。君にその子をあげられるかもしれない！
+//[Reference] 'Good luck!'
+staxel.village.dialogue.Barkeep.line:10000680=がんばれよ！
+//[Reference] 'Hope to see you around!'
+staxel.village.dialogue.Barkeep.line:10002600=またな！
+//[Reference] 'Hmm... doesn't look like there's much going on right now.'
+staxel.village.dialogue.Barkeep.line:10002700=うーん…今の所は特に無いな。
+//[Reference] 'I haven't heard any rumours today.'
+staxel.village.dialogue.Barkeep.line:10002800=今日は噂話は何も聞いていないな。
+//[Reference] 'Supposedly ^c:1486b0;{0-quest_giver_0}^c:pop; is having a little trouble.'
+staxel.village.dialogue.Barkeep.line:10002900=^c:1486b0;{0-quest_giver_0}^c:pop;が少し問題を抱えているらしい。
+//[Reference] 'Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.'
+staxel.village.dialogue.Barkeep.line:10003000=^c:1486b0;{0-quest_giver_1}^c:pop;も物事があまり上手く行っていないようだ。
+//[Reference] '^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.'
+staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop;も手助けを必要としているみたいだ。
+//[Reference] 'What will you have?'
+staxel.village.dialogue.Barkeep.line:10003200=どれにする？
+//[Reference] 'A Mug o' Sap! ({0-currency}{1-sap})'
+staxel.village.dialogue.Barkeep.line:10003300=マグ・オブ・サップ！（{0-currency}{1-sap}）
+//[Reference] 'A cup of Joe! ({0-currency}{1-coffee}).'
+staxel.village.dialogue.Barkeep.line:10003310=カップ・オブ・ジョー！（{0-currency}{1-coffee}）
+//[Reference] 'Never mind.'
+staxel.village.dialogue.Barkeep.line:10003600=気にしないでくれ。
+//[Reference] 'One ^c:d03e37;Mug o' Sap^c:pop; coming right up!'
+staxel.village.dialogue.Barkeep.line:10003700=^c:d03e37;マグ・オブ・サップ^c:pop;だな！
+//[Reference] 'Ah well, another time maybe?'
+staxel.village.dialogue.Barkeep.line:10003800=そうか、また来てくれるかい？
+//[Reference] 'Hmm... doesn't look like you can afford that.'
+staxel.village.dialogue.Barkeep.line:10003900=うーむ…お金が足りないみたいだね。
+//[Reference] 'Come back when you have some cash!'
+staxel.village.dialogue.Barkeep.line:10004000=お金に余裕ができたらまた来てくれ！
+//[Reference] 'Good day ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10005000=やあ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Is that a note for me?'
+staxel.village.dialogue.Barkeep.line:10005100=俺へのメモか？
+//[Reference] 'Hmm... so ^c:1486b0;{0-tut_name}^c:pop; sent you to fetch her some more sap eh?'
+staxel.village.dialogue.Barkeep.line:10005200=ふむ…つまり^c:1486b0;{0-tut_name}^c:pop;がまたサップを飲みたくて君を寄こしたってことだな？
+//[Reference] 'She drinks far too much of the stuff...'
+staxel.village.dialogue.Barkeep.line:10005300=彼女はサップを飲みすぎなんだよ…
+//[Reference] 'Hmm...'
+staxel.village.dialogue.Barkeep.line:10005400=ふーむ…
+//[Reference] 'Tell you what, run a little errand for me and I'll see what I can do.'
+staxel.village.dialogue.Barkeep.line:10005500=じゃあこうしよう。少しお使いに行ってくれ。俺はこっちの仕事をやるから。
+//[Reference] 'Nothing major or anything...'
+staxel.village.dialogue.Barkeep.line:10005600=大したことじゃない…
+//[Reference] 'Just hand that over to ^c:1486b0;{0-shop_name}^c:pop; at the ^c:1486b0;general store^c:pop; and he'll know what I need.'
+staxel.village.dialogue.Barkeep.line:10005700=^c:1486b0;雑貨店^c:pop;の^c:1486b0;{0-shop_name}^c:pop;にそれを渡してくれ。彼にはそれで伝わる。
+//[Reference] 'It's an order I've been waiting on for just under a week.'
+staxel.village.dialogue.Barkeep.line:10005800=一週間ほど取り置きしてもらっている注文品なんだ。
+//[Reference] 'As you can probably see, I've just been too busy to leave the place unattended...'
+staxel.village.dialogue.Barkeep.line:10005900=見ての通り、最近忙しくてここを離れられなくてな…
+//[Reference] 'Still don't have my order eh?'
+staxel.village.dialogue.Barkeep.line:10006000=注文品は取ってきてくれたかい？
+//[Reference] '^c:1486b0;{0-shop_name}^c:pop; has been holding on to it for me for almost a week.'
+staxel.village.dialogue.Barkeep.line:10006100=^c:1486b0;{0-shop_name}^c:pop;が一週間ほど預かってくれているんだ。
+//[Reference] 'Go fetch it for me as soon as you can!'
+staxel.village.dialogue.Barkeep.line:10006200=すぐに取ってきてくれると助かるよ！
+//[Reference] 'Ah! This overpowering aroma!'
+staxel.village.dialogue.Barkeep.line:10006300=ああ！この強烈な香り！
+//[Reference] 'You have my parcel!'
+staxel.village.dialogue.Barkeep.line:10006400=小包を持ってきてくれたんだな！
+//[Reference] 'I can't express just how much I've been looking forward to this!'
+staxel.village.dialogue.Barkeep.line:10006500=待ち焦がれていたんだ！
+//[Reference] 'The entrancing fragrance... the incomparable flavours...'
+staxel.village.dialogue.Barkeep.line:10006600=この魅惑的な香り…独特な風味…
+//[Reference] 'Hm? You want to know what's in the package?'
+staxel.village.dialogue.Barkeep.line:10006700=ん？中に何が入っているか知りたいのかい？
+//[Reference] 'It's a special type of fermented fish!'
+staxel.village.dialogue.Barkeep.line:10006800=これは特別に発酵させた魚だよ！
+//[Reference] 'There's only a few islands out there that produce it so it's pretty hard to come by!'
+staxel.village.dialogue.Barkeep.line:10006900=わずかな島でしか生産されていないから、手に入れるのが大変なんだ！
+//[Reference] 'I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...'
+staxel.village.dialogue.Barkeep.line:10007000=最初に^c:1486b0;{0-shop_name}^c:pop;の店に送って、彼をからかうのが好きなのさ…
+//[Reference] 'But enough about that! I imagine you're eager to get back to your pet!'
+staxel.village.dialogue.Barkeep.line:10007100=でも、もう十分！君もペットのところへ戻りたいだろうしね！
+//[Reference] 'Hm? Oh! I didn't tell you?'
+staxel.village.dialogue.Barkeep.line:10007200=ん？あれ！言わなかったっけ？
+//[Reference] 'I've already sent your pet over to ^c:1486b0;{0-tut_name}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10007300=^c:1486b0;{0-tut_name}^c:pop;に君のペットを送ったんだよ！
+//[Reference] 'That there is just a letter with some advice for ^c:1486b0;{0-tut_name}^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10007400=それは^c:1486b0;{0-tut_name}^c:pop;への助言を書いた手紙だ。
+//[Reference] 'Make sure you give it to her for me!'
+staxel.village.dialogue.Barkeep.line:10007500=俺に代わって彼女に届けてくれよ！
+//[Reference] 'Don't worry about the sap she sent you for - I've already dealt with that.'
+staxel.village.dialogue.Barkeep.line:10007600=彼女に頼まれたサップについては気にするな。こっちでなんとかしておいたから。
+//[Reference] 'You should hurry on back to meet your new companion!'
+staxel.village.dialogue.Barkeep.line:10007700=早く戻って、相棒に会いなよ！
+//[Reference] 'Remember - you're welcome here any time!'
+staxel.village.dialogue.Barkeep.line:10007800=いいかい、いつでも来てくれよな！
+//[Reference] 'It usually gets a bit livelier in the evenings so that might be a nice time to stop by!'
+staxel.village.dialogue.Barkeep.line:10007900=いつも夕方になると賑わうから、その頃立ち寄るといい！
+//[Reference] 'You probably shouldn't stay out too late though!'
+staxel.village.dialogue.Barkeep.line:10008000=でも、あまり夜遅くまではいない方がいいぞ！
+//[Reference] 'It's good to get back to your bed and sleep the night away.'
+staxel.village.dialogue.Barkeep.line:10008100=夜はちゃんとベッドに入って寝ることだ。
+//[Reference] 'Mmm, there have been quite a few concerning mutterings recently...'
+staxel.village.dialogue.Barkeep.line:10008200=うーん、最近は相当な数の悩みごとを聞かされてな…
+//[Reference] 'It's hard to give them credence, but with so many reports you start to wonder...'
+staxel.village.dialogue.Barkeep.line:10008300=信じがたいことだが、これを聞いたら君も驚くぞ…
+//[Reference] 'The rumour goes that some ancient creature has taken up residence in the forest nearby.'
+staxel.village.dialogue.Barkeep.line:10008400=噂では古代生物が近くの森に住み着いているみたいでな。
+//[Reference] 'I'd go check it out myself, but then who would watch this place?'
+staxel.village.dialogue.Barkeep.line:10008500=自分の目で確かめに行きたいところだが、俺がいなくなったら誰が店番をするんだ？
+//[Reference] 'Looking for information on ^c:1486b0;Rosemary's^c:pop; childhood, eh?'
+staxel.village.dialogue.Barkeep.line:10008600=^c:1486b0;ローズマリー^c:pop;の幼少期のことが知りたいのかい？
+//[Reference] 'I've heard my fair share of rumours and there definitely was something up with that whole thing.'
+staxel.village.dialogue.Barkeep.line:10008700=俺も噂は十分耳にしている、その頃に何かあったのは間違いない。
+//[Reference] 'Don't think even lonely rabbits usually die quite that fast...but I could be wrong there.'
+staxel.village.dialogue.Barkeep.line:10008800=ウサギは寂しいとすぐに死んでしまうなんてことはないが…そうとも言い切れん。
+//[Reference] 'I'm a tavern keeper, not a farmer!'
+staxel.village.dialogue.Barkeep.line:10008900=まあ俺は酒場の亭主であって、農家じゃないからな！
+//[Reference] 'But you know who would know something? ^c:1486b0;Leif^c:pop; would remember.'
+staxel.village.dialogue.Barkeep.line:10009000=でも何か知ってそうな人ならいるだろ？^c:1486b0;レイフ^c:pop;なら知ってるんじゃないか。
+//[Reference] 'The man's got a memory a mnemonist would envy!'
+staxel.village.dialogue.Barkeep.line:10009100=レイフの記憶力は、暗記の達人だって嫉妬するほどだからな！
+//[Reference] 'Oh, sorry. That's my word of the day!'
+staxel.village.dialogue.Barkeep.line:10009200=おお、すまん、話が逸れたな。まあそういうことだ！
+//[Reference] 'A rabbit...? We don't serve rabbit here...'
+staxel.village.dialogue.Barkeep.line:10009300=ウサギ…？うちじゃウサギは扱ってないぞ…
+//[Reference] 'Oh! You meant for ^c:1486b0;Rosemary^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10009400=ああ！^c:1486b0;ローズマリー^c:pop;のことか？
+//[Reference] 'Well why didn't you say so sooner?'
+staxel.village.dialogue.Barkeep.line:10009500=おいおい、なんでもっと早く言ってくれなかったんだ？
+//[Reference] 'Normally I'd tell you I have a friend whose aunt's son's babysitter's barber had one for sale...'
+staxel.village.dialogue.Barkeep.line:10009600=普段は叔母のせがれのベビーシッターの理髪店をやってる友人が販売していたんだが…
+//[Reference] 'But not at the moment, I'm afraid.'
+staxel.village.dialogue.Barkeep.line:10009700=しかし今はやっていない、悪いな。
+//[Reference] 'Although...'
+staxel.village.dialogue.Barkeep.line:10009800=だけど…
+//[Reference] 'I did see a rather lonely looking rabbit out in the woodlands...'
+staxel.village.dialogue.Barkeep.line:10009900=森の奥でずいぶんと寂しそうにしてるウサギを見たような…
+//[Reference] 'Could be worth going to check it out...'
+staxel.village.dialogue.Barkeep.line:10010000=確かめる価値はあるかもしれないな…
+//[Reference] 'Don't forget to take ^c:d03e37;carrots^c:pop; with you! It might be worth giving it a few!'
+staxel.village.dialogue.Barkeep.line:10010100=^c:d03e37;ニンジン^c:pop;を忘れるなよ！無いよりはましだろう！
+//[Reference] 'Good timing as always, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10010110=相変わらずグッドタイミングだな、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Now that our ^c:d03e37;sap^c:pop; supply is no longer under threat, I've had time to worry about other things.'
+staxel.village.dialogue.Barkeep.line:10010120=今は^c:d03e37;サップ^c:pop;の備蓄も落ち着いてな、他の事を心配する余裕が出てきたのさ。
+//[Reference] 'My brother and I...long ago, we had a dream. A dream that never quite came to fruition...'
+staxel.village.dialogue.Barkeep.line:10010130=兄と俺は…その昔な、夢があったんだ。叶うことのない夢だったがな…
+//[Reference] 'But the other day, I was digging through some old boxes when I came across a certain recipe.'
+staxel.village.dialogue.Barkeep.line:10010140=だが先日、古い箱を漁っていたら偶然いくつかレシピを見つけてな。
+//[Reference] 'Just a few notes he'd jotted down in the margin of a far more important document.'
+staxel.village.dialogue.Barkeep.line:10010150=兄が重要書類の隅に書き留めたメモだったよ。
+//[Reference] 'It remind me though...of what we'd planned so many years ago. I think it might be time to try again!'
+staxel.village.dialogue.Barkeep.line:10010160=それで思い出したんだ…何年も前に計画していたことを。もう一度やり直す時が来たと思うんだ！
+//[Reference] 'There's one small issue though, and it's one I can't deal with while minding the ^c:1486b0;tavern^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10010170=ただ少々問題があってな、俺が^c:1486b0;酒場^c:pop;を切り盛りしている間は暇が無いんだ。
+//[Reference] 'We're missing some critical equipment!'
+staxel.village.dialogue.Barkeep.line:10010180=大事な備品が見当たらないんだよ！
+//[Reference] 'This is a description of the machine we need, right down to the exact specifications.'
+staxel.village.dialogue.Barkeep.line:10010190=これに必要な機械の説明だ、しっかり仕様の通りにやるぞ。
+//[Reference] 'Could you go talk to the ^c:1486b0;Murmurs^c:pop; around the ^c:1486b0;square^c:pop; and see if they can find one?'
+staxel.village.dialogue.Barkeep.line:10010200=^c:1486b0;広場^c:pop;の周りにいる^c:1486b0;マーマーたち^c:pop;にこれが見つけられるか聞いてきてくれないか？
+//[Reference] 'It would be a huge help!'
+staxel.village.dialogue.Barkeep.line:10010210=頼りにしてるぞ！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! What brings you around these parts?'
+staxel.village.dialogue.Barkeep.line:10010400=^c:1486b0;{0-playername}^c:pop;か！どうしたんだ？
+//[Reference] 'Truth is, I was just thinking about you. Not in a bad way though, mind!'
+staxel.village.dialogue.Barkeep.line:10010500=実は、ちょうど君のことを考えていたんだ。悪い意味じゃないぞ、大丈夫だ！
+//[Reference] 'See, I've been thinking that maybe I could consider teaching you my secret ^c:d03e37;sap^c:pop; recipe...'
+staxel.village.dialogue.Barkeep.line:10010600=ほら、君に俺の^c:d03e37;サップ^c:pop;の秘蔵のレシピを教えようかと思っていてね…
+//[Reference] 'But only if you can do something for me in return!'
+staxel.village.dialogue.Barkeep.line:10010700=ただし、そのお返しに何かできたらだけどな！
+//[Reference] 'See, I'm having some trouble making the stuff myself at the moment...'
+staxel.village.dialogue.Barkeep.line:10010800=まあ、今は自分で物を作るのに苦労していてな…
+//[Reference] 'Years ago, we had ^c:d03e37;apiaries^c:pop; all over the island and I had a nice, steady supply of ^c:d03e37;honey^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10010900=昔は島のあちこちに^c:d03e37;養蜂箱^c:pop;があってな、^c:d03e37;ハチミツ^c:pop;の品揃えは上質で安定していたんだ。
+//[Reference] 'Eventually they disappeared and no one bothered to take over the work, but my stockpile held out.'
+staxel.village.dialogue.Barkeep.line:10011000=結局みんなやめちまって誰も引き継ごうともしなかったんだが、俺の在庫は持ちこたえたんだ。
+//[Reference] 'But now it's starting to run low... I'm not sure how much more ^c:d03e37;sap^c:pop; I can make!'
+staxel.village.dialogue.Barkeep.line:10011100=しかし今は底を突きかけててな…俺はあとどれだけ^c:d03e37;サップ^c:pop;を作れるか分かりゃしない！
+//[Reference] 'I'm a bit too old to take up beekeeping again at this point...'
+staxel.village.dialogue.Barkeep.line:10011200=今からまた養蜂を始めるには少々歳を取り過ぎた…
+//[Reference] 'I'd hate to import the low-quality stuff from other islands too...'
+staxel.village.dialogue.Barkeep.line:10011300=だからって他の島から質の悪いものを仕入れるのも気が引ける…
+//[Reference] 'Bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and a three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011400=君の所の^c:d03e37;ハチミツ^c:pop;と、^c:d03e37;ワイルドベリー^c:pop;を2つ、^c:d03e37;原木^c:pop;を3つ持ってきてくれたら詳しく話そう！
+//[Reference] 'How about you set up your own ^c:d03e37;apiary^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10011500=自分の^c:d03e37;養蜂箱^c:pop;を設置してみたらどうだい？
+//[Reference] 'You just need to buy the ^c:d03e37;apiary^c:pop; itself and then find a ^c:d03e37;queen bee^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10011510=^c:d03e37;養蜂箱^c:pop;を買って、それから^c:d03e37;女王バチ^c:pop;も見つけなきゃいけないぞ！
+//[Reference] 'Bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and a three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011520=君の所の^c:d03e37;ハチミツ^c:pop;と、^c:d03e37;ワイルドベリー^c:pop;を2つ、^c:d03e37;原木^c:pop;を3つ持ってきてくれたら詳しく話そう！
+//[Reference] 'You need to set up an ^c:d03e37;apiary^c:pop; and get it working.'
+staxel.village.dialogue.Barkeep.line:10011700=^c:d03e37;養蜂箱^c:pop;を設置したらしっかり機能させる必要があるぞ。
+//[Reference] 'Then bring me some of your own ^c:d03e37;honey^c:pop;, two ^c:d03e37;wildberries^c:pop;, and three ^c:d03e37;raw wood^c:pop; and we'll talk more!'
+staxel.village.dialogue.Barkeep.line:10011800=それから君の所の^c:d03e37;ハチミツ^c:pop;と、^c:d03e37;ワイルドベリー^c:pop;を2つ、^c:d03e37;原木^c:pop;を3つ持ってきたら詳しく話すよ！
+//[Reference] 'I can smell the ^c:d03e37;honey^c:pop; already, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10011900=もうすでに^c:d03e37;ハチミツ^c:pop;の匂いがするぞ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'And it's the island's speciality too! Nowhere else has bees quite like ours!'
+staxel.village.dialogue.Barkeep.line:10012000=これも島の名産になるな！ここみたいなハチは他にいないぞ！
+//[Reference] 'Now, let me just deal with these. Look the other way please!'
+staxel.village.dialogue.Barkeep.line:10012100=さて、こいつらを仕込むとするか。しばらく向こうを向いていてくれないか！
+//[Reference] '...'
+staxel.village.dialogue.Barkeep.line:10012200=…
+//[Reference] 'Here it is! The ^c:d03e37;secret ingredient^c:pop; for making ^c:d03e37;sap^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10012300=さあできたぞ！^c:d03e37;サップ^c:pop;を作るための^c:d03e37;隠し味^c:pop;だ！
+//[Reference] 'Now if you just mix up that recipe, you can make your own ^c:d03e37;sap^c:pop; whenever you want!'
+staxel.village.dialogue.Barkeep.line:10012400=あとはそのレシピ通りに材料を混ぜるだけで、好きなだけ^c:d03e37;サップ^c:pop;を作れるぞ！
+//[Reference] 'Bear in mind that I'm not going to teach you how to make the ^c:d03e37;secret ingredient^c:pop; though...'
+staxel.village.dialogue.Barkeep.line:10012500=すまないが^c:d03e37;隠し味^c:pop;の作り方を教える気はないぞ…
+//[Reference] 'You'll have to come to me whenever you want to buy that!'
+staxel.village.dialogue.Barkeep.line:10012600=買いたくなったらいつでも俺のとこに来るといい！
+//[Reference] 'This is just a little something extra as thanks for keeping me in business!'
+staxel.village.dialogue.Barkeep.line:10012700=これは俺の商売を助けてくれたお礼にちょっとした感謝の気持ちさ！
+//[Reference] 'I don't know what I would've done if we'd run out of ^c:d03e37;sap^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10012800=^c:d03e37;サップ^c:pop;が無くなってたらどうしていたことか…
+//[Reference] 'Sure thing!'
+staxel.village.dialogue.Barkeep.line:10012900=了解！
+//[Reference] 'I gave you a description of the machine needed.'
+staxel.village.dialogue.Barkeep.line:10013000=機械に必要な説明書は渡したぞ。
+//[Reference] 'If you could get one from a ^c:1486b0;Murmur^c:pop; that would be fantastic!'
+staxel.village.dialogue.Barkeep.line:10013100=^c:1486b0;マーマー^c:pop;から貰えたら最高なんだがな！
+//[Reference] 'Oh! Perfect! This is exactly what I was looking for!'
+staxel.village.dialogue.Barkeep.line:10013200=おお！完璧だ！まさに俺が探していたものだ！
+//[Reference] 'These were a lot scarcer back in my day...'
+staxel.village.dialogue.Barkeep.line:10013300=まったく散々な目にあったよ…
+//[Reference] 'Now we just need to...'
+staxel.village.dialogue.Barkeep.line:10013400=あと必要なのは…
+//[Reference] 'Oh...'
+staxel.village.dialogue.Barkeep.line:10013500=ああ…
+//[Reference] 'How how foolish of me! What good is a ^c:d03e37;coffee brewer^c:pop; without ^c:d03e37;coffee beans^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10013600=やっちまった！^c:d03e37;コーヒー豆^c:pop;がなけりゃ^c:d03e37;コーヒーメーカー^c:pop;なんて役に立たないぞ？
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, would you mind running back to that ^c:1486b0;square^c:pop; for me?'
+staxel.village.dialogue.Barkeep.line:10013700=^c:1486b0;{0-playername}^c:pop;、また^c:1486b0;広場^c:pop;に急いで行ってきてくれないか？
+//[Reference] 'I'm sure one of the ^c:1486b0;Murmurs^c:pop; sells ^c:d03e37;coffee beans^c:pop;, right?'
+staxel.village.dialogue.Barkeep.line:10013800=確か^c:d03e37;コーヒー豆^c:pop;を売っている^c:1486b0;マーマー^c:pop;がいるはずだ、分かるかい？
+//[Reference] 'Actually...what if we could convince them to import ^c:d03e37;coffee plant seeds^c:pop; instead?'
+staxel.village.dialogue.Barkeep.line:10013900=いや…むしろあいつらを説得して^c:d03e37;コーヒーの木の種^c:pop;を仕入れるってのはどうだい？
+//[Reference] 'That way we could grow the ^c:d03e37;coffee beans^c:pop; ourselves! Or yourself I suppose!'
+staxel.village.dialogue.Barkeep.line:10014000=そうすれば俺たちで^c:d03e37;コーヒー豆^c:pop;を育てられるじゃないか！いや、君が育てるのかな！
+//[Reference] 'Yes, let's do that instead!'
+staxel.village.dialogue.Barkeep.line:10014100=よし、そうしよう！
+//[Reference] 'Let me know when you have some ^c:d03e37;coffee beans^c:pop; in hand!'
+staxel.village.dialogue.Barkeep.line:10014200=^c:d03e37;コーヒー豆^c:pop;を手に入れたら教えてくれ！
+//[Reference] 'You're probably going to want to grow them from ^c:d03e37;coffee plant seeds^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10014300=君なら^c:d03e37;コーヒーの木の種^c:pop;から栽培したいと思ってるんじゃないかい。
+//[Reference] 'Talk to the ^c:1486b0;Murmurs^c:pop; first to see if you can get them imported.'
+staxel.village.dialogue.Barkeep.line:10014400=まずは^c:1486b0;マーマーたち^c:pop;に仕入れた豆を分けてもらえないか聞いてきてくれ。
+//[Reference] 'What's that I can smell, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10014500=この匂いはなんだい、^c:1486b0;{0-playername}^c:pop;？
+//[Reference] 'Could those be the finest of ^c:d03e37;coffee beans^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10014600=こいつは、ひょっとしたら最高の^c:d03e37;コーヒー豆^c:pop;じゃないか？
+//[Reference] 'But these are amazing! I've never seen such perfect specimens! You grew them yourself?'
+staxel.village.dialogue.Barkeep.line:10014700=しかしすごいな！こんな見事な豆は見たことがない！これは君が育てたのかい？
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, I suspect this is going to be the beginning of a wonderful partnership!'
+staxel.village.dialogue.Barkeep.line:10014800=^c:1486b0;{0-playername}^c:pop;、これからは良いパートナーシップになれそうだな！
+//[Reference] 'Now I can hardly take these free of charge...'
+staxel.village.dialogue.Barkeep.line:10014900=今これをタダで受け取るわけにもいかないな…
+//[Reference] 'I hope this will be sufficient to pay for an initial shipment of the ^c:d03e37;coffee beans^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10015000=これが^c:d03e37;コーヒー豆^c:pop;の初出荷の費用に足りていればいいんだが。
+//[Reference] 'Come by any time if you want to try the end product!'
+staxel.village.dialogue.Barkeep.line:10015100=完成品を味わいたい時はいつでも寄ってくれよ！
+//[Reference] 'One hot fresh ^c:d03e37;Coffee^c:pop;, here you go!'
+staxel.village.dialogue.Barkeep.line:10015200=さあ淹れたてアツアツの^c:d03e37;コーヒー^c:pop;をどうぞ！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, I think it's time I tell you about the plan that never was.'
+staxel.village.dialogue.Barkeep.line:10015300=^c:1486b0;{0-playername}^c:pop;、俺が叶えられなかった計画をそろそろ話そうと思ってな。
+//[Reference] 'See, when I first came to the island, it wasn't to set up a ^c:1486b0;tavern^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10015400=実はな、俺はこの島に来た当初は、^c:1486b0;酒場^c:pop;を始める気なんてなかったんだ…
+//[Reference] 'Our dream was to build a classy establishment, serving trendy meals alongside our ^c:d03e37;sap^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10015500=俺たちの夢は高級レストランを建てて、^c:d03e37;サップ^c:pop;と一緒に洒落た料理を出すことだったんだ。
+//[Reference] 'But that didn't exactly do well out here...'
+staxel.village.dialogue.Barkeep.line:10015600=だけどここでは全く上手く行かなかった…
+//[Reference] 'If it wasn't for everyone's generosity, even the ^c:1486b0;tavern^c:pop; would probably have gone under by now!'
+staxel.village.dialogue.Barkeep.line:10015700=みんなの協力がなかったら、今頃^c:1486b0;酒場^c:pop;なんて潰れてただろうな！
+//[Reference] 'But it's time to change that. We're going to expand the ^c:1486b0;tavern^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10015800=しかしそれも変える時が来た。^c:1486b0;酒場^c:pop;を広げるぞ！
+//[Reference] 'This should be everything you need to get started!'
+staxel.village.dialogue.Barkeep.line:10015900=これが計画を始めるのに必要なものだ！
+//[Reference] 'I hope I can count on you to help me see this through to the end!'
+staxel.village.dialogue.Barkeep.line:10016000=君の腕が頼りなんだ、最後までよろしく頼むよ！
+//[Reference] 'It's so beautiful I could almost cry, ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Barkeep.line:10016100=美しすぎて泣けてくるよ、^c:1486b0;{0-playername}^c:pop;…
+//[Reference] 'Now there's just one little problem we need to sort out and we can open the kitchens!'
+staxel.village.dialogue.Barkeep.line:10016200=あとは1つだけ問題があってな、これを解決したらキッチンをオープンできるぞ！
+//[Reference] 'See, I can't manage a kitchen, look after the counter, and deliver orders all by myself...'
+staxel.village.dialogue.Barkeep.line:10016300=俺一人でキッチンを仕切って、カウンターの仕事をして、全ての注文を届けるのは無理だからね…
+//[Reference] 'I need you to help my find someone who can work here part-time...'
+staxel.village.dialogue.Barkeep.line:10016400=君にはここでパートタイムで働ける人を探すのを手伝ってほしいんだ…
+//[Reference] 'Could you run around the villagers and see if any of them is willing?'
+staxel.village.dialogue.Barkeep.line:10016500=村の連中に協力してくれそうな人を探してきてくれないか？
+//[Reference] 'Maybe start with ^c:1486b0;Leif^c:pop; and ^c:1486b0;Farm Fan^c:pop; since they're here most of the time anyway!'
+staxel.village.dialogue.Barkeep.line:10016600=^c:1486b0;レイフ^c:pop;と^c:1486b0;ファームファン^c:pop;は大体いつもここに来るから、彼らに聞いてみてくれ！
+//[Reference] 'Just a little more and we'll finally be able to open up our kitchens!'
+staxel.village.dialogue.Barkeep.line:10016700=もう少しでついに俺たちのキッチンがオープンできるぞ！
+//[Reference] 'All you need to do is expand the ^c:1486b0;tavern^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10016800=君にやってもらいたいのは^c:1486b0;酒場^c:pop;の拡張だ！
+//[Reference] 'Did you speak with ^c:1486b0;Leif^c:pop; and ^c:1486b0;Farm Fan^c:pop;?'
+staxel.village.dialogue.Barkeep.line:10016900=^c:1486b0;レイフ^c:pop;と^c:1486b0;ファームファン^c:pop;には話したかい？
+//[Reference] 'One of them might be willing to work here part-time.'
+staxel.village.dialogue.Barkeep.line:10017000=そのうちの一人がパートタイムで働いてくれるかもしれない。
+//[Reference] 'So a no on both counts, eh?'
+staxel.village.dialogue.Barkeep.line:10017100=それで二人ともダメだったのかい？
+//[Reference] 'Well that does put us in a bit of a bind...'
+staxel.village.dialogue.Barkeep.line:10017200=そうか、そいつは少し困ったことになったな…
+//[Reference] 'How about you? Would you be interested in doing a bit of part-time work?'
+staxel.village.dialogue.Barkeep.line:10017400=君はどうだい？ちょっとでもアルバイトに興味ないかな？
+//[Reference] 'Not every day, mind. Just when necessary.'
+staxel.village.dialogue.Barkeep.line:10017500=毎日じゃないよ、大丈夫。必要な時だけでいい。
+//[Reference] 'I'd love to!'
+staxel.village.dialogue.Barkeep.line:10017600=是非やらせて！
+//[Reference] 'Maybe some other time.'
+staxel.village.dialogue.Barkeep.line:10017700=またの機会にしてください。
+//[Reference] 'I'm happy to hear you're so enthusiastic about the position!'
+staxel.village.dialogue.Barkeep.line:10017800=すごく乗り気なようで嬉しいねよ！
+//[Reference] 'We even already have two orders waiting!'
+staxel.village.dialogue.Barkeep.line:10017900=早速だが既に注文を2つ待たせてるんだ！
+//[Reference] 'This is the first order. Description's on the item itself.'
+staxel.village.dialogue.Barkeep.line:10018000=これが最初の注文だ。詳細はアイテム自体に書いてある。
+//[Reference] 'You just need to give it to them directly!'
+staxel.village.dialogue.Barkeep.line:10018100=それを彼らに直接渡すだけでいいから！
+//[Reference] 'Ah, I understand. Do let me know if you change your mind.'
+staxel.village.dialogue.Barkeep.line:10018400=ああ、分かった。気が変わったら教えてくれ。
+//[Reference] 'Ah, this again?'
+staxel.village.dialogue.Barkeep.line:10018500=おや、またかい？
+//[Reference] 'That ^c:1486b0;Oscar^c:pop; really does get a bit too riled up...'
+staxel.village.dialogue.Barkeep.line:10018600=^c:1486b0;オスカー^c:pop;はちょっと怒りっぽいんだよなあ…
+//[Reference] 'But I suppose I won't say no to a free ^c:d03e37;broom^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10018700=だが^c:d03e37;ホウキ^c:pop;がタダならノーとは言わないさ！
+//[Reference] 'You just need to hand over the order to the person the description best fits.'
+staxel.village.dialogue.Barkeep.line:10018800=君はその説明文にぴったり合った人に注文の品を渡せばいいんだよ。
+//[Reference] 'Just give it to them directly!'
+staxel.village.dialogue.Barkeep.line:10018900=とにかくあいつらに直接それを渡してくれ！
+//[Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019000=渡す相手を間違えたのか？
+//[Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019100=もっとしっかり説明文を読んでくれ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! What a nice surprise!'
+staxel.village.dialogue.Barkeep.line:10019200=^c:1486b0;{0-playername}^c:pop;！元気そうで何よりだ！
+//[Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019201=渡す相手を間違えたのか？
+//[Reference] 'You can assure ^c:1486b0;Max^c:pop; that I'm well stocked on ^c:1486b0;sap^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10019300=^c:1486b0;サップ^c:pop;の在庫は十分だと^c:1486b0;マックス^c:pop;に伝えてくれ。
+//[Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019301=もっとしっかり説明文を読んでくれ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Always have to keep the reserves up to cope with demand, you know?'
+staxel.village.dialogue.Barkeep.line:10019400=需要に応えるために、常に用意しておかなきゃいけないからな。
+//[Reference] 'You delivered to the wrong person?'
+staxel.village.dialogue.Barkeep.line:10019401=渡す相手を間違えたのか？
+//[Reference] 'You need to pay better attention to the description, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10019500=もっとしっかり説明文を読んでくれ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'You managed to deliver the first order? Good work!'
+staxel.village.dialogue.Barkeep.line:10019600=最初の注文を無事に届けられたのか？よくやったな！
+//[Reference] 'We need to get these fulfilled as soon as possible so I won't waste any time.'
+staxel.village.dialogue.Barkeep.line:10019700=できるだけ早くこれをこなさなきゃいけないから時間を無駄にできないぞ。
+//[Reference] 'You know the drill now, let's get this one delivered!'
+staxel.village.dialogue.Barkeep.line:10019800=これでコツは掴めただろう、じゃあこいつを届けてくれ！
+//[Reference] 'No problems I take it? Very good! Two down, only one to go.'
+staxel.village.dialogue.Barkeep.line:10019900=問題なかったみたいだな？よし！2つ完了、あとは1つだけだ。
+//[Reference] 'You're doing great so far! There's a nice bonus waiting!'
+staxel.village.dialogue.Barkeep.line:10020000=今のところかなり上手くいってるぞ！素敵なボーナスを期待していいぞ！
+//[Reference] 'Ahh...that's a relief! No more orders left today.'
+staxel.village.dialogue.Barkeep.line:10020100=ふう…やれやれ！今日の注文は全部はけたな。
+//[Reference] 'You performed fantastically, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10020200=最高の仕事ぶりだったぞ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Here's your payment for today, plus a little bonus for doing such a great job.'
+staxel.village.dialogue.Barkeep.line:10020300=ほら、今日の給料と、良い働きっぷりにちょっとしたボーナスも追加だ。
+//[Reference] 'I'm not sure how to express my thanks for all you've done...'
+staxel.village.dialogue.Barkeep.line:10020400=君には何て言ったらいいのか感謝の言葉もないくらいだよ…
+//[Reference] 'My dream...my brother's dream...it's finally becoming a reality.'
+staxel.village.dialogue.Barkeep.line:10020500=俺の夢…兄弟の夢が…やっと実現したんだ。
+//[Reference] 'Together, we'll make this place a classy restaurant yet!'
+staxel.village.dialogue.Barkeep.line:10020600=一緒に、この場所を一流のレストランにしようじゃないか！
+//[Reference] '^c:1486b0;Farm Fan's^c:pop; birthday gift?'
+staxel.village.dialogue.Barkeep.line:10020700=^c:1486b0;ファームファン^c:pop;の誕生日プレゼント？
+//[Reference] 'Oh! I completely forgot.'
+staxel.village.dialogue.Barkeep.line:10020800=おお！すっかり忘れていたよ。
+//[Reference] 'But...I know exactly what she would want from me anyway...'
+staxel.village.dialogue.Barkeep.line:10020900=だが…どうせ彼女が俺に欲しがるものなんてもう分かってるからなあ…
+//[Reference] 'I'm not sure what anyone else got her, but I know she's going to like mine best!'
+staxel.village.dialogue.Barkeep.line:10021000=他の連中が何を渡すのか知らないが、彼女は俺のプレゼントを一番気に入ってくれるさ！
+//[Reference] 'What'll it be?'
+staxel.village.dialogue.Barkeep.line:10021100=ご注文は何だい？
+//[Reference] 'Baked Potato with Cheese({0-currency}{1-potato}).'
+staxel.village.dialogue.Barkeep.line:10021200=ベイクドポテトとチーズ（{0-currency}{1-potato}）
+//[Reference] 'Mushroom Risotto ({0-currency}{1-risotto})'
+staxel.village.dialogue.Barkeep.line:10021300=マッシュルームリゾット（{0-currency}{1-risotto}）
+//[Reference] 'Never mind.'
+staxel.village.dialogue.Barkeep.line:10021400=なんでもない。
+//[Reference] '^c:d03e37;Baked Potato with Cheese^c:pop;, my favourite! Here you go!'
+staxel.village.dialogue.Barkeep.line:10021500=^c:d03e37;ベイクドポテトとチーズ^c:pop;だな、俺のお気に入りだ！はいよ！
+//[Reference] 'Ah, one of our specialties.'
+staxel.village.dialogue.Barkeep.line:10021600=ああ、自慢の料理の1つだよ。
+//[Reference] 'You must be ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10030100=君が^c:1486b0;{0-playername}^c:pop;だね！
+//[Reference] 'I'm sure you'll fit right in here.'
+staxel.village.dialogue.Barkeep.line:10030200=ここはキミにピッタリのはずさ。
+//[Reference] 'I hope to see you around here every now and again.'
+staxel.village.dialogue.Barkeep.line:10030300=時々顔を見せてくれよ。
+//[Reference] 'Hi there ^c:1486b0;{0-playername}^c:pop;, how are you today?'
+staxel.village.dialogue.Barkeep.line:10030400=よう、^c:1486b0;{0-playername}^c:pop;。元気かい？
+//[Reference] 'Oh, those seeds? No problem. I’m happy to help out, you’ve got a big job ahead of you.'
+staxel.village.dialogue.Barkeep.line:10030500=あぁ、あの種か？問題ないさ。助けになるなら喜んで引き渡すよ、君もこれから大忙しだろうしな。
+//[Reference] 'Tidying up that old farm and all...'
+staxel.village.dialogue.Barkeep.line:10030510=あの古い牧場を整備したりとかな…
+//[Reference] 'On that note... Why don’t you take this ^c:d03e37;Sap^c:pop;, on the house!'
+staxel.village.dialogue.Barkeep.line:10030600=それでなんだが…この^c:d03e37;サップ^c:pop;を飲んでみないかい？店のおごりだ！
+//[Reference] 'It’s perfect for relaxing after a hard day’s farming.'
+staxel.village.dialogue.Barkeep.line:10030700=つらい農作業の後の疲れを取るのに最適だぞ。
+//[Reference] 'On that note, did you get much sleep last night?'
+staxel.village.dialogue.Barkeep.line:10030701=そういえば、昨日はよく眠れたか？
+//[Reference] 'You look rather tired...'
+staxel.village.dialogue.Barkeep.line:10030702=ちょっと疲れるようにも見えるが…
+//[Reference] 'You really should get some sleep in a ^c:d03e37;Bed^c:pop; after a hard day's work.'
+staxel.village.dialogue.Barkeep.line:10030703=がんばった後は^c:d03e37;ベッド^c:pop;で寝たほうがいいぞ。
+//[Reference] 'If you stay up too late, you might pass out!'
+staxel.village.dialogue.Barkeep.line:10030704=あまり遅くまで起きてると、ぶっ倒れるかもしれないぞ！
+//[Reference] 'Here's some coffee, should help you wake up a bit for now.'
+staxel.village.dialogue.Barkeep.line:10030705=ほら、コーヒーだ。これで少しは目も覚めるだろう。
+//[Reference] 'Anyway...'
+staxel.village.dialogue.Barkeep.line:10030706=とにかく…
+//[Reference] 'Let ^c:1486b0;Farm Fan^c:pop; know I’ll need her help again later would you?'
+staxel.village.dialogue.Barkeep.line:10030800=また後で手伝ってほしいと^c:1486b0;ファームファン^c:pop;に伝えておいてくれるか？
+//[Reference] 'I would myself but I’ve just got so much to do, and I shouldn’t really leave the counter unattended...'
+staxel.village.dialogue.Barkeep.line:10030810=自分で伝えたいところだが、かなり忙しくてな。バーを空けておくわけにもいかないし…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! There you are... and not a moment too soon.'
+staxel.village.dialogue.Barkeep.line:10040000=^c:1486b0;{0-playername}^c:pop;！良かった…ちょうどいいところに来てくれた。
+//[Reference] 'These crickets are driving me to distraction!'
+staxel.village.dialogue.Barkeep.line:10040010=コオロギのせいで気が散って仕方ないんだ！
+//[Reference] 'I found this old ^c:d03e37;Net^c:pop; in the attic... though I’m not nimble enough to catch the critters.'
+staxel.village.dialogue.Barkeep.line:10040100=屋根裏でこの古い^c:d03e37;網^c:pop;を見つけたんだが…俺は虫を捕まえられるほど素早くなくてな。
+//[Reference] 'Perhaps you could use it to scoop up some of them for me?'
+staxel.village.dialogue.Barkeep.line:10040200=もしよければ、それを使って少しすくい上げてくれないか？
+//[Reference] 'Perhaps you could use that ^c:d03e37;Net^c:pop; of yours to scoop up some of them for me?'
+staxel.village.dialogue.Barkeep.line:10040300=もしよければ、その^c:d03e37;網^c:pop;を使って少しすくい上げてくれないか？
+//[Reference] 'I’d be ever so grateful. Come see me when you’ve got most of them.'
+staxel.village.dialogue.Barkeep.line:10040400=よろしく頼むよ。だいたい捕まえたらまた来てくれ。
+//[Reference] 'It’s... It’s stopped! ^c:1486b0;{0-playername}^c:pop;... I could hug you!'
+staxel.village.dialogue.Barkeep.line:10040500=と…止まったぞ！^c:1486b0;{0-playername}^c:pop;…お前を抱きしめてやりたいよ！
+//[Reference] 'Thank you so much for your help. Please take some ^c:d03e37;Petals^c:pop; and some ^c:d03e37;Sap^c:pop; as a sign of my gratitude.'
+staxel.village.dialogue.Barkeep.line:10040600=助けてくれてありがとう。お礼に^c:d03e37;ペタル^c:pop;と^c:d03e37;サップ^c:pop;をもらってくれ。
+//[Reference] 'Just... don’t go releasing those again... please.'
+staxel.village.dialogue.Barkeep.line:10040700=ただ…あいつらを逃がすようなことはしないでくれよ…頼むから。
+//[Reference] 'I hear those ^c:1486b0;Murmur Merchants^c:pop; in town are quite fond of bugs.'
+staxel.village.dialogue.Barkeep.line:10040800=町の^c:1486b0;マーマーの商人^c:pop;は虫が好きだって聞いたぞ。
+//[Reference] 'I’m sure they’d pay a pretty petal for them!'
+staxel.village.dialogue.Barkeep.line:10040810=あいつらならたくさんペタルを払ってくれるだろうよ！
+//[Reference] 'I, like anyone, like a nice soothing cricket chirp...'
+staxel.village.dialogue.Barkeep.line:10040900=俺はな、普通の、心地の良いコオロギの鳴き声が好きなんだ…
+//[Reference] 'But this goes beyond ambiance! Please catch as many as you can ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10041000=だがこれは流石に度が過ぎる！とにかくできるだけたくさん捕まえてくれ^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Do you need a refresher on catching bugs?'
+staxel.village.dialogue.Barkeep.line:10041100=虫の捕まえ方をもう一回教えて欲しいか？
+//[Reference] 'Yeah, please!'
+staxel.village.dialogue.Barkeep.line:10041200=うん、お願い！
+//[Reference] 'No, I’ve got this.'
+staxel.village.dialogue.Barkeep.line:10041300=いや、大丈夫。
+//[Reference] 'Great, thanks again for your help!'
+staxel.village.dialogue.Barkeep.line:10041301=そりゃ良かった、改めて恩に着るよ！
+//[Reference] 'Thank my lucky starbits... I knew you’d come, ^c:1486b0;{0-playername}^c:pop;! You did get my letter, right?'
+staxel.village.dialogue.Barkeep.line:10041400=スタービットよありがとう…来てくれると思っていたよ、^c:1486b0;{0-playername}^c:pop;！俺の手紙は受け取っただろう？
+//[Reference] 'What are we cooking?'
+staxel.village.dialogue.Barkeep.line:10041500=何を作るの？
+//[Reference] 'I’m ready to fry up a storm!'
+staxel.village.dialogue.Barkeep.line:10041600=準備万端だよ！
+//[Reference] 'Ah excellent! I should thank you ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10041700=おお、そうこなくっちゃ！ありがとう^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'So... for those guests...'
+staxel.village.dialogue.Barkeep.line:10041800=そうだな…あのお客さんには…
+//[Reference] 'I think two ^c:d03e37;Soups^c:pop; should cover it!'
+staxel.village.dialogue.Barkeep.line:10041900=^c:d03e37;スープ^c:pop;2つで良いだろう！
+//[Reference] 'They're not very picky, so any kind of ^c:d03e37;Soup^c:pop; will do.'
+staxel.village.dialogue.Barkeep.line:10042000=あまり口うるさい人達じゃないから、どんな^c:d03e37;スープ^c:pop;でも構わないよ。
+//[Reference] 'Now, I'm sure you have plenty of soup recipes already, so I won't trouble you with any details.'
+staxel.village.dialogue.Barkeep.line:10042100=さて、君はもうスープのレシピはたくさん知っていると思うから、これ以上細かいことは言わんよ。
+//[Reference] 'Oh and if you are low on any ingredients, just buy them from the ^c:1486b0;Grocery store^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10042200=ああそれと、材料が足りなくなったら、^c:1486b0;雑貨店^c:pop;で買うといい。
+//[Reference] 'You'll probably need to pick up some ^c:1486b0;cooking stations^c:pop; at the store too...'
+staxel.village.dialogue.Barkeep.line:10042210=^c:1486b0;調理ステーション^c:pop;もいくつか店で買っておかないといけないかもな…
+//[Reference] 'Here's some ^c:d03e37;petals^c:pop; that should help cover the cost.'
+staxel.village.dialogue.Barkeep.line:10042220=ほらよ。この^c:d03e37;ペタル^c:pop;で足りるだろう。
+//[Reference] 'I really do appreciate your help ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Barkeep.line:10042300=手伝ってくれて本当にありがとう^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'How are those two ^c:d03e37;Soups^c:pop; coming along?'
+staxel.village.dialogue.Barkeep.line:10042400=あの^c:d03e37;スープ^c:pop;2つはどんな感じだ？
+//[Reference] 'Still cooking them, I see. Do you need a refresher on cooking?'
+staxel.village.dialogue.Barkeep.line:10042500=まだ調理中ってところか、料理の仕方をもう一回教えて欲しいか？
+//[Reference] 'I do...'
+staxel.village.dialogue.Barkeep.line:10042600=うん…
+//[Reference] 'Nope!'
+staxel.village.dialogue.Barkeep.line:10042700=大丈夫！
+//[Reference] 'Your wondering who the guests were? Why ^c:1486b0;Leif^c:pop; and ^c:1486b0;Farm Fan^c:pop; of course!'
+staxel.village.dialogue.Barkeep.line:10042800=お客さんが誰かって？^c:1486b0;レイフ^c:pop;と^c:1486b0;ファームファン^c:pop;に決まってるじゃないか！
+//[Reference] 'We don't get many other visitors here on the island.'
+staxel.village.dialogue.Barkeep.line:10042900=この島ではそんなにお客さんはいないよ。
+//[Reference] 'And I was feeling generous today.'
+staxel.village.dialogue.Barkeep.line:10043000=そして今日は気前がいいんだ。
+//[Reference] 'Well, do please get to creating those soups. I'm sure those guests are starving.'
+staxel.village.dialogue.Barkeep.line:10043100=それじゃあ、さっそくスープを作ってくれ。お客さんがお腹を空かせていると思うからな。
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, you're a lifesaver!'
+staxel.village.dialogue.Barkeep.line:10043200=^c:1486b0;{0-playername}^c:pop;、命の恩人だ！
+//[Reference] 'Those soups do indeed smell delicious! I'll take them off of you.'
+staxel.village.dialogue.Barkeep.line:10043300=美味そうな匂いのするスープだな！受け取ろう。
+//[Reference] 'And here is a little something to show my appreciation!'
+staxel.village.dialogue.Barkeep.line:10043400=あと、こいつはちょっとした感謝の印だ！
+//[Reference] 'Now don't drink that all at once!'
+staxel.village.dialogue.Barkeep.line:10043500=一気に飲むなよ！
+//[Reference] 'See you around, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Barkeep.line:10043600=またな、^c:1486b0;{0-playername}^c:pop;！

@@ -1,0 +1,14 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+//[Reference] 'Hi there. I'm {0-name}.'
+staxel.village.dialogue.SeedVendor.line:10000100=やあ。私は{0-name}。
+//[Reference] 'I sell seeds.'
+staxel.village.dialogue.SeedVendor.line:10000200=種を売っているんだ。
+//[Reference] 'Rob sells magic water if you want them to grow fast.'
+staxel.village.dialogue.SeedVendor.line:10000300=種を早く育てたいなら、ロブが魔法の水を売ってるよ。
+//[Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000400=ありがとう。
+//[Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000500=どうも。

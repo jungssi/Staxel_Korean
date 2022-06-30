@@ -1,0 +1,129 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'You successfully learnt the recipe for a {0-recipe}!'
+switch.hintText.recipeLearnt={0-recipe}のレシピを習得しました！
+//[Reference] 'Resolution'
+switch.options.gameplay.ui.FullScreenResolution=解像度
+//[Reference] 'UI Scale'
+switch.options.gameplay.ui.ManualUIScale=UIの倍率
+//[Reference] 'Ambience'
+switch.options.general.audio.ambience=環境音
+//[Reference] 'Master'
+switch.options.general.audio.master=主音量
+//[Reference] 'Music'
+switch.options.general.audio.music=BGM
+//[Reference] 'Sound'
+switch.options.general.audio.sound=効果音
+//[Reference] 'Mushrooms are a great way to make money. Use ^b:Interact; on them to pick them up.'
+switch.staxel.achievement.Gather10Mushrooms.description=キノコはお金を手に入れるための優れた方法です。^b:Interact; を使って回収しよう。
+//[Reference] 'Shells are a great way to make money. Use ^b:Interact; on them to pick them up.'
+switch.staxel.achievement.Gather10Shells.description=貝はお金を手に入れるための優れた方法です。^b:Interact; を使って回収しよう。
+//[Reference] 'Mushrooms are a great way to make money. Use ^b:Interact; on them to pick them up.'
+switch.staxel.achievement.Gather100Mushrooms.description=キノコはお金を手に入れるための優れた方法です。^b:Interact; を使って回収しよう。
+//[Reference] 'Shells are a great way to make money. Use ^b:Interact; on them to pick them up.'
+switch.staxel.achievement.Gather100Shells.description=貝はお金を手に入れるための優れた方法です。^b:Interact; を使って回収しよう。
+//[Reference] 'Use ^b:Interact; to talk to her.'
+switch.staxel.achievement.TalkFarmFan.description=^b:Interact; でファームファンに話しかける。
+//[Reference] 'Select the pin icon in the recipe menu to track your progress.'
+switch.staxel.achievement.UseRecipeOverlay.description=レシピメニューのピン止めアイコンを選択して、進行状況を確認しましょう。
+//[Reference] 'Use ^b:Interact; to talk to her'
+switch.staxel.achievements.talkFarmFanOverlay=^b:Interact; でファームファンに話しかける
+
+//[Reference] 'Hello, ^c:1486b0;{0-playername}^c:pop;!\n\nIt sounds like you've been getting on very well with some of the people around here! Perhaps it's time for you to take things to the next level... By that, of course, I mean becoming roomies!\n\nI've included a small package with this mail. You'll find a ^c:d03e37;farmhouse signpost^c:pop; and a ^c:d03e37;friendship bracelet^c:pop; attached. The whole thing works quite simply: all you need to do is set up the ^c:d03e37;signpost^c:pop; in front of your home, like you would any other structure. Then, when you ^c:1486b0;gift^c:pop; the ^c:d03e37;friendship bracelet^c:pop; to your new best friend, they'll have somewhere to move in!\n\nBest of luck!\n\n^c:1486b0;Maximilian^c:pop;\nOffice of the Mayor'
+switch.staxel.mail.BestFriendOptions=こんにちは、^c:1486b0;{0-playername}^c:pop;！\n\nここの人たちとは仲良くやれているみたいですね！そろそろ次の段階に進む時ではないでしょうか…それはつまり、ルームメイトになるということです！\n\nこの手紙に小包を同梱しました。^c:d03e37;農家の看板^c:pop;と^c:d03e37;友情のブレスレット^c:pop;が添付されていると思います。機能はとてもシンプルです：他の建物と同様に、^c:d03e37;看板^c:pop;をあなたの家の前に設置するだけです。それから、新しい親友に^c:d03e37;友情のブレスレット^c:pop;を^c:1486b0;プレゼント^c:pop;すれば、家に越してくるはずです！\n\n幸運を祈ります！\n\n^c:1486b0;マクシミリアン^c:pop;より\n町長のオフィスから
+//[Reference] 'Greetings!\n\nI wanted to extend my thanks to you, ^c:1486b0;{0-playername}^c:pop;, for erecting a suitable house for me in the village. It's been a few decades since my family left our ancestral home, but for various reasons, I have decided to move my lab back to somewhere more remote. Entirely normal reasons, I assure you.\n\nWould you be interested in a possible research position? I'm certain we could come to some sort of arrangement we would both find agreeable. I do imagine I will call upon you to help out with a few of my experiments—in a safe and controlled manner, of course.\n\nRegards,\n^c:1486b0;Cecile^c:pop;'
+switch.staxel.mail.CecileArrival=前略！\n\nあなたに感謝を伝えたかったの、^c:1486b0;{0-playername}^c:pop;、この村に私にぴったりの家を建ててくれたことにね。私の家族が先祖代々の土地を離れてから何十年にもなるけど、いろんな事情があって、研究室をもっと遠くへ移すことに決めたの。全く普通の理由なんだけどね。\n\n研究の仕事に興味はある？お互いが合意できるように手配するからさ。あなたに研究を手伝ってもらうために呼び出したりなんてのを良く想像するよ──もちろん安全で管理された方法でね。\n\n草々\n^c:1486b0;セシル^c:pop;
+//[Reference] 'Hello ^c:1486b0;{0-playername}^c:pop;!\n\nI heard about you from ^c:1486b0;Max^c:pop;! He told me you went through a lot of trouble building me a beautiful little house and I can't wait to see it! I hope we can become great friends and that I can manage to bring out the village's sweet tooth!\n\nSee you soon!\n^c:1486b0;Emilia^c:pop;'
+switch.staxel.mail.EmiliaArrival=こんにちは^c:1486b0;{0-playername}^c:pop;！\n\nあなたの事を^c:1486b0;マックス^c:pop;さんから聞いたわ！私に小さくて可愛い家を建てるために色々がんばってくれたんだってね、早く見てみたいわ！村の甘いもの好きの人たちとも素敵なお友達になれるといいな！\n\nそれじゃあまたね！\n^c:1486b0;エミリア^c:pop;より
+//[Reference] 'Dear ^c:1486b0;{0-playername}^c:pop;,\n\nCongratulations!\n\nYour island has been randomly selected in our latest lottery to receive a total sum of 200,000 Petals, distributed at random amongst the village.\n\nMay your share bring you much joy!\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+switch.staxel.mail.Lottery10=親愛なる^c:1486b0;{0-playername}^c:pop;様、\n\nおめでとうございます！\n\nあなたの島が私たちの宝くじに抽選で選ばれ合計200000ペタルが村の住人に無作為に贈られました。\n\nあなたへの配当が十分満足できるものであれば幸いでございます。\n\n今後とも末永くご愛顧賜りますよう、お願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;より
+//[Reference] '^c:1486b0;Cirahna^c:pop; greets you, ^c:1486b0;{0-playername}^c:pop;!\n\nSomething...unexpected has happened. ^c:1486b0;Morel^c:pop; is in dire need of aid!\n\nPlease come to ^c:1486b0;Cirahna^c:pop;'s location immediately!'
+switch.staxel.mail.MorelFriendStart=こんにちは^c:1486b0;{0-playername}^c:pop;、^c:1486b0;シラーナ^c:pop;だよ！\n\nちょっと…予想外なことが起きたの。^c:1486b0;モレル^c:pop;を助けてあげて！\n\n^c:1486b0;シラーナ^c:pop;の所にすぐに来て！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;,\n\nIt has come to our attention that you've been making...certain inquiries about a rather rare product. You're barking up the wrong tree. Who in their right mind would travel to such a small island with a priceless artefact?\n\nIt may be of interest to you, however, that we can put your client in touch with one of ours—a rather wealthy individual who may or may not have recently purchased the artefact in question from one of our travelling merchants.\n\nCompensation will naturally be required. Please deliver the attached photograph to your client. He will know what to do.\n\nWe thank you for your continued patronage,\n^c:1486b0;Murmur Consortium^c:pop;'
+switch.staxel.mail.MurmurConsortium.TooManyQuestions=^c:1486b0;{0-playername}^c:pop;様、\n\nとても希少な商品に関するお問い合わせを頂いたと…耳にいたしました。ですがそれは見当違いでございます。値段が付けられないほど価値のある美術品を持ったまま、誰が正気でこのような小さな島に向かうでしょうか？\n\nまた一方で、こういったものに興味はございませんか。あなたのお客様に私たちの1人──つまり私たちの旅商人から、件の美術品を最近購入したらしい随分と裕福な方を、あなたのお客様にご紹介すると言うのはどうでしょうか。\n\n当然ですが代価が必要になります。添付した写真をあなたのお客様にお送りください。それでお分かりいただけるはずです。\n\n今後とも末永くご愛顧賜りますよう、お願い申し上げます。\n^c:1486b0;マーマー組合^c:pop;より
+//[Reference] '^c:1486b0;Oscar^c:pop;\n12 Winton Road\nSometown\n\n^c:1486b0;{0-playername}^c:pop;\nThe farm\nStaxel\n\nDear ^c:1486b0;{0-playername}^c:pop;,\n\n I hope this letter finds you well. I am writing concerning your involvement in the construction of my new home in Staxel. I offer my sincerest thanks for your efforts.\n\nIt has been many a year since I left the village due to certain unfortunate circumstances. From what I have heard, it would appear you have performed an...adequate job of keeping the village clean since your arrival. Upon my arrival I shall endeavour to render the town ever more pristine.\n\nYours sincerely\n\n^c:1486b0;Oscar^c:pop;'
+switch.staxel.mail.OscarArrival=^c:1486b0;オスカー^c:pop;\n12 ウィントン通り\nサムタウン\n\n^c:1486b0;{0-playername}^c:pop;\n牧場\nStaxel\n\n拝啓、親愛なる^c:1486b0;{0-playername}^c:pop;、\n\nこの手紙がきちんと届いたでしょうか。Staxelで私の家の建設に関わっていると聞き、筆をとりました。あなたの努力に感謝します。\n\n私が不幸な状況により村を離れてからもう何年にもなります。伝え聞いたところによると、到着してから村を綺麗にするための仕事をしてくれているそうですね。私の到着後は、町のさらなる美化活動に尽力いたします。\n\n敬具\n\n^c:1486b0;オスカー^c:pop;より
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;,\n\nNot to worry you, but I believe there may be some disappearances around town. I will be around tomorrow to help.\n\n^c:1486b0;- Rem^c:pop;'
+switch.staxel.mail.RemVisit=やあ、^c:1486b0;{0-playername}^c:pop;、\n\n心配しなくてもいいんだけど、町で何人か行方不明者が出ているかもしれないの。明日には手を貸せると思うわ。\n\n^c:1486b0;- レム^c:pop;
+//[Reference] 'What did we say, ^c:1486b0;{0-playername}^c:pop;?\n\nI was sure I made myself very clear about ensuring that nothing went wrong with ^c:1486b0;Cecile's lab^c:pop;! Please drop by my office at your earliest convenience. We have very important matters to discuss.\n\nRegards,\n^c:1486b0;Maximilian^c:pop;'
+switch.staxel.mail.ScienceHazard=私たちが話したことを覚えていますか、^c:1486b0;{0-playername}^c:pop;？\n\n口を酸っぱくして^c:1486b0;セシルの研究室^c:pop;で何も問題が起きないようにと言ったはずです！なるべく早く私のオフィスに顔を出してください。非常に重要なお話があります。\n\nよろしくお願いします。\n^c:1486b0;マクシミリアン^c:pop;より
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;,\n\n^c:1486b0;Tomti^c:pop; and I are going to be back soon. We have been talking with our family, and we have something to discuss with you. See you soon.\n\n^c:1486b0;- Rem^c:pop;'
+switch.staxel.mail.TomtiVisit=こんにちは、^c:1486b0;{0-playername}^c:pop;、\n\n^c:1486b0;トムティ^c:pop;と私はもうすぐ帰るわ。家族で色々と相談して、あなたとも話したいことがあるの。また近いうちに会いましょうね。\n\n^c:1486b0;- レム^c:pop;
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;,\n\n I’ve got something for you.\n Come by the town and see me!\n\n- Farm Fan'
+switch.staxel.mail.tutorial.Day2=ねえ、^c:1486b0;{0-playername}^c:pop;、\n\n 渡したいものがあるの。\n 町にいるから会いに来て！\n\n- ファームファン
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;,\n\n You won’t believe what I found wandering the outskirts of the village… a stray ^c:1486b0;Cow^c:pop;!\nI think you’d be a perfect fit to take care of it, but you don’t have a ^c:1486b0;Barn^c:pop; yet…\nGo see ^c:1486b0;Aliza^c:pop; in the ^c:1486b0;Building Store^c:pop;, she can help you build one.\nCome see me when you’ve got a ^c:1486b0;Barn^c:pop;.\n\n- Farm Fan'
+switch.staxel.mail.tutorial.Day3=ねえねえ、^c:1486b0;{0-playername}^c:pop;、\n\n村はずれを散策してたらすごいのを見つけちゃったの…迷子の^c:1486b0;牛^c:pop;よ！\nあなたならちゃんとお世話できそうだけど、まだ^c:1486b0;納屋^c:pop;がないのよね…\n^c:1486b0;建材店^c:pop;の^c:1486b0;アリザ^c:pop;に会いに行ってみて。彼女なら建築の手助けになるわ。\n^c:1486b0;納屋^c:pop;ができたら会いに来てね。\n\n- ファームファン
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;, I hope you are keeping well.\n\nThe strangest thing happened the other day… On my way to begin my day’s work at the Town Hall, I found a stray ^c:1486b0;Cat^c:pop; and ^c:1486b0;Dog^c:pop; hanging around the entrance.\nI have a friend who wants one of them... Would you consider taking the other?\nCome see me any time if you’d consider it.\n\nRegards,\nMax'
+switch.staxel.mail.tutorial.Day4=どうも、^c:1486b0;{0-playername}^c:pop;さん、お元気ですか。\n\n先日とても奇妙なことがありまして…仕事のため役所に向かっていたところ、入口の辺りで^c:1486b0;野良猫^c:pop;と^c:1486b0;野良犬^c:pop;を見つけました。\n私の友人が一匹欲しがっていまして…もう一匹をあなたの方で引き取っていただけませんか？\n気が向いたらいつでも会いに来てください。\n\nよろしくお願いします。\nマックス
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;,\n\n I need your help urgently!\n I left a bunch of old veggies laying out back the other day and… well... suffice to say, I now have a cricket problem.\n Could you drop by? I could really use your help catching the little blighters!\n\n- Rowan'
+switch.staxel.mail.tutorial.Day5=やあ、^c:1486b0;{0-playername}^c:pop;、\n\n大至急、救援を頼む！\nこの間バックヤードに古い野菜をまとめて置いていたんだが…何と言ったらいいか…とにかくコオロギで大変なんだ。\n ちょっと来てくれないか？あいつらを捕まえるのを手伝ってくれ！\n\n- ローワン
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;,\n\nI heard that you were quite handy, mya. I'd really love it if a you built me a nice spot near the village to go fishing!\nThink you could come see me about it?\n\n- Riah'
+switch.staxel.mail.tutorial.Day6=ねえ、^c:1486b0;{0-playername}^c:pop;、\n\nキミはとっても器用だって聞いたニャ。村の近くに釣りができる素敵な場所を作ってくれたら嬉しいな！\n詳しく相談したいから私のとこまで来てくれない？\n\n- リア
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;,\n\nI heard that you were quite handy, mya. I’m having some trouble catching fish lately...\nThink you could come see me about it?\n\n- Riah'
+switch.staxel.mail.tutorial.Day6Alt=ねえ、^c:1486b0;{0-playername}^c:pop;、\n\nキミはとっても器用だって聞いたニャ。最近、魚を捕まえるのに苦労してて…\n詳しく相談したいから私のとこまで来てくれない？\n\n- リア
+//[Reference] '^c:1486b0;{0-playername}^c:pop;,\n\nNo time for formalities, I need your help!\nI have some guests coming to the ^c:1486b0;Tavern^c:pop; soon and they want some food on arrival.\nBut I don't have anything prepared!\nCould you drop by soon and help me out?\n\n- Rowan'
+switch.staxel.mail.tutorial.Day7=^c:1486b0;{0-playername}^c:pop;、\n\nあれこれ言ってる暇はない、手伝ってくれ！\nもうすぐ^c:1486b0;酒場^c:pop;にお客さんが来るんだが、着いたらすぐに何か食べたいらしいんだ。\nだが、まだ何も準備できていないんだ！\nすぐに来て手伝ってくれないか？\n\n- ローワン
+//[Reference] 'Dear ^c:1486b0;{0-playername}^c:pop;.\n\n You've been making great strides in rejuvenating the farm lately. So much so that I think it’s time we properly acknowledge that.\nI’ve got your ^c:d03e37;Farm License^c:pop; all ready to go. Drop by when you’ve got a minute, and take the attached ^c:1486b0;Registration Letter^c:pop; with you.\n\nRegards,\nMax'
+switch.staxel.mail.tutorial.Day8=^c:1486b0;{0-playername}^c:pop;さんへ。\n\n最近のあなたは牧場の復旧に尽力されているようですね。私はその成果を正式に承認する時ではないかと思っているほどです。\n^c:d03e37;牧場のライセンス^c:pop;を用意いたしました。時間のある時に顔を出してください。その際は添付した^c:1486b0;登録用紙^c:pop;を持ってきてくださいね！\n\nよろしくお願いします。\n- マックス
+//[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;,\n\n I’ve been hearing about all the wonderful things you’ve been doing lately, and could use someone as handy as you.\n Could you drop by later? I could really use your help on this.\n\n- Leif'
+switch.staxel.mail.tutorial.Day9=やあ、^c:1486b0;{0-playername}^c:pop;、\n\n最近、君の仕事がとにかく素晴らしいと聞いてね、君みたいな戦力になりそうな人を探していたんだ。\n後で来てくれないかな？本当に君の助けが必要なんだ。\n\n- レイフ
+//[Reference] 'Tip: Hold ^b:DockModifier; to modify the amount of items you place in or take from docks'
+switch.staxel.nightTransition.Line2=ヒント：^b:DockModifier; を長押しして、棚や台に置いたり取り出したりするアイテムの数を調整しましょう。
+//[Reference] 'Tip: Use ^b:PlaceRotateLeft; and ^b:PlaceRotateRight; to rotate items or tiles before you release the button to place them.'
+switch.staxel.nightTransition.Line7=ヒント：^b:PlaceRotateLeft; と ^b:PlaceRotateRight; を使ってアイテムやタイルを回転させることができます。ボタンを離すと設置します。
+//[Reference] 'Tip: A table saw will run automatically until it runs out of materials, or you interrupt it.'
+switch.staxel.nightTransition.Line13=ヒント：テーブルソーは、材料がなくなるか、あなたが停止させるまで、自動で動き続けます。
+//[Reference] 'Items on shelves can be bought for the price hovering above them, just press ^b:DockTake; to buy one.'
+switch.staxel.onScreenGuide.BuyingAndSelling.1=棚のアイテムは、その上に表示されている価格で購入できます。購入するには ^b:DockTake; を押してください。
+//[Reference] '^c:1486b0;Sell boxes^c:pop; can be found around ^c:1486b0;merchants^c:pop;. Simply put an item in one to get a sell price, then press ^b:Interact; on the box to sell it for that price.'
+switch.staxel.onScreenGuide.BuyingAndSelling.2=^c:1486b0;売却ボックス^c:pop;は、^c:1486b0;商人^c:pop;の周りにあります。箱の上にアイテムを置くと売値が表示され、箱に向かって ^b:Interact; を押すとその価格で売ることができます。
+//[Reference] 'Simply press ^b:Interact; on the catalogue to open the ordering UI.'
+switch.staxel.onScreenGuide.Catalogue.2=カタログに向かって ^b:Interact; を押すと注文画面が開きます。
+//[Reference] 'To sell items, simply slot them into the empty spaces in the shipping station with ^b:DockPut;. Your petals will be delivered in the big crate the next day.'
+switch.staxel.onScreenGuide.Catalogue.4=アイテムは ^b:DockPut; で配送ステーションの空きスペースに入れることで、売ることができます。ペタルは次の日に大きな木箱に入って届きます。
+//[Reference] 'To catch a bug, simply swing your ^c:1486b0;net^c:pop; with ^b:Use; while aiming at one.'
+switch.staxel.onScreenGuide.CatchingBugs.2=狙いをつけて ^b:Use; で^c:1486b0;網^c:pop;を振れば、虫を捕まえられます。
+//[Reference] 'To begin a ^c:1486b0;recipe^c:pop;, put the required number of items in the slots on the station with ^b:DockPut;.'
+switch.staxel.onScreenGuide.Cooking.3=^c:1486b0;レシピ^c:pop;にある調理を始めるには、^b:DockPut; でステーションのスロットに必要な数のアイテムを置きます。
+//[Reference] 'The station will show you the outcome of the items you’ve placed before you craft it. Simply use ^b:Interact; to start the process.'
+switch.staxel.onScreenGuide.Cooking.4=作成前にステーションには置いたアイテムによって完成品が表示されます。^b:Interact; を押すと簡単に調理が始まります。
+//[Reference] 'When it’s finished, the result will be placed on the station, use ^b:DockTake; to pick it up.'
+switch.staxel.onScreenGuide.Cooking.5=調理が終わると、完成品がステーションに置かれるので、^b:DockTake; を押して手に取るだけです。
+//[Reference] 'Use the pin icon or ^b:MenuExtraAction1; on an entry to pin a step-by-step guide to cooking it on your screen.'
+switch.staxel.onScreenGuide.Cooking.7=リストのピンアイコンまたは ^b:MenuExtraAction1; を使用して、画面上に調理手順を固定表示できます。
+//[Reference] 'Be sure to pet and feed them every day though, keep their ^c:1486b0;trough^c:pop; filled and they’ll eat from it. You can pet or feed them directly with ^b:Interact;.'
+switch.staxel.onScreenGuide.CowCare.2=毎日エサを与えたり、なでてあげましょう。^c:1486b0;飼い葉桶^c:pop;にエサを入れておくと、そこから食べてくれます。^b:Interact; で直接エサを与えたり、なでることができます。
+//[Reference] 'If you get a ^c:1486b0;Milker^c:pop;, your cows will give you milk every day so long as they’re healthy. Simply press ^b:Use; with the Milker in hand to get ^c:1486b0;milk^c:pop;.'
+switch.staxel.onScreenGuide.CowCare.3=^c:1486b0;搾乳機^c:pop;があれば、牛が元気な時は毎日牛乳を出してくれます。手に搾乳機を持って ^b:Use; を押すと^c:1486b0;牛乳^c:pop;を手に入れることができます。
+//[Reference] 'To begin a ^c:1486b0;blueprint^c:pop;, put the required number of items in the slots on the station using ^b:DockPut;.'
+switch.staxel.onScreenGuide.Crafting.3=^c:1486b0;設計図^c:pop;にあるクラフトを始めるには、^b:DockPut; でステーションのスロットに必要な数のアイテムを置きます。
+//[Reference] 'The station will show you the outcome of the items you’ve placed before you craft it. Press ^b:Interact; to start the process.'
+switch.staxel.onScreenGuide.Crafting.4=作成前にステーションには置いたアイテムによって完成品が表示されます。^b:Interact; を押すと簡単にクラフトが始まります。
+//[Reference] 'When it’s finished, the result will be placed on the station, press ^b:DockTake; to pick it up.'
+switch.staxel.onScreenGuide.Crafting.5=クラフトが終わると、完成品がステーションに置かれるので、あとは ^b:DockTake; を押して手に取るだけです。
+//[Reference] 'Use the pin icon or ^b:MenuExtraAction1; on an entry to pin a step-by-step guide to crafting it on your screen.'
+switch.staxel.onScreenGuide.Crafting.7=リストのピンアイコン、または ^b:MenuExtraAction1; を使用して、画面上にクラフト手順を固定表示できます。
+//[Reference] '^c:1486b0;Creative mode^c:pop; offers a lot more freedom to play how you want, without needing to worry about gathering resources or earning Petals.'
+switch.staxel.onScreenGuide.Creative.1=^c:1486b0;クリエイティブモード^c:pop;では、プレイの自由度が大幅に上がります。資源集めやペタル稼ぎにあくせくする必要はありません。
+//[Reference] 'To fly in creative mode, simply tap ^b:Jump; twice quickly, and do the same to stop flying. To move up and down while flying, use ^b:Jump; and ^b:FlyDown;.'
+switch.staxel.onScreenGuide.Creative.2=クリエイティブモードで飛行するには、^b:Jump; を素早く2度押します。飛行をやめる場合も、同じ操作を行ってください。飛行中に上下するには、^b:Jump; と ^b:FlyDown; を使用します。
+//[Reference] 'You can also pick a copy of any tile from the world while in creative, without breaking it. Simply aim at the tile and press ^b:CreativePick;.'
+switch.staxel.onScreenGuide.Creative.5=またクリエイティブモードでは、ワールド内の任意のタイルを壊さずにコピーして手に入れることができます。欲しいタイルに合わせて ^b:CreativePick; を押すだけです。
+//[Reference] 'Pressing ^b:DropHeldItem; will drop the item you are currently holding on the ground.'
+switch.staxel.onScreenGuide.DroppingItems.1=^b:DropHeldItem; を押すと、現在手に持っているアイテムを地面に落とします。
+//[Reference] 'If you're holding a stack of items, only one will be dropped, but if you hold ^b:FlyDown; while pressing ^b:DropHeldItem; you will drop the entire stack.'
+switch.staxel.onScreenGuide.DroppingItems.2=スタックしたアイテムを持っている場合、落とすのは1つだけです。さらに ^b:FlyDown; を押しながら ^b:DropHeldItem; を押すことで、まとめて落とすこともできます。
+//[Reference] 'Press ^b:ToggleMap; to enter and exit map mode.'
+switch.staxel.onScreenGuide.GettingStarted.1=^b:ToggleMap; を押すとマップモードのオンオフを切り替えます。
+//[Reference] 'You can toggle sprint by pressing ^b:Sprint; or double tapping forward quickly.'
+switch.staxel.onScreenGuide.GettingStarted.2=^b:Sprint; を押すか、前に素早く2回入力すると、ダッシュに切り替えられます。
+//[Reference] 'When villagers talk to you during ^c:1486b0;Quests^c:pop;, it's logged in your journal. Press ^b:ShowJournal; to show the Journal.'
+switch.staxel.onScreenGuide.GettingStarted.3=^c:1486b0;クエスト^c:pop;中に村人と会話すると、その内容がジャーナルに記録されます。ジャーナルを見るには ^b:ShowJournal; を押します。
+//[Reference] 'When a plant is ready to harvest, it will have a green outline when looked at. Press ^b:Interact;, or use a ^c:1486b0;Scythe^c:pop; on it, to harvest.'
+switch.staxel.onScreenGuide.GrowingCrops.4=収穫できるようになった作物は、良く見ると緑色の輪郭をしています。^b:Interact; を押すか、作物に向けて^c:1486b0;鎌^c:pop;を使うことで収穫できます。
+//[Reference] 'To edit structures like these, you'll need to press ^b:Interact; on their ^c:1486b0;Marker^c:pop; and check the ^c:1486b0;Disable Area Protection^c:pop; option.'
+switch.staxel.onScreenGuide.MarkerProtection.4=このような建物に手を付けるには、その建物の^c:1486b0;マーカー^c:pop;に向かって ^b:Interact; を押し、^c:1486b0;エリア保護の無効化^c:pop;オプションにチェックを入れる必要があります。
+//[Reference] 'Markers will have certain requirements that need to be met in order to be considered “complete”. You can check them by pressing ^b:Interact; on it.'
+switch.staxel.onScreenGuide.Markers.3=マーカーには、「完成」とみなされるために必要な要件があります。要件はマーカーに向かって ^b:Interact; を押すと確認できます。
+//[Reference] 'You just need to place the item on the sell spot and press ^b:Interact; on it.'
+switch.staxel.village.dialogue.Tutorial.line:10003530=買い取り用の場所にアイテムを置いて、^b:Interact; を押すだけで良いのよ。

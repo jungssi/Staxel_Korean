@@ -1,0 +1,178 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Character Name'
+characterDesigner.name.title=キャラクター名
+//[Reference] 'Choose your character name'
+characterDesigner.name.tooltip=キャラクター名を選択
+//[Reference] 'Close'
+controlHint.verb.default.Close=閉じる
+//[Reference] 'Host Address'
+nexel.ui.mainMenu.Multiplayer.hostAddress.title=ホストアドレス
+//[Reference] 'Address of the host game'
+nexel.ui.mainMenu.Multiplayer.hostAddress.tooltip=ホストゲームのアドレス
+//[Reference] 'Password'
+nexel.ui.mainMenu.Multiplayer.password.title=パスワード
+//[Reference] 'Password of the host game'
+nexel.ui.mainMenu.Multiplayer.password.tooltip=ホストゲームのパスワード
+//[Reference] 'Any Group'
+recipeBook.grouping.NoGrouping=すべてのグループ
+//[Reference] 'Invalid arguments. Must be: \n [recipient] [subject] [body] [petals]'
+staxel.commands.createMail.Invalid=無効な引数です。以下のようにする必要があります：\n [受信者] [件名] [本文] [ペタル]
+//[Reference] 'Couldn't find a mail recipient with that name.'
+staxel.commands.createMail.NoUser=この名前のメールの受信者が見つかりませんでした。
+//[Reference] 'Mail created successfully!'
+staxel.commands.createMail.Success=メールが作成されました！
+//[Reference] 'Invalid arguments. Can be: \n [recipient (optional)] [mail code] \n [recipient (optional)] [subject] [body] [petals]'
+staxel.commands.sendMail.Invalid=無効な引数です。以下の形式にする必要があります：\n [recipient (optional)] [mail code] \n [recipient (optional)] [subject] [body] [petals]
+//[Reference] 'No mail definition found with code: '{0-mailCode}''
+staxel.commands.sendMail.NoMailCode=コード「{0-mailCode}」でメールの定義が見つかりませんでした。
+//[Reference] 'No player found: '{0-player}''
+staxel.commands.sendMail.NoPlayer=プレイヤー「{0-player}」が見つかりません。
+//[Reference] 'Mail sent successfully!'
+staxel.commands.sendMail.Success=メール送信成功！
+//[Reference] 'Successfully set the global '{0-globalName}' to {1-globalValue}.'
+staxel.commands.setGlobal.Success=グローバル「{0-globalName}」を「{1-globalValue}」に設定しました。
+//[Reference] 'Parameter should be a number'
+staxel.commands.spawnStarBits.InvalidCount=パラメータは数値である必要があります。
+//[Reference] 'Successfully spawned {0-count} starbits'
+staxel.commands.spawnStarBits.Success=スタービットを{0-count}個スポーンしました。
+//[Reference] 'Connection Failure. The connection to the server has been closed.'
+staxel.connection.ConnectionFailure=接続に失敗しました。サーバーへの接続が切断されました。
+//[Reference] 'Entry to server was denied.'
+staxel.connection.EntryDenied=サーバーへの入室が拒否されました。
+//[Reference] 'Entry to server was denied. The entered password was wrong.'
+staxel.connection.InvalidPassword=サーバーへの入室が拒否されました。入力されたパスワードが違います。
+//[Reference] 'Protocol Failure. An error occured while trying to communicate with server.'
+staxel.connection.ProtocolError=プロトコルに失敗しました。サーバーとの通信中にエラーが発生しました。
+//[Reference] 'Version Mismatch. Your version of this game does not match that of the server's. Please ensure you are running the same version of the game.'
+staxel.connection.VersionMismatch=バージョン不一致。このゲームのバージョンがサーバーのバージョンと一致していません。同じバージョンのゲームを実行していることを確認してください。
+//[Reference] '{0-money}'
+staxel.docks.SellboxNameTag={0-money}
+//[Reference] 'Renamer'
+staxel.item.tool.Renamer.name=リネーマー
+//[Reference] 'Enter a new name'
+staxel.item.tool.Renamer.tooltip=新しい名前を入力
+//[Reference] 'Accept'
+staxel.menu.autosaveHint.Accept=確定
+//[Reference] 'This game uses an autosave feature. Please don’t exit the game or turn off the system while this icon is shown.'
+staxel.menu.autosaveHint.Description=このゲームは自動保存機能を使用しています。このアイコンが表示されている間は、ゲームを終了したり、システムの電源を切らないでください。
+//[Reference] 'Autosave'
+staxel.menu.autosaveHint.Title=自動保存
+//[Reference] 'Change Language'
+staxel.menu.ChangeLanguage=言語の変更
+//[Reference] 'Change Language'
+staxel.menu.ChangeLanguageNoButton=言語の変更
+//[Reference] 'Change User'
+staxel.menu.ChangeUser=ユーザーの変更
+//[Reference] 'Controller Disconnected'
+staxel.menu.controller.Disconnected=コントローラーが切断されました
+//[Reference] 'Controller Reconnected'
+staxel.menu.controller.Reconnected=コントローラーが再接続されました
+//[Reference] 'Press ^b:MenuMain; to continue'
+staxel.menu.controller.ReconnectedContinue=^b:MenuMain; を押して続行
+//[Reference] 'Please reconnect your controller to continue'
+staxel.menu.controller.RequestReconnect=コントローラーを再接続して続行してください
+//[Reference] 'Getting profile...'
+staxel.menu.GettingProfile=プロフィールの取得中…
+//[Reference] 'Ok'
+staxel.menu.mail.AcceptError=OK
+//[Reference] 'Couldn't create mail. You entered an invalid petal number.'
+staxel.menu.mail.error.BadPetalInput=メールを作成できませんでした。無効なペタル数を入力しました。
+//[Reference] 'Couldn't create mail. You need to select a recipient.'
+staxel.menu.mail.error.NoRecipient=メールを作成できませんでした。受信者を選択する必要があります。
+//[Reference] 'Couldn't create mail. You need to enter a subject.'
+staxel.menu.mail.error.NoSubject=メールを作成できませんでした。件名を入力する必要があります。
+//[Reference] 'Couldn't create mail. You don't have enough petals.'
+staxel.menu.mail.error.NotEnoughPetals=メールを作成できませんでした。ペタルが足りません
+//[Reference] 'Back'
+staxel.menu.playerList.Back=戻る
+//[Reference] 'Banned Players'
+staxel.menu.playerList.banned.Title=BANされているプレイヤー
+//[Reference] 'Unban'
+staxel.menu.playerList.banned.Unban=解禁
+//[Reference] 'Are you sure you want to ban this player?'
+staxel.menu.playerList.options.BanConfirm=このプレイヤーをBANしてもよろしですか？
+//[Reference] 'Are you sure you want to kick this player?'
+staxel.menu.playerList.options.KickConfirm=このプレイヤーを追放してもよろしですか？
+//[Reference] 'Player Options'
+staxel.menu.playerList.options.Title=プレイヤー設定
+//[Reference] 'Are you sure you want to unban this player?'
+staxel.menu.playerList.options.UnbanConfirm=このプレイヤーのBANの解除してもよろしですか？
+//[Reference] 'Player List'
+staxel.menu.playerList.Title=プレイヤーリスト
+//[Reference] 'Press {0-button} to start'
+staxel.menu.PressButtonToStart={0-button}を押して開始
+//[Reference] 'Change user'
+staxel.menu.userChanged.ChangeUser=ユーザー変更
+//[Reference] 'The player user has been changed without properly exiting the game. \n \n Change back to the original user to ensure no progress is lost.'
+staxel.menu.userChanged.Description=正しくゲームを終了せずにプレイヤーユーザーが変更されました。\n \n 元のユーザーに変更して、進捗状況が失われないようにしてください。
+//[Reference] 'Leave without saving'
+staxel.menu.userChanged.LeaveWithoutSaving=保存せずに終了する
+//[Reference] 'User Changed'
+staxel.menu.userChanged.Title=ユーザーが変更されました
+//[Reference] 'You need to get permission to buy this!'
+staxel.merchant.RequiresGlobal=これを購入するにはアクセス権限が必要です！
+//[Reference] 'Press {0-button} to leave'
+staxel.notification.LeaveDock={0-button}を押して終了する
+//[Reference] 'Your letter has been sent.'
+staxel.notification.mail.Sent=手紙が送信されました。
+//[Reference] 'You can't break that. The region is being used.'
+staxel.notification.TotemRegionInUse=壊せません。リージョンは使用中です。
+//[Reference] 'This tool isn't strong enough.'
+staxel.notifications.WeakTool=この道具には強度が足りません。
+//[Reference] 'Catalogue Search'
+staxel.overlay.catalogue.ShopPage.searchAndFilters.title=カタログ検索
+//[Reference] 'Enter a search term'
+staxel.overlay.catalogue.ShopPage.searchAndFilters.tooltip=検索語句を入力
+//[Reference] 'Console'
+staxel.overlay.ConsoleScreen.input.title=コンソール
+//[Reference] 'Enter a console command'
+staxel.overlay.ConsoleScreen.input.tooltip=コンソールコマンドを入力してください
+//[Reference] 'Creative Search'
+staxel.overlay.CreativeMenu.creativeSearch.title=クリエイティブ検索
+//[Reference] 'Enter a search term'
+staxel.overlay.CreativeMenu.creativeSearch.tooltip=検索語句を入力
+//[Reference] 'Chat'
+staxel.overlay.GameScreen.chat.input.title=チャット
+//[Reference] 'Send a message in chat'
+staxel.overlay.GameScreen.chat.input.tooltip=チャットでメッセージを送る
+//[Reference] 'Mail Body'
+staxel.overlay.inventory.MailCounter.Body.title=メール本文
+//[Reference] 'Enter your mail message'
+staxel.overlay.inventory.MailCounter.Body.tooltip=メールメッセージを入力
+//[Reference] 'Petals'
+staxel.overlay.inventory.MailCounter.Petals.title=ペタル
+//[Reference] 'How many petals you wish to send'
+staxel.overlay.inventory.MailCounter.Petals.tooltip=送りたいペタルの枚数
+//[Reference] 'Mail Subject'
+staxel.overlay.inventory.MailCounter.Subject.title=メール件名
+//[Reference] 'Enter a subject for the mail'
+staxel.overlay.inventory.MailCounter.Subject.tooltip=メール件名を入力
+//[Reference] 'Recipe Search'
+staxel.overlay.inventory.Recipes.recipeSearch.title=レシピ検索
+//[Reference] 'Enter a search term'
+staxel.overlay.inventory.Recipes.recipeSearch.tooltip=検索語句を入力
+//[Reference] '{0-price}: {1-item}'
+staxel.priceTag.Common={0-price}: {1-item}
+//[Reference] 'Inside of the Island'
+staxel.totem.outsideWorld=島の中
+//[Reference] 'Totem is protected, protection must be disable in order to break it.'
+staxel.totem.UnbreakableTotem=トーテムは保護されています。壊すには保護を無効にする必要があります。
+//[Reference] '{0-tiles} Tiles away'
+staxel.totemEntry.AwayFromTownCount={0-tiles} タイル先
+//[Reference] 'Has Roof'
+staxel.totemEntry.Roof=屋根あり
+//[Reference] 'Building'
+staxel.totemRequirement.Building=建物
+//[Reference] 'Any of category'
+staxel.totemRequirement.Category=すべてのカテゴリー
+//[Reference] 'Tile/Object'
+staxel.totemRequirement.Tile=タイル/オブジェクト
+//[Reference] 'Not prepared to transform yet!'
+staxel.transformation.CantTransform=まだ変身の準備ができていません！
+//[Reference] 'You are not transformed!'
+staxel.transformation.NotTransformed=変身していません！
+//[Reference] 'Could not remove accessory as your inventory is full'
+staxel.wardrobe.NoEmptyInventorySlots=インベントリがいっぱいのため、アクセサリーを外せませんでした。
+//[Reference] 'Wearing'
+staxel.wardrobe.Wearing=着用中

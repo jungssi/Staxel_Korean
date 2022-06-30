@@ -1,0 +1,1466 @@
+﻿language.code=ja-JP
+language=日本語
+staxel.collector.gatherable.item.ConstellationWorm.description=
+//[Reference] 'Constellation Worm'
+staxel.collector.gatherable.item.ConstellationWorm.name=星座虫
+staxel.collector.gatherable.item.MapleMoth.description=
+//[Reference] 'Maple Moth'
+staxel.collector.gatherable.item.MapleMoth.name=カエデ蛾
+staxel.collector.gatherable.item.MilkywayOwlfly.description=
+//[Reference] 'Milkyway Owlfly'
+staxel.collector.gatherable.item.MilkywayOwlfly.name=天の川ツノトンボ
+staxel.collector.gatherable.item.MoonBeamBug.description=
+//[Reference] 'Moon Beam Bug'
+staxel.collector.gatherable.item.MoonBeamBug.name=月光虫
+staxel.collector.gatherable.item.MoonButterfly.description=
+//[Reference] 'Moon Butterfly'
+staxel.collector.gatherable.item.MoonButterfly.name=月の蝶
+staxel.collector.gatherable.item.MoonSnail.description=
+//[Reference] 'Moon Snail'
+staxel.collector.gatherable.item.MoonSnail.name=月のカタツムリ
+staxel.collector.gatherable.item.PointedSnail.description=
+//[Reference] 'Pointed Snail'
+staxel.collector.gatherable.item.PointedSnail.name=尖りカタツムリ
+staxel.collector.gatherable.item.PulsarFly.description=
+//[Reference] 'Pulsar Fly'
+staxel.collector.gatherable.item.PulsarFly.name=パルサーバエ
+staxel.collector.gatherable.item.StarlightBat.description=
+//[Reference] 'Starlight Bat'
+staxel.collector.gatherable.item.StarlightBat.name=スターライトコウモリ
+staxel.collector.gatherable.item.SunburstBeetle.description=
+//[Reference] 'Sunburst Beetle'
+staxel.collector.gatherable.item.SunburstBeetle.name=サンバースト甲虫
+staxel.collector.gatherable.item.SunButterfly.description=
+//[Reference] 'Sun Butterfly'
+staxel.collector.gatherable.item.SunButterfly.name=太陽の蝶
+staxel.collector.gatherable.item.SunSnail.description=
+//[Reference] 'Sun Snail'
+staxel.collector.gatherable.item.SunSnail.name=太陽のカタツムリ
+staxel.collector.gatherable.item.Woodlouse.description=
+//[Reference] 'Woodlouse'
+staxel.collector.gatherable.item.Woodlouse.name=ワラジムシ
+//[Reference] 'Always when you least expect it...'
+staxel.collector.item.crafting.CookiesRaisins.description=いつだって思いもよらない時に…
+//[Reference] 'Raisin Cookies'
+staxel.collector.item.crafting.CookiesRaisins.name=レーズンクッキー
+staxel.collector.item.crafting.Couscous.description=
+//[Reference] 'Couscous'
+staxel.collector.item.crafting.Couscous.name=クスクス
+staxel.collector.item.crafting.GoatCheese.description=
+//[Reference] 'Goat Cheese'
+staxel.collector.item.crafting.GoatCheese.name=ヤギチーズ
+//[Reference] 'Delicious, fresh milk!'
+staxel.collector.item.crafting.GoatMilk.description=新鮮でおいしい牛乳！
+//[Reference] 'Goat Milk'
+staxel.collector.item.crafting.GoatMilk.name=ヤギミルク
+staxel.collector.item.crafting.HotCocoa.description=
+//[Reference] 'Hot Cocoa'
+staxel.collector.item.crafting.HotCocoa.name=ホットココア
+staxel.collector.item.crafting.JamGrape.description=
+//[Reference] 'Grape Jam'
+staxel.collector.item.crafting.JamGrape.name=ブドウジャム
+staxel.collector.item.crafting.JamRhubarb.description=
+//[Reference] 'Rhubarb Jam'
+staxel.collector.item.crafting.JamRhubarb.name=ルバーブジャム
+staxel.collector.item.crafting.meal.BakedArtichokeWithGoatCheese.description=
+//[Reference] 'Baked Artichoke With Goat Cheese'
+staxel.collector.item.crafting.meal.BakedArtichokeWithGoatCheese.name=ヤギチーズ入り焼きアーティチョーク
+staxel.collector.item.crafting.meal.UnbakedArtichokeWithGoatCheese.description=
+//[Reference] 'Unbaked Artichoke With Goat Cheese'
+staxel.collector.item.crafting.meal.UnbakedArtichokeWithGoatCheese.name=未調理のヤギチーズ入り焼きアーティチョーク
+staxel.collector.item.crafting.NettleTea.description=
+//[Reference] 'Nettle Tea'
+staxel.collector.item.crafting.NettleTea.name=イラクサ茶
+//[Reference] 'A delicious, rhubarb pie. Still warm from the oven!'
+staxel.collector.item.crafting.PieRhubarb.description=おいしいルバーブパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Rhubarb Pie'
+staxel.collector.item.crafting.PieRhubarb.name=ルバーブパイ
+staxel.collector.item.crafting.PieRhubarbUnbaked.description=
+//[Reference] 'Unbaked Rhubarb Pie'
+staxel.collector.item.crafting.PieRhubarbUnbaked.name=未調理のルバーブパイ
+staxel.collector.item.crafting.Raisins.description=
+//[Reference] 'Raisins'
+staxel.collector.item.crafting.Raisins.name=レーズン
+staxel.collector.item.crafting.SoupNettle.description=
+//[Reference] 'Nettle Soup'
+staxel.collector.item.crafting.SoupNettle.name=イラクサスープ
+staxel.collector.item.crops.Artichoke.description=
+//[Reference] 'Artichoke'
+staxel.collector.item.crops.Artichoke.name=アーティチョーク
+//[Reference] 'Chopped up artichoke'
+staxel.collector.item.crops.chopped.ChoppedArtichoke.description=アーティチョークをカットしたもの
+//[Reference] 'Chopped Artichoke'
+staxel.collector.item.crops.chopped.ChoppedArtichoke.name=カットしたアーティチョーク
+staxel.collector.item.crops.GoldenArtichoke.description=
+//[Reference] 'Golden Artichoke'
+staxel.collector.item.crops.GoldenArtichoke.name=黄金のアーティチョーク
+staxel.collector.item.crops.GoldenGrape.description=
+//[Reference] 'Golden Grape'
+staxel.collector.item.crops.GoldenGrape.name=黄金のブドウ
+staxel.collector.item.crops.GoldenPurpleNettle.description=
+//[Reference] 'Golden Purple Nettle'
+staxel.collector.item.crops.GoldenPurpleNettle.name=黄金の紫イラクサ
+staxel.collector.item.crops.GoldenRhubarb.description=
+//[Reference] 'Golden Rhubarb'
+staxel.collector.item.crops.GoldenRhubarb.name=黄金のルバーブ
+staxel.collector.item.crops.Grape.description=
+//[Reference] 'Grape'
+staxel.collector.item.crops.Grape.name=ブドウ
+staxel.collector.item.crops.PurpleNettle.description=
+//[Reference] 'Purple Nettle'
+staxel.collector.item.crops.PurpleNettle.name=紫イラクサ
+staxel.collector.item.crops.Rhubarb.description=
+//[Reference] 'Rhubarb'
+staxel.collector.item.crops.Rhubarb.name=ルバーブ
+staxel.collector.item.gatherable.CrabHermit.description=
+//[Reference] 'Hermit Crab'
+staxel.collector.item.gatherable.CrabHermit.name=ヤドカリ
+staxel.collector.item.gatherable.DartFrog.description=
+//[Reference] 'Dart Frog'
+staxel.collector.item.gatherable.DartFrog.name=ヤガエル
+staxel.collector.item.gatherable.DeltaHalfmoon.description=
+//[Reference] 'Halfmoon Delta'
+staxel.collector.item.gatherable.DeltaHalfmoon.name=半月デルタ
+staxel.collector.item.gatherable.LionFish.description=
+//[Reference] 'Lion Fish'
+staxel.collector.item.gatherable.LionFish.name=ライオンフィッシュ
+staxel.collector.item.gatherable.MoonFish.description=
+//[Reference] 'Moon Fish'
+staxel.collector.item.gatherable.MoonFish.name=ムーンフィッシュ
+staxel.collector.item.gatherable.RoyalFrog.description=
+//[Reference] 'Royal Frog'
+staxel.collector.item.gatherable.RoyalFrog.name=王族カエル
+staxel.collector.item.gatherable.SunFish.description=
+//[Reference] 'Sun Fish'
+staxel.collector.item.gatherable.SunFish.name=サンフィッシュ
+staxel.collector.item.pets.PetFoodLarge.description=
+//[Reference] 'Large Pet Food'
+staxel.collector.item.pets.PetFoodLarge.name=大きなペットフード
+staxel.collector.item.quest.MaxHat.description=
+//[Reference] 'Max's Hat'
+staxel.collector.item.quest.MaxHat.name=マックスの帽子
+staxel.collector.item.quest.MuseumKey.description=
+//[Reference] 'Museum Key'
+staxel.collector.item.quest.MuseumKey.name=博物館のカギ
+staxel.collector.item.quest.Rem.CollectorIslandTeleporter.description=
+//[Reference] 'Other World Teleporter'
+staxel.collector.item.quest.Rem.CollectorIslandTeleporter.name=異世界のテレポーター
+staxel.collector.item.quest.Rem.GalaxyPortalFragment.description=
+//[Reference] 'Mysterious Fragment'
+staxel.collector.item.quest.Rem.GalaxyPortalFragment.name=謎の欠片
+
+//[Reference] 'White powder for baking.'
+staxel.item.crafting.BakingPowder.description=パンやケーキを焼くための白い粉。
+//[Reference] 'Baking Powder'
+staxel.item.crafting.BakingPowder.name=ベーキングパウダー
+//[Reference] 'Used to bake food in an oven.'
+staxel.item.crafting.BakingTray.description=食材をオーブンで焼くために使用される。
+//[Reference] 'Baking Tray'
+staxel.item.crafting.BakingTray.name=ベーキングトレイ
+//[Reference] 'They're fresh and plentiful.'
+staxel.item.crafting.Blueberries.description=新鮮でたわわに実っている。
+//[Reference] 'Blueberries'
+staxel.item.crafting.Blueberries.name=ブルーベリー
+//[Reference] 'A white bowl.'
+staxel.item.crafting.Bowl.description=白いボウル。
+//[Reference] 'Bowl'
+staxel.item.crafting.Bowl.name=ボウル
+//[Reference] 'A loaf of bread.'
+staxel.item.crafting.Bread.description=一斤のパン。
+//[Reference] 'Bread'
+staxel.item.crafting.Bread.name=パン
+//[Reference] 'A freshly cut slice of bread.'
+staxel.item.crafting.BreadSlice.description=切りたてのパン。
+//[Reference] 'Bread Slice'
+staxel.item.crafting.BreadSlice.name=スライスしたパン
+//[Reference] 'It's like sugar, but brown!'
+staxel.item.crafting.BrownSugar.description=砂糖に似ているけど、色は茶色！
+//[Reference] 'Brown Sugar'
+staxel.item.crafting.BrownSugar.name=ブラウンシュガー
+//[Reference] 'A multipurpose miracle product. Useful for many recipes!'
+staxel.item.crafting.Butter.description=様々な用途で使える奇跡の食品。色んなレシピで大活躍！
+//[Reference] 'Butter'
+staxel.item.crafting.Butter.name=バター
+staxel.item.crafting.Buttermilk.description=
+//[Reference] 'Buttermilk'
+staxel.item.crafting.Buttermilk.name=バターミルク
+staxel.item.crafting.CakeCarrot.description=
+//[Reference] 'Carrot Cake'
+staxel.item.crafting.CakeCarrot.name=ニンジンケーキ
+staxel.item.crafting.CakeCarrotBatter.description=
+//[Reference] 'Carrot Cake Batter'
+staxel.item.crafting.CakeCarrotBatter.name=ニンジンケーキの生地
+//[Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.item.crafting.CakeChocolate.description=定番と言えばやっぱりこれ。チョコレートケーキは欠かせないね。
+//[Reference] 'Chocolate Cake'
+staxel.item.crafting.CakeChocolate.name=チョコレートケーキ
+staxel.item.crafting.CakeChocolateBatter.description=
+//[Reference] 'Chocolate Cake Batter'
+staxel.item.crafting.CakeChocolateBatter.name=チョコレートケーキの生地
+staxel.item.crafting.CakeJam.description=
+//[Reference] 'Jam Cake'
+staxel.item.crafting.CakeJam.name=ジャムケーキ
+staxel.item.crafting.CakePlain.description=
+//[Reference] 'Cake'
+staxel.item.crafting.CakePlain.name=ケーキ
+staxel.item.crafting.CakePlainBatter.description=
+//[Reference] 'Plain Cake Batter'
+staxel.item.crafting.CakePlainBatter.name=プレーンのケーキ生地
+//[Reference] 'A circular cake tin, for round cakes!'
+staxel.item.crafting.CakeTin_Circle.description=丸いケーキを焼くときに使うケーキ型！
+//[Reference] 'Circle Cake Tin'
+staxel.item.crafting.CakeTin_Circle.name=丸いケーキ型
+staxel.item.crafting.CakeTin_Circle_Batter.description=
+//[Reference] 'Batter-Filled Cake Tin'
+staxel.item.crafting.CakeTin_Circle_Batter.name=生地の入ったケーキ型
+staxel.item.crafting.CandyBlue.description=
+//[Reference] 'Blue Candy'
+staxel.item.crafting.CandyBlue.name=青色のキャンディー
+//[Reference] 'A delicious treat, everything's better with chocolate!'
+staxel.item.crafting.CandyChocolateBar.description=おいしいおやつ。チョコレートがあれば何でもおいしい！
+//[Reference] 'Chocolate Bar'
+staxel.item.crafting.CandyChocolateBar.name=チョコバー
+staxel.item.crafting.CandyGreen.description=
+//[Reference] 'Green Candy'
+staxel.item.crafting.CandyGreen.name=緑色のキャンディー
+//[Reference] 'A delicious red lollipop!'
+staxel.item.crafting.CandyLollipop.description=赤くておいしいロリポップ！
+//[Reference] 'Lollipop'
+staxel.item.crafting.CandyLollipop.name=ペロペロキャンディー
+staxel.item.crafting.CandyOrange.description=
+//[Reference] 'Orange Candy'
+staxel.item.crafting.CandyOrange.name=オレンジ色のキャンディー
+staxel.item.crafting.CandyPink.description=
+//[Reference] 'Pink Candy'
+staxel.item.crafting.CandyPink.name=ピンク色のキャンディー
+staxel.item.crafting.CandyPurple.description=
+//[Reference] 'Purple Candy'
+staxel.item.crafting.CandyPurple.name=紫色のキャンディー
+staxel.item.crafting.CandyRed.description=
+//[Reference] 'Red Candy'
+staxel.item.crafting.CandyRed.name=赤色のキャンディー
+staxel.item.crafting.CandyYellow.description=
+//[Reference] 'Yellow Candy'
+staxel.item.crafting.CandyYellow.name=黄色のキャンディー
+//[Reference] 'A healthy looking carrot.'
+staxel.item.crafting.Carrot.description=おいしそうなニンジン。
+//[Reference] 'Carrot'
+staxel.item.crafting.Carrot.name=ニンジン
+staxel.item.crafting.Cheese.description=
+//[Reference] 'Cheese'
+staxel.item.crafting.Cheese.name=チーズ
+//[Reference] 'Useful in many recipes, everybody likes chocolate!'
+staxel.item.crafting.Chocolate.description=色んなレシピで活躍してる。みんな大好きなチョコレート！
+//[Reference] 'Chocolate'
+staxel.item.crafting.Chocolate.name=チョコレート
+//[Reference] 'Chopped up apple.'
+staxel.item.crafting.ChoppedApple.description=リンゴをカットしたもの。
+//[Reference] 'Chopped Apple'
+staxel.item.crafting.ChoppedApple.name=カットしたリンゴ
+//[Reference] 'Chopped up beet.'
+staxel.item.crafting.ChoppedBeet.description=ビーツをカットしたもの。
+//[Reference] 'Chopped Beet'
+staxel.item.crafting.ChoppedBeet.name=カットしたビーツ
+staxel.item.crafting.ChoppedBlackberries.description=
+//[Reference] 'Chopped Blackberries'
+staxel.item.crafting.ChoppedBlackberries.name=カットしたブラックベリー
+staxel.item.crafting.ChoppedBlueberries.description=
+//[Reference] 'Chopped Blueberries'
+staxel.item.crafting.ChoppedBlueberries.name=カットしたブルーベリー
+staxel.item.crafting.ChoppedCabbage.description=
+//[Reference] 'Chopped Cabbage'
+staxel.item.crafting.ChoppedCabbage.name=カットしたキャベツ
+//[Reference] 'Chopped up carrot.'
+staxel.item.crafting.ChoppedCarrot.description=ニンジンをカットしたもの。
+//[Reference] 'Chopped Carrot'
+staxel.item.crafting.ChoppedCarrot.name=カットしたニンジン
+//[Reference] 'Chopped up cherries.'
+staxel.item.crafting.ChoppedCherries.description=サクランボをカットしたもの。
+//[Reference] 'Chopped Cherries'
+staxel.item.crafting.ChoppedCherries.name=カットしたサクランボ
+//[Reference] 'Chopped up corn.'
+staxel.item.crafting.ChoppedCorn.description=トウモロコシをカットしたもの。
+//[Reference] 'Chopped Corn'
+staxel.item.crafting.ChoppedCorn.name=カットしたトウモロコシ
+//[Reference] 'Chopped up cucumber.'
+staxel.item.crafting.ChoppedCucumber.description=キュウリをカットしたもの。
+//[Reference] 'Chopped Cucumber'
+staxel.item.crafting.ChoppedCucumber.name=カットしたキュウリ
+//[Reference] 'Chopped up dragon fruit.'
+staxel.item.crafting.ChoppedDragonfruit.description=ドラゴンフルーツをカットしたもの。
+//[Reference] 'Chopped Dragon Fruit'
+staxel.item.crafting.ChoppedDragonfruit.name=カットしたドラゴンフルーツ
+//[Reference] 'Chopped up eggplant'
+staxel.item.crafting.ChoppedEggplant.description=ナスをカットしたもの。
+//[Reference] 'Chopped Eggplant'
+staxel.item.crafting.ChoppedEggplant.name=カットしたナス
+//[Reference] 'Chopped up kiwi.'
+staxel.item.crafting.ChoppedKiwi.description=キウイをカットしたもの。
+//[Reference] 'Chopped Kiwi'
+staxel.item.crafting.ChoppedKiwi.name=カットしたキウイ
+//[Reference] 'Chopped up lemon.'
+staxel.item.crafting.ChoppedLemon.description=レモンをカットしたもの。
+//[Reference] 'Chopped Lemon'
+staxel.item.crafting.ChoppedLemon.name=カットしたレモン
+//[Reference] 'Chopped up lettuce.'
+staxel.item.crafting.ChoppedLettuce.description=レタスをカットしたもの。
+//[Reference] 'Chopped Lettuce'
+staxel.item.crafting.ChoppedLettuce.name=カットしたレタス
+//[Reference] 'Chopped up lime.'
+staxel.item.crafting.ChoppedLime.description=ライムをカットしたもの。
+//[Reference] 'Chopped Lime'
+staxel.item.crafting.ChoppedLime.name=カットしたライム
+//[Reference] 'Chopped up mango.'
+staxel.item.crafting.ChoppedMango.description=マンゴをカットしたもの。
+//[Reference] 'Chopped Mango'
+staxel.item.crafting.ChoppedMango.name=カットしたマンゴー
+//[Reference] 'Chopped up onion.'
+staxel.item.crafting.ChoppedOnion.description=タマネギをカットしたもの。
+//[Reference] 'Chopped Onion'
+staxel.item.crafting.ChoppedOnion.name=カットしたタマネギ
+//[Reference] 'Chopped up orange.'
+staxel.item.crafting.ChoppedOrange.description=オレンジをカットしたもの。
+//[Reference] 'Chopped Orange'
+staxel.item.crafting.ChoppedOrange.name=カットしたオレンジ
+//[Reference] 'Chopped up peach.'
+staxel.item.crafting.ChoppedPeach.description=モモをカットしたもの。
+//[Reference] 'Chopped Peach'
+staxel.item.crafting.ChoppedPeach.name=カットしたモモ
+//[Reference] 'Chopped up pear.'
+staxel.item.crafting.ChoppedPear.description=ナシをカットしたもの。
+//[Reference] 'Chopped Pear'
+staxel.item.crafting.ChoppedPear.name=カットしたナシ
+//[Reference] 'Chopped up potato.'
+staxel.item.crafting.ChoppedPotato.description=ジャガイモをカットしたもの。
+//[Reference] 'Chopped Potato'
+staxel.item.crafting.ChoppedPotato.name=カットしたジャガイモ
+//[Reference] 'Chopped up pumpkin.'
+staxel.item.crafting.ChoppedPumpkin.description=カボチャをカットしたもの。
+//[Reference] 'Chopped Pumpkin'
+staxel.item.crafting.ChoppedPumpkin.name=カットしたカボチャ
+//[Reference] 'Chopped up raspberries.'
+staxel.item.crafting.ChoppedRaspberries.description=ラズベリーをカットしたもの。
+//[Reference] 'Chopped Raspberries'
+staxel.item.crafting.ChoppedRaspberries.name=カットしたラズベリー
+//[Reference] 'Chopped up strawberries.'
+staxel.item.crafting.ChoppedStrawberries.description=イチゴをカットしたもの。
+//[Reference] 'Chopped Strawberries'
+staxel.item.crafting.ChoppedStrawberries.name=カットしたイチゴ
+//[Reference] 'Chopped up sugar beet.'
+staxel.item.crafting.ChoppedSugarBeet.description=テンサイをカットしたもの。
+//[Reference] 'Chopped Sugar Beet'
+staxel.item.crafting.ChoppedSugarBeet.name=カットしたテンサイ
+//[Reference] 'Chopped up sweet potato.'
+staxel.item.crafting.ChoppedSweetPotato.description=サツマイモをカットしたもの。
+//[Reference] 'Chopped Sweet Potato'
+staxel.item.crafting.ChoppedSweetPotato.name=カットしたサツマイモ
+//[Reference] 'Chopped up tangerine.'
+staxel.item.crafting.ChoppedTangerine.description=タンジェリンをカットしたもの。
+//[Reference] 'Chopped Tangerine'
+staxel.item.crafting.ChoppedTangerine.name=カットしたタンジェリン
+//[Reference] 'Chopped up tomato.'
+staxel.item.crafting.ChoppedTomato.description=トマトをカットしたもの。
+//[Reference] 'Chopped Tomato'
+staxel.item.crafting.ChoppedTomato.name=カットしたトマト
+//[Reference] 'Chopped up turnip.'
+staxel.item.crafting.ChoppedTurnip.description=カブをカットしたもの。
+//[Reference] 'Chopped Turnip'
+staxel.item.crafting.ChoppedTurnip.name=カットしたカブ
+//[Reference] 'A chopping board is used to chop, slice and dice ingredients.'
+staxel.item.crafting.ChoppingBoard.description=まな板は材料をカット、スライス、みじん切りするために使用される。
+//[Reference] 'Chopping Board'
+staxel.item.crafting.ChoppingBoard.name=まな板
+//[Reference] 'Chocolate chip cookies, with extra chocolate chip!'
+staxel.item.crafting.CookiesChocolateChip.description=チョコが多めに入ったチョコチップクッキー！
+//[Reference] 'Chocolate Chip Cookies'
+staxel.item.crafting.CookiesChocolateChip.name=チョコチップクッキー
+//[Reference] 'These may be plain cookies, but they smell divine.'
+staxel.item.crafting.CookiesPlain.description=普通のクッキーだけど、とてもいい匂い。
+//[Reference] 'Cookies'
+staxel.item.crafting.CookiesPlain.name=クッキー
+//[Reference] 'It's like milk, but thicker!'
+staxel.item.crafting.Cream.description=牛乳のようだけど、牛乳よりも濃い！
+//[Reference] 'Cream'
+staxel.item.crafting.Cream.name=クリーム
+//[Reference] 'A standard egg, good for selling or cooking.'
+staxel.item.crafting.Egg.description=普通の卵。売ってもいいし料理してもいい。
+//[Reference] 'Egg'
+staxel.item.crafting.Egg.name=卵
+//[Reference] 'Looks disgusting.'
+staxel.item.crafting.FailedDish.description=まずそう。
+//[Reference] 'Failed Dish'
+staxel.item.crafting.FailedDish.name=失敗した料理
+//[Reference] 'If you need to fry something, you should use this. It's a frying pan.'
+staxel.item.crafting.FryingPan.description=材料を焼くときに使うもの。そう、フライパン。
+//[Reference] 'Frying Pan'
+staxel.item.crafting.FryingPan.name=フライパン
+//[Reference] 'Used for sawing resources manually.'
+staxel.item.crafting.HandSaw.description=資源を手作業で挽き切るときに使うもの。
+//[Reference] 'Handsaw'
+staxel.item.crafting.HandSaw.name=のこぎり
+//[Reference] 'Great for barbeques, make sure to bring ketchup and mustard!'
+staxel.item.crafting.Hotdogs.description=バーベキューに最適。ケチャップとマスタードを忘れずに！
+//[Reference] 'Hotdogs'
+staxel.item.crafting.Hotdogs.name=ホットドッグ
+//[Reference] 'Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.'
+staxel.item.crafting.IcedCake.description=アイシングがすごくおいしそう！ケーキ自体もすごくいいけど、アイシングが一番肝心だね。
+//[Reference] 'Iced Cake'
+staxel.item.crafting.IcedCake.name=アイシングケーキ
+//[Reference] 'Blackberry jam, made from real blackberries!'
+staxel.item.crafting.JamBlackberry.description=本物のブラックベリーから作ったジャム！
+//[Reference] 'Blackberry Jam'
+staxel.item.crafting.JamBlackberry.name=ブラックベリージャム
+//[Reference] 'Ooh, blueberry jam! What a rich colour.'
+staxel.item.crafting.JamBlueberry.description=おいしそうなブルーベリージャム！濃厚な色をしている。
+//[Reference] 'Blueberry Jam'
+staxel.item.crafting.JamBlueberry.name=ブルーベリージャム
+staxel.item.crafting.JamCherry.description=
+//[Reference] 'Cherry Jam'
+staxel.item.crafting.JamCherry.name=サクランボジャム
+staxel.item.crafting.JamDragonFruit.description=
+//[Reference] 'Dragon Fruit Jam'
+staxel.item.crafting.JamDragonFruit.name=ドラゴンフルーツジャム
+staxel.item.crafting.JamRaspberry.description=
+//[Reference] 'Raspberry Jam'
+staxel.item.crafting.JamRaspberry.name=ラズベリージャム
+//[Reference] 'Ahh, in the morning nothing beats strawberry jam on toast!'
+staxel.item.crafting.JamStrawberry.description=イチゴジャムをのせたトーストに勝る朝食はない！
+//[Reference] 'Strawberry Jam'
+staxel.item.crafting.JamStrawberry.name=イチゴジャム
+//[Reference] 'A clean, empty jar.'
+staxel.item.crafting.JarEmpty.description=きれいな空のビン。
+//[Reference] 'Empty Jar'
+staxel.item.crafting.JarEmpty.name=空きビン
+//[Reference] 'A sharp, cooking knife. Be careful!'
+staxel.item.crafting.Knife.description=切れ味の鋭い調理用ナイフ。気をつけて！
+//[Reference] 'Knife'
+staxel.item.crafting.Knife.name=ナイフ
+staxel.item.crafting.MarmaladeLemon.description=
+//[Reference] 'Lemon Marmalade'
+staxel.item.crafting.MarmaladeLemon.name=レモンマーマレード
+//[Reference] 'This lime marmalade is brightly coloured!'
+staxel.item.crafting.MarmaladeLime.description=きらめく色のライムマーマレード！
+//[Reference] 'Lime Marmalade'
+staxel.item.crafting.MarmaladeLime.name=ライムマーマレード
+staxel.item.crafting.MarmaladeOrange.description=
+//[Reference] 'Orange Marmalade'
+staxel.item.crafting.MarmaladeOrange.name=オレンジマーマレード
+//[Reference] 'Delicious, fresh milk!'
+staxel.item.crafting.Milk.description=新鮮でおいしい牛乳！
+//[Reference] 'Milk'
+staxel.item.crafting.Milk.name=牛乳
+//[Reference] 'A large bowl, solely used for mixing!'
+staxel.item.crafting.MixingBowl.description=材料を混ぜ合わせるための大きなボウル！
+//[Reference] 'Mixing Bowl'
+staxel.item.crafting.MixingBowl.name=ミキシングボウル
+//[Reference] 'Muffins with a healthy helping of blueberries!'
+staxel.item.crafting.MuffinsBlueberry.description=ブルーベリー入りの健康的なマフィン！
+//[Reference] 'Blueberry Muffins'
+staxel.item.crafting.MuffinsBlueberry.name=ブルーベリーマフィン
+//[Reference] 'The chocolate chips are evenly spread out, yum!'
+staxel.item.crafting.MuffinsChocolateChip.description=チョコチップがまんべんなく入っていておいしい！
+//[Reference] 'Chocolate Chip Muffins'
+staxel.item.crafting.MuffinsChocolateChip.name=チョコチップマフィン
+//[Reference] 'Plain muffins, baked to perfection.'
+staxel.item.crafting.MuffinsPlain.description=上手に焼いた、プレーンマフィン。
+//[Reference] 'Plain Muffins'
+staxel.item.crafting.MuffinsPlain.name=プレーンマフィン
+//[Reference] 'These strawberry muffins not only look great, they smell great!'
+staxel.item.crafting.MuffinsStrawberry.description=ストロベリーマフィンは見た目だけでなく、香りも素晴らしい！
+//[Reference] 'Strawberry Muffins'
+staxel.item.crafting.MuffinsStrawberry.name=ストロベリーマフィン
+//[Reference] 'A muffin tin, used for baking cupcakes, muffins and more.'
+staxel.item.crafting.MuffinTin.description=カップケーキやマフィンなどを焼くために使う。
+//[Reference] 'Muffin Tin'
+staxel.item.crafting.MuffinTin.name=マフィン型
+//[Reference] 'Nothing satisfies the throat quite like this silky beverage.'
+staxel.item.crafting.MugOSap.description=このなめらかな口当たりの飲み物ほど、のどを潤してくれるものはない。
+//[Reference] 'Mug O' Sap'
+staxel.item.crafting.MugOSap.name=マグ・オブ・サップ
+//[Reference] 'Freshly picked, this mushroom looks safe to eat!'
+staxel.item.crafting.Mushroom.description=とれたてのキノコ。食べても大丈夫そう！
+//[Reference] 'Mushroom'
+staxel.item.crafting.Mushroom.name=キノコ
+//[Reference] 'Chopped up mushroom.'
+staxel.item.crafting.MushroomCut.description=キノコをカットしたもの。
+//[Reference] 'Chopped Mushroom'
+staxel.item.crafting.MushroomCut.name=カットしたキノコ
+//[Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crafting.Oats.description=とれたてのオート麦。なんて良い粒なんだ！
+//[Reference] 'Oats'
+staxel.item.crafting.Oats.name=オート麦
+//[Reference] 'Chopped up onion.'
+staxel.item.crafting.OnionCut.description=タマネギをカットしたもの。
+//[Reference] 'Chopped Onion'
+staxel.item.crafting.OnionCut.name=カットしたタマネギ
+//[Reference] 'Delicious orange juice, what a fine way to start the day.'
+staxel.item.crafting.OrangeJuice.description=一日の始まりに最適なおいしいオレンジジュース。
+//[Reference] 'Orange Juice'
+staxel.item.crafting.OrangeJuice.name=オレンジジュース
+//[Reference] 'A delicious, golden, apple pie. Still warm from the oven!'
+staxel.item.crafting.PieApple.description=黄金色に輝く、おいしいアップルパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Apple Pie'
+staxel.item.crafting.PieApple.name=アップルパイ
+staxel.item.crafting.PieAppleUnbaked.description=
+//[Reference] 'Unbaked Apple Pie'
+staxel.item.crafting.PieAppleUnbaked.name=焼く前のアップルパイ
+//[Reference] 'A delicious, blackberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlackberry.description=おいしいブラックベリーパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Blackberry Pie'
+staxel.item.crafting.PieBlackberry.name=ブラックベリーパイ
+staxel.item.crafting.PieBlackberryUnbaked.description=
+//[Reference] 'Unbaked Blackberry Pie'
+staxel.item.crafting.PieBlackberryUnbaked.name=焼く前のブラックベリーパイ
+//[Reference] 'A delicious, blueberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlueberry.description=おいしいブルーベリーパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Blueberry Pie'
+staxel.item.crafting.PieBlueberry.name=ブルーベリーパイ
+staxel.item.crafting.PieBlueberryUnbaked.description=
+//[Reference] 'Unbaked Blueberry Pie'
+staxel.item.crafting.PieBlueberryUnbaked.name=焼く前のブルーベリーパイ
+//[Reference] 'A delicious, cherry pie. Still warm from the oven!'
+staxel.item.crafting.PieCherry.description=おいしいチェリーパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Cherry Pie'
+staxel.item.crafting.PieCherry.name=チェリーパイ
+staxel.item.crafting.PieCherryUnbaked.description=
+//[Reference] 'Unbaked Cherry Pie'
+staxel.item.crafting.PieCherryUnbaked.name=焼く前のチェリーパイ
+staxel.item.crafting.PieCrust.description=
+//[Reference] 'Pie Crust'
+staxel.item.crafting.PieCrust.name=パイの皮
+//[Reference] 'A delicious, dragon fruit pie. Still warm from the oven!'
+staxel.item.crafting.PieDragonFruit.description=おいしいドラゴンフルーツパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruit.name=ドラゴンフルーツパイ
+staxel.item.crafting.PieDragonFruitUnbaked.description=
+//[Reference] 'Unbaked Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruitUnbaked.name=焼く前のドラゴンフルーツパイ
+//[Reference] 'A delicious, lemon pie. Still warm from the oven!'
+staxel.item.crafting.PieLemon.description=おいしいレモンパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Lemon Pie'
+staxel.item.crafting.PieLemon.name=レモンパイ
+//[Reference] 'A perfect lemon pie, ready for baking!'
+staxel.item.crafting.PieLemonUnbaked.description=最高のレモンパイを焼く準備ができた！
+//[Reference] 'Unbaked Lemon Pie'
+staxel.item.crafting.PieLemonUnbaked.name=焼く前のレモンパイ
+//[Reference] 'A delicious, lime pie. Still warm from the oven!'
+staxel.item.crafting.PieLime.description=おいしいライムパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Key Lime Pie'
+staxel.item.crafting.PieLime.name=キーライムパイ
+staxel.item.crafting.PieLimeUnbaked.description=
+//[Reference] 'Unbaked Lime Pie'
+staxel.item.crafting.PieLimeUnbaked.name=焼く前のライムパイ
+//[Reference] 'A delicious, orange pie. Still warm from the oven!'
+staxel.item.crafting.PieOrange.description=おいしいオレンジパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Orange Pie'
+staxel.item.crafting.PieOrange.name=オレンジパイ
+staxel.item.crafting.PieOrangeUnbaked.description=
+//[Reference] 'Unbaked Orange Pie'
+staxel.item.crafting.PieOrangeUnbaked.name=焼く前のオレンジパイ
+//[Reference] 'A delicious, peach pie. Still warm from the oven!'
+staxel.item.crafting.PiePeach.description=おいしいピーチパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Peach Pie'
+staxel.item.crafting.PiePeach.name=ピーチパイ
+staxel.item.crafting.PiePeachUnbaked.description=
+//[Reference] 'Unbaked Peach Pie'
+staxel.item.crafting.PiePeachUnbaked.name=焼く前のピーチパイ
+//[Reference] 'A delicious, raspberry pie. Still warm from the oven!'
+staxel.item.crafting.PieRaspberry.description=おいしいラズベリーパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Raspberry Pie'
+staxel.item.crafting.PieRaspberry.name=ラズベリーパイ
+staxel.item.crafting.PieRaspberryUnbaked.description=
+//[Reference] 'Unbaked Raspberry Pie'
+staxel.item.crafting.PieRaspberryUnbaked.name=焼く前のラズベリーパイ
+//[Reference] 'A delicious, strawberry pie. Still warm from the oven!'
+staxel.item.crafting.PieStrawberry.description=おいしいストロベリーパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Strawberry Pie'
+staxel.item.crafting.PieStrawberry.name=ストロベリーパイ
+staxel.item.crafting.PieStrawberryUnbaked.description=
+//[Reference] 'Unbaked Strawberry Pie'
+staxel.item.crafting.PieStrawberryUnbaked.name=焼く前のストロベリーパイ
+//[Reference] 'A 'delicious', vegetable pie. Still warm from the oven!'
+staxel.item.crafting.PieVegetable.description=おいしいベジタブルパイ。オーブンから取り出したばかりで、まだ温かい！
+//[Reference] 'Vegetable Pie'
+staxel.item.crafting.PieVegetable.name=ベジタブルパイ
+staxel.item.crafting.PieVegetableUnbaked.description=
+//[Reference] 'Unbaked Vegetable Pie'
+staxel.item.crafting.PieVegetableUnbaked.name=焼く前のベジタブルパイ
+//[Reference] 'Plain flour has many uses, and used in plenty of cooking and baking recipes.'
+staxel.item.crafting.PlainFlour.description=小麦粉にはさまざまな使い方があり、数多くのレシピで使われている。
+//[Reference] 'Plain Flour'
+staxel.item.crafting.PlainFlour.name=小麦粉
+//[Reference] 'A standard pot, useful for cooking.'
+staxel.item.crafting.Pot.description=料理用の標準的な鍋。
+//[Reference] 'Pot'
+staxel.item.crafting.Pot.name=鍋
+//[Reference] 'Onion soup still in the pot.'
+staxel.item.crafting.PotOnionSoup.description=鍋に入ったオニオンスープ。
+//[Reference] 'Onion Soup'
+staxel.item.crafting.PotOnionSoup.name=オニオンスープ
+//[Reference] 'Tomato soup still in the pot.'
+staxel.item.crafting.PotTomatoSoup.description=鍋に入ったトマトスープ。
+//[Reference] 'Tomato Soup'
+staxel.item.crafting.PotTomatoSoup.name=トマトスープ
+//[Reference] 'A pot of boiling water.'
+staxel.item.crafting.PotWaterBoiling.description=鍋で沸騰させたお湯。
+//[Reference] 'Pot of Boiling Water'
+staxel.item.crafting.PotWaterBoiling.name=お湯
+//[Reference] 'A freshly baked pie with a delicious, raspberry filling.'
+staxel.item.crafting.RaspberryPie.description=おいしそうなラズベリーが入った焼きたてのパイ。
+//[Reference] 'Raspberry Pie'
+staxel.item.crafting.RaspberryPie.name=ラズベリーパイ
+//[Reference] 'Raw basalt, mined from basalt.'
+staxel.item.crafting.RawBasalt.description=玄武岩の層から掘り出した玄武岩の原石。
+//[Reference] 'Raw Basalt'
+staxel.item.crafting.RawBasalt.name=玄武岩の原石
+//[Reference] 'Raw limestone, mined from limestone.'
+staxel.item.crafting.RawLimestone.description=石灰岩の層から掘り出した石灰岩の原石。
+//[Reference] 'Raw Limestone'
+staxel.item.crafting.RawLimestone.name=石灰岩の原石
+//[Reference] 'Raw marble, mined from marble.'
+staxel.item.crafting.RawMarble.description=大理石の層から掘り出した大理石の原石。
+//[Reference] 'Raw Marble'
+staxel.item.crafting.RawMarble.name=大理石の原石
+//[Reference] 'Raw stone, mined from stone.'
+staxel.item.crafting.RawStone.description=石の層から掘り出した原石。
+//[Reference] 'Raw Stone'
+staxel.item.crafting.RawStone.name=原石
+//[Reference] 'Raw wood, harvested from nature.'
+staxel.item.crafting.RawWood.description=自然の恵み。
+//[Reference] 'Raw Wood'
+staxel.item.crafting.RawWood.name=原木
+//[Reference] 'This juice has a vague, red flavour.'
+staxel.item.crafting.RedJuice.description=かすかに赤みがかったジュース。
+//[Reference] 'Red Juice'
+staxel.item.crafting.RedJuice.name=赤色のジュース
+//[Reference] 'Salt, one of the five basic taste sensations, and a fantastic way to spice up a bland dish.'
+staxel.item.crafting.Salt.description=塩は味の5大要素の1つ。味の薄い食材の風味を際立たせるのに最適。
+//[Reference] 'Salt'
+staxel.item.crafting.Salt.name=塩
+//[Reference] 'A traditional cheese sandwich.'
+staxel.item.crafting.SandwichCheese.description=定番のチーズサンドイッチ。
+//[Reference] 'Cheese Sandwich'
+staxel.item.crafting.SandwichCheese.name=チーズサンドイッチ
+//[Reference] 'A cheese & tomato sandwich for the adventurous.'
+staxel.item.crafting.SandwichCheeseTomato.description=冒険好きな人のための、チーズとトマトのサンドイッチ。
+//[Reference] 'Cheese & Tomato Sandwich'
+staxel.item.crafting.SandwichCheeseTomato.name=チーズとトマトのサンドイッチ
+staxel.item.crafting.SauceApple.description=
+//[Reference] 'Apple Sauce'
+staxel.item.crafting.SauceApple.name=リンゴのソース
+staxel.item.crafting.SaucePeach.description=
+//[Reference] 'Peach Sauce'
+staxel.item.crafting.SaucePeach.name=モモのソース
+staxel.item.crafting.SoupBeetroot.description=
+//[Reference] 'Beetroot Soup'
+staxel.item.crafting.SoupBeetroot.name=ビーツスープ
+staxel.item.crafting.SoupCabbage.description=
+//[Reference] 'Cabbage Soup'
+staxel.item.crafting.SoupCabbage.name=キャベツスープ
+staxel.item.crafting.SoupCarrot.description=
+//[Reference] 'Carrot Soup'
+staxel.item.crafting.SoupCarrot.name=ニンジンスープ
+staxel.item.crafting.SoupPumpkin.description=
+//[Reference] 'Pumpkin Soup'
+staxel.item.crafting.SoupPumpkin.name=カボチャスープ
+//[Reference] 'It's great tucking into some tomato soup while it's raining outside.'
+staxel.item.crafting.SoupTomato.description=雨の日にお家で味わうトマトスープは最高。
+//[Reference] 'Tomato Soup'
+staxel.item.crafting.SoupTomato.name=トマトスープ
+staxel.item.crafting.SoupTurnip.description=
+//[Reference] 'Turnip Soup'
+staxel.item.crafting.SoupTurnip.name=カブのスープ
+//[Reference] 'Made from assorted vegetables.'
+staxel.item.crafting.SoupVegetable.description=色んな野菜から作られてるよ。
+//[Reference] 'Vegetable Soup'
+staxel.item.crafting.SoupVegetable.name=野菜スープ
+//[Reference] 'A genius invention which makes eating certain things easier.'
+staxel.item.crafting.Spoon.description=食べ物を簡単に食べられるようにしてくれる天才的な発明品。
+//[Reference] 'Spoon'
+staxel.item.crafting.Spoon.name=スプーン
+//[Reference] 'Juicy, juicy strawberries!'
+staxel.item.crafting.Strawberries.description=果汁あふれるイチゴ！
+//[Reference] 'Strawberries'
+staxel.item.crafting.Strawberries.name=イチゴ
+//[Reference] 'Just when you thought muffins couldn't get any better, someone went and added strawberries.'
+staxel.item.crafting.StrawberryMuffins.description=マフィンがこれ以上進歩することはないと思われていたが、ある日イチゴを加える者が現れた。
+//[Reference] 'Strawberry Muffins'
+staxel.item.crafting.StrawberryMuffins.name=ストロベリーマフィン
+//[Reference] 'It's like cheese, but with holes.'
+staxel.item.crafting.SwissCheeseSlice.description=チーズは穴がないとね。
+//[Reference] 'Swiss Cheese'
+staxel.item.crafting.SwissCheeseSlice.name=スイスチーズ
+//[Reference] 'Sweet, thick syrup. Great with pancakes, and many other things too!'
+staxel.item.crafting.Syrup.description=甘くて濃い味のシロップ。パンケーキなど、いろんな料理にとても合う！
+//[Reference] 'Syrup'
+staxel.item.crafting.Syrup.name=シロップ
+//[Reference] 'A perfectly toasted cheese toastie.'
+staxel.item.crafting.ToastieCheese.description=絶妙に焼かれたチーズトースト。
+//[Reference] 'Cheese Toastie'
+staxel.item.crafting.ToastieCheese.name=チーズトースト
+//[Reference] 'All that melty cheese with tomatos, mmmm.'
+staxel.item.crafting.ToastieCheeseTomato.description=とろけるチーズとトマト。ん～おいしい～
+//[Reference] 'Cheese & Tomato Toastie'
+staxel.item.crafting.ToastieCheeseTomato.name=チーズとトマトのトースト
+//[Reference] 'Chopped up tomato'
+staxel.item.crafting.TomatoCut.description=トマトをカットしたもの
+//[Reference] 'Chopped Tomato'
+staxel.item.crafting.TomatoCut.name=カットしたトマト
+//[Reference] 'A colourful dish made with assorted vegetables. It has the perfect balance of sweet and savoury, delicious!'
+staxel.item.crafting.VegetableMedley.description=色々な野菜を用いたカラフルな一品。甘さ香りのバランスが絶妙。おいしい！
+//[Reference] 'Vegetable Medley'
+staxel.item.crafting.VegetableMedley.name=ベジタブルメドレー
+//[Reference] 'A jar of water.'
+staxel.item.crafting.WaterJar.description=ビンに入った水。
+//[Reference] 'Jar of Water'
+staxel.item.crafting.WaterJar.name=ビンに入った水
+//[Reference] 'A tool useful for whisking, and a relative name to boot!'
+staxel.item.crafting.Whisk.description=泡立てるのに便利な道具。ピンと立てる名前だよ！
+//[Reference] 'Whisk'
+staxel.item.crafting.Whisk.name=泡立て器
+//[Reference] 'A lot of teeny tiny crystals that are very sweet.'
+staxel.item.crafting.WhiteSugar.description=とっても甘い、小さな小さな結晶が集まったもの。
+//[Reference] 'White Sugar'
+staxel.item.crafting.WhiteSugar.name=白砂糖
+//[Reference] 'Wooden planks processed from raw wood. Useful for crafting.'
+staxel.item.crafting.WoodPlanks.description=原木を加工して作った木材。工作に役立つ。
+//[Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlanks.name=木材
+//[Reference] 'Raw wood that's been processed into wooden planks.'
+staxel.item.crafting.WoodPlankTileItem.description=原木を加工して作った木材。
+//[Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlankTileItem.name=木材
+//[Reference] 'Raw wood which has been processed into a wood plank wall.'
+staxel.item.crafting.WoodPlankWallItem.description=原木を加工して作った木材の壁。
+//[Reference] 'Wood Plank Wall.'
+staxel.item.crafting.WoodPlankWallItem.name=木材の壁
+//[Reference] 'Fresh from a very cute sheep, this wool has many different uses!'
+staxel.item.crafting.Wool.description=とってもかわいい羊から採れたばかり。羊毛にはたくさんの用途がある！
+//[Reference] 'Wool'
+staxel.item.crafting.Wool.name=羊毛
+staxel.item.crafting.Yeast.description=
+//[Reference] 'Yeast'
+staxel.item.crafting.Yeast.name=酵母
+//[Reference] 'This juice looks zingy!'
+staxel.item.crafting.YellowJuice.description=おいしそうなジュース！
+//[Reference] 'Yellow Juice'
+staxel.item.crafting.YellowJuice.name=黄色いジュース
+staxel.item.crafting.Yoghurt.description=
+//[Reference] 'Yoghurt'
+staxel.item.crafting.Yoghurt.name=ヨーグルト
+//[Reference] 'A delicious, juicy, crunchy apple.'
+staxel.item.crops.Apple.description=果汁たっぷりで歯ごたえのある、おいしいリンゴ。
+//[Reference] 'Apple'
+staxel.item.crops.Apple.name=リンゴ
+//[Reference] 'It looks perfectly ripened.'
+staxel.item.crops.Banana.description=完熟したバナナ。
+//[Reference] 'Banana'
+staxel.item.crops.Banana.name=バナナ
+//[Reference] 'A brightly coloured beet.'
+staxel.item.crops.Beet.description=つやつやのビーツ。
+//[Reference] 'Beet'
+staxel.item.crops.Beet.name=ビーツ
+//[Reference] 'Juicy shiny, blackberries.'
+staxel.item.crops.Blackberries.description=みずみずしく光るブラックベリー。
+//[Reference] 'Blackberries'
+staxel.item.crops.Blackberries.name=ブラックベリー
+//[Reference] 'Fresh blueberries, cool to the touch!'
+staxel.item.crops.Blueberries.description=新鮮なブルーベリー。見た目も爽やか！
+//[Reference] 'Blueberries'
+staxel.item.crops.Blueberries.name=ブルーベリー
+staxel.item.crops.Cabbage.description=
+//[Reference] 'Cabbage'
+staxel.item.crops.Cabbage.name=キャベツ
+//[Reference] 'A healthy looking carrot.'
+staxel.item.crops.Carrot.description=おいしそうなニンジン。
+//[Reference] 'Carrot'
+staxel.item.crops.Carrot.name=ニンジン
+//[Reference] 'Fresh and sweet cherries.'
+staxel.item.crops.Cherries.description=とれたての甘いサクランボ。
+//[Reference] 'Cherries'
+staxel.item.crops.Cherries.name=サクランボ
+//[Reference] 'A fresh and sweet cherry.'
+staxel.item.crops.Cherry.description=とれたての甘いサクランボ。
+//[Reference] 'Cherry'
+staxel.item.crops.Cherry.name=サクランボ
+staxel.item.crops.Cocoa.description=
+//[Reference] 'Cocoa'
+staxel.item.crops.Cocoa.name=ココア
+//[Reference] 'This is going to taste great... once you figure out how to crack it open.'
+staxel.item.crops.Coconut.description=とてもおいしく味わえるはず…割り方さえわかれば。
+//[Reference] 'Coconut'
+staxel.item.crops.Coconut.name=ココナッツ
+//[Reference] 'Delicious yellow corn.'
+staxel.item.crops.Corn.description=おいしそうなトウモロコシ。
+//[Reference] 'Corn'
+staxel.item.crops.Corn.name=トウモロコシ
+//[Reference] 'A freshly grown cucumber.'
+staxel.item.crops.Cucumber.description=もぎたてのキュウリ。
+//[Reference] 'Cucumber'
+staxel.item.crops.Cucumber.name=キュウリ
+//[Reference] 'What a beautiful looking fruit, it almost looks alien!'
+staxel.item.crops.DragonFruit.description=まるでエイリアンのような、美しい見た目のフルーツ！
+//[Reference] 'Dragon Fruit'
+staxel.item.crops.DragonFruit.name=ドラゴンフルーツ
+//[Reference] 'A very shiny eggplant.'
+staxel.item.crops.Eggplant.description=とってもつやつやのナス。
+//[Reference] 'Eggplant'
+staxel.item.crops.Eggplant.name=ナス
+//[Reference] 'How strange, this beet is solid gold!'
+staxel.item.crops.GoldenBeet.description=このビーツは純金でできている、なんて不思議なんだろう！
+//[Reference] 'Golden Beet'
+staxel.item.crops.GoldenBeet.name=黄金ビーツ
+//[Reference] 'Very pretty goldenberries.'
+staxel.item.crops.Goldenberries.description=とてもきれいなゴールデンベリー。
+//[Reference] 'Golden Berries'
+staxel.item.crops.Goldenberries.name=ゴールデンベリー
+//[Reference] 'Oh my, this carrot is solid gold!'
+staxel.item.crops.GoldenCarrot.description=なんと、このニンジンは純金でできている！
+//[Reference] 'Golden Carrot'
+staxel.item.crops.GoldenCarrot.name=黄金ニンジン
+//[Reference] 'This corn is made of gold! Best make sure no kernels fall off!'
+staxel.item.crops.GoldenCorn.description=このトウモロコシは黄金でできている！一粒も落とさないようにしよう！
+//[Reference] 'Golden Corn'
+staxel.item.crops.GoldenCorn.name=黄金トウモロコシ
+//[Reference] 'Wow, this cucumber is made of gold!'
+staxel.item.crops.GoldenCucumber.description=すごい、このキュウリは黄金でできている！
+//[Reference] 'Golden Cucumber'
+staxel.item.crops.GoldenCucumber.name=黄金キュウリ
+//[Reference] 'This Eggplant is made of gold! Unfortunately, golden chickens don't hatch out of golden eggplants.'
+staxel.item.crops.GoldenEggplant.description=このナスは黄金でできている！残念だけど、黄金のエッグプラントから黄金のニワトリがかえることはない。
+//[Reference] 'Golden Eggplant'
+staxel.item.crops.GoldenEggplant.name=黄金ナス
+//[Reference] 'This lettuce is made of gold! I hear this is what caesar salads were originally made with...'
+staxel.item.crops.GoldenLettuce.description=このレタスは黄金でできている！シーザーサラダは元々この黄金レタスを使った料理だとか…
+//[Reference] 'Golden Lettuce'
+staxel.item.crops.GoldenLettuce.name=黄金レタス
+//[Reference] 'These oats are more golden than usual! They don't taste as nice though...'
+staxel.item.crops.GoldenOats.description=これらのオート麦は本当に黄金色だ！味はそこまで良くないけれど…
+//[Reference] 'Golden Oats'
+staxel.item.crops.GoldenOats.name=黄金オート麦
+//[Reference] 'Wow, a golden onion! I'm tearing up!'
+staxel.item.crops.GoldenOnion.description=すごい、黄金タマネギだ！泣きそう！
+//[Reference] 'Golden Onion'
+staxel.item.crops.GoldenOnion.name=黄金タマネギ
+//[Reference] 'A golden potato, with golden eyes!'
+staxel.item.crops.GoldenPotato.description=黄金の芽を持った、金色のジャガイモ！
+//[Reference] 'Golden Potato'
+staxel.item.crops.GoldenPotato.name=黄金ジャガイモ
+//[Reference] 'Sweet! A golden sugar beet!'
+staxel.item.crops.GoldenSugarBeet.description=甘い！金色のテンサイ！
+//[Reference] 'Golden Sugar Beet'
+staxel.item.crops.GoldenSugarBeet.name=黄金テンサイ
+//[Reference] 'Wow, a golden sugar cane!'
+staxel.item.crops.GoldenSugarCane.description=すごい、金のサトウキビだ！
+//[Reference] 'Golden Sugar Cane'
+staxel.item.crops.GoldenSugarCane.name=黄金サトウキビ
+//[Reference] 'Woah, this Sweet Potato is solid gold!'
+staxel.item.crops.GoldenSweetPotato.description=すごい、このサツマイモは純金でできている！
+//[Reference] 'Golden Sweet Potato'
+staxel.item.crops.GoldenSweetPotato.name=黄金サツマイモ
+//[Reference] 'A golden tomato! I wonder what golden tomato soup would taste like...'
+staxel.item.crops.GoldenTomato.description=金のトマト！黄金トマトのスープはどんな味がするんだろう…
+//[Reference] 'Golden Tomato'
+staxel.item.crops.GoldenTomato.name=黄金トマト
+//[Reference] 'Amazing, a golden turnip!'
+staxel.item.crops.GoldenTurnip.description=驚いた、金色のカブだ！
+//[Reference] 'Golden Turnip'
+staxel.item.crops.GoldenTurnip.name=黄金カブ
+//[Reference] 'A fresh kiwi, apparently the skin is edible!'
+staxel.item.crops.Kiwi.description=新鮮なキウイ。皮も食べられる！
+//[Reference] 'Kiwi'
+staxel.item.crops.Kiwi.name=キウイ
+//[Reference] 'A yummy, sour fruit.'
+staxel.item.crops.Lemon.description=酸っぱくておいしいフルーツ。
+//[Reference] 'Lemon'
+staxel.item.crops.Lemon.name=レモン
+//[Reference] 'A head of green lettuce'
+staxel.item.crops.Lettuce.description=一玉のグリーンレタス。
+//[Reference] 'Lettuce'
+staxel.item.crops.Lettuce.name=レタス
+//[Reference] 'A brightly coloured lime green lime.'
+staxel.item.crops.Lime.description=きらめく緑色のライム。
+//[Reference] 'Lime'
+staxel.item.crops.Lime.name=ライム
+//[Reference] 'A very colourful fruit.'
+staxel.item.crops.Mango.description=とてもカラフルなフルーツ。
+//[Reference] 'Mango'
+staxel.item.crops.Mango.name=マンゴー
+//[Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crops.Oat.description=採れたてのオート麦。なんて良い粒なんだ！
+//[Reference] 'Oats'
+staxel.item.crops.Oat.name=オート麦
+//[Reference] 'Be careful when chopping!'
+staxel.item.crops.Onion.description=みじん切りにする時は気をつけて！
+//[Reference] 'Onion'
+staxel.item.crops.Onion.name=タマネギ
+//[Reference] 'An intensely orange orange.'
+staxel.item.crops.Orange.description=まぶしいオレンジ色のオレンジ。
+//[Reference] 'Orange'
+staxel.item.crops.Orange.name=オレンジ
+//[Reference] 'A sweet, juicy peach.'
+staxel.item.crops.Peach.description=果汁たっぷりの甘いモモ。
+//[Reference] 'Peach'
+staxel.item.crops.Peach.name=モモ
+//[Reference] 'A fresh, crunchy pear.'
+staxel.item.crops.Pear.description=歯ごたえのある新鮮なナシ。
+//[Reference] 'Pear'
+staxel.item.crops.Pear.name=ナシ
+//[Reference] 'That one vegetable everybody loves.'
+staxel.item.crops.Potato.description=みんな大好きな野菜。
+//[Reference] 'Potato'
+staxel.item.crops.Potato.name=ジャガイモ
+//[Reference] 'The spookiest vegetable!'
+staxel.item.crops.Pumpkin.description=コワい野菜といえばこれ！
+//[Reference] 'Pumpkin'
+staxel.item.crops.Pumpkin.name=カボチャ
+//[Reference] 'Some soft, ripened raspberries'
+staxel.item.crops.Raspberries.description=柔らかく熟したラズベリー。
+//[Reference] 'Raspberries'
+staxel.item.crops.Raspberries.name=ラズベリー
+//[Reference] 'These strawberries look perfectly ripened!'
+staxel.item.crops.Strawberries.description=完熟したイチゴ！
+//[Reference] 'Strawberries'
+staxel.item.crops.Strawberries.name=イチゴ
+//[Reference] 'A healthy looking sugar beet.'
+staxel.item.crops.SugarBeet.description=体に良さそうなテンサイ。
+//[Reference] 'Sugar Beet'
+staxel.item.crops.SugarBeet.name=テンサイ
+//[Reference] 'So sweet, I cane-not resist.'
+staxel.item.crops.SugarCane.description=トウっても甘くて、我慢するのはキビしい。
+//[Reference] 'Sugar Cane'
+staxel.item.crops.SugarCane.name=サトウキビ
+//[Reference] 'Like a potato, but kinder.'
+staxel.item.crops.SweetPotato.description=ジャガイモに似ているけれど、ジャガイモより甘い。
+//[Reference] 'Sweet Potato'
+staxel.item.crops.SweetPotato.name=サツマイモ
+//[Reference] 'It's not an orange, it's a tangerine.'
+staxel.item.crops.Tangerine.description=これはオレンジではなく、タンジェリン。
+//[Reference] 'Tangerine'
+staxel.item.crops.Tangerine.name=タンジェリン
+//[Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.item.crops.Tomato.description=新鮮、やわらかくてジューシー！うまい。
+//[Reference] 'Tomato'
+staxel.item.crops.Tomato.name=トマト
+//[Reference] 'The most popular crop for farming.'
+staxel.item.crops.Turnip.description=農業でもっともよく育てられる作物。
+//[Reference] 'Turnip'
+staxel.item.crops.Turnip.name=カブ
+//[Reference] 'The juiciest, red, fruit'
+staxel.item.crops.Watermelon.description=とってもみずみずしい、赤いフルーツ。
+//[Reference] 'Watermelon'
+staxel.item.crops.Watermelon.name=スイカ
+staxel.item.currency.BronzePetalCoin.description=
+//[Reference] 'Bronze Petal Coin'
+staxel.item.currency.BronzePetalCoin.name=ブロンズペタルコイン
+staxel.item.currency.GoldPetalCoin.description=
+//[Reference] 'Gold Petal Coin'
+staxel.item.currency.GoldPetalCoin.name=ゴールドペタルコイン
+staxel.item.currency.PlatinumPetalCoin.description=
+//[Reference] 'Platinum Petal Coin'
+staxel.item.currency.PlatinumPetalCoin.name=プラチナペタルコイン
+staxel.item.currency.SilverPetalCoin.description=
+//[Reference] 'Silver Petal Coin'
+staxel.item.currency.SilverPetalCoin.name=シルバーペタルコイン
+//[Reference] 'A bag of chicken feed. The perfect food to keep your chickens happy and healthy.'
+staxel.item.farmAnimals.ChickenFood.description=ニワトリのエサが入った袋。このエサはニワトリを元気で健康な状態に保つのに最適。
+//[Reference] 'Chicken Food'
+staxel.item.farmAnimals.ChickenFood.name=ニワトリのエサ
+//[Reference] 'A bag of cow food. This will keep your cows well fed and happy.'
+staxel.item.farmAnimals.CowFood.description=牛のエサが入った袋。このエサは牛を元気で栄養十分な状態に保つ。
+//[Reference] 'Cow Food'
+staxel.item.farmAnimals.CowFood.name=牛のエサ
+//[Reference] 'It's not for everyone, but plants love it!'
+staxel.item.farmAnimals.CowSplat.description=誰もが好きなわけじゃないけど、植物は大好き！
+//[Reference] 'Splat'
+staxel.item.farmAnimals.CowSplat.name=フン
+//[Reference] 'A bag of trough food. This will keep your livestock well fed and happy. (Not for poultry.)'
+staxel.item.farmAnimals.TroughFood.description=飼い葉桶用のエサが入った袋。家畜を元気で健康な状態に保つ。（トリ用ではない）
+//[Reference] 'Trough Food'
+staxel.item.farmAnimals.TroughFood.name=飼い葉桶用のエサ
+//[Reference] 'The license to your farm. You should treasure it.'
+staxel.item.FarmLicense.description=牧場のライセンス。大切に取っておこう。
+//[Reference] 'Farm License'
+staxel.item.FarmLicense.name=牧場のライセンス
+//[Reference] 'A letter that registers you and your farm. Better hand it to the Mayor quick!'
+staxel.item.FarmRegistrationLetter.description=君と牧場を登録するための書類。早く町長に渡しに行こう！
+//[Reference] 'Farm Registration Letter'
+staxel.item.FarmRegistrationLetter.name=牧場の登録用紙
+//[Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar1.description=質素だけどきれいな粘土のツボ
+//[Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar1.name=粘土のツボ
+//[Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar2.description=質素だけどきれいな粘土のツボ
+//[Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar2.name=粘土のツボ
+//[Reference] 'A crate filled with assorted green fruit.'
+staxel.item.fluff.CrateGreenFruit.description=さまざまな緑色の果物が入った木箱。
+//[Reference] 'Crate of Green Fruit'
+staxel.item.fluff.CrateGreenFruit.name=木箱（緑色の果物）
+//[Reference] 'A crate filled with assorted red fruit.'
+staxel.item.fluff.CrateRedFruit.description=さまざまな赤色の果物が入った木箱。
+//[Reference] 'Crate of Red Fruit'
+staxel.item.fluff.CrateRedFruit.name=木箱（赤色の果物）
+//[Reference] 'A crate filled with assorted yellow fruit.'
+staxel.item.fluff.CrateYellowFruit.description=さまざまな黄色の果物が入った木箱。
+//[Reference] 'Crate of Yellow Fruit'
+staxel.item.fluff.CrateYellowFruit.name=木箱（黄色の果物）
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray1.description=取れたてピチピチの魚で詰まった箱！
+//[Reference] 'Crate of Fish'
+staxel.item.fluff.FishTray1.name=木箱（魚）
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray2.description=取れたてピチピチの魚で詰まった箱！
+//[Reference] 'Crate of Fish'
+staxel.item.fluff.FishTray2.name=木箱（魚）
+//[Reference] 'A candle that creates an orange light when lit.'
+staxel.item.fluff.OrangeCandle.description=火をつけたときにオレンジ色に光るロウソク。
+//[Reference] 'Orange Candle'
+staxel.item.fluff.OrangeCandle.name=オレンジ色のロウソク
+//[Reference] 'A candle that creates a purple light when lit.'
+staxel.item.fluff.PurpleCandle.description=火をつけたときに紫色に光るロウソク。
+//[Reference] 'Purple Candle'
+staxel.item.fluff.PurpleCandle.name=紫色のロウソク
+//[Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
+staxel.item.gatherable.Bee.description=花からミツを集めて巣へと持ち帰り、そこで更なるハチミツを生産できるようにする働きバチ。
+//[Reference] 'Worker Bee'
+staxel.item.gatherable.Bee.name=働きバチ
+//[Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
+staxel.item.gatherable.BeeQueen.description=ハチの集団のトップに立つ女王バチ。群れでの重大な決断は全て彼女に任せられている。
+//[Reference] 'Queen Bee'
+staxel.item.gatherable.BeeQueen.name=女王バチ
+staxel.item.gatherable.BlueTang.description=
+//[Reference] 'Blue Tang'
+staxel.item.gatherable.BlueTang.name=ナンヨウハギ
+//[Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.item.gatherable.BrownMushroom.description=採れたばかりの茶色のキノコ。見た感じ、食べても大丈夫そう。
+//[Reference] 'Brown Mushroom'
+staxel.item.gatherable.BrownMushroom.name=茶色のキノコ
+staxel.item.gatherable.ClownFish.description=
+//[Reference] 'Clown Fish'
+staxel.item.gatherable.ClownFish.name=クマノミ
+staxel.item.gatherable.Crab.description=
+//[Reference] 'Crab'
+staxel.item.gatherable.Crab.name=カニ
+staxel.item.gatherable.event.AprilEgg.description=
+//[Reference] 'April Egg'
+staxel.item.gatherable.event.AprilEgg.name=エイプリルエッグ
+//[Reference] 'This Betta Fish has very elegent fins. They look like silk wings!'
+staxel.item.gatherable.FishBeta.description=ベタはとても優雅なヒレを持っている。まるでシルクの羽のよう！
+//[Reference] 'Betta Fish'
+staxel.item.gatherable.FishBeta.name=ベタ
+staxel.item.gatherable.HermitShell.description=
+//[Reference] 'Hermit Shell'
+staxel.item.gatherable.HermitShell.name=ヤドカリの貝殻
+//[Reference] 'A honey pot filled to the brim with honey. It looks so delicious!'
+staxel.item.gatherable.HoneyPotFull.description=あふれんばかりのハチミツで満たされたハニーポット。とってもおいしそう！
+//[Reference] 'Full Honey Pot'
+staxel.item.gatherable.HoneyPotFull.name=ハチミツの詰まったビン
+staxel.item.gatherable.Jellyfish.description=
+//[Reference] 'Jellyfish'
+staxel.item.gatherable.Jellyfish.name=クラゲ
+staxel.item.gatherable.Octopus.description=
+//[Reference] 'Octopus'
+staxel.item.gatherable.Octopus.name=タコ
+staxel.item.gatherable.PearlShell.description=
+//[Reference] 'Pearl Shell'
+staxel.item.gatherable.PearlShell.name=真珠の貝殻
+staxel.item.gatherable.RedCoral.description=
+//[Reference] 'Red Coral'
+staxel.item.gatherable.RedCoral.name=赤サンゴ
+//[Reference] 'This red and white mushroom is very pretty, but it's not safe to eat!'
+staxel.item.gatherable.RedWhiteMushroom.description=赤と白のとてもかわいいキノコ。でも食べるのは危険！
+//[Reference] 'Red & White Mushroom'
+staxel.item.gatherable.RedWhiteMushroom.name=赤白のキノコ
+//[Reference] 'And they said it wasn't possible.'
+staxel.item.gatherable.RhinoBeetle.description=出来なさそうなこともやれるすごい虫。
+//[Reference] 'Rhino Beetle'
+staxel.item.gatherable.RhinoBeetle.name=カブトムシ
+staxel.item.gatherable.Squid.description=
+//[Reference] 'Squid'
+staxel.item.gatherable.Squid.name=イカ
+staxel.item.gatherable.Starfish.description=
+//[Reference] 'Starfish'
+staxel.item.gatherable.Starfish.name=ヒトデ
+staxel.item.gatherable.SwirlyShell.description=
+//[Reference] 'Swirly Shell'
+staxel.item.gatherable.SwirlyShell.name=巻貝
+//[Reference] 'White mushrooms pretty common, and taste great fried!'
+staxel.item.gatherable.WhiteMushrooms.description=白色のキノコは一般的。炒めるととてもおいしい！
+//[Reference] 'White Mushroom'
+staxel.item.gatherable.WhiteMushrooms.name=白色のキノコ
+staxel.item.generic.FireworkBlue.description=
+//[Reference] 'Blue Firework'
+staxel.item.generic.FireworkBlue.name=青色の花火
+staxel.item.generic.FireworkGreen.description=
+//[Reference] 'Green Firework'
+staxel.item.generic.FireworkGreen.name=緑色の花火
+staxel.item.generic.FireworkRed.description=
+//[Reference] 'Red Firework'
+staxel.item.generic.FireworkRed.name=赤色の花火
+staxel.item.generic.GoalFirework.description=
+//[Reference] 'Goal Firework'
+staxel.item.generic.GoalFirework.name=ゴールの花火
+//[Reference] 'Hit it with a stick!'
+staxel.item.generic.HockeyBall.description=スティックで打とう！
+//[Reference] 'Hockey Ball'
+staxel.item.generic.HockeyBall.name=ホッケーボール
+staxel.item.generic.RedBook.description=
+//[Reference] 'Red Book'
+staxel.item.generic.RedBook.name=赤い本
+//[Reference] 'Use this when your pet is following you to have them do tricks!'
+staxel.item.generic.Whistle.description=ペットがついてきてる時にこれを使って芸をさせよう！
+//[Reference] 'Whistle'
+staxel.item.generic.Whistle.name=ホイッスル
+staxel.item.Ore1.description=
+//[Reference] 'Blue Crystal'
+staxel.item.Ore1.name=青水晶
+staxel.item.Ore2.description=
+//[Reference] 'Pink Crystal'
+staxel.item.Ore2.name=ピンク水晶
+staxel.item.Ore3.description=
+//[Reference] 'Yellow Crystal'
+staxel.item.Ore3.name=黄水晶
+staxel.item.pets.PetFood.description=
+//[Reference] 'Pet Food'
+staxel.item.pets.PetFood.name=ペットフード
+//[Reference] 'What is inside the present?'
+staxel.item.presents.TradePresent.description=プレゼントの中身はなんだろう？
+//[Reference] 'Present'
+staxel.item.presents.TradePresent.name=プレゼント
+staxel.item.quest.BlueLetter.description=
+//[Reference] 'Blue Letter'
+staxel.item.quest.BlueLetter.name=青色の手紙
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.BlueSocks.description=いったいどうしてこんなところに？
+//[Reference] 'Blue Socks'
+staxel.item.quest.BlueSocks.name=青色の靴下
+//[Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.BlueVoxelboy.description=誰かがこのゲーム機を忘れていったみたいだ！
+//[Reference] 'Blue Voxelboy'
+staxel.item.quest.BlueVoxelboy.name=青色のボクセルボーイ
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneBlue.description=誰かがこの電話を落としたみたいだ！
+//[Reference] 'Blue Bunny Phone'
+staxel.item.quest.BunnyPhoneBlue.name=青色のバニーフォン
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhonePink.description=誰かがこの電話を落としたみたいだ！
+//[Reference] 'Pink Bunny Phone'
+staxel.item.quest.BunnyPhonePink.name=ピンク色のバニーフォン
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneYellow.description=誰かがこの電話を落としたみたいだ！
+//[Reference] 'Yellow Bunny Phone'
+staxel.item.quest.BunnyPhoneYellow.name=黄色のバニーフォン
+//[Reference] 'Some sort of strange technology. Cecile will love this.'
+staxel.item.quest.Leif.BasicTeleporter.description=不思議な技術が詰まってる。セシルのお気に入りだ。
+//[Reference] '???'
+staxel.item.quest.Leif.BasicTeleporter.name=？？？
+//[Reference] 'You're not sure you can trust this...'
+staxel.item.quest.Leif.FixedTeleporter.description=信用できる代物かどうか怪しい…
+//[Reference] 'Fixed? Teleporter'
+staxel.item.quest.Leif.FixedTeleporter.name=修理済み？テレポーター
+//[Reference] 'Something is wrong. Maybe Cecile will help...'
+staxel.item.quest.Leif.Ren.description=様子がおかしい。セシルなら何とかできるかも…
+//[Reference] 'Ren'
+staxel.item.quest.Leif.Ren.name=ラン
+//[Reference] 'You have no idea what this does.'
+staxel.item.quest.Leif.Thingamabob1.description=何なのか全くもって謎。
+//[Reference] 'Thingamabob No. 1'
+staxel.item.quest.Leif.Thingamabob1.name=例のあれ1
+//[Reference] 'You have no idea what this does.'
+staxel.item.quest.Leif.Thingamabob2.description=何なのか全くもって謎。
+//[Reference] 'Thingamabob No. 2'
+staxel.item.quest.Leif.Thingamabob2.name=例のあれ2
+//[Reference] 'You have no idea what this does.'
+staxel.item.quest.Leif.Thingamabob3.description=何なのか全くもって謎。
+//[Reference] 'Thingamabob No. 3'
+staxel.item.quest.Leif.Thingamabob3.name=例のあれ3
+//[Reference] 'You have no idea what this does.'
+staxel.item.quest.Leif.Thingamabob4.description=何なのか全くもって謎。
+//[Reference] 'Thingamabob No. 4'
+staxel.item.quest.Leif.Thingamabob4.name=例のあれ4
+//[Reference] 'You have no idea what this does.'
+staxel.item.quest.Leif.Thingamabob5.description=何なのか全くもって謎。
+//[Reference] 'Thingamabob No. 5'
+staxel.item.quest.Leif.Thingamabob5.name=例のあれ5
+//[Reference] 'Seems different from last time...'
+staxel.item.quest.Leif.TinkeredTeleporter.description=前回のものとは違うようだ…
+//[Reference] 'Teleporter'
+staxel.item.quest.Leif.TinkeredTeleporter.name=テレポーター
+staxel.item.quest.Max.GaintTurnip.description=
+//[Reference] 'Giant Turnip'
+staxel.item.quest.Max.GaintTurnip.name=巨大なカブ
+staxel.item.quest.Max.GrandPrizeVoucher.description=
+//[Reference] 'Grand Prize Voucher'
+staxel.item.quest.Max.GrandPrizeVoucher.name=大賞の証書
+//[Reference] 'You don't know if you can trust this strange concoction...'
+staxel.item.quest.Morel.MushroomPotion.description=この薬は何だか変だぞ…
+//[Reference] 'Mushroom Potion'
+staxel.item.quest.Morel.MushroomPotion.name=キノコのポーション
+//[Reference] 'It feels like something is different about this mushroom.'
+staxel.item.quest.Morel.SpecialMushroom.description=このキノコは他と何かが違う気がする。
+//[Reference] 'Special Mushroom'
+staxel.item.quest.Morel.SpecialMushroom.name=特別なキノコ
+staxel.item.quest.Parcel.description=
+//[Reference] 'Parcel'
+staxel.item.quest.Parcel.name=小包
+staxel.item.quest.PinkLetter.description=
+//[Reference] 'Pink Letter'
+staxel.item.quest.PinkLetter.name=ピンク色の手紙
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.PinkSocks.description=いったいどうしてこんなところに？
+//[Reference] 'Pink Socks'
+staxel.item.quest.PinkSocks.name=ピンク色の靴下
+staxel.item.quest.Vorlen.StrangePhotograph.description=
+//[Reference] 'Strange Photograph'
+staxel.item.quest.Vorlen.StrangePhotograph.name=奇妙な写真
+staxel.item.quest.YellowLetter.description=
+//[Reference] 'Yellow Letter'
+staxel.item.quest.YellowLetter.name=黄色の手紙
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.YellowSocks.description=いったいどうしてこんなところに？
+//[Reference] 'Yellow Socks'
+staxel.item.quest.YellowSocks.name=黄色の靴下
+//[Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.YellowVoxelboy.description=誰かがこのゲーム機を忘れていったみたいだ！
+//[Reference] 'Yellow Voxelboy'
+staxel.item.quest.YellowVoxelboy.name=黄色のボクセルボーイ
+staxel.item.seed.DarkFairyGrassSeedPacket.description=
+//[Reference] 'Dark Fairy Grass Seed Packet'
+staxel.item.seed.DarkFairyGrassSeedPacket.name=暗いフェアリー草の種パック
+staxel.item.seed.FairyGrassSeedPacket.description=
+//[Reference] 'Fairy Grass Seed Packet'
+staxel.item.seed.FairyGrassSeedPacket.name=フェアリー草の種パック
+//[Reference] 'Seeds for growing grass.'
+staxel.item.seed.GrassSeedPacket.description=草が育つ種。
+//[Reference] 'Grass Seed Packet'
+staxel.item.seed.GrassSeedPacket.name=草の種パック
+//[Reference] 'Seeds for growing thick grass.'
+staxel.item.seed.ThickGrassSeedPacket.description=太い草が育つ種。
+//[Reference] 'Thick Grass Seed Packet'
+staxel.item.seed.ThickGrassSeedPacket.name=太い草の種パック
+//[Reference] 'A tool used to chop down big trees.'
+staxel.item.tool.Axe.description=大きな木を切り倒すために使う道具。
+//[Reference] 'Axe'
+staxel.item.tool.Axe.name=斧
+//[Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
+staxel.item.tool.Axe2.description=大きな木を切り倒すのに使う道具。チャージするとさらに深く切れる。
+//[Reference] 'Hardened Axe'
+staxel.item.tool.Axe2.name=強化斧ver2
+//[Reference] 'A tool used to chop down big trees. Has 2 levels of charge.'
+staxel.item.tool.Axe3.description=大きな木を切り倒すのに使う道具。2段階チャージができる。
+//[Reference] 'Reinforced Axe'
+staxel.item.tool.Axe3.name=強化斧ver3
+//[Reference] 'A tool used to chop down big trees. Has 3 levels of charge.'
+staxel.item.tool.Axe4.description=大きな木を切り倒すのに使う道具。3段階チャージができる。
+//[Reference] 'Infused Axe'
+staxel.item.tool.Axe4.name=強化斧ver4
+//[Reference] 'Use to push dropped items, or play broom hockey!'
+staxel.item.tool.Broom.description=落ちてるアイテムを押し出すのに使ったり、ホウキホッケーで遊ぼう！
+//[Reference] 'Broom'
+staxel.item.tool.Broom.name=ホウキ
+//[Reference] 'Use this to capture farm animals!'
+staxel.item.tool.captureCrate.description=牧場の動物を捕まえるために使う！
+//[Reference] 'Capture Crate'
+staxel.item.tool.captureCrate.name=キャプチャークレート
+//[Reference] 'A tool used to disassemble objects.'
+staxel.item.tool.Hammer.description=家具を撤去する時に使う道具。
+//[Reference] 'Hammer'
+staxel.item.tool.Hammer.name=ハンマー
+//[Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area.'
+staxel.item.tool.Hammer2.description=家具を撤去する時に使う道具。チャージすると効果範囲が広がる。
+//[Reference] 'Hardened Hammer'
+staxel.item.tool.Hammer2.name=強化ハンマーver2
+//[Reference] 'A tool used to disassemble objects. Has 2 levels of charge.'
+staxel.item.tool.Hammer3.description=家具を撤去する時に使う道具。2段階チャージができる。
+//[Reference] 'Reinforced Hammer'
+staxel.item.tool.Hammer3.name=強化ハンマーver3
+//[Reference] 'A tool used to disassemble objects. Has 3 levels of charge.'
+staxel.item.tool.Hammer4.description=家具を撤去する時に使う道具。3段階チャージができる。
+//[Reference] 'Infused Hammer'
+staxel.item.tool.Hammer4.name=強化ハンマーver4
+//[Reference] 'Your hands.'
+staxel.item.tool.Hands.description=自分の手。
+//[Reference] 'your hands'
+staxel.item.tool.Hands.name=手
+//[Reference] 'A tool used to till the ground. Charge the tool to affect a larger area.'
+staxel.item.tool.Hoe.description=地面を耕すために使う道具。チャージすれば効果範囲が広がる。
+//[Reference] 'Hoe'
+staxel.item.tool.Hoe.name=クワ
+//[Reference] 'Grows any crop instantly!'
+staxel.item.tool.MagicWater.description=どんな作物も一瞬で育つよ！
+//[Reference] 'Magic Water'
+staxel.item.tool.MagicWater.name=魔法の水
+//[Reference] 'A tool used for investigating things.'
+staxel.item.tool.MagnifyingGlass.description=詳しく調べるときに使う道具。
+//[Reference] 'Magnifying Glass'
+staxel.item.tool.MagnifyingGlass.name=虫メガネ
+//[Reference] 'Put this into the Post office box, and it'll be sent to your friend!'
+staxel.item.tool.Mail.description=これを郵便ポストに投函すると友達に届くよ！
+//[Reference] 'Mail'
+staxel.item.tool.Mail.name=手紙
+//[Reference] 'A tool used to milk a cow.'
+staxel.item.tool.Milker.description=牛の乳搾りをするために使う道具。
+//[Reference] 'Milker'
+staxel.item.tool.Milker.name=搾乳機
+//[Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
+staxel.item.tool.MixedSeeds.description=色んな種が混ざってる。どの種が入っているのか？それは分からない！
+//[Reference] 'Bag of Mixed Seeds'
+staxel.item.tool.MixedSeeds.name=シードミックス
+//[Reference] 'A tool used to catch insects. Look on trees or amongst flowers!'
+staxel.item.tool.Net.description=昆虫を捕まえるために使う道具。木やお花畑を調べてみよう！
+//[Reference] 'Bug Net'
+staxel.item.tool.Net.name=虫取り網
+//[Reference] 'A tool used to mine stone.'
+staxel.item.tool.Pickaxe.description=採掘に使う道具。
+//[Reference] 'Pickaxe'
+staxel.item.tool.Pickaxe.name=つるはし
+//[Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
+staxel.item.tool.Pickaxe2.description=採掘に使う道具。チャージすると効果範囲が広がる。
+//[Reference] 'Hardened Pickaxe'
+staxel.item.tool.Pickaxe2.name=強化つるはしver2
+//[Reference] 'A tool used to mine stone. Has 2 levels of charge.'
+staxel.item.tool.Pickaxe3.description=採掘に使う道具。2段階チャージができる。
+//[Reference] 'Reinforced Pickaxe'
+staxel.item.tool.Pickaxe3.name=強化つるはしver3
+//[Reference] 'A tool used to mine stone. Has 3 levels of charge.'
+staxel.item.tool.Pickaxe4.description=採掘に使う道具。3段階チャージができる。
+//[Reference] 'Infused Pickaxe'
+staxel.item.tool.Pickaxe4.name=強化つるはしver4
+//[Reference] 'A form used to rename yourself.'
+staxel.item.tool.PlayerRenamer.description=自分の名前を変更できる用紙。
+//[Reference] 'Player Naming Form'
+staxel.item.tool.PlayerRenamer.name=プレイヤー命名用紙
+//[Reference] 'A form used to (re)name animals.'
+staxel.item.tool.Renamer.description=動物の名前をつける（つけ直す）ために使う用紙。
+//[Reference] 'Animal Naming Form'
+staxel.item.tool.Renamer.name=動物命名用紙
+//[Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod.description=魚を釣るために使う道具。
+//[Reference] 'Fishing Rod'
+staxel.item.tool.Rod.name=釣り竿
+//[Reference] 'A tool used to catch fish a little faster than your average rod.'
+staxel.item.tool.Rod2.description=普通の釣り竿よりも少し速く魚を釣れる。
+//[Reference] 'Hardened Fishing Rod'
+staxel.item.tool.Rod2.name=強化釣り竿ver2
+//[Reference] 'A tool used to catch fish a lot faster than your average rod.'
+staxel.item.tool.Rod3.description=普通の釣り竿よりもかなり速く魚を釣れる。
+//[Reference] 'Reinforced Fishing Rod'
+staxel.item.tool.Rod3.name=強化釣り竿ver3
+//[Reference] 'A tool used to catch fish. Infused with the ability to catch fish fast.'
+staxel.item.tool.Rod4.description=魚を釣るための道具。魚を素早く釣る能力が込められている。
+//[Reference] 'Infused Fishing Rod'
+staxel.item.tool.Rod4.name=強化釣り竿ver4
+//[Reference] 'A tool used to cut down long grass, flowers, weeds and more! Charge the tool to cut more.'
+staxel.item.tool.Scythe.description=長い草や花、雑草などを刈る道具！チャージすればより多く切れる。
+//[Reference] 'Scythe'
+staxel.item.tool.Scythe.name=鎌
+//[Reference] 'A tool used to shear wool from sheep.'
+staxel.item.tool.Shears.description=羊の毛刈りに使う道具。
+//[Reference] 'Sheep-Shears'
+staxel.item.tool.Shears.name=毛刈りバサミ
+//[Reference] 'A tool used to dig up earth.'
+staxel.item.tool.Shovel.description=地面を掘る道具。
+//[Reference] 'Shovel'
+staxel.item.tool.Shovel.name=シャベル
+//[Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
+staxel.item.tool.Shovel2.description=地面を掘る道具。チャージするともっと掘れる。
+//[Reference] 'Hardened Shovel'
+staxel.item.tool.Shovel2.name=強化シャベルver2
+//[Reference] 'A tool used to dig up earth. Has 2 levels of charge.'
+staxel.item.tool.Shovel3.description=地面を掘る道具。2段階チャージができる。
+//[Reference] 'Reinforced Shovel'
+staxel.item.tool.Shovel3.name=強化シャベルver3
+//[Reference] 'A tool used to dig up earth. Has 3 levels of charge.'
+staxel.item.tool.Shovel4.description=地面を掘る道具。3段階チャージができる。
+//[Reference] 'Infused Shovel'
+staxel.item.tool.Shovel4.name=強化シャベルver4
+//[Reference] 'A smoker is used to put bees into a comfortable sleep. This ensures safety when harvesting honey.'
+staxel.item.tool.Smoker.description=ハチを気持ち良く眠らせるために使う。これでハチミツを安全に収穫できる。
+//[Reference] 'Smoker'
+staxel.item.tool.Smoker.name=燻煙器
+//[Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan.description=作物に水やりするために使う道具。長押しすると早く水やりできる。
+//[Reference] 'Watering Can'
+staxel.item.tool.WateringCan.name=じょうろ
+//[Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan2.description=作物へ手軽に水やりができる道具。長押しで水やり速度が上がる。
+//[Reference] 'Hardened Watering Can'
+staxel.item.tool.WateringCan2.name=強化じょうろver2
+//[Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan3.description=作物へ手軽に水やりができる道具。長押しで水やり速度が上がる。
+//[Reference] 'Reinforced Watering Can'
+staxel.item.tool.WateringCan3.name=強化じょうろver3
+//[Reference] 'A tool used to water your crops easily. Contains an infinite amount of water.'
+staxel.item.tool.WateringCan4.description=作物へ手軽に水やりができる道具。無限に水を入れられる。
+//[Reference] 'Infused Watering Can'
+staxel.item.tool.WateringCan4.name=強化じょうろver4
+//[Reference] 'This kills off any pesky weeds and other plants around the farm!'
+staxel.item.tool.WeedKiller.description=牧場の周りの厄介な雑草や植物を枯らせるよ！
+//[Reference] 'Weed Killer'
+staxel.item.tool.WeedKiller.name=除草剤
+//[Reference] 'Use this to temporarily become Aliza!'
+staxel.item.Transformations.Aliza.description=これを使ってしばらくの間アリザになろう！
+//[Reference] 'Aliza Transformation Potion'
+staxel.item.Transformations.Aliza.name=アリザの変身ポーション
+//[Reference] 'Use this to temporarily become Cecile!'
+staxel.item.Transformations.Cecile.description=これを使ってしばらくの間セシルになろう！
+//[Reference] 'Cecile Transformation Potion'
+staxel.item.Transformations.Cecile.name=セシルの変身ポーション
+//[Reference] 'Use this to temporarily become Cirahna!'
+staxel.item.Transformations.Cirahna.description=これを使ってしばらくの間シラーナになろう！
+//[Reference] 'Cirahna Transformation Potion'
+staxel.item.Transformations.Cirahna.name=シラーナの変身ポーション
+//[Reference] 'Use this to temporarily become Emelia!'
+staxel.item.Transformations.Emelia.description=これを使ってしばらくの間エミリアになろう！
+//[Reference] 'Emelia Transformation Potion'
+staxel.item.Transformations.Emelia.name=エミリアの変身ポーション
+//[Reference] 'Use this to temporarily become Eris!'
+staxel.item.Transformations.Eris.description=これを使ってしばらくの間エリスになろう！
+//[Reference] 'Eris Transformation Potion'
+staxel.item.Transformations.Eris.name=エリスの変身ポーション
+//[Reference] 'Use this to temporarily become Jamie!'
+staxel.item.Transformations.Jamie.description=これを使ってしばらくの間ジェイミーになろう！
+//[Reference] 'Jamie Transformation Potion'
+staxel.item.Transformations.Jamie.name=ジェイミーの変身ポーション
+//[Reference] 'Use this to temporarily become Leif!'
+staxel.item.Transformations.Leif.description=これを使ってしばらくの間レイフになろう！
+//[Reference] 'Leif Transformation Potion'
+staxel.item.Transformations.Leif.name=レイフの変身ポーション
+//[Reference] 'Use this to temporarily become Maximilian!'
+staxel.item.Transformations.MayorMax.description=これを使ってしばらくの間マクシミリアンになろう！
+//[Reference] 'Maximilian Transformation Potion'
+staxel.item.Transformations.MayorMax.name=マクシミリアンの変身ポーション
+//[Reference] 'Use this to temporarily become Morel!'
+staxel.item.Transformations.Morel.description=これを使ってしばらくの間モレルになろう！
+//[Reference] 'Morel Transformation Potion'
+staxel.item.Transformations.Morel.name=モレルの変身ポーション
+//[Reference] 'Use this to cancel your current transformation.'
+staxel.item.Transformations.Remove.description=これを使えば今の変身を解除できるよ。
+//[Reference] 'Transformation Removal Potion'
+staxel.item.Transformations.Remove.name=変身解除ポーション
+//[Reference] 'Use this to temporarily become Riah!'
+staxel.item.Transformations.Riah.description=これを使ってしばらくの間リアになろう！
+//[Reference] 'Riah Transformation Potion'
+staxel.item.Transformations.Riah.name=リア変身ポーション
+//[Reference] 'Use this to temporarily become Robin!'
+staxel.item.Transformations.Robin.description=これを使ってしばらくの間ロビンになろう！
+//[Reference] 'Robin Transformation Potion'
+staxel.item.Transformations.Robin.name=ロビン変身ポーション
+//[Reference] 'Use this to temporarily become Rosemary!'
+staxel.item.Transformations.Rosemary.description=これを使ってしばらくの間ローズマリーになろう！
+//[Reference] 'Rosemary Transformation Potion'
+staxel.item.Transformations.Rosemary.name=ローズマリー変身ポーション
+//[Reference] 'Use this to temporarily become Rowan!'
+staxel.item.Transformations.Rowan.description=これを使ってしばらくの間ローワンになろう！
+//[Reference] 'Rowan Transformation Potion'
+staxel.item.Transformations.Rowan.name=ローワン変身ポーション
+//[Reference] 'Use this to temporarily become Vorlen!'
+staxel.item.Transformations.Vorlen.description=これを使ってしばらくの間ヴォーレンになろう！
+//[Reference] 'Vorlen Transformation Potion'
+staxel.item.Transformations.Vorlen.name=ヴォーレン変身ポーション
+//[Reference] 'Use this to temporarily become Wren!'
+staxel.item.Transformations.Wren.description=これを使ってしばらくの間レンになろう！
+//[Reference] 'Wren Transformation Potion'
+staxel.item.Transformations.Wren.name=レン変身ポーション

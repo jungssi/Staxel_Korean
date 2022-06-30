@@ -1,0 +1,660 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Now that I think about it, I haven't properly introduced myself.'
+staxel.village.dialogue.Mayor.line:10000100=そういえば、まだ自己紹介を済ませていませんでしたね。
+//[Reference] 'I'm the mayor of this little town.'
+staxel.village.dialogue.Mayor.line:10000200=私はこの小さな町の町長です。
+//[Reference] 'Oh, is that your ^c:d03e37;Farm Registration Letter^c:pop;?'
+staxel.village.dialogue.Mayor.line:10001300=おや、それは^c:d03e37;牧場の登録用紙^c:pop;ですか？
+//[Reference] 'How nice! Let me just take that off you for filing.'
+staxel.village.dialogue.Mayor.line:10001400=なんと素晴らしい！その用紙は私が預かりましょう。
+//[Reference] 'In return, you get your ^c:d03e37;license^c:pop; and some very handy items!'
+staxel.village.dialogue.Mayor.line:10001500=代わりに、^c:d03e37;ライセンス^c:pop;と便利なアイテムをお渡ししますよ！
+//[Reference] 'Do you want to turn in your ^c:d03e37;Registration Letter^c:pop;?'
+staxel.village.dialogue.Mayor.line:10001600=^c:d03e37;登録用紙^c:pop;を今すぐ提出しますか？
+//[Reference] 'Yes, please!'
+staxel.village.dialogue.Mayor.line:10001700=はい、どうぞ！
+//[Reference] 'No, not just yet'
+staxel.village.dialogue.Mayor.line:10001800=いえ、また今度にします
+//[Reference] 'Marvellous! Here is your ^c:d03e37;license^c:pop;.'
+staxel.village.dialogue.Mayor.line:10001900=素晴らしい！こちらが^c:d03e37;ライセンス^c:pop;になります。
+//[Reference] 'We also have a few extras for you.'
+staxel.village.dialogue.Mayor.line:10002000=それとこのオマケもどうぞ。
+//[Reference] 'We're all looking forward to seeing the farm revitalised!'
+staxel.village.dialogue.Mayor.line:10002100=あなたの牧場が大きくなるのを、みんなが楽しみにしていますよ！
+//[Reference] 'As you wish!'
+staxel.village.dialogue.Mayor.line:10002200=それでは健闘を祈ります！
+//[Reference] 'You can still turn it in later if you change your mind!'
+staxel.village.dialogue.Mayor.line:10002300=後で用紙を提出していただいてもかまいませんよ！
+//[Reference] 'I imagine I'll be seeing you quite often!'
+staxel.village.dialogue.Mayor.line:10002400=これから何度も顔を合わせることになるはずですから！
+//[Reference] 'Now that you're a fully licensed farmer...'
+staxel.village.dialogue.Mayor.line:10002500=さて、正式な牧場主になりましたところで…
+//[Reference] 'We can finally get those stray ^c:d03e37;cattle^c:pop; off our hands!'
+staxel.village.dialogue.Mayor.line:10002600=私たちが預かっている^c:d03e37;この子^c:pop;をようやくお渡しすることができますね！
+//[Reference] 'But before we can do that, you need to build a ^c:1486b0;barn^c:pop;.'
+staxel.village.dialogue.Mayor.line:10002700=ですがその前に、^c:1486b0;納屋^c:pop;を建設していただく必要があります。
+//[Reference] 'I'm not really sure I'm the best person to teach you these things.'
+staxel.village.dialogue.Mayor.line:10002800=このことを説明するに当たって、適任な人物がいます。
+//[Reference] 'I'd suggest you go see ^c:1486b0;{0-mech_name}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10002900=^c:1486b0;{0-mech_name}^c:pop;を訪ねてみてください！
+//[Reference] 'She'll help you out with all the parts you need.'
+staxel.village.dialogue.Mayor.line:10003000=彼女なら、必要なすべてのパーツについて知恵を貸してくれるはずです。
+//[Reference] 'You'll probably find her hanging out around the ^c:1486b0;building store^c:pop;.'
+staxel.village.dialogue.Mayor.line:10003100=彼女は^c:1486b0;建材店^c:pop;の近くにいると思います。
+//[Reference] 'If not, your map might be able to help you locate her.'
+staxel.village.dialogue.Mayor.line:10003150=いない場合は、地図を利用すれば彼女の場所が分かるかもしれません。
+//[Reference] 'Come and see me once it's all done and we'll get you some ^c:d03e37;cows^c:pop;!'
+staxel.village.dialogue.Mayor.line:10003200=終わったら私のところへ戻ってきてくださいね。^c:d03e37;牛^c:pop;を差し上げます！
+//[Reference] 'How are you faring at building that ^c:1486b0;barn^c:pop;?'
+staxel.village.dialogue.Mayor.line:10003300=^c:1486b0;納屋^c:pop;の建設は順調ですか？
+//[Reference] '^c:1486b0;{0-mech_name}^c:pop; should be able to help you out!'
+staxel.village.dialogue.Mayor.line:10003400=^c:1486b0;{0-mech_name}^c:pop;があなたを手助けしてくれるはずです！
+//[Reference] 'She's usually hanging out around the ^c:1486b0;building store^c:pop; during the day.'
+staxel.village.dialogue.Mayor.line:10003500=彼女は普段、^c:1486b0;建材店^c:pop;の近くにいます。
+//[Reference] 'I've been hearing about the fabulous new ^c:1486b0;barn^c:pop; you built!'
+staxel.village.dialogue.Mayor.line:10003800=あなたが素晴らしい^c:1486b0;納屋^c:pop;を建てたことは、噂になってますよ！
+//[Reference] 'Sounds like everything is in order.'
+staxel.village.dialogue.Mayor.line:10003900=何もかも、イイ感じみたいですね。
+//[Reference] 'Here are the few ^c:d03e37;cows^c:pop; we managed to round up.'
+staxel.village.dialogue.Mayor.line:10004000=私たちが何とか集めた、この^c:d03e37;牛^c:pop;をお受け取りください。
+//[Reference] 'They all ran away when the previous owner left.'
+staxel.village.dialogue.Mayor.line:10004100=この子たちの前のオーナーはどこかに消えてしまったんです。
+//[Reference] 'Good luck!'
+staxel.village.dialogue.Mayor.line:10004200=がんばってくださいね！
+//[Reference] 'By the way, we've been looking for good builders for a long time.'
+staxel.village.dialogue.Mayor.line:10004300=そういえば、腕に自信のある建築家を募集し始めてからしばらくたちましたね。
+//[Reference] 'Sometimes we get notices from people who want to move in here.'
+staxel.village.dialogue.Mayor.line:10004400=時々、この町へ引っ越したい方々からメッセージを受け取ります。
+//[Reference] 'Before that, they need a house to live in.'
+staxel.village.dialogue.Mayor.line:10004500=ですが、彼らに住む家を提供しないといけません。
+//[Reference] 'Given your impressive work on the ^c:1486b0;barn^c:pop;, we'd love your help!'
+staxel.village.dialogue.Mayor.line:10004600=あのステキな^c:1486b0;納屋^c:pop;を見て、あなたに手伝って頂ければ…と思っています！
+//[Reference] 'Come check in with me every once in a while!'
+staxel.village.dialogue.Mayor.line:10004700=たまには私に会いにきてくださいね！
+//[Reference] 'New requests usually come in every week or so.'
+staxel.village.dialogue.Mayor.line:10004710=新たなリクエストはおよそ一週間ごとに来ます。
+//[Reference] 'In the meantime, it might be a good idea to get to know everyone!'
+staxel.village.dialogue.Mayor.line:10004720=それまでの間、他の皆さんと知り合いになると良いでしょう！
+//[Reference] 'There's bound to be someone looking for assistance.'
+staxel.village.dialogue.Mayor.line:10004730=手助けしてくれる誰かを探している人がいると思います。
+//[Reference] 'I know ^c:1486b0;{0-caith_name}^c:pop; has been moping around quite a bit ever since she arrived...'
+staxel.village.dialogue.Mayor.line:10004740=^c:1486b0;{0-caith_name}^c:pop;がここに来てからずっとふさぎ込んでいます…
+//[Reference] 'She's bound to have a task for you.'
+staxel.village.dialogue.Mayor.line:10004750=彼女のためにできることがあるはずです。
+//[Reference] 'If that doesn't appeal, you can always head off exploring or kick back and look after the farm!'
+staxel.village.dialogue.Mayor.line:10004760=興味がわかないなら、代わりに探検に出たり、牧場に戻って様子を見たりしても構いません！
+//[Reference] 'It's all up to you really! We just want to see what you make of the place!'
+staxel.village.dialogue.Mayor.line:10004770=すべてあなた次第です！この場所でのあなたの活躍を楽しみにしていますよ！
+//[Reference] 'Looks like someone new wants to move in!'
+staxel.village.dialogue.Mayor.line:10004800=この町へ引っ越したいという方がいるようです！
+//[Reference] 'Empty Text'
+staxel.village.dialogue.Mayor.line:10004850=空のテキスト
+//[Reference] 'Stick this ^c:d03e37;postbox^c:pop; somewhere and use it to build a house!'
+staxel.village.dialogue.Mayor.line:10004900=この^c:d03e37;郵便ポスト^c:pop;を置いて、家を建設してください！
+//[Reference] 'Empty Text'
+staxel.village.dialogue.Mayor.line:10004950=空のテキスト
+//[Reference] 'Once it's built, they'll move in the next day!'
+staxel.village.dialogue.Mayor.line:10005000=建設が終われば、翌日には誰か越してくるでしょう！
+//[Reference] 'Empty Text'
+staxel.village.dialogue.Mayor.line:10005050=空のテキスト
+//[Reference] 'Hmm...'
+staxel.village.dialogue.Mayor.line:10005100=ふーむ…
+//[Reference] 'What happened to your ^c:d03e37;{0-ttm}^c:pop;?'
+staxel.village.dialogue.Mayor.line:10005200=^c:d03e37;{0-ttm}^c:pop;はどうしましたか？
+//[Reference] 'Make sure you use it to build our future resident a home!'
+staxel.village.dialogue.Mayor.line:10005300=それを使って、これから町に来る住人の家を建てましょう！
+//[Reference] 'Oh, before I forget, I recently managed to get post delivered to the town!'
+staxel.village.dialogue.Mayor.line:10005350=そうだ、忘れなうちに伝えておきますね、最近この町に郵便が配達されるようになったんです！
+//[Reference] 'Ah ^c:1486b0;{0-playername}^c:pop;! Just the person I wanted to see!'
+staxel.village.dialogue.Mayor.line:10005400=あ、^c:1486b0;{0-playername}^c:pop;！ちょうどあなたに会いたかったんですよ！
+//[Reference] 'It's taken years of negotiation, but I've finally done it!'
+staxel.village.dialogue.Mayor.line:10005500=交渉に何年もかかりましたけど、でもとうとうやりました！
+//[Reference] 'As of today, the postal service is adding us to their deliveries.'
+staxel.village.dialogue.Mayor.line:10005600=今日から、私たちの町も郵便サービスの配達地域に入ります。
+//[Reference] 'You need to set up this ^c:d03e37;Postbox^c:pop; to access your mail!'
+staxel.village.dialogue.Mayor.line:10005700=手紙を読むにはこの^c:d03e37;郵便ポスト^c:pop;を設置してください！
+//[Reference] 'You could be getting mail already!'
+staxel.village.dialogue.Mayor.line:10005800=もう手紙が届いているかもしれませんよ！
+//[Reference] 'Excellent work ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10005900=流石です^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Now that their new home is complete, a new villager should move in within a day or two!'
+staxel.village.dialogue.Mayor.line:10006000=彼らの新しい家が完成したので、1日か2日で新しい住人が引っ越してくるでしょう。
+//[Reference] 'I'm sure they'll have something special for you when they arrive!'
+staxel.village.dialogue.Mayor.line:10006100=到着する時には何か特別な物を持ってくると思いますよ！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;! As the mayor of this town, I say this with a heavy heart.'
+staxel.village.dialogue.Mayor.line:10006200=ああ、^c:1486b0;{0-playername}^c:pop;！この町の町長として、これを言うのは気が重いんですが。
+//[Reference] 'I am preparing to flee the town. I suggest you do the same.'
+staxel.village.dialogue.Mayor.line:10006300=この町から避難する準備をしているんです。あなたも早くここを離れることをお勧めします。
+//[Reference] 'With that...creature prowling the forests, I can think of no other recourse.'
+staxel.village.dialogue.Mayor.line:10006400=と言うのも…森を徘徊している生物の事を考えると、こうする以外にないんですよ。
+//[Reference] 'Ah, is that a letter from ^c:1486b0;Riah^c:pop;?'
+staxel.village.dialogue.Mayor.line:10006500=おや、^c:1486b0;リア^c:pop;からの手紙ですか？
+//[Reference] 'Let me just take that off your hands.'
+staxel.village.dialogue.Mayor.line:10006600=分かりました、お預かりしましょう。
+//[Reference] 'Yes... I see... So this is about the siblings again...'
+staxel.village.dialogue.Mayor.line:10006700=ああ…なるほど…やはりこれは姉妹のことですね…
+//[Reference] 'She came to ^c:1486b0;Staxel^c:pop; with one of them, you know.'
+staxel.village.dialogue.Mayor.line:10006800=あの子は^c:1486b0;Staxel^c:pop;に姉妹の一人と一緒にやってきたんですよ。
+//[Reference] 'They were... Oh! I'm rambling again. Terribly sorry!'
+staxel.village.dialogue.Mayor.line:10006900=あの子たちは…おっと！話が逸れてしまいました。申し訳ない！
+//[Reference] '^c:1486b0;Riah^c:pop; wanted you to have a few things from her account.'
+staxel.village.dialogue.Mayor.line:10007000=^c:1486b0;リア^c:pop;は自分のお金でお礼がしたかったようですね。
+//[Reference] 'Allow me to have them mailed to you.'
+staxel.village.dialogue.Mayor.line:10007100=私に郵送させてください。
+//[Reference] 'Do come by again if you'd like to chat!'
+staxel.village.dialogue.Mayor.line:10007200=おしゃべりしたい時はまた来てくださいね！
+//[Reference] 'Rabbits? From how many years ago?'
+staxel.village.dialogue.Mayor.line:10007300=ウサギ？何年前のですか？
+//[Reference] 'Sorry ^c:1486b0;{0-playername}^c:pop;, I'm afraid we don't keep those kinds of records.'
+staxel.village.dialogue.Mayor.line:10007400=申し訳ない^c:1486b0;{0-playername}^c:pop;、残念ですがそういった記録は残していないのです。
+//[Reference] 'My memory is not quite what it used to be either...'
+staxel.village.dialogue.Mayor.line:10007500=私の記憶もすっかり使い物になりませんし…
+//[Reference] 'What can I help you with today, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Mayor.line:10007600=今日はどのような用件ですか、^c:1486b0;{0-playername}^c:pop;？
+//[Reference] 'Is this about ^c:1486b0;Cecile's^c:pop; ^c:1486b0;lab^c:pop; again?'
+staxel.village.dialogue.Mayor.line:10007700=また^c:1486b0;セシル^c:pop;の^c:1486b0;研究室^c:pop;ですか？
+//[Reference] 'I must admit to having serious doubts about the whole thing.'
+staxel.village.dialogue.Mayor.line:10007800=正直なところ私はかなり疑っています。
+//[Reference] 'A scientific lab? Here? With ^c:1486b0;Cecile's^c:pop; in charge?'
+staxel.village.dialogue.Mayor.line:10007900=科学研究室を？ここに？責任者は^c:1486b0;セシル^c:pop;ですと？
+//[Reference] 'It sounds like a recipe for disaster.'
+staxel.village.dialogue.Mayor.line:10008000=まさに天災のレシピのようですね。
+//[Reference] 'But...if you're going to be keeping an eye on her, we might just survive.'
+staxel.village.dialogue.Mayor.line:10008100=ですが…あなたが彼女から目を離さないでいてくれるのなら、安心できるかもしれませんね。
+//[Reference] 'And we could certainly use the money her discoveries might bring in...'
+staxel.village.dialogue.Mayor.line:10008200=それに彼女の発見がもたらす経済効果も期待できますしね…
+//[Reference] 'I suppose, for now, I can allow it on the condition that it be small and safely constructed.'
+staxel.village.dialogue.Mayor.line:10008300=では、小規模かつ安全な建物という条件であれば許可しましょう。
+//[Reference] 'I trust you to see to the latter. I'll be holding you personally responsible!'
+staxel.village.dialogue.Mayor.line:10008400=それではまた後ほど。個人責任はあなたにありますからね！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10008500=^c:1486b0;{0-playername}^c:pop;さん。
+//[Reference] 'I must admit to being somewhat disappointed, though I have come to realise it was probably not your fault.'
+staxel.village.dialogue.Mayor.line:10008600=少々がっかりしましたけど、あなたのせいではないのですね。
+//[Reference] 'But this cannot be allowed to go on. I'm sure you understand.'
+staxel.village.dialogue.Mayor.line:10008700=しかし継続は許可できません。理解してくれますよね。
+//[Reference] 'We need to insure the town against future damages!'
+staxel.village.dialogue.Mayor.line:10008800=私は迫りくる損害からこの町を守る義務があるんです！
+//[Reference] 'If we could find a ^c:1486b0;merchant^c:pop; willing to sell us insurance, that would do the trick.'
+staxel.village.dialogue.Mayor.line:10008900=保険を販売してくれる^c:1486b0;商人^c:pop;がいれば、なんとかなるんですけどね。
+//[Reference] 'My paperwork has been piling up quite a bit of late so I'm afraid I'll have to ask you to go on my behalf.'
+staxel.village.dialogue.Mayor.line:10009000=私は仕事が山積みで少々遅れていまして、申し訳ないですが代わりに行ってきてくれませんか。
+//[Reference] 'You'll find a few of them around the ^c:1486b0;town square^c:pop;.'
+staxel.village.dialogue.Mayor.line:10009100=彼らなら^c:1486b0;町の広場^c:pop;にいると思いますよ。
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. Were you successful?'
+staxel.village.dialogue.Mayor.line:10009200=おお、^c:1486b0;{0-playername}^c:pop;。上手くいきましたか？
+//[Reference] 'Hmm...this does appear to be genuine. I'll reimburse you the upfront payment.'
+staxel.village.dialogue.Mayor.line:10009300=ふーむ…本物のようですね。あなたに払っていただいた金額をお返しします。
+//[Reference] 'This is wonderful news for the town! Now ^c:1486b0;Cecile^c:pop; can experiment all she wants!'
+staxel.village.dialogue.Mayor.line:10009400=この町に朗報です！これで^c:1486b0;セシル^c:pop;はなんでも実験し放題ですよ！
+//[Reference] 'Of course, I must warn you on principle to still be cautious...'
+staxel.village.dialogue.Mayor.line:10009500=もちろん、用心はしておいていただきたいですが…
+//[Reference] 'But...don't be too careful...'
+staxel.village.dialogue.Mayor.line:10009600=ですが…あまり用心しすぎなくても大丈夫ですよ…
+//[Reference] 'I eagerly await word of your success!'
+staxel.village.dialogue.Mayor.line:10009700=あなたの成功の知らせを心からお待ちしています！
+//[Reference] 'I'm certain at least one of the ^c:1486b0;merchants^c:pop; will be willing to cooperate...'
+staxel.village.dialogue.Mayor.line:10009800=^c:1486b0;商人^c:pop;のうち少なくとも1人くらいは協力してくれるはずです…
+//[Reference] 'This is too much, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10009900=これは流石に度を越えています、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Even with insurance, I cannot sit by and allow a monster to roam the town!'
+staxel.village.dialogue.Mayor.line:10010000=保険があっても、モンスターが町をうろつくのを傍観も容認もできません！
+//[Reference] 'You have to do something about it. It certainly can't stay here.'
+staxel.village.dialogue.Mayor.line:10010100=あれをどうにかしてください。ここに置いておくことはできませんよ。
+//[Reference] 'Please inform ^c:1486b0;Cecile^c:pop; that if she does not get rid of it, she will be the one leaving.'
+staxel.village.dialogue.Mayor.line:10010200=^c:1486b0;セシル^c:pop;があれを追い出さないようなら、彼女が去ってもらうことになるとお伝えください。
+//[Reference] 'A note you say? Tell me it was not sent by ^c:1486b0;Oscar^c:pop;...'
+staxel.village.dialogue.Mayor.line:10010300=メモですか？^c:1486b0;オスカー^c:pop;からではありませんように…
+//[Reference] 'Always with these notes... I understand that it's expensive to send by post...'
+staxel.village.dialogue.Mayor.line:10010400=相変わらずメモなんですね…郵送すると費用がかかるのは分かりますが…
+//[Reference] 'But why do they never come to me in person?'
+staxel.village.dialogue.Mayor.line:10010500=しかしなぜ直接私の元へ来ないのでしょうか？
+//[Reference] 'So ^c:1486b0;Oscar^c:pop; believes we have a vandal?'
+staxel.village.dialogue.Mayor.line:10010600=それで^c:1486b0;オスカー^c:pop;は荒らしがいると思っているのですね？
+//[Reference] 'I must say, with the state the town's been in recently, I was beginning to worry he was getting too old...'
+staxel.village.dialogue.Mayor.line:10010700=正直、今の町の状況を考えると、彼は歳を取り過ぎたのではと心配しかけていたのです…
+//[Reference] 'But a vandal...? Now that makes far more sense.'
+staxel.village.dialogue.Mayor.line:10010800=しかし荒らしですか…？なるほどそれなら頷けます。
+//[Reference] 'Let ^c:1486b0;Oscar^c:pop; know that the message was received, would you?'
+staxel.village.dialogue.Mayor.line:10010900=^c:1486b0;オスカー^c:pop;に伝言を受け取ったと伝えてくれますか？
+//[Reference] 'I'd tell him myself, but...I think I'd rather not!'
+staxel.village.dialogue.Mayor.line:10011000=私からも伝えようと思いますが…まあしない方がいいでしょうね！
+//[Reference] 'Listen, ^c:1486b0;{0-playername}^c:pop;. I'm sorry you were dragged into all of this.'
+staxel.village.dialogue.Mayor.line:10011100=聞いてください、^c:1486b0;{0-playername}^c:pop;。こんなことにあなたを巻き込んでしまい申し訳ありません。
+//[Reference] '^c:1486b0;Oscar^c:pop; can be...a challenge sometimes.'
+staxel.village.dialogue.Mayor.line:10011200=^c:1486b0;オスカー^c:pop;は時々…好戦的なんです。
+//[Reference] 'The next election isn't even coming up for another year!'
+staxel.village.dialogue.Mayor.line:10011300=次の選挙は1年先だと言うのに！
+//[Reference] 'But I suppose I should at least compensate you for all this nonsense somehow...'
+staxel.village.dialogue.Mayor.line:10011400=しかしこんな無益な騒動に巻き込んでしまい、あなたには埋め合わせをしないといけませんね…
+//[Reference] 'I suspect it's not nearly adequate, but it's all I can personally offer right now.'
+staxel.village.dialogue.Mayor.line:10011500=あなたの労力に見合うとは思えませんが、今はこれが精一杯なんです。
+//[Reference] 'I trust you'll vote for me next year!'
+staxel.village.dialogue.Mayor.line:10011600=来年は私に投票してくれることを期待していますよ！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10011700=あ、 ^c:1486b0;{0-playername}^c:pop;さん。
+//[Reference] 'You want to hear about the legendary item I bought for ^c:d03e37;{0-currency}10,000,000^c:pop;?'
+staxel.village.dialogue.Mayor.line:10011800=私が^c:d03e37;{0-currency}10,000,000^c:pop;で購入した伝説のアイテムについて聞きたいのですか？
+//[Reference] 'I think you might have added a few too many zeroes there...'
+staxel.village.dialogue.Mayor.line:10011900=少々ゼロを多く付けすぎているみたいですね…
+//[Reference] 'But to tell the truth, I didn't buy it for myself.'
+staxel.village.dialogue.Mayor.line:10012000=しかし本当のことを言うと、自分のために買ったわけではないんですよ。
+//[Reference] 'You see, I know someone who would absolutely love it, and it just so happens her birthday is on the horizon!'
+staxel.village.dialogue.Mayor.line:10012100=ほら、これを絶対気に入ってくれる人がいましてね、その子の誕生日が目前なんですよ！
+//[Reference] '^c:1486b0;Farm Fan^c:pop; will never expect it!'
+staxel.village.dialogue.Mayor.line:10012200=^c:1486b0;ファームファン^c:pop;は予想もしていないでしょうね！
+//[Reference] 'Oh, but you absolutely must not mention a word of it to her...'
+staxel.village.dialogue.Mayor.line:10012300=おっと、でもこのことは彼女には絶対に内緒ですよ…
+//[Reference] 'This is in no way a bribe, but I do hope it will help to persuade you not to mention it to her...'
+staxel.village.dialogue.Mayor.line:10012400=これは決して賄賂ではありませんが、これであなたが他言しないよう願っています…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, I need a word.'
+staxel.village.dialogue.Mayor.line:10012500=^c:1486b0;{0-playername}^c:pop;、相談があるのですが。
+//[Reference] 'We've been planning ^c:1486b0;Farm Fan's^c:pop; birthday surprise for weeks now, but we've hit a few snags.'
+staxel.village.dialogue.Mayor.line:10012600=何週間も^c:1486b0;ファームファン^c:pop;の誕生日サプライズを計画していましたが、少々問題がありまして。
+//[Reference] 'I overspent on her gift so we can't quite afford a good venue, but there's not much we can do about that.'
+staxel.village.dialogue.Mayor.line:10012700=彼女の贈り物にお金をかけすぎて、良い会場を設ける余裕がなくて、どうしようもないんです。
+//[Reference] 'Hopefully the gifts themselves will be enough this year...'
+staxel.village.dialogue.Mayor.line:10012800=幸運なことに今年は十分なプレゼントが集まりましたけど…
+//[Reference] 'But more importantly, the person in charge of baking the cake ended up swamped with other orders!'
+staxel.village.dialogue.Mayor.line:10012900=ですがもっと重要なのは、ケーキを焼く担当者が他の注文に追われて余裕がないことなんです！
+//[Reference] 'Do you think you could go out and bake us a ^c:d03e37;chocolate cake^c:pop;?'
+staxel.village.dialogue.Mayor.line:10013000=あなたに^c:d03e37;チョコレートケーキ^c:pop;を焼いてもらえないでしょうか？
+//[Reference] 'We need a ^c:d03e37;chocolate cake^c:pop;. You always give cakes on birthdays, right?'
+staxel.village.dialogue.Mayor.line:10013100=^c:d03e37;チョコレートケーキ^c:pop;が必要なんです。あなただって誕生日にはいつもケーキを贈るでしょう？
+//[Reference] 'A simple one will do!'
+staxel.village.dialogue.Mayor.line:10013200=シンプルなものにしましょう！
+//[Reference] 'Ah, perfect! This is exactly what we needed!'
+staxel.village.dialogue.Mayor.line:10013300=おお、完璧です！まさに必要としていたものです！
+//[Reference] 'I'll just write ^c:1486b0;Farm Fan's^c:pop; name across the top in icing...'
+staxel.village.dialogue.Mayor.line:10013400=上の方にアイシングで^c:1486b0;ファームファン^c:pop;の名前を書いておきましょう…
+//[Reference] 'That should do it! So what did you get her as a gift?'
+staxel.village.dialogue.Mayor.line:10013500=こんなもんでしょう！それであなたは彼女にどんなプレゼントを用意したんですか？
+//[Reference] 'You...you haven't bought her a gift yet? This is a disaster!'
+staxel.village.dialogue.Mayor.line:10013600=あなた…まだ彼女にプレゼントを用意していないんですか？これは一大事です！
+//[Reference] 'Hurry to the ^c:1486b0;town square^c:pop; and speak with some of the ^c:1486b0;merchants^c:pop;.'
+staxel.village.dialogue.Mayor.line:10013700=^c:1486b0;町の広場^c:pop;へ急いで^c:1486b0;商人^c:pop;の誰かと話をしてみてください。
+//[Reference] 'I'm sure you can pick something out from what they have there!'
+staxel.village.dialogue.Mayor.line:10013800=彼らの品からきっと何か見つけられますよ！
+//[Reference] 'Did you speak to the ^c:1486b0;merchants^c:pop; yet?'
+staxel.village.dialogue.Mayor.line:10013900=^c:1486b0;商人^c:pop;たちとはもう話をしましたか？
+//[Reference] 'You don't want something of one of the carts. If you speak to them directly they might have something special!'
+staxel.village.dialogue.Mayor.line:10014000=店先に出ている物ではダメだよ。彼らと直接話せば特別な物を売ってくれるかもしれないよ！
+//[Reference] 'Hmm... Somehow I don't think this will make ^c:1486b0;Farm Fan^c:pop; very happy...'
+staxel.village.dialogue.Mayor.line:10014100=うーむ…これでは^c:1486b0;ファームファン^c:pop;はあまり喜ばないでしょうね…
+//[Reference] 'I'd suggest going back and seeing if they have something more suitable on offer...'
+staxel.village.dialogue.Mayor.line:10014200=もっと相応しい物が売られていないか戻って探してきてはどうですか…
+//[Reference] 'Ah yes, that seems like the perfect gift. I just know she'll love it.'
+staxel.village.dialogue.Mayor.line:10014300=おお良いですね、プレゼントにぴったりです。これなら彼女も喜びますよ。
+//[Reference] 'This is a bundle of all the gifts from the other villagers, except ^c:1486b0;Rowan^c:pop;.'
+staxel.village.dialogue.Mayor.line:10014400=これは^c:1486b0;ローワン^c:pop;以外の村人からのプレゼントをまとめたものです。
+//[Reference] 'Do you think you could swing by the ^c:1486b0;tavern^c:pop; to pick his up and then take it all to ^c:1486b0;Farm Fan^c:pop;?'
+staxel.village.dialogue.Mayor.line:10014500=^c:1486b0;酒場^c:pop;で彼のプレゼントを受け取り、そのあと全てを^c:1486b0;ファームファン^c:pop;に届けてくれませんか？
+//[Reference] 'I'm sure she'll be ecstatic to be given her gifts by a real farmer!'
+staxel.village.dialogue.Mayor.line:10014600=本物の農家からプレゼントを贈られたら彼女も大喜びでしょうね！
+//[Reference] 'Well that went very well, I must say.'
+staxel.village.dialogue.Mayor.line:10014700=やれやれ、なんとか上手く行きましたね。
+//[Reference] 'We usually try to do something for the poor girl every year, but it's not usually this successful.'
+staxel.village.dialogue.Mayor.line:10014800=かわいそうなあの子に毎年いつも何かしようとするのですが、大抵これほど上手く行きません。
+//[Reference] 'I'd say it's you who helped to liven everything up!'
+staxel.village.dialogue.Mayor.line:10014900=あなたのおかげで皆が活気付いてますよ！
+//[Reference] 'Take this as a little something to thank you for brightening the village in general.'
+staxel.village.dialogue.Mayor.line:10015000=村全体を明るくしてくれたお礼として、つまらない物ですがこれを受け取ってください。
+//[Reference] 'Here's to making next year even better!'
+staxel.village.dialogue.Mayor.line:10015100=来年はもっと上手く行くことを祝して！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;! I've been looking for you.'
+staxel.village.dialogue.Mayor.line:10015110=あ、^c:1486b0;{0-playername}^c:pop;！あなたを探していたんです。
+//[Reference] 'I don't know if you've participated in any of our festivals yet, but they can be rather grand events!'
+staxel.village.dialogue.Mayor.line:10015120=今までお祭りに参加したことがあるか分かりませんが、今回はかなり大イベントになりますよ！
+//[Reference] 'Rather...expensive to hold though, as I'm sure you can understand.'
+staxel.village.dialogue.Mayor.line:10015130=多少…開催費用がかかりますが、あなたには理解していただけますよね。
+//[Reference] 'Yet...they also bring in a nice amount of money to local business... A bit of a paradox there.'
+staxel.village.dialogue.Mayor.line:10015140=ですが…地元の事業の大きな収入にもなるんです…それが少々パラドックスでもあります。
+//[Reference] 'And so, I had a thought the other day—what if we hold smaller festivals?'
+staxel.village.dialogue.Mayor.line:10015150=それで、先日考えたのですが──もっと小さいお祭りを開催してみるのはどうでしょうか？
+//[Reference] 'What if we could attract the same number of people to a much smaller and cheaper venue?'
+staxel.village.dialogue.Mayor.line:10015160=より小規模で費用のかからない会場でも同程度の参加者が見込めるとしたらどうでしょう？
+//[Reference] 'Wouldn't that be absolutely wonderful?'
+staxel.village.dialogue.Mayor.line:10015170=かなり素晴らしくはないですか？
+//[Reference] 'Now this is where you come in, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10015180=そこであなたの出番です、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'I need you to speak to ^c:1486b0;{0-aliza}^c:pop; about the preparations.'
+staxel.village.dialogue.Mayor.line:10015190=あなたにはこの準備の件を^c:1486b0;{0-aliza}^c:pop;に話してほしいのです。
+//[Reference] 'I trust you know how to find her by now.'
+staxel.village.dialogue.Mayor.line:10015200=あなたなら彼女の居場所は分かりますよね。
+//[Reference] 'Head on over to ^c:1486b0;{0-aliza}^c:pop; to discuss the preparations.'
+staxel.village.dialogue.Mayor.line:10015210=準備の話し合いのために^c:1486b0;{0-aliza}^c:pop;の所へ向かってください。
+//[Reference] 'The sooner we can get set up, the sooner we can start earning!'
+staxel.village.dialogue.Mayor.line:10015220=より早く準備ができれば、その分早く収入を得られるんです！
+//[Reference] '^c:1486b0;Aliza^c:pop; is all on board I assume?'
+staxel.village.dialogue.Mayor.line:10015280=^c:1486b0;アリザ^c:pop;も協力してくれるのですね？
+//[Reference] 'Excellent! All according to plan!'
+staxel.village.dialogue.Mayor.line:10015290=素晴らしい！全て計画通りです！
+//[Reference] 'Now, if I could perhaps trouble you to construct the grounds using that ^c:1486b0;signpost^c:pop;...'
+staxel.village.dialogue.Mayor.line:10015300=さて、お手数をおかけしますが、この^c:1486b0;看板^c:pop;を使って会場を建設してもらいたいのです…
+//[Reference] 'I think that should put us in a great place!'
+staxel.village.dialogue.Mayor.line:10015310=そうすれば素晴らしい会場ができるはずです！
+//[Reference] 'How are the ^c:1486b0;small festival grounds^c:pop; coming along?'
+staxel.village.dialogue.Mayor.line:10015320=^c:1486b0;小さいお祭り会場^c:pop;はどんな感じですか？
+//[Reference] 'I think it should be quite straightforward to set up!'
+staxel.village.dialogue.Mayor.line:10015330=設置に向けて一直線のようですね！
+//[Reference] 'Good work, ^c:1486b0;{0-playername}^c:pop;! This will serve very nicely!'
+staxel.village.dialogue.Mayor.line:10015340=お疲れ様です、^c:1486b0;{0-playername}^c:pop;！これなら上手く行くでしょう！
+//[Reference] 'There's just one final task we need to do to prepare.'
+staxel.village.dialogue.Mayor.line:10015350=準備に必要な作業が最後に1つだけあります。
+//[Reference] 'Could you perhaps put these up around the town? They're ^c:1486b0;flyers^c:pop; for the upcoming festival I've planned!'
+staxel.village.dialogue.Mayor.line:10015360=これを町中に貼ってくれませんか？私の企画した今回のお祭りの^c:1486b0;チラシ^c:pop;です！
+//[Reference] 'Just put them on walls around the town so that everyone knows what's going on!'
+staxel.village.dialogue.Mayor.line:10015370=町中の壁にそれを貼れば皆さんに何が始まるのか知ってもらえるでしょう！
+//[Reference] 'Still have a few more ^c:1486b0;flyers^c:pop; to put up, eh?'
+staxel.village.dialogue.Mayor.line:10015380=まだ何枚か^c:1486b0;チラシ^c:pop;を貼っていないようですね？
+//[Reference] 'Well, no serious hurry, I suppose. It'll be a while before the festival kicks off.'
+staxel.village.dialogue.Mayor.line:10015390=まあ、焦らないでいいですよ。お祭りの開催までしばらく時間がかかるでしょうし。
+//[Reference] 'Nice to see the marketing all set up and doing its job!'
+staxel.village.dialogue.Mayor.line:10015400=宣伝も済んで効果も出てきたようで良い感じです！
+//[Reference] 'I've already had a few curious residents around asking about the harvest festival!'
+staxel.village.dialogue.Mayor.line:10015410=既に収穫祭のことを興味ありげに尋ねてくる住民もいましたよ！
+//[Reference] 'This is a little something for your hard work! It's much nicer to have an assistant around, I must say.'
+staxel.village.dialogue.Mayor.line:10015420=少ないですが頑張ってくれたお礼です！そばにアシスタントがいると本当に助かりますね。
+//[Reference] 'Last time I tried something like this it didn't go too well...'
+staxel.village.dialogue.Mayor.line:10015430=以前、私が似たようなことを試した時は全く上手く行きませんでしたよ…
+//[Reference] 'I'm beginning to think it was the lack of a good hard-worker like yourself!'
+staxel.village.dialogue.Mayor.line:10015440=あなたのような働き者が不足しているせいではないかと思えてきましたよ！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;, perfect timing!'
+staxel.village.dialogue.Mayor.line:10015450=ああ、^c:1486b0;{0-playername}^c:pop;、ちょうどいいタイミングです！
+//[Reference] 'Preparations for the harvest festival are almost complete.'
+staxel.village.dialogue.Mayor.line:10015460=収穫祭の準備はもうすぐ完了です。
+//[Reference] 'There's just a few more bits and pieces we need—perhaps something you could help with?'
+staxel.village.dialogue.Mayor.line:10015470=残りはちょっとした雑務なのですが──手伝っていただけませんか？
+//[Reference] 'First, I'd like you to run on over to ^c:1486b0;{0-leif}^c:pop; and make sure he has his store ready to cope with the demand!'
+staxel.village.dialogue.Mayor.line:10015480=まず、^c:1486b0;{0-leif}^c:pop;の所へ行って彼の店が客の需要に対応できるか確認してきてください！
+//[Reference] 'Then, check in with ^c:1486b0;{0-aliza}^c:pop; for any last-minute construction problems.'
+staxel.village.dialogue.Mayor.line:10015490=次に、土壇場になって建設に問題が出ていないか^c:1486b0;{0-aliza}^c:pop;に確認してください。
+//[Reference] 'After that, make sure ^c:1486b0;{0-rowan}'s^c:pop; ^c:1486b0;sap^c:pop; supply is sufficiently stocked.'
+staxel.village.dialogue.Mayor.line:10015500=その後、^c:1486b0;{0-rowan}^c:pop;の^c:1486b0;サップ^c:pop;の在庫が十分にあるか確認してください。
+//[Reference] 'With luck, that will mean we're all set to launch!'
+staxel.village.dialogue.Mayor.line:10015510=上手く行けば、全て準備完了です！
+//[Reference] 'Have you completed the errands I sent you on?'
+staxel.village.dialogue.Mayor.line:10015520=私が頼んだおつかいは終わりましたか？
+//[Reference] 'You need to speak with ^c:1486b0;Leif^c:pop;, ^c:1486b0;Aliza^c:pop;, and ^c:1486b0;Rowan^c:pop;.'
+staxel.village.dialogue.Mayor.line:10015530=^c:1486b0;レイフ^c:pop;と^c:1486b0;アリザ^c:pop;と^c:1486b0;ローワン^c:pop;に話してきてください。
+//[Reference] 'It's just a case of confirming their preparedness.'
+staxel.village.dialogue.Mayor.line:10015540=皆さんの準備状況を確認するだけですよ。
+//[Reference] 'Everyone is fully prepared then? Excellent!'
+staxel.village.dialogue.Mayor.line:10015550=もう皆さん準備万端なんですね？素晴らしい！
+//[Reference] 'Let the festivities begin!'
+staxel.village.dialogue.Mayor.line:10015560=それではお祭りを始めましょう！
+//[Reference] 'I'd suggest you try to participate as much as possible!'
+staxel.village.dialogue.Mayor.line:10015570=あなたもできるだけ参加してくださいね！
+//[Reference] 'The more people taking part, the more who will be intrigued and be enticed to participate!'
+staxel.village.dialogue.Mayor.line:10015580=参加者が多いほど、興味を引かれて参加する人も増えますから！
+//[Reference] 'Head over to the ^c:1486b0;small festival grounds^c:pop; whenever you're ready!'
+staxel.village.dialogue.Mayor.line:10015590=準備ができたらいつでも^c:1486b0;小さいお祭り会場^c:pop;に来てくださいね！
+//[Reference] 'How are you enjoying the harvest festival, ^c:1486b0;{0-playername}^c:pop;?'
+staxel.village.dialogue.Mayor.line:10015600=収穫祭は楽しめてますか、^c:1486b0;{0-playername}^c:pop;？
+//[Reference] 'I must say that it turned out much better than expected!'
+staxel.village.dialogue.Mayor.line:10015610=予想以上に素晴らしい成果ですよ！
+//[Reference] 'Still not quite the tourist attraction I had hoped...but there's still time!'
+staxel.village.dialogue.Mayor.line:10015620=まだ期待していたほど観光客の引き込みが芳しくありませんが…しかしまだ時間はあります！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10015630=おお、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Did...did you win the grand prize? At a festival you helped set up?'
+staxel.village.dialogue.Mayor.line:10015640=た…大賞を獲得したんですか？設営を手伝ったお祭りで？
+//[Reference] 'That's... That's...'
+staxel.village.dialogue.Mayor.line:10015650=それは…なんとも…
+//[Reference] 'Well I suppose that's legal... We never forbade it in any way...'
+staxel.village.dialogue.Mayor.line:10015660=まあ違反ではないでしょう…全く禁止していませんでしたから…
+//[Reference] 'In any case, here is the grand prize, as promised to the bearer of the ^c:1486b0;voucher^c:pop;.'
+staxel.village.dialogue.Mayor.line:10015670=いずれにせよ、約束通り^c:1486b0;証書^c:pop;は見せてもらいましたので、賞品をお渡しします。
+//[Reference] 'Good work, ^c:1486b0;{0-playername}^c:pop;. I do believe we pulled off quite the event!'
+staxel.village.dialogue.Mayor.line:10015680=お疲れ様です、^c:1486b0;{0-playername}^c:pop;。私たちならこのイベントを成功させられると信じていました！
+//[Reference] 'Good to see you, ^c:1486b0;{0-playername}^c:pop;, though I have some unfortunate news.'
+staxel.village.dialogue.Mayor.line:10015690=こんにちは、^c:1486b0;{0-playername}^c:pop;、悪いお知らせがあるんですが。
+//[Reference] 'Despite our best efforts, it seems the festival was not quite as successful as I'd hoped...'
+staxel.village.dialogue.Mayor.line:10015700=私たちの努力も虚しく、あのお祭りは期待したほど成功したとは言えなかったようです…
+//[Reference] 'It was moderately successful, but not fantastic. Not nearly enough to fund my new office.'
+staxel.village.dialogue.Mayor.line:10015710=多少の成果はありましたが、大成功とは言えません。新オフィスの資金には到底足りません。
+//[Reference] 'We need to attract investors with significant funds—individuals who see the island's potential!'
+staxel.village.dialogue.Mayor.line:10015720=巨額の資金を持つ投資家を誘致しましょう──この島の可能性を見出してくれる人物を！
+//[Reference] 'While historic tourism was the cause of my last attempt at retirement, I fear we must try it once more...'
+staxel.village.dialogue.Mayor.line:10015730=歴史の観光事業が私の引退時の最後の挑戦でしたが、もう一度挑戦するべきでしょうか…
+//[Reference] 'Perhaps you could put your artistic talents to good use and produce a pair of ^c:1486b0;historic statues^c:pop;?'
+staxel.village.dialogue.Mayor.line:10015740=あなたの芸術的な才能を活かして、一組の^c:1486b0;歴史的な彫像^c:pop;を作ってくれませんか？
+//[Reference] 'Figures who made the island what it is today!'
+staxel.village.dialogue.Mayor.line:10021600=今日のこの島を作り上げた人々の肖像をです！
+//[Reference] 'Once completed, place them within the town and use the ^c:1486b0;plaques^c:pop; to designate them!'
+staxel.village.dialogue.Mayor.line:10021700=完成したら、町の中に設置して、それぞれを示す^c:1486b0;銘板^c:pop;を使ってください！
+//[Reference] 'I do hope those ^c:1486b0;statues^c:pop; will draw in more tourism than our previous attempt...'
+staxel.village.dialogue.Mayor.line:10021800=以前挑戦した時よりも、あの^c:1486b0;彫像^c:pop;が多くの観光客の目に留まると良いのですが…
+//[Reference] 'Excellent! Rather awe-inspiring, I must say!'
+staxel.village.dialogue.Mayor.line:10021900=素晴らしい！かなり荘厳な雰囲気が出ていますよ！
+//[Reference] 'I have it on good authority that our first tourists have arrived too!'
+staxel.village.dialogue.Mayor.line:10022000=確かな筋から最初の観光客も到着したと聞きました！
+//[Reference] 'Perhaps you could speak with them and gather their feedback?'
+staxel.village.dialogue.Mayor.line:10022100=彼らと話をして感想を集めてきてもらえませんか？
+//[Reference] 'It could be invaluable to ensuring their investment!'
+staxel.village.dialogue.Mayor.line:10022200=投資を確保するためには有益な情報なんです！
+//[Reference] 'So what did the tourists have to say about our town?'
+staxel.village.dialogue.Mayor.line:10022300=それで観光客たちはこの町について何と言っていましたか？
+//[Reference] 'Were they impressed? Have we secured investors?'
+staxel.village.dialogue.Mayor.line:10022400=気に入っていましたか？投資していただけそうですか？
+//[Reference] 'They...weren't happy then? The statues were no good?'
+staxel.village.dialogue.Mayor.line:10022500=彼らは…満足していなかったと？彫像は気に入ってもらえなかったのですか？
+//[Reference] 'I'm sorry, ^c:1486b0;{0-playername}^c:pop;. It seems I might have wasted your time.'
+staxel.village.dialogue.Mayor.line:10022600=申し訳ありません、^c:1486b0;{0-playername}^c:pop;。あなたの時間を無駄にしてしまったようですね。
+//[Reference] 'But...do you think you might be up to trying again?'
+staxel.village.dialogue.Mayor.line:10022700=ですが…また協力していただけませんか？
+//[Reference] 'Maybe if we had exactly the right statues and a little bit of luck...'
+staxel.village.dialogue.Mayor.line:10022800=少しでも気に入ってもらえるような理想の像があれば…
+//[Reference] 'Maybe then someone would show a bit more interest in the town!'
+staxel.village.dialogue.Mayor.line:10022900=そうすればこの町にさらに興味を持ってくれるかもしれません！
+//[Reference] 'Make sure you remove the previous two ^c:1486b0;statues^c:pop;...'
+staxel.village.dialogue.Mayor.line:10023000=以前の2つの^c:1486b0;彫像^c:pop;の撤去をお願いします…
+//[Reference] 'These new ones might attract a more helpful crowd...'
+staxel.village.dialogue.Mayor.line:10023100=新しい像はもっと有益な効果をもたらしてくれると良いんですが…
+//[Reference] 'Don't forget to remove the two ^c:1486b0;statues^c:pop; you erected before.'
+staxel.village.dialogue.Mayor.line:10023200=以前設置した2つの^c:1486b0;彫像^c:pop;の撤去を忘れないでくださいね。
+//[Reference] 'They didn't seem to go down too well with the visitors...'
+staxel.village.dialogue.Mayor.line:10023300=あれは観光客にほとんど気に入ってもらえなかったようですし…
+//[Reference] 'Nice job, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10023400=ご苦労様です、^c:1486b0;{0-playername}^c:pop;。
+//[Reference] 'Now all we can do is hope.'
+staxel.village.dialogue.Mayor.line:10023500=後は祈るばかりです。
+//[Reference] 'I'd suggest going to see how our latest tourist is finding the town.'
+staxel.village.dialogue.Mayor.line:10023600=新しく来た観光客が町で気になっているものは何か見てきてくれませんか。
+//[Reference] 'Perhaps this is one we might be able to convince...'
+staxel.village.dialogue.Mayor.line:10023700=おそらくそれで確信が得られるでしょうね…
+//[Reference] 'I believe the new tourist is over by one of the ^c:1486b0;statues^c:pop; you placed.'
+staxel.village.dialogue.Mayor.line:10023800=新しく来た観光客があなたの設置した^c:1486b0;彫像^c:pop;を見て喜んでくれるといいですね。
+//[Reference] 'Do your best to convince him so we can keep the town flourishing!'
+staxel.village.dialogue.Mayor.line:10023900=頑張って彼らに気に入ってもらえれば町の賑わいを維持できますよ！
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! Wonderful news!'
+staxel.village.dialogue.Mayor.line:10024000=^c:1486b0;{0-playername}^c:pop;！素晴らしいお知らせです！
+//[Reference] 'We found an investor!'
+staxel.village.dialogue.Mayor.line:10024100=投資家が見つかりました！
+//[Reference] 'A strange man in a suit? Resorts? Glass offices?'
+staxel.village.dialogue.Mayor.line:10024200=スーツ姿の変な男？リゾート？ガラスのオフィス？
+//[Reference] 'What on earth are you rambling on about?'
+staxel.village.dialogue.Mayor.line:10024300=一体何を言っているんですか？
+//[Reference] 'Apparently, a local historian was passing through when you erected those ^c:1486b0;historic monuments^c:pop;!'
+staxel.village.dialogue.Mayor.line:10024400=どうも、あなたが^c:1486b0;歴史的な記念像^c:pop;を建てた時に現地の歴史家が通りがかっていたようなんです！
+//[Reference] 'He immediately recognised their likenesses and realised that the island was central in some ancient culture or other!'
+staxel.village.dialogue.Mayor.line:10024500=彼は肖像を見てすぐに、この島が古代文明の中心地だったことに気付いたそうです！
+//[Reference] 'So now we're getting a grant as a world heritage site! Can you believe that?'
+staxel.village.dialogue.Mayor.line:10024600=そのおかげで、この島は世界遺産として補助金を受けることになりました！信じられますか？
+//[Reference] 'Fantastic work, ^c:1486b0;{0-playername}^c:pop;! I couldn't have done it without you!'
+staxel.village.dialogue.Mayor.line:10024700=本当によくやってくれました、^c:1486b0;{0-playername}^c:pop;！あなたがいてくれて本当に良かった！
+//[Reference] 'You practically saved the entire town! Or, its financing at least!'
+staxel.village.dialogue.Mayor.line:10024800=あなたは実質この町全体を救ったんです！少なくとも財政面では！
+//[Reference] 'This is never going to be enough to repay what you've given us...'
+staxel.village.dialogue.Mayor.line:10024900=この功績へのお返しとしては十分ではないでしょうが…
+//[Reference] 'But maybe you'd appreciate the honour of being the one to place our ^c:1486b0;commemorative plaque^c:pop;?'
+staxel.village.dialogue.Mayor.line:10025000=ですが^c:1486b0;記念碑^c:pop;を設置する名誉を受け取っていただけませんか？
+//[Reference] 'Or not, of course! I leave that decision entirely up to you!'
+staxel.village.dialogue.Mayor.line:10025100=もちろん、無理強いはしません！全てあなた次第です！
+//[Reference] 'Ah, ^c:1486b0;{0-playername}^c:pop;. I wasn't expecting to run into you!'
+staxel.village.dialogue.Mayor.line:10025200=おや、^c:1486b0;{0-playername}^c:pop;さん。こんなところでお会いするとは！
+//[Reference] 'A rather smart individual came by earlier and handed me a letter to pass on to you.'
+staxel.village.dialogue.Mayor.line:10025300=先ほど何やらスマートな方がお見えになり、あなた宛ての手紙を託されました。
+//[Reference] 'Unfortunately, I can't give it to you now - I already posted it!'
+staxel.village.dialogue.Mayor.line:10025400=ですが申し訳ありません、今はお渡しできないのです…もう郵送してしまったんですよ！
+//[Reference] 'If I had known you were coming, I would have given it to you in person...'
+staxel.village.dialogue.Mayor.line:10025500=ここでお会いできると分かっていたら、直接お渡ししたのですが…
+//[Reference] '^c:1486b0;{0-playername}^c:pop;! Am I glad to see you.'
+staxel.village.dialogue.Mayor.line:10025600=^c:1486b0;{0-playername}^c:pop;さん！お会いできて嬉しいです。
+//[Reference] 'Last night was truly terrible!'
+staxel.village.dialogue.Mayor.line:10025700=昨夜は本当にひどいものでした！
+//[Reference] 'I have no idea where I am or how I got here.'
+staxel.village.dialogue.Mayor.line:10025800=ここが一体どこなのか、どうやってここに来たのか全く分からないんです。
+//[Reference] 'I was just in the middle of doing some... something important!'
+staxel.village.dialogue.Mayor.line:10025900=私はあの時ちょうど作業中でして…その、大事な作業だったんです！
+//[Reference] 'And then poof! I find myself in this primitive living space.'
+staxel.village.dialogue.Mayor.line:10026000=次の瞬間パッ！と、気付いた時にはこの原始的な空間にいたんです。
+//[Reference] 'But never mind that... something much worse happened after that...'
+staxel.village.dialogue.Mayor.line:10026100=ですがそこまでは別に構わないんです…その後にさらにひどいことが起きまして…
+//[Reference] 'I misplaced my hat! I can't find it anywhere.'
+staxel.village.dialogue.Mayor.line:10026200=私の帽子がないんです！どこを探しても見つからないんですよ。
+//[Reference] 'Someone must have stolen it! What incredibly disrespectful behaviour.'
+staxel.village.dialogue.Mayor.line:10026300=誰かが盗んだに違いありません！なんという不届き者でしょうか。
+//[Reference] 'Could you help me find out who is responsible for this dreadful act?'
+staxel.village.dialogue.Mayor.line:10026400=一体誰がこんなひどいことをしたのか、その張本人を見つけ出していただけませんか？
+//[Reference] 'I'll get to the bottom of this!'
+staxel.village.dialogue.Mayor.line:10026500=突き止めてみせましょう！
+//[Reference] 'Let's go home'
+staxel.village.dialogue.Mayor.line:10026600=帰りましょう
+//[Reference] 'Have you found my hat yet?'
+staxel.village.dialogue.Mayor.line:10026700=私の帽子は見つかりましたか？
+//[Reference] 'I cannot leave this place without it.'
+staxel.village.dialogue.Mayor.line:10026800=あれがないと、私はここを離れたくても離れることはできません。
+//[Reference] 'I can't leave this place without my hat.'
+staxel.village.dialogue.Mayor.line:10026900=私の帽子がないと、ここを離れたくても離れることはできません。
+//[Reference] 'Please help me find the person responsible for stealing it!'
+staxel.village.dialogue.Mayor.line:10027000=どうか盗んだ人を探し出すのを手伝ってください！
+//[Reference] 'Great, thank you ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10027100=良かった、ありがとうございます、^c:1486b0;{0-playername}^c:pop;さん！
+//[Reference] 'The sooner this is handled, the sooner I can get back to doing important things.'
+staxel.village.dialogue.Mayor.line:10027200=この件が早く解決すれば、私も重要な作業に早く戻ることができます。
+//[Reference] '^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10027300=^c:1486b0;{0-playername}^c:pop;さん！
+//[Reference] 'My hat, I've found it! But as quickly as I found it, it was snatched away again!'
+staxel.village.dialogue.Mayor.line:10027400=私の帽子、見つかりましたよ！ですが見つけた途端にまた奪われてしまったんです！
+//[Reference] 'You just missed the rascal responsible! You must get back my hat!'
+staxel.village.dialogue.Mayor.line:10027500=これじゃあ犯人を逃しただけですよ！私の帽子を取り戻してください！
+//[Reference] 'He went up the stairs. Luckily he dropped this ^c:d03e37;Bedroom Key^c:pop; on his way.'
+staxel.village.dialogue.Mayor.line:10027600=彼は階段を上っていきました。幸いにも途中でこの^c:d03e37;寝室のカギ^c:pop;を落としていったんですよ。
+//[Reference] 'I would chase after him myself... But my stamina isn't so good after roaming around town, day in and day out.'
+staxel.village.dialogue.Mayor.line:10027700=私も追いかけていきたいところですが…毎日毎日、町を歩き回った直後なのでヘトヘトなんです。
+//[Reference] 'I can't risk tripping and falling around here. Imagine the work that wouldn't get done!'
+staxel.village.dialogue.Mayor.line:10027800=こんな所で転んだりしたら大変です。仕事ができなくなったらどうするんですか！
+//[Reference] 'Please come back when you've retrieved my hat.'
+staxel.village.dialogue.Mayor.line:10027900=お願いです、私の帽子を取り戻したら、また来てください。
+//[Reference] 'Ah, you're back! Did you manage to get my hat?'
+staxel.village.dialogue.Mayor.line:10028000=おお、戻ってきましたか！私の帽子を取り戻せたのですか？
+//[Reference] 'You did? You're amazing!'
+staxel.village.dialogue.Mayor.line:10028100=取り戻せたんですね？素晴らしいです！
+//[Reference] 'Now to finally get back to business.'
+staxel.village.dialogue.Mayor.line:10028200=これでようやく仕事に戻れますよ。
+//[Reference] 'Although maybe I'll take a quick nap first.'
+staxel.village.dialogue.Mayor.line:10028300=ですが、まずは少し横になった方が良さそうです。
+//[Reference] 'Hopefully this ordeal wasn't too troublesome for you.'
+staxel.village.dialogue.Mayor.line:10028400=今回の件があなたの迷惑になっていなければいいのですが。
+//[Reference] 'Nope. Tomti was quite friendly!'
+staxel.village.dialogue.Mayor.line:10028500=いやいや。トムティはとてもフレンドリーだったよ！
+//[Reference] 'Maybe you should talk to Tomti?'
+staxel.village.dialogue.Mayor.line:10028600=トムティと話した方がいいんじゃないですか？
+//[Reference] 'Hmm... Maybe. He did take my hat though...'
+staxel.village.dialogue.Mayor.line:10028700=ふむ…そうかもしれません。彼には帽子を取られましたけど…
+//[Reference] 'But he didn't really seem malicious.'
+staxel.village.dialogue.Mayor.line:10028800=ですが悪意があるようには見えませんでした。
+//[Reference] 'I need to go back to the village for now. But I will talk with him if I see him. See you around!'
+staxel.village.dialogue.Mayor.line:10028900=ひとまず村に戻らないといけませんが、彼に会ったら話をしてみようと思います。それではまた！
+//[Reference] 'I'm so grateful to be back. Thanks again for your help ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10029000=ご無事でなによりです。先日は大変お世話になりました、^c:1486b0;{0-playername}^c:pop;さん。
+//[Reference] 'I don't think I have ever been without this hat for so long...'
+staxel.village.dialogue.Mayor.line:10029100=こんなに長い間この帽子を手放したことは今までありませんでしたよ…
+//[Reference] 'Maybe that one time... but that was a long time ago.'
+staxel.village.dialogue.Mayor.line:10029200=あの時を除けば…まあ昔の話ですけどね。
+//[Reference] 'Lets just work to make sure no more rapscallions take my hat!'
+staxel.village.dialogue.Mayor.line:10029300=もう二度と帽子が取られないように気を付けましょう！
+//[Reference] 'Hold On. Just putting my hat on.'
+staxel.village.dialogue.Mayor.line:10029400=少々お待ちください。帽子をかぶりますので。
+//[Reference] 'Ah ^c:1486b0;{0-playername}^c:pop;, I assume you have received my letter?'
+staxel.village.dialogue.Mayor.line:10100000=あ、^c:1486b0;{0-playername}^c:pop;さん、私の手紙を受け取ってくれたんですね？
+//[Reference] 'These animals are the most precious little pets I’ve ever seen!'
+staxel.village.dialogue.Mayor.line:10100001=この子たちは私が今まで見た中で一番可愛らしいペットですよ！
+//[Reference] 'Alas, my friend only has the time to care for one... Which would you prefer?'
+staxel.village.dialogue.Mayor.line:10100010=ですが残念なことに、私の友人は1匹しかお世話する余裕がないんです…あなたはどちらがお好みですか？
+//[Reference] 'The dog.'
+staxel.village.dialogue.Mayor.line:10100020=犬。
+//[Reference] 'The cat.'
+staxel.village.dialogue.Mayor.line:10100030=猫。
+//[Reference] 'I left some starter supplies with ^c:1486b0;Leif^c:pop; for you.'
+staxel.village.dialogue.Mayor.line:10100040=あなたのために初心者用のグッズを^c:1486b0;レイフ^c:pop;に預けておきました。
+//[Reference] 'There should be just enough there to get this little champ settled in with you.'
+staxel.village.dialogue.Mayor.line:10100041=この食いしん坊を落ち着かせるには十分なはずです。
+//[Reference] 'I already gave them a name, but you may want to change it...'
+staxel.village.dialogue.Mayor.line:10100042=そういえば、この子たちにはもう名前を付けてしまったのですが、もし変えたいのであれば…
+//[Reference] 'You can use this official ^c:d03e37;Animal Naming Form^c:pop; to do so.'
+staxel.village.dialogue.Mayor.line:10100043=こちらの正式な^c:d03e37;動物命名用紙^c:pop;を使うといいですよ。
+//[Reference] 'All you need to do is use the form directly on your pet, or any farm animal for that matter!'
+staxel.village.dialogue.Mayor.line:10100044=その用紙をペットや牧場の動物に直接使うだけでいいんです！
+//[Reference] 'Good to see you ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10100050=お会いできてうれしいです、^c:1486b0;{0-playername}^c:pop;さん。
+//[Reference] 'I assume you're here because my correspondence reached you in a timely manner?'
+staxel.village.dialogue.Mayor.line:10100150=私の手紙がちょうど届いたので、ここにいらしたんですよね？
+//[Reference] 'Right, so let's get to business then.'
+staxel.village.dialogue.Mayor.line:10100250=よろしいですか、では本題に入りましょう。
+//[Reference] 'It doesn't look like you have your ^c:d03e37;Registration Letter^c:pop; with you...'
+staxel.village.dialogue.Mayor.line:10100251=^c:d03e37;登録用紙^c:pop;を持っていないみたいですね…
+//[Reference] 'Not to worry, it's merely a formality, we can continue without it!'
+staxel.village.dialogue.Mayor.line:10100252=心配しないでください、ただの形式的なものですから、無くても問題ありません！
+//[Reference] 'I see you've brought your ^c:d03e37;Registration Letter^c:pop;, very good.'
+staxel.village.dialogue.Mayor.line:10100253=^c:d03e37;登録用紙^c:pop;を持ってきてくれたんですね、大変結構です。
+//[Reference] 'I'll just take that...'
+staxel.village.dialogue.Mayor.line:10100254=受け取っておきましょう…
+//[Reference] 'Speaking on behalf of this fine town...'
+staxel.village.dialogue.Mayor.line:10100350=ではこの素晴らしい町を代表して申し上げます…
+//[Reference] 'We recognise the gracious acts that you have done for this community.'
+staxel.village.dialogue.Mayor.line:10100450=私たちは、あなたがこの地域に貢献してくださったことを表彰いたします。
+//[Reference] 'And that you have overhauled that old farm into fine working order...'
+staxel.village.dialogue.Mayor.line:10100550=そして、あの古い牧場をしっかりと使えるまでに修繕したことで…
+//[Reference] 'And in doing so, we recognise that you should receive your official ^c:d03e37;Farm License^c:pop;.'
+staxel.village.dialogue.Mayor.line:10100650=それにより、私たちはあなたに正式な^c:d03e37;牧場のライセンス^c:pop;を進呈いたします。
+//[Reference] 'Ahem... now with the official bits out of the way...'
+staxel.village.dialogue.Mayor.line:10100750=ごほん…さて、堅苦しい話はこのくらいにしまして…
+//[Reference] 'You're doing a tremendous job, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10100850=素晴らしい働きです、^c:1486b0;{0-playername}^c:pop;さん。
+//[Reference] 'Keep it up, and I'm sure the town will thank you.'
+staxel.village.dialogue.Mayor.line:10100950=その調子で頑張ってください。そうすればきっと町の人たちからも感謝されると思いますよ。
+//[Reference] 'Ah, and I left you a little celebratory gift with ^c:1486b0;Farm Fan^c:pop;.'
+staxel.village.dialogue.Mayor.line:10101050=あぁ、それと、^c:1486b0;ファームファン^c:pop;にちょっとしたお祝いの品を預けておきました。
+//[Reference] 'You should find her before she chickens out.'
+staxel.village.dialogue.Mayor.line:10101150=彼女の気が変わる前に見つけ出した方がいいですよ。
+//[Reference] 'See you later, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.Mayor.line:10101250=^c:1486b0;{0-playername}^c:pop;さん、それではまた。
+//[Reference] 'Is that a spare ^c:d03e37;Registration Letter^c:pop; you have?'
+staxel.village.dialogue.Mayor.line:10101251=あなたの持っているそれは予備の^c:d03e37;登録用紙^c:pop;ですか？
+//[Reference] 'Let me take that off your hands, no need for that now!'
+staxel.village.dialogue.Mayor.line:10101252=それはもう必要ないので、私が預かっておきますね！
+//[Reference] 'Anyway, I assume you came because you received my letter?'
+staxel.village.dialogue.Mayor.line:10200000=そんなことより、私の手紙を受け取ったので来てくれたんですよね？
+//[Reference] 'These animals are the most precious little pets I’ve ever seen!'
+staxel.village.dialogue.Mayor.line:10200100=この子たちは私が今まで見た中で一番可愛らしいペットですよ！
+//[Reference] 'Alas, my friend only has the time to care for one... Which would you prefer?'
+staxel.village.dialogue.Mayor.line:10200200=ですが残念なことに、私の友人は1匹しかお世話する余裕がないんです…あなたはどちらがお好みですか？
+//[Reference] 'The dog.'
+staxel.village.dialogue.Mayor.line:10200300=犬。
+//[Reference] 'The cat.'
+staxel.village.dialogue.Mayor.line:10200400=猫。
+//[Reference] 'You should go get your little celebratory gift from ^c:1486b0;Farm Fan^c:pop;.'
+staxel.village.dialogue.Mayor.line:10200500=^c:1486b0;ファームファン^c:pop;からちょっとしたお祝いの品をもらいに行くといいですよ。
+//[Reference] 'You should find her before she chickens out...'
+staxel.village.dialogue.Mayor.line:10200600=彼女の気が変わる前に見つけ出した方がいいですよ…
+//[Reference] 'Have you picked up the supplies from Leif yet?'
+staxel.village.dialogue.Mayor.line:10201000=レイフから荷物はもう受け取りましたか？
+//[Reference] 'Don't want the little one to go hungry, now do we.'
+staxel.village.dialogue.Mayor.line:10201100=こんな小さな動物のお腹を空かせるわけにはいきません、とにかく荷物を受け取りに行ってください。
+//[Reference] 'Seems like the little champ has bonded with you quite well.'
+staxel.village.dialogue.Mayor.line:10201200=あのやんちゃな食いしん坊と仲良くやっているみたいですね。
+//[Reference] 'Keep it fed and happy. Maybe it'll bring you something special.'
+staxel.village.dialogue.Mayor.line:10201300=エサを十分にあげて幸せにしてあげてください。きっと何か特別なものを持ってきてくれるかもしれませんよ。

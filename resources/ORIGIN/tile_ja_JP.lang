@@ -1,0 +1,721 @@
+﻿language.code=ja-JP
+language=日本語
+staxel.collector.tile.brick.MoonBrick.description=
+//[Reference] 'Moon Brick'
+staxel.collector.tile.brick.MoonBrick.name=月のレンガ
+staxel.collector.tile.brick.MossyMoonBrick.description=
+//[Reference] 'Mossy Moon Brick'
+staxel.collector.tile.brick.MossyMoonBrick.name=コケむした月のレンガ
+staxel.collector.tile.brick.MossySunBrick.description=
+//[Reference] 'Mossy Sun Brick'
+staxel.collector.tile.brick.MossySunBrick.name=コケむした太陽のレンガ
+staxel.collector.tile.brick.SunBrick.description=
+//[Reference] 'Sun Brick'
+staxel.collector.tile.brick.SunBrick.name=太陽のレンガ
+staxel.collector.tile.carpet.AntiqueCarpetBlue.description=
+//[Reference] 'Antique Carpet Blue'
+staxel.collector.tile.carpet.AntiqueCarpetBlue.name=アンティークのカーペット（青）
+staxel.collector.tile.carpet.AntiqueCarpetRed.description=
+//[Reference] 'Antique Carpet Red'
+staxel.collector.tile.carpet.AntiqueCarpetRed.name=アンティークのカーペット（赤）
+staxel.collector.tile.cave.CaveHorizontal.description=
+//[Reference] 'Cave Wall'
+staxel.collector.tile.cave.CaveHorizontal.name=洞窟の壁
+staxel.collector.tile.cave.CaveHorizontalGlitter.description=
+//[Reference] 'Shiny Cave Wall'
+staxel.collector.tile.cave.CaveHorizontalGlitter.name=キラキラした洞窟の壁
+staxel.collector.tile.cave.CaveHorizontalMoonGrass.description=
+//[Reference] 'Moon Grass Covered Cave Wall'
+staxel.collector.tile.cave.CaveHorizontalMoonGrass.name=月の草で覆われた洞窟の壁
+staxel.collector.tile.cave.CaveHorizontalSunGrass.description=
+//[Reference] 'Sun Grass Covered Cave Wall'
+staxel.collector.tile.cave.CaveHorizontalSunGrass.name=太陽の草で覆われた洞窟の壁
+staxel.collector.tile.cave.CollectorCaveBrick.description=
+//[Reference] 'Cave Brick'
+staxel.collector.tile.cave.CollectorCaveBrick.name=洞窟のレンガ
+staxel.collector.tile.cave.CollectorCaveBrickMoss.description=
+//[Reference] 'Cave Brick Moss'
+staxel.collector.tile.cave.CollectorCaveBrickMoss.name=洞窟のレンガのコケ
+staxel.collector.tile.dirt.MoonDirt.description=
+//[Reference] 'Moon Dirt'
+staxel.collector.tile.dirt.MoonDirt.name=月の土
+staxel.collector.tile.grass.MoonGrass.description=
+//[Reference] 'Pink Moon Grass'
+staxel.collector.tile.grass.MoonGrass.name=ピンク色の月の草
+staxel.collector.tile.grass.MoonGrass1.description=
+//[Reference] 'Purple Moon Grass'
+staxel.collector.tile.grass.MoonGrass1.name=紫色の月の草
+staxel.collector.tile.leaves.MoonBirchLeaf.description=
+//[Reference] 'Moon Birch Leaf'
+staxel.collector.tile.leaves.MoonBirchLeaf.name=月の白樺の葉
+staxel.collector.tile.leaves.SunBirchLeaf.description=
+//[Reference] 'Sun Birch Leaf'
+staxel.collector.tile.leaves.SunBirchLeaf.name=太陽の白樺の葉
+staxel.collector.tile.path.collectorStonePath.description=
+//[Reference] 'Stone Path'
+staxel.collector.tile.path.collectorStonePath.name=石の道
+staxel.collector.tile.sand.MoonSand.description=
+//[Reference] 'Moon Sand'
+staxel.collector.tile.sand.MoonSand.name=月の砂
+staxel.collector.tile.stones.galaxyStoneLarge.description=
+//[Reference] 'Galaxy Stone Large'
+staxel.collector.tile.stones.galaxyStoneLarge.name=銀河の石（大）
+staxel.collector.tile.stones.galaxyStoneMedium.description=
+//[Reference] 'Galaxy Stone Medium'
+staxel.collector.tile.stones.galaxyStoneMedium.name=銀河の石（中）
+staxel.collector.tile.stones.galaxyStoneSmall.description=
+//[Reference] 'Galaxy Stone Small'
+staxel.collector.tile.stones.galaxyStoneSmall.name=銀河の石（小）
+staxel.collector.tile.wall.PlasterMoon.description=
+//[Reference] 'Plaster Moon'
+staxel.collector.tile.wall.PlasterMoon.name=月の漆喰
+staxel.collector.tile.wall.SunPlaster.description=
+//[Reference] 'Sun Plaster'
+staxel.collector.tile.wall.SunPlaster.name=太陽の漆喰
+staxel.collector.tile.wall.TrimmedMoonPlaster.description=
+//[Reference] 'Trimmed Moon Plaster'
+staxel.collector.tile.wall.TrimmedMoonPlaster.name=トリムされた月の漆喰
+staxel.collector.tile.wall.TrimmedSunPlaster.description=
+//[Reference] 'Trimmed Sun Plaster'
+staxel.collector.tile.wall.TrimmedSunPlaster.name=トリムされた太陽の漆喰
+staxel.collector.tile.water.GalaxyCaveWater.description=
+//[Reference] 'Galaxy Cave Water'
+staxel.collector.tile.water.GalaxyCaveWater.name=銀河の洞窟の水
+staxel.collector.tile.water.GalaxyCaveWaterSun.description=
+//[Reference] 'Galaxy Cave Water Sun'
+staxel.collector.tile.water.GalaxyCaveWaterSun.name=銀河の洞窟の水（太陽）
+staxel.collector.tile.water.GalaxyOutdoorWater.description=
+//[Reference] 'Galaxy Outdoor Water'
+staxel.collector.tile.water.GalaxyOutdoorWater.name=銀河の屋外の水
+staxel.collector.tile.water.GalaxyOutdoorWaterSun.description=
+//[Reference] 'Galaxy Outdoor Water Sun'
+staxel.collector.tile.water.GalaxyOutdoorWaterSun.name=銀河の屋外の水（太陽）
+staxel.collector.tile.wood.BirchWood.description=
+//[Reference] 'Birch Wood'
+staxel.collector.tile.wood.BirchWood.name=白樺の木
+staxel.collector.tile.wood.HorizontalPurpleWoodPlank.description=
+//[Reference] 'Horizontal Purple Wood Plank'
+staxel.collector.tile.wood.HorizontalPurpleWoodPlank.name=水平の紫色の木の板
+staxel.collector.tile.wood.HorizontalRedWoodPlank.description=
+//[Reference] 'Horizontal Red Wood Plank'
+staxel.collector.tile.wood.HorizontalRedWoodPlank.name=水平の赤色の木の板
+staxel.collector.tile.wood.HorizontalWoodPlank.description=
+//[Reference] 'Horizontal Wood Plank'
+staxel.collector.tile.wood.HorizontalWoodPlank.name=水平の木の板
+staxel.collector.tile.wood.HorizontalWoodPlankTrim.description=
+//[Reference] 'Horizontal Wood Plank Trim'
+staxel.collector.tile.wood.HorizontalWoodPlankTrim.name=水平の木の板（トリム）
+staxel.collector.tile.wood.MossyWoodPlank.description=
+//[Reference] 'Mossy Wood Plank'
+staxel.collector.tile.wood.MossyWoodPlank.name=コケむした木の板
+staxel.collector.tile.wood.VerticalWood.description=
+//[Reference] 'Vertical Wood'
+staxel.collector.tile.wood.VerticalWood.name=垂直の木
+staxel.collector.tile.wood.VerticalWoodBlue.description=
+//[Reference] 'Vertical Wood Blue'
+staxel.collector.tile.wood.VerticalWoodBlue.name=垂直の木（青）
+staxel.tile.brick.Basalt.description=
+//[Reference] 'Basalt Brick Block'
+staxel.tile.brick.Basalt.name=玄武岩のレンガブロック
+staxel.tile.brick.Limestone.description=
+//[Reference] 'Limestone Brick Block'
+staxel.tile.brick.Limestone.name=石灰岩のレンガブロック
+staxel.tile.brick.Marble.description=
+//[Reference] 'Marble Brick Block'
+staxel.tile.brick.Marble.name=大理石のレンガブロック
+//[Reference] 'This block somehow stays floating even when not connected to anything...'
+staxel.tile.Cloud.description=このブロックは全く支えがなくても、なぜか浮き続ける…
+//[Reference] 'Cloud Block'
+staxel.tile.Cloud.name=雲ブロック
+
+//[Reference] 'This a simple black block.'
+staxel.tile.color.Color.black.description=シンプルな黒色のブロック。
+//[Reference] 'Black Block'
+staxel.tile.color.Color.black.name=黒色ブロック
+//[Reference] 'This a simple red block.'
+staxel.tile.color.Color.red.description=シンプルな赤色のブロック。
+//[Reference] 'Red Block'
+staxel.tile.color.Color.red.name=赤色ブロック
+//[Reference] 'This a simple test block.'
+staxel.tile.color.Color.test.description=シンプルなテストブロック。
+//[Reference] 'Test Block'
+staxel.tile.color.Color.test.name=テストブロック
+//[Reference] 'This a simple test stairs block.'
+staxel.tile.color.Color.test.stairs.description=シンプルなテスト階段ブロック。
+//[Reference] 'Test Stairs Block'
+staxel.tile.color.Color.test.stairs.name=テスト階段ブロック
+//[Reference] 'This a simple white block.'
+staxel.tile.color.Color.white.description=シンプルな白色のブロック。
+//[Reference] 'White Block'
+staxel.tile.color.Color.white.name=白色ブロック
+//[Reference] 'This a simple yellow block.'
+staxel.tile.color.Color.yellow.description=シンプルな黄色のブロック。
+//[Reference] 'Yellow Block'
+staxel.tile.color.Color.yellow.name=黄色ブロック
+
+//[Reference] 'This grass is purple... how spooky!'
+staxel.tile.creepy.PurpleGrassLayer.1.description=紫色の草…コワい！
+//[Reference] 'Purple Grass Block'
+staxel.tile.creepy.PurpleGrassLayer.1.name=紫色の草ブロック
+//[Reference] 'This grass is purple... how spooky!'
+staxel.tile.creepy.PurpleGrassLayer.2.description=紫色の草…コワい！
+//[Reference] 'Long Purple Grass Block'
+staxel.tile.creepy.PurpleGrassLayer.2.name=紫色の長い草ブロック
+
+//[Reference] 'Good, rich soil. Perfect for crop growing.'
+staxel.tile.dirt.Dirt.description=栄養豊富な土。作物を育てるのにうってつけ。
+//[Reference] 'Dirt Block'
+staxel.tile.dirt.Dirt.name=土ブロック
+//[Reference] 'This dirt block is tilled, ready for crops!'
+staxel.tile.dirt.Dirt.tilled.description=耕された土ブロックに作物を植えよう！
+//[Reference] 'Tilled Dirt Block'
+staxel.tile.dirt.Dirt.tilled.name=耕地ブロック
+//[Reference] 'This tilled dirt block has been watered.'
+staxel.tile.dirt.Dirt.watered.description=この耕地ブロックは十分な水が与えられている。
+//[Reference] 'Damp Tilled Dirt Block'
+staxel.tile.dirt.Dirt.watered.name=塗れた耕地ブロック
+//[Reference] 'Dirt block border'
+staxel.tile.dirt.DirtBorder2.description=土ブロック（ボーダー）
+//[Reference] 'Dirt Border'
+staxel.tile.dirt.DirtBorder2.name=土（ボーダー）
+
+//[Reference] 'A flooring perfect for basements, dungeons or just about any underground building.'
+staxel.tile.dungeon.Dungeon1.description=地下やダンジョンのフローリングにオススメのブロック。
+//[Reference] 'Dungeon Floor'
+staxel.tile.dungeon.Dungeon1.name=地下フロア
+//[Reference] 'A neat, sturdy, stone block.'
+staxel.tile.dungeon.DungeonStep.description=かっこよくて強固な石のブロック。
+//[Reference] 'Dungeon Stone Block'
+staxel.tile.dungeon.DungeonStep.name=ダンジョン石ブロック
+//[Reference] 'Dungeon flooring with small tiles and a white trim.'
+staxel.tile.dungeon.Dungeontile1.description=小さなタイルと白い飾りつきのダンジョン用フローリング。
+//[Reference] 'Trimmed Dungeon Floor'
+staxel.tile.dungeon.Dungeontile1.name=飾りつきダンジョンフロア
+//[Reference] 'Dungeon flooring with a white trim.'
+staxel.tile.dungeon.Dungeontile2.description=白い飾りつきのダンジョン用フローリング。
+//[Reference] 'Trimmed Dungeon Floor'
+staxel.tile.dungeon.Dungeontile2.name=飾りつきダンジョンフロア
+//[Reference] 'Thick Dungeon block with a second layer of trim.'
+staxel.tile.dungeon.DungeonWall.description=二層の飾りがついた、分厚いダンジョン用ブロック。
+//[Reference] 'Trimmed Dungeon Stone Block'
+staxel.tile.dungeon.DungeonWall.name=飾りつきダンジョン石ブロック
+
+//[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
+staxel.tile.fairyVillage.FairyGrassLayer.1.description=フェアリーバイオームで育った草。やわらかくてかわいらしい、マジカルな感じ！
+//[Reference] 'Pink Fairy Grass Block'
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=ピンク色のフェアリー草ブロック
+//[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
+staxel.tile.fairyVillage.FairyGrassLayer.2.description=フェアリーバイオームで育った草。やわらかくてかわいらしい、マジカルな感じ！
+//[Reference] 'Long Pink Fairy Grass Block'
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=ピンク色の長いフェアリー草ブロック
+staxel.tile.grass.ForestGrassLayer.1.description=
+//[Reference] 'Forest Grass Block'
+staxel.tile.grass.ForestGrassLayer.1.name=森の草ブロック
+staxel.tile.grass.ForestGrassLayer.2.description=
+//[Reference] 'Long Forest Grass Block'
+staxel.tile.grass.ForestGrassLayer.2.name=森の長い草ブロック
+
+//[Reference] 'Soft, green grass.'
+staxel.tile.grass.Grass.description=やわらかい緑色の草。
+//[Reference] 'Grass Block'
+staxel.tile.grass.Grass.name=草ブロック
+//[Reference] 'Grass Block Border'
+staxel.tile.grass.GrassBorder2.description=草ブロック（ボーダー）
+//[Reference] 'Grass Block Border'
+staxel.tile.grass.GrassBorder2.name=草ブロック（ボーダー）
+//[Reference] 'Soft, green grass.'
+staxel.tile.grass.GrassLayer.1.description=やわらかい緑色の草。
+//[Reference] 'Green Grass Block'
+staxel.tile.grass.GrassLayer.1.name=緑草ブロック
+//[Reference] 'Soft, long, green grass.'
+staxel.tile.grass.GrassLayer.2.description=やわらかい緑色の長い草。
+//[Reference] 'Long Green Grass Block'
+staxel.tile.grass.GrassLayer.2.name=長い緑草ブロック
+staxel.tile.grass.MeadowGrassLayer.1.description=
+//[Reference] 'Meadow Grass Block'
+staxel.tile.grass.MeadowGrassLayer.1.name=草原の草ブロック
+staxel.tile.grass.MeadowGrassLayer.2.description=
+//[Reference] 'Long Meadow Grass Block'
+staxel.tile.grass.MeadowGrassLayer.2.name=草原の長い草ブロック
+staxel.tile.happyBlocks.brick.BlueBrick.description=
+//[Reference] 'Blue Brick Block'
+staxel.tile.happyBlocks.brick.BlueBrick.name=青色のレンガブロック
+staxel.tile.happyBlocks.brick.BrownBrick.description=
+//[Reference] 'Brick Block'
+staxel.tile.happyBlocks.brick.BrownBrick.name=レンガブロック
+staxel.tile.happyBlocks.brick.CreamBrick.description=
+//[Reference] 'Cream Brick Block'
+staxel.tile.happyBlocks.brick.CreamBrick.name=クリーム色のレンガブロック
+staxel.tile.happyBlocks.brick.GreenBrick.description=
+//[Reference] 'Green Brick Block'
+staxel.tile.happyBlocks.brick.GreenBrick.name=緑色のレンガブロック
+staxel.tile.happyBlocks.brick.GreyBrick.description=
+//[Reference] 'Grey Brick Block'
+staxel.tile.happyBlocks.brick.GreyBrick.name=灰色のレンガブロック
+staxel.tile.happyBlocks.brick.OrangeBrick.description=
+//[Reference] 'Orange Brick Block'
+staxel.tile.happyBlocks.brick.OrangeBrick.name=オレンジ色のレンガブロック
+staxel.tile.happyBlocks.brick.PinkBrick.description=
+//[Reference] 'Pink Brick Block'
+staxel.tile.happyBlocks.brick.PinkBrick.name=ピンク色のレンガブロック
+staxel.tile.happyBlocks.brick.PurpleBrick.description=
+//[Reference] 'Purple Brick Block'
+staxel.tile.happyBlocks.brick.PurpleBrick.name=紫色のレンガブロック
+staxel.tile.happyBlocks.brick.RedBrick.description=
+//[Reference] 'Red Brick Block'
+staxel.tile.happyBlocks.brick.RedBrick.name=赤色のレンガブロック
+staxel.tile.happyBlocks.brick.YellowBrick.description=
+//[Reference] 'Yellow Brick Block'
+staxel.tile.happyBlocks.brick.YellowBrick.name=黄色のレンガブロック
+staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.description=
+//[Reference] 'Blue Checker Carpet'
+staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.name=青色のチェッカーカーペット
+staxel.tile.happyBlocks.carpet.BlueDotCarpet.description=
+//[Reference] 'Blue Dot Carpet'
+staxel.tile.happyBlocks.carpet.BlueDotCarpet.name=青い水玉模様のカーペット
+staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.description=
+//[Reference] 'Green Checker Carpet'
+staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.name=緑色のチェッカーカーペット
+staxel.tile.happyBlocks.carpet.GreenDotCarpet.description=
+//[Reference] 'Green Dot Carpet'
+staxel.tile.happyBlocks.carpet.GreenDotCarpet.name=緑の水玉模様のカーペット
+staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.description=
+//[Reference] 'Pink Checker Carpet'
+staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.name=ピンク色のチェッカーカーペット
+staxel.tile.happyBlocks.carpet.PinkDotCarpet.description=
+//[Reference] 'Pink Dot Carpet'
+staxel.tile.happyBlocks.carpet.PinkDotCarpet.name=ピンクの水玉模様のカーペット
+staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.description=
+//[Reference] 'Yellow Checker Carpet'
+staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.name=黄色のチェッカーカーペット
+staxel.tile.happyBlocks.carpet.YellowDotCarpet.description=
+//[Reference] 'Yellow Dot Carpet'
+staxel.tile.happyBlocks.carpet.YellowDotCarpet.name=黄色い水玉模様のカーペット
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.description=
+//[Reference] 'Plaza Block'
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=プラザブロック
+staxel.tile.happyBlocks.pathing.PlazaBlock.description=
+//[Reference] 'Large Tile Plaza Block'
+staxel.tile.happyBlocks.pathing.PlazaBlock.name=プラザの大型タイルブロック
+staxel.tile.happyBlocks.PlazaBlock.2.description=
+//[Reference] 'Plaza Block'
+staxel.tile.happyBlocks.PlazaBlock.2.name=プラザブロック
+staxel.tile.happyBlocks.PlazaBlock.description=
+//[Reference] 'Large Tile Plaza Block'
+staxel.tile.happyBlocks.PlazaBlock.name=プラザの大型タイルブロック
+staxel.tile.happyBlocks.stone.BlueStone.description=
+//[Reference] 'Blue Stone Block'
+staxel.tile.happyBlocks.stone.BlueStone.name=青色の石ブロック
+staxel.tile.happyBlocks.stone.BrownStone.description=
+//[Reference] 'Brown Stone Block'
+staxel.tile.happyBlocks.stone.BrownStone.name=茶色の石ブロック
+staxel.tile.happyBlocks.stone.CreamStone.description=
+//[Reference] 'Cream Stone Block'
+staxel.tile.happyBlocks.stone.CreamStone.name=クリーム色の石ブロック
+staxel.tile.happyBlocks.stone.greenStone.description=
+//[Reference] 'Green Stone Block'
+staxel.tile.happyBlocks.stone.greenStone.name=緑色の石ブロック
+staxel.tile.happyBlocks.stone.OrangeStone.description=
+//[Reference] 'Orange Stone Block'
+staxel.tile.happyBlocks.stone.OrangeStone.name=オレンジ色の石ブロック
+staxel.tile.happyBlocks.stone.PinkStone.description=
+//[Reference] 'Pink Stone Block'
+staxel.tile.happyBlocks.stone.PinkStone.name=ピンク色の石ブロック
+staxel.tile.happyBlocks.stone.PurpleStone.description=
+//[Reference] 'Purple Stone Block'
+staxel.tile.happyBlocks.stone.PurpleStone.name=紫色の石ブロック
+staxel.tile.happyBlocks.stone.RedStone.description=
+//[Reference] 'Red Stone Block'
+staxel.tile.happyBlocks.stone.RedStone.name=赤色の石ブロック
+staxel.tile.happyBlocks.stone.WhiteStone.description=
+//[Reference] 'White Stone Block'
+staxel.tile.happyBlocks.stone.WhiteStone.name=白色の石ブロック
+staxel.tile.happyBlocks.stone.YellowStone.description=
+//[Reference] 'Yellow Stone Block'
+staxel.tile.happyBlocks.stone.YellowStone.name=黄色の石ブロック
+staxel.tile.happyBlocks.wood.BlueWood.description=
+//[Reference] 'Blue Wood Block'
+staxel.tile.happyBlocks.wood.BlueWood.name=青色の木ブロック
+staxel.tile.happyBlocks.wood.BrownWood.description=
+//[Reference] 'Brown Wood Block'
+staxel.tile.happyBlocks.wood.BrownWood.name=茶色の木ブロック
+staxel.tile.happyBlocks.wood.CreamWood.description=
+//[Reference] 'Cream Wood Block'
+staxel.tile.happyBlocks.wood.CreamWood.name=クリーム色の木ブロック
+staxel.tile.happyBlocks.wood.DarkTexturedWood.description=
+//[Reference] 'Dark Textured Wood Block'
+staxel.tile.happyBlocks.wood.DarkTexturedWood.name=暗い色の樹皮つき木ブロック
+staxel.tile.happyBlocks.wood.GreenWood.description=
+//[Reference] 'Green Wood Block'
+staxel.tile.happyBlocks.wood.GreenWood.name=緑色の木ブロック
+staxel.tile.happyBlocks.wood.GreyWood.description=
+//[Reference] 'Gray Wood Block'
+staxel.tile.happyBlocks.wood.GreyWood.name=灰色の木ブロック
+staxel.tile.happyBlocks.wood.LightTexturedWood.description=
+//[Reference] 'Light Textured Wood Block'
+staxel.tile.happyBlocks.wood.LightTexturedWood.name=明るい色の樹皮つき木ブロック
+staxel.tile.happyBlocks.wood.MediumTexturedWood.description=
+//[Reference] 'Medium Textured Wood Block'
+staxel.tile.happyBlocks.wood.MediumTexturedWood.name=普通な色の樹皮つき木ブロック
+staxel.tile.happyBlocks.wood.OrangeWood.description=
+//[Reference] 'Orange Wood Block'
+staxel.tile.happyBlocks.wood.OrangeWood.name=オレンジ色の木ブロック
+staxel.tile.happyBlocks.wood.PinkWood.description=
+//[Reference] 'Pink Wood Block'
+staxel.tile.happyBlocks.wood.PinkWood.name=ピンク色の木ブロック
+staxel.tile.happyBlocks.wood.PurpleWood.description=
+//[Reference] 'Purple Wood Block'
+staxel.tile.happyBlocks.wood.PurpleWood.name=紫色の木ブロック
+staxel.tile.happyBlocks.wood.RedWood.description=
+//[Reference] 'Red Wood Block'
+staxel.tile.happyBlocks.wood.RedWood.name=赤色の木ブロック
+staxel.tile.happyBlocks.wood.TexturedWood.description=
+//[Reference] 'Textured Wood Block'
+staxel.tile.happyBlocks.wood.TexturedWood.name=樹皮つき木ブロック
+staxel.tile.happyBlocks.wood.YellowWood.description=
+//[Reference] 'Yellow Wood Block'
+staxel.tile.happyBlocks.wood.YellowWood.name=黄色の木ブロック
+
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.1.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.1.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.2.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.2.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.3.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.3.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.4.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.4.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.5.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.5.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.6.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.6.name=緑色の葉ブロック
+//[Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.7.description=ヘルシーで明るい緑色の葉。
+//[Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.7.name=緑色の葉ブロック
+//[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
+staxel.tile.leaves.Leaf.Fairy.description=フェアリーバイオームで育った葉。ソフトピンク色！
+//[Reference] 'Pink Fairy Leaf Block'
+staxel.tile.leaves.Leaf.Fairy.name=ピンク色のフェアリー葉ブロック
+staxel.tile.leaves.Leaf.Forest.description=
+//[Reference] 'Forest Leaf Block'
+staxel.tile.leaves.Leaf.Forest.name=森の葉ブロック
+
+//[Reference] 'This grass looks dead!'
+staxel.tile.lighthouse.Grass.dry.description=枯れた感じの草！
+//[Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.dry.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.1.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.1.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.2.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.2.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.dry.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.dry.name=長い草
+//[Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.veryLong.description=長く生い茂った草。
+//[Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.veryLong.name=長い草
+//[Reference] 'This block has some engravings carved into it.'
+staxel.tile.lighthouse.Lighthouse.innerWall.description=彫刻の施されたブロック。
+//[Reference] 'Engraved White Brick Block'
+staxel.tile.lighthouse.Lighthouse.innerWall.name=彫刻つき白レンガブロック
+//[Reference] 'A white block with a diamond shape on it.'
+staxel.tile.lighthouse.LighthouseLamp.description=ダイヤモンド型の模様がついた白いブロック。
+//[Reference] 'White Brick Block'
+staxel.tile.lighthouse.LighthouseLamp.name=白色のレンガブロック
+//[Reference] 'A solid metal block'
+staxel.tile.lighthouse.MetalGridFloor.description=硬い金属ブロック。
+//[Reference] 'Metal Grid Block'
+staxel.tile.lighthouse.MetalGridFloor.name=金属製グリッドブロック
+//[Reference] 'A painted red wall'
+staxel.tile.lighthouse.PaintedBrick.red.description=塗装された赤い壁。
+//[Reference] 'Red Painted Brick Block'
+staxel.tile.lighthouse.PaintedBrick.red.name=赤塗りのレンガブロック
+//[Reference] 'A painted white wall'
+staxel.tile.lighthouse.PaintedBrick.white.description=塗装された白い壁。
+//[Reference] 'White Painted Brick Block'
+staxel.tile.lighthouse.PaintedBrick.white.name=白塗りのレンガブロック
+//[Reference] 'A small stone. Very common.'
+staxel.tile.lighthouse.Stone.small.description=小さな石。いたって普通の石。
+//[Reference] 'Small Stone'
+staxel.tile.lighthouse.Stone.small.name=小石
+staxel.tile.mushroomIsland.MushroomRedHat.description=
+//[Reference] 'Mushroom Block - Red Hat'
+staxel.tile.mushroomIsland.MushroomRedHat.name=キノコブロック（赤いぼうし）
+staxel.tile.mushroomIsland.MushroomSpot.description=
+//[Reference] 'Mushroom Block - Spotty'
+staxel.tile.mushroomIsland.MushroomSpot.name=キノコブロック（ぶち）
+staxel.tile.mushroomIsland.MushroomUnderside.description=
+//[Reference] 'Mushroom Block - Underside'
+staxel.tile.mushroomIsland.MushroomUnderside.name=キノコブロック（下のほう）
+staxel.tile.mushroomIsland.MyceliumGrass.description=
+//[Reference] 'Mycelium Grass Block'
+staxel.tile.mushroomIsland.MyceliumGrass.name=菌糸体の草ブロック
+
+//[Reference] 'A rough cobblestone block, great for outdoor pathing.'
+staxel.tile.newVillage.CobbleStonePath.description=屋外の道路に使えるゴツゴツした丸石ブロック。
+//[Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath.name=丸石の道
+staxel.tile.newVillage.CobbleStonePath2.description=
+//[Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath2.name=丸石の道
+staxel.tile.newVillage.CobbleStonePath3.description=
+//[Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath3.name=丸石の道
+staxel.tile.newVillage.CobbleStonePath4.description=
+//[Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath4.name=丸石の道
+//[Reference] 'A white brick block. Very standard style.'
+staxel.tile.newVillage.Homebrick.description=白いレンガブロック。とても普通なスタイル。
+//[Reference] 'White Brick Block'
+staxel.tile.newVillage.Homebrick.name=白色のレンガブロック
+//[Reference] 'Quality wooden flooring. Made from a light brown wood.'
+staxel.tile.newVillage.IndoorFlooring.description=良質な木材のフローリング。小麦色の材木からできている。
+//[Reference] 'Wooden Plank Flooring'
+staxel.tile.newVillage.IndoorFlooring.name=木材フローリング
+//[Reference] 'A block made from light wooden planks.'
+staxel.tile.newVillage.LightWoodenBlock.description=明るい色の木材で作られたブロック。
+//[Reference] 'Light Wooden Plank Block'
+staxel.tile.newVillage.LightWoodenBlock.name=明るい色の木材ブロック
+//[Reference] 'White floor tile with an elegant design.'
+staxel.tile.newVillage.Pathway.stone.2.description=エレガントなデザインの白い床タイル。
+//[Reference] 'White Brick Pathway'
+staxel.tile.newVillage.Pathway.stone.2.name=白レンガの道
+//[Reference] 'A white floor tile with a simple design.'
+staxel.tile.newVillage.Pathway.stone.description=シンプルなデザインの白い床タイル。
+//[Reference] 'White Brick Pathway'
+staxel.tile.newVillage.Pathway.stone.name=白レンガの道
+//[Reference] 'Very thick and soft. It looks so comfortable, you could probably sleep on it!'
+staxel.tile.newVillage.PinkCarpet.description=とても分厚くてやわらかい。あまりにも心地よくて、この上で寝ることもできそう！
+//[Reference] 'Pink Carpet Flooring'
+staxel.tile.newVillage.PinkCarpet.name=ピンク色のカーペット
+//[Reference] 'A very rough stone pathway which has a rustic charm to it. Great for the outdoors!'
+staxel.tile.newVillage.RoughStonePathway.description=粗造りのワイルドな魅力を感じる、ゴツゴツした石の道。屋外の道に使えそう！
+//[Reference] 'Rough Stone Pathway'
+staxel.tile.newVillage.RoughStonePathway.name=荒い石の道
+//[Reference] 'A crude looking brick block.'
+staxel.tile.newVillage.ShoddyWall.description=粗末な感じのレンガブロック。
+//[Reference] 'Shoddy Brick Block'
+staxel.tile.newVillage.ShoddyWall.name=安っぽいレンガブロック
+staxel.tile.newVillage.ShopFlooring.description=
+//[Reference] 'Shop Flooring'
+staxel.tile.newVillage.ShopFlooring.name=店のフローリング
+staxel.tile.newVillage.ShopRoof.description=
+//[Reference] 'Shop Roof'
+staxel.tile.newVillage.ShopRoof.name=店の屋根
+staxel.tile.newVillage.ShopWall1.description=
+
+//[Reference] 'Blue Shop Wall'
+staxel.tile.newVillage.ShopWall1.name=青色の店の壁
+staxel.tile.newVillage.ShopWall2.description=
+//[Reference] 'Light Blue Shop Wall'
+staxel.tile.newVillage.ShopWall2.name=水色の店の壁
+//[Reference] 'Thatch makes for a great roof!'
+staxel.tile.newVillage.ThatchBlock.description=わらぶきの屋根っていいよね！
+//[Reference] 'Thatch Block'
+staxel.tile.newVillage.ThatchBlock.name=わらブロック
+//[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
+staxel.tile.newVillage.WoodBeamTile.description=分厚い木製の梁。建物の居心地の良さを引き上げてくれる。
+//[Reference] 'Wooden Beam Block'
+staxel.tile.newVillage.WoodBeamTile.name=木製の梁ブロック
+//[Reference] 'A good wooden block to use both outdoors and in!'
+staxel.tile.newVillage.WoodenDecking.description=屋内外どちらでも見栄えのいい木のブロック！
+//[Reference] 'Dark Wooden Plank Flooring'
+staxel.tile.newVillage.WoodenDecking.name=暗色の木材フローリング
+staxel.tile.ocean.OceanTile.description=
+//[Reference] 'Ocean Block'
+staxel.tile.ocean.OceanTile.name=海ブロック
+
+//[Reference] 'A block with a deep black colour. Very mysterious!'
+staxel.tile.retrotest.darkstone.description=とても真っ黒なブロック。すごく不思議な感じ！
+//[Reference] 'Darkstone Block'
+staxel.tile.retrotest.darkstone.name=ダークストーンブロック
+//[Reference] 'A block with a deep black colour. This darkstone block also has a golden trim.'
+staxel.tile.retrotest.darkstone_gold.description=とても真っ黒なブロック。金の飾りがついたダークストーンブロック。
+//[Reference] 'Gold Trimmed Darkstone Block'
+staxel.tile.retrotest.darkstone_gold.name=金の飾りつきダークストーンブロック
+//[Reference] 'A block with a deep black colour. Very mysterious!'
+staxel.tile.retrotest.darkstone_plain.description=とても真っ黒なブロック。すごく不思議な感じ！
+//[Reference] 'Darkstone Block'
+staxel.tile.retrotest.darkstone_plain.name=ダークストーンブロック
+//[Reference] 'A dirt block with a melody symbol engraved on it.'
+staxel.tile.retrotest.dirtmelody.description=音符のシンボルが掘られた土ブロック。
+//[Reference] 'Dirt Melody'
+staxel.tile.retrotest.dirtmelody.name=音符模様の土
+//[Reference] 'A block with an ancient feel to it. Made up from big, brown bricks.'
+staxel.tile.retrotest.dungeon_brown_brick.description=古そうな感じのするブロック。大きな茶色のレンガでできている。
+//[Reference] 'Brown Dungeon Brick Block'
+staxel.tile.retrotest.dungeon_brown_brick.name=茶色地下レンガブロック
+//[Reference] 'A block made up from fine brown bricks.'
+staxel.tile.retrotest.dungeon_brown_cobblestone.description=良質な茶色のレンガでできたブロック。
+//[Reference] 'Brown Cobblestone Block'
+staxel.tile.retrotest.dungeon_brown_cobblestone.name=茶色の丸石ブロック
+//[Reference] 'A shoddy looking pillar.'
+staxel.tile.retrotest.dungeon_brown_pillar.description=安物っぽい感じの柱。
+//[Reference] 'Brown Pillar'
+staxel.tile.retrotest.dungeon_brown_pillar.name=茶色の柱
+//[Reference] 'An old looking blue block. This looks like it would be found in an ancient dungeon.'
+staxel.tile.retrotest.dungeon_floor.description=古そうな感じの青いブロック。まるで古代のダンジョンで見つかりそうな印象。
+//[Reference] 'Blue Cobblestone Block'
+staxel.tile.retrotest.dungeon_floor.name=青色の丸石ブロック
+//[Reference] 'This is a dungeon flooring block. Usually used for underground rooms.'
+staxel.tile.retrotest.dungeon_floor_brick.description=ダンジョンのフローリングブロック。地下室でよく使われる。
+//[Reference] 'Blue Dungeon Brick Block'
+staxel.tile.retrotest.dungeon_floor_brick.name=青色地下レンガブロック
+//[Reference] 'A dungeon flooring block with a skull engraved into it. Could add the perfect touch of spookiness to any room!'
+staxel.tile.retrotest.dungeon_floor_skull.description=骨の模様が彫られたダンジョンのフローリングブロック。どんな部屋でもコワそうな印象を与えられるかも！
+//[Reference] 'Skull Engraved Blue Brick Block'
+staxel.tile.retrotest.dungeon_floor_skull.name=骨模様つきの青色レンガブロック
+//[Reference] 'A shoddy looking pillar.'
+staxel.tile.retrotest.dungeon_pillar_blue.description=安物っぽい感じの柱。
+//[Reference] 'Blue Pillar'
+staxel.tile.retrotest.dungeon_pillar_blue.name=青色の柱
+//[Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
+staxel.tile.retrotest.dungeon_staircase.description=シンプルな小麦色のブロック。地味かもしれないけど、部屋のバランスを整えるのに便利！
+//[Reference] 'Light Brown Brick Block'
+staxel.tile.retrotest.dungeon_staircase.name=小麦色のレンガブロック
+//[Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
+staxel.tile.retrotest.dungeon_staircase_alternate.description=シンプルな小麦色のブロック。地味かもしれないけど、部屋のバランスを整えるのに便利！
+//[Reference] 'Light Brown Brick Block'
+staxel.tile.retrotest.dungeon_staircase_alternate.name=小麦色のレンガブロック
+//[Reference] 'A solid block of liquid.'
+staxel.tile.retrotest.water.description=液体のブロック。
+//[Reference] 'Water Block'
+staxel.tile.retrotest.water.name=水ブロック
+staxel.tile.rock.Basalt.1.description=
+//[Reference] 'Basalt Rock Block'
+staxel.tile.rock.Basalt.1.name=玄武岩ブロック
+staxel.tile.rock.IndestructibleRock.description=
+//[Reference] 'Indestructible Rock Block'
+staxel.tile.rock.IndestructibleRock.name=壊れにくい岩ブロック
+staxel.tile.rock.Limestone.1.description=
+//[Reference] 'Limestone Rock Block'
+staxel.tile.rock.Limestone.1.name=石灰岩の岩ブロック
+staxel.tile.rock.Marble.1.description=
+//[Reference] 'Marble Rock Block'
+staxel.tile.rock.Marble.1.name=大理石の岩ブロック
+
+//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.1.description=強固な石のブロック。採掘して小さな石の塊に砕くことができる。
+//[Reference] 'Stone Block'
+staxel.tile.rock.Rock.1.name=石のブロック
+//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.2.description=強固な石のブロック。採掘して小さな石の塊に砕くことができる。
+//[Reference] 'Stone Block'
+staxel.tile.rock.Rock.2.name=石のブロック
+//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.3.description=強固な石のブロック。採掘して小さな石の塊に砕くことができる。
+//[Reference] 'Stone Block'
+staxel.tile.rock.Rock.3.name=石のブロック
+//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.4.description=強固な石のブロック。採掘して小さな石の塊に砕くことができる。
+//[Reference] 'Stone Block'
+staxel.tile.rock.Rock.4.name=石のブロック
+//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.5.description=強固な石のブロック。採掘して小さな石の塊に砕くことができる。
+//[Reference] 'Mossy Stone Block'
+staxel.tile.rock.Rock.5.name=コケむした石ブロック
+staxel.tile.rock.Rock.snow.1.description=
+//[Reference] 'Snow Covered Stone Block'
+staxel.tile.rock.Rock.snow.1.name=雪に覆われた石ブロック
+
+//[Reference] 'This block is made up of a very fine sand.'
+staxel.tile.sand.Sand.beach.description=サラサラした砂でできたブロック。
+//[Reference] 'Sand Block'
+staxel.tile.sand.Sand.beach.name=砂ブロック
+//[Reference] 'This block is made up of a very fine sand.'
+staxel.tile.sand.Sand.desert.description=サラサラした砂でできたブロック。
+//[Reference] 'Sand Block'
+staxel.tile.sand.Sand.desert.name=砂ブロック
+staxel.tile.Sky.description=
+//[Reference] 'Sky'
+staxel.tile.Sky.name=空
+
+//[Reference] 'A tall pillar with ancient writing carved into it. I wonder what it says?'
+staxel.tile.temple.AztecPillar.description=古代文字が彫られた長い柱。なんて書いてあるのかな？
+//[Reference] 'Aztec Pillar'
+staxel.tile.temple.AztecPillar.name=アステカ風の柱
+//[Reference] 'Can be chopped into the wood resource which is used in crafting.'
+staxel.tile.temple.BasicWood.description=切るとクラフトに使用できる木材資源として利用できる。
+//[Reference] 'Wood Block'
+staxel.tile.temple.BasicWood.name=木ブロック
+//[Reference] 'White stone brick. Seems to be very old!'
+staxel.tile.temple.Brick.description=白い石のブロック。すごく古そうな感じ！
+//[Reference] 'White stone brick which is overgrown with moss. Looks to be incredibly old.'
+staxel.tile.temple.Brick.mossy.description=コケに覆われた白い石のブロック。ものすごく古そう！
+//[Reference] 'Mossy White Aztec Brick Block'
+staxel.tile.temple.Brick.mossy.name=コケむしたアステカ風白レンガブロック
+//[Reference] 'White Aztec Brick Block'
+staxel.tile.temple.Brick.name=アステカ風白レンガブロック
+//[Reference] 'An ancient block with some strange writing carved into it.'
+staxel.tile.temple.InnerWall.description=不思議な文字が彫られた、とても古いブロック。
+//[Reference] 'Aztec Engraving Block'
+staxel.tile.temple.InnerWall.name=アステカ風彫刻ブロック
+//[Reference] 'A very strange leafy block. It's very soft.'
+staxel.tile.temple.LeafyTile.description=とても変わった葉のブロックすごくやわらかい。
+//[Reference] 'Dark Green Leaf Block'
+staxel.tile.temple.LeafyTile.name=濃緑色の葉ブロック
+//[Reference] 'A solid block of liquid.'
+staxel.tile.temple.Water.description=液体のブロック。
+//[Reference] 'Water Block'
+staxel.tile.temple.Water.name=水ブロック
+staxel.tile.treetopVillage.TreetopHouseFlooring.description=
+//[Reference] 'Treetop House Flooring Block'
+staxel.tile.treetopVillage.TreetopHouseFlooring.name=ツリーハウスのフローリングブロック
+staxel.tile.treetopVillage.TreetopHouseWalls.description=
+//[Reference] 'Treetop House Wall Block'
+staxel.tile.treetopVillage.TreetopHouseWalls.name=ツリートップハウスの壁ブロック
+staxel.tile.treetopVillage.WoodenWalkway.description=
+//[Reference] 'Wooden Walkway Block'
+staxel.tile.treetopVillage.WoodenWalkway.name=木の歩道ブロック
+staxel.tile.water.GlowingCaveWater.description=
+//[Reference] 'Glowing Cave Water Block'
+staxel.tile.water.GlowingCaveWater.name=光る洞窟の水ブロック
+staxel.tile.water.PondWater.description=
+
+//[Reference] 'Pond Water'
+staxel.tile.water.PondWater.name=池の水
+
+//[Reference] 'Flooring block made out of wicker. Belongs to the 'Wicker Set'.'
+staxel.tile.wicker.WickerFloorTile.description=枝編み細工のフローリングブロック。「枝編みセット」のひとつ。
+//[Reference] 'Wicker Flooring'
+staxel.tile.wicker.WickerFloorTile.name=枝編みのフローリング
+
+//[Reference] 'Can be chopped into the wood resource which is used in crafting.'
+staxel.tile.wood.BasicWood.description=切るとクラフトに使用できる木材資源として利用できる。
+//[Reference] 'Wood Block'
+staxel.tile.wood.BasicWood.name=木ブロック
+staxel.tile.wood.ForestWood.description=
+//[Reference] 'Forest Wood Block'
+staxel.tile.wood.ForestWood.name=森の木ブロック
+staxel.tile.wood.HardWood.description=
+//[Reference] 'Hard Wood Block'
+staxel.tile.wood.HardWood.name=硬い木のブロック
+staxel.tile.wood.SequoiaWood.description=
+//[Reference] 'Sequoia Wood Block'
+staxel.tile.wood.SequoiaWood.name=セコイアの木のブロック
+//[Reference] 'A quality flooring block of lightly coloured wooden planks.'
+staxel.tile.wood.WoodPlankTile.description=明るい色の木材で作られた良質なフローリングブロック。
+//[Reference] 'White Wooden Plank Flooring'
+staxel.tile.wood.WoodPlankTile.name=白色の木材フローリング
+//[Reference] 'A block of quality wooden planking.'
+staxel.tile.wood.WoodPlankWall.description=良質な木材で作られたブロック。
+//[Reference] 'White Wooden Plank Block'
+staxel.tile.wood.WoodPlankWall.name=白色の木材ブロック

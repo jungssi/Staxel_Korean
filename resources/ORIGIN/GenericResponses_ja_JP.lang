@@ -1,0 +1,10 @@
+﻿//[Reference] 'en-GB'
+language.code=ja-JP
+//[Reference] 'English'
+language=日本語
+//[Reference] '?'
+staxel.village.dialogue.GenericResponses.line:10000100=？
+//[Reference] 'Hm?'
+staxel.village.dialogue.GenericResponses.line:10000200=ん？
+//[Reference] 'Yes?'
+staxel.village.dialogue.GenericResponses.line:10000300=なにか？

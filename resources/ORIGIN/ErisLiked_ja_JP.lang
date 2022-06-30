@@ -1,0 +1,12 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'I really do love searching for bugs, but there's definitely more out there I can do!'
+staxel.village.character.dialogue.ErisLiked.line:10000100=オレは虫取りも大好きだけど、他にも何かできると思うんだ！
+//[Reference] 'I don't think I've reached my full potential yet!'
+staxel.village.character.dialogue.ErisLiked.line:10000200=まだ開花していない才能があるってことだよ！
+//[Reference] 'Those wagons the Murmurs have are pretty cool, right?'
+staxel.village.character.dialogue.ErisLiked.line:10000300=マーマーの奴らが持ってるワゴン、まじヤバいよな！
+//[Reference] 'I've always wanted to have one of my own!'
+staxel.village.character.dialogue.ErisLiked.line:10000400=自分用に1台欲しいって、ずーっと思ってた！
+//[Reference] 'Wouldn't have been much use for bug hunting though...'
+staxel.village.character.dialogue.ErisLiked.line:10000500=ま、虫取りにはイマイチだったけどな…

@@ -1,0 +1,22 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'I'm so happy I moved here'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000100=ここに引っ越してきて本当に良かったよ。
+//[Reference] 'There has never been a dull day here!'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000200=つまらない日なんて一日もないだもん！
+//[Reference] 'I get to see you, ^c:1486b0;Jamie^c:pop; and ^c:1486b0;Rosemary^c:pop; every day!'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000300=君と、^c:1486b0;ジェイミー^c:pop;と、^c:1486b0;ローズマリー^c:pop;に毎日会えるからね！
+//[Reference] 'Oh... did I forgot to tell you...'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000400=そうだ…言い忘れてたけど…
+//[Reference] '^c:1486b0;Jamie^c:pop; has invited me over to his house!'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000500=^c:1486b0;ジェイミー^c:pop;が家に招待してくれたんだ！
+//[Reference] 'That LAN party was a really good idea.'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000600=あのLANパーティはホントにいいアイデアだったよ。
+//[Reference] 'Me and ^c:1486b0;Jamie^c:pop; have been working on building a whole island from scratch!'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000700=僕と^c:1486b0;ジェイミー^c:pop;で、一緒に島を一から作ってるんだ！
+//[Reference] 'You can't see it though ^c:1486b0;{0-playername}^c:pop;... Not until it is finished!'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000800=でも^c:1486b0;{0-playername}^c:pop;にはまだ見せられないよ…完成してからのお楽しみさ！
+//[Reference] '^c:1486b0;Rosemary^c:pop; has been really good to ^c:1486b0;Cinnamon^c:pop;'
+staxel.village.character.dialogue.TomtiBestFriend.line:10000900=^c:1486b0;ローズマリー^c:pop;は^c:1486b0;シナモン^c:pop;をホントによく可愛がってくれてるよ。
+//[Reference] 'I should play them a song on the ^c:1486b0;flute^c:pop; again sometime.'
+staxel.village.character.dialogue.TomtiBestFriend.line:10001000=またいつか^c:1486b0;フルート^c:pop;を演奏してあげないとね。

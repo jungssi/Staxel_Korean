@@ -1,0 +1,88 @@
+﻿language.code=ja-JP
+language=日本語
+//[Reference] 'Well now! ^c:1486b0;{0-playername}^c:pop;! I certainly didn't expect you to show up here!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000100=おやおや！^c:1486b0;{0-playername}^c:pop;じゃないか！まさか君がここまで来てくれるとは思いもしなかったよ！
+//[Reference] 'How have you been?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000200=元気にしていたか？
+//[Reference] 'You there! Yes, you! Speak with me a moment.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000300=そこの君！ちょっと話を聞いてくれないか。
+//[Reference] 'This is most fortuitous timing!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000400=これは運が良い、最高のタイミングだよ！
+//[Reference] 'Of late we have been rather short-staffed around here...'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000500=ここ最近、我々は人手不足に悩まされていてね…
+//[Reference] 'If you were to carry out a few simple tasks, I'm certain we could find a way to reward you suitably...'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000600=少しばかり仕事を頼まれてくれたら、それに見合う礼はさせてもらうつもりだ…
+//[Reference] 'What do you say? Will you help us out?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000700=どうかな？手を貸してくれないかい？
+//[Reference] 'Sure!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000800=喜んで！
+//[Reference] 'Maybe another time.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10000900=またの機会に。
+//[Reference] 'You certainly look to be quite the reliable individual!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001000=君は実に頼りがいがありそうではないか！
+//[Reference] 'Ah. That is rather unfortunate.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001100=おや、それは非常に残念。
+//[Reference] 'Do let me know if you change your mind!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001200=気が変わったら教えてくれ！
+//[Reference] 'Had a change of heart, have you?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001300=やる気になってくれたかい？
+//[Reference] 'Excellent!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001400=そうこなくては！
+//[Reference] 'Now, just to ensure that you know what you're doing, we'll start off with an easy task!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001500=まずは君の腕を確かめておきたいのでな、簡単な作業から始めよう！
+//[Reference] 'If you proceed through the entryway, you should find yourself in the ^c:1486b0;royal gardens^c:pop;.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001600=入り口の通路を抜けると^c:1486b0;王宮の庭^c:pop;に出る。
+//[Reference] 'There should be ^c:d03e37;one particular flower^c:pop; which stands out amongst the rest...'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001700=そこに他の花とは明らかに違う^c:d03e37;特別な花が1輪^c:pop;咲いているんだが…
+//[Reference] 'Bring it to me and we'll talk further!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001800=それを持ってきてくれ。話の続きはその後だ！
+//[Reference] 'Ah, excellent! It has been many a year since someone last showed interest in one of these!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10001900=おお、よくやった！何年も日の目を見なかった代物だよ！
+//[Reference] 'I wonder...could it be...?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002000=そうか…これが…？
+//[Reference] 'Ah, forgive me. Allow me to be frank with you, ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002100=ああ、すまない^c:1486b0;{0-playername}^c:pop;。実をいうとな…
+//[Reference] 'There was a purpose to sending you for this particular flower.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002200=この花を取ってきてもらったのにはワケがあるんだ。
+//[Reference] 'Prior to your arrival, we received a letter informing us that we should endeavour to provide you with...^c:d03e37;certain materials^c:pop;.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002300=君がここへ来る前に、君に^c:d03e37;とある素材^c:pop;を渡せるように用意しておけという手紙を受け取っていてね。
+//[Reference] 'This was one of those two materials.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002400=素材は2つあって、そのうちの1つがその花だ。
+//[Reference] 'I must reiterate, however, that we are indeed rather short-staffed and we would greatly appreciate your cooperation.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002500=繰り返しになるが、この王宮は人手不足でね、君の手を貸してくれると非常にありがたい。
+//[Reference] 'If you could perform but one small task, I would be happy to bequeath the other item unto you.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002600=あと1つ簡単なお願いを聞いてくれたら、残りの素材を喜んで渡すよ。
+//[Reference] 'What say you?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002700=どうかな？
+//[Reference] 'I suppose I don't have a choice.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002800=他に選択肢はなさそうだね。
+//[Reference] 'Remember! There should be but ^c:d03e37;one particular flower^c:pop; which stands out amongst the rest!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10002900=忘れないでくれ！他とは明らかに違う^c:d03e37;特別な花が1輪^c:pop;あるんだ！
+//[Reference] 'Make sure you bring the correct one!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003000=正しい花を持ってくるんだぞ！
+//[Reference] 'Well... You could certainly see it that way!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003100=うむ…君は実に良い判断をしているな！
+//[Reference] 'You need only bring me some of those...what were they called again?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003200=それで、持ってきてほしいのは…はて、名前は何だったかな？
+//[Reference] 'Ah, yes! ^c:d03e37;Starbits^c:pop;! We don't see them around here very often.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003300=おお、そうだ！^c:d03e37;スタービット^c:pop;だ！あまりこの辺りでは見かけないな。
+//[Reference] 'Perhaps ^c:d03e37;six^c:pop; or so would do?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003400=^c:d03e37;6個^c:pop;ほど持ってきてくれるかい？
+//[Reference] 'I will be eagerly awaiting your return!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003500=帰ってくるのを楽しみに待っているよ！
+//[Reference] 'Ah, excellent! We'll be able to make good use of these!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003600=おお、ありがたい！大切に使わせてもらうよ！
+//[Reference] 'You'll find the ^c:d03e37;material^c:pop; you need in the tower upstairs.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003700=それで、君が必要とする^c:d03e37;素材^c:pop;は塔を登った先にある。
+//[Reference] 'The doors should be open to you now.'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003800=扉は開いているはずだ。
+//[Reference] 'I believe it was a ^c:d03e37;slipper^c:pop; of some kind?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10003900=^c:d03e37;靴^c:pop;のようなものだった気がするぞ？
+//[Reference] 'How fares your search for ^c:d03e37;starbits^c:pop;?'
+staxel.village.dialogue.PrinceCastlePrimary.line:10004000=^c:d03e37;スタービット^c:pop;探しは順調かい？
+//[Reference] 'We only need around ^c:d03e37;six^c:pop; or so!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10004100=^c:d03e37;6個^c:pop;ほど必要なんだ、頼んだよ！
+//[Reference] 'It was good to have you around, ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10004200=君が来てくれて助かったよ、^c:1486b0;{0-playername}^c:pop;！
+//[Reference] 'Do come and visit again soon!'
+staxel.village.dialogue.PrinceCastlePrimary.line:10004300=是非ともまたすぐに遊びに来てくれ！
