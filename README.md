@@ -1,5 +1,5 @@
 # Staxel_Korean
-스타셀 한글 번역 스크립트
+Staxel 한글 번역 스크립트
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## 한글 패치 적용하기
-1. Release 의 ko-KR 파일을 다운로드 받고, 스타셀 설치 경로의 한글 번역 리소스 경로에 압축을 해제하십시오.
+1. Release 의 ko-KR 파일을 다운로드 받고, 설치 경로의 한글 번역 리소스 경로에 압축을 해제하십시오.
 
 기본 스팀 한글 번역 리소스 경로:
 C:\Program Files (x86)\Steam\steamapps\common\Staxel\content\staxel\StaxelTranslations\ko-KR
