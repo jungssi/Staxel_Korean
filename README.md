@@ -23,6 +23,7 @@ Staxel 한글 번역 스크립트
 1. Release 의 ko-KR 파일을 다운로드 받고, 설치 경로의 한글 번역 리소스 경로에 압축을 해제하십시오.
 
 기본 스팀 한글 번역 리소스 경로:
+
 C:\Program Files (x86)\Steam\steamapps\common\Staxel\content\staxel\StaxelTranslations\ko-KR
 
 ---
@@ -40,14 +41,14 @@ C:\Program Files (x86)\Steam\steamapps\common\Staxel\content\staxel\StaxelTransl
 ## 개발 환경 설정
 
 이 프로젝트는 Windows 10, Python 3.10.5 에서 작성되었습니다.
+
 이 프로젝트 사용자는 Google Cloud Translation API 를 자신의 구글 개발자 아이디로 사용할 수 있는 개발 환경을 갖추고 있어야합니다.
-라이브러리 설치 및 Credentail
 
 1. PyCharm 최신버전을 설치하세요
 2. Clone 받은 프로젝트를 PyCharm 에서 엽니다. venv 환경을 구성합니다.
 
-파이참이 자동으로 환경 구성을 실패한 경우, 
-파이참의 **명령 프롬프트**에서 다음의 명령을 수행하십시오.
+파이참이 자동으로 환경 구성을 실패한 경우, 파이참의 **명령 프롬프트**에서 다음의 명령을 수행하십시오.
+
 ```
 C:\repo\Staxel_Korean>py -m venv venv
 C:\repo\Staxel_Korean>venv\Scripts\activate.bat
